@@ -1,6 +1,8 @@
 import { initializeApp } from 'firebase/app';
-import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, setPersistence, browserLocalPersistence } from 'firebase/auth';
+import { getAuth, GoogleAuthProvider, signInWithPopup, signInWithCredential, signOut, setPersistence, browserLocalPersistence } from 'firebase/auth';
 import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager } from 'firebase/firestore';
+import { Capacitor } from '@capacitor/core';
+import { FirebaseAuthentication } from '@capacitor-firebase/authentication';
 import firebaseConfig from '../../firebase-applet-config.json';
 
 const app = initializeApp(firebaseConfig);
@@ -19,12 +21,22 @@ export const db = initializeFirestore(app, {
 });
 
 export const signInWithGoogle = async () => {
-  const provider = new GoogleAuthProvider();
   try {
-    await signInWithPopup(auth, provider);
+    if (Capacitor.isNativePlatform()) {
+      // Native (Android/iOS): use Capacitor Firebase Auth plugin (no WebView popup)
+      const result = await FirebaseAuthentication.signInWithGoogle();
+      const idToken = result.credential?.idToken;
+      if (!idToken) throw new Error("No idToken returned from native sign-in");
+      const credential = GoogleAuthProvider.credential(idToken);
+      await signInWithCredential(auth, credential);
+    } else {
+      // Web: use signInWithPopup as before
+      const provider = new GoogleAuthProvider();
+      await signInWithPopup(auth, provider);
+    }
   } catch (error: any) {
     console.error("Error signing in with Google:", error);
-    
+
     if (error?.code === 'auth/network-request-failed') {
       alert("로그인 네트워크 요청에 실패했습니다.\n- 브라우저의 '팝업 차단'을 해제해주세요.\n- 광고 차단 프로그램(Ad-blocker)을 일시 중지해주세요.\n- '서드파티 쿠키 차단' 옵션이 켜져있다면 해제해주세요.\n- 우측 상단의 '새 탭에서 열기' 버튼을 눌러 새 창에서 시도해보세요.");
     } else if (error?.code === 'auth/popup-closed-by-user') {
@@ -41,6 +53,9 @@ export const signInWithGoogle = async () => {
 export const logOut = async () => {
   try {
     localStorage.removeItem('toeic_app_cached_auth');
+    if (Capacitor.isNativePlatform()) {
+      await FirebaseAuthentication.signOut();
+    }
     await signOut(auth);
   } catch (error) {
     console.error("Error signing out", error);
