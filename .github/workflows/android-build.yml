@@ -46,6 +46,13 @@ jobs:
       - name: Sync Capacitor Android
         run: npx cap sync android
 
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Regenerate gradle wrapper (fixes corrupted wrapper jar in repo)
+        working-directory: android
+        run: gradle wrapper --gradle-version 8.14.3 --distribution-type all
+
       - name: Make gradlew executable
         run: chmod +x android/gradlew
 
