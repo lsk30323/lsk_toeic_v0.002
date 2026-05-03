@@ -46,8 +46,11 @@ jobs:
       - name: Sync Capacitor Android
         run: npx cap sync android
 
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v4
+      - name: Install Gradle 8.14.3 (direct download to bypass wrapper validation)
+        run: |
+          wget -q https://services.gradle.org/distributions/gradle-8.14.3-bin.zip -O /tmp/gradle.zip
+          unzip -q /tmp/gradle.zip -d /opt/
+          echo "/opt/gradle-8.14.3/bin" >> $GITHUB_PATH
 
       - name: Regenerate gradle wrapper (fixes corrupted wrapper jar in repo)
         working-directory: android
