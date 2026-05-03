@@ -15,10 +15,11 @@ export interface Question {
   imageUrl?: string;
 }
 
+// External CC-licensed images (Pexels) - replaces corrupted local /images/*.png files
 const PART1_PICS = [
-  { url: "/images/toeic_office_worker.png", desc: "A photorealistic image of a man sitting at a desk in an office, working on a laptop." },
-  { url: "/images/toeic_meeting_room.png", desc: "A photorealistic image of an empty modern meeting room with a large table and several chairs." },
-  { url: "/images/toeic_park_walking.png", desc: "A photorealistic image of people walking on a path in a park on a sunny day." }
+  { url: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800", desc: "A photorealistic image of a man sitting at a desk in an office, working on a laptop." },
+  { url: "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=800", desc: "A photorealistic image of an empty modern meeting room with a large table and several chairs." },
+  { url: "https://images.pexels.com/photos/1051826/pexels-photo-1051826.jpeg?auto=compress&cs=tinysrgb&w=800", desc: "A photorealistic image of people walking on a path in a park on a sunny day." }
 ];
 
 export async function generateQuestion(type: "LC" | "RC", subtype?: "PART1" | "PART2" | "PART3" | "PART4" | "PART5" | "PART6" | "PART7" | "RANDOM"): Promise<Question> {
