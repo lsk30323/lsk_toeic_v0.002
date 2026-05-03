@@ -33,7 +33,7 @@ jobs:
         uses: android-actions/setup-android@v3
 
       - name: Install npm dependencies
-        run: npm ci
+        run: npm install --no-audit --prefer-offline
 
       - name: Inject API keys into env
         run: |
@@ -41,6 +41,15 @@ jobs:
           echo "VITE_GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env.local
           echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
           echo "VITE_YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
+
+      - name: Restore google-services.json from secret
+        run: |
+          if [ -n "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" ]; then
+            echo "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" | base64 -d > android/app/google-services.json
+            echo "google-services.json restored ($(wc -c < android/app/google-services.json) bytes)"
+          else
+            echo "GOOGLE_SERVICES_JSON_BASE64 secret not set; Firebase Android Auth will not work"
+          fi
 
       - name: Build web assets (Vite)
         run: npm run build
