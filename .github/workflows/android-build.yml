@@ -35,10 +35,12 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
-      - name: Inject GEMINI_API_KEY into env
+      - name: Inject API keys into env
         run: |
           echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env.local
           echo "VITE_GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env.local
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
+          echo "VITE_YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
 
       - name: Build web assets (Vite)
         run: npm run build
