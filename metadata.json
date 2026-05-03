@@ -1,0 +1,5 @@
+{
+  "name": "TOEIC AI Platform",
+  "description": "An AI-powered TOEIC learning platform with LC/RC practice, dictation, speaking, and spaced repetition.",
+  "requestFramePermissions": ["microphone"]
+}

@@ -1,0 +1,149 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+    
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isDocOwner() {
+      return isAuthenticated() && request.auth.uid == resource.data.userId;
+    }
+    
+    function uidUnchanged() {
+      return !('uid' in request.resource.data) || request.resource.data.uid == request.auth.uid;
+    }
+    
+    function uidNotModified() {
+      return !('uid' in request.resource.data) || request.resource.data.uid == resource.data.uid;
+    }
+    
+    function userIdUnchanged() {
+      return !('userId' in request.resource.data) || request.resource.data.userId == request.auth.uid;
+    }
+    
+    function userIdNotModified() {
+      return !('userId' in request.resource.data) || request.resource.data.userId == resource.data.userId;
+    }
+
+    function hasRequiredFields(fields) {
+      return request.resource.data.keys().hasAll(fields);
+    }
+
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    function isValidString(field, minLen, maxLen) {
+      return request.resource.data[field] is string &&
+             request.resource.data[field].size() >= minLen &&
+             request.resource.data[field].size() <= maxLen;
+    }
+
+    function isValidOptionalString(field, minLen, maxLen) {
+      return !(field in request.resource.data) ||
+             (request.resource.data[field] is string &&
+              request.resource.data[field].size() >= minLen &&
+              request.resource.data[field].size() <= maxLen);
+    }
+
+    // ===============================================================
+    // Domain Validators
+    // ===============================================================
+
+    function isValidUserProfile() {
+      let data = request.resource.data;
+      return hasOnlyAllowedFields(['uid', 'email', 'displayName', 'photoURL', 'totalScore', 'examsTaken', 'createdAt']) &&
+             data.uid is string && data.uid.size() > 0 && data.uid.size() < 100 &&
+             data.email is string && data.email.size() > 0 && data.email.size() < 200 &&
+             isValidOptionalString('displayName', 0, 100) &&
+             isValidOptionalString('photoURL', 0, 1000) &&
+             data.totalScore is number && data.totalScore >= 0 &&
+             data.examsTaken is number && data.examsTaken >= 0 &&
+             data.createdAt is string;
+    }
+
+    function isValidWrongAnswer() {
+      let data = request.resource.data;
+      return hasOnlyAllowedFields(['userId', 'type', 'question', 'script', 'options', 'answer', 'explanation', 'reviewCount', 'easeFactor', 'interval', 'repetition', 'nextReviewDate', 'createdAt']) &&
+             data.userId is string && data.userId.size() > 0 && data.userId.size() < 100 &&
+             data.type in ['LC', 'RC', 'Dictation'] &&
+             data.question is string && data.question.size() > 0 && data.question.size() < 5000 &&
+             isValidOptionalString('script', 0, 5000) &&
+             (!( 'options' in data ) || (data.options is list && data.options.size() <= 10)) &&
+             data.answer is number && data.answer >= 0 &&
+             isValidOptionalString('explanation', 0, 5000) &&
+             data.reviewCount is number && data.reviewCount >= 0 &&
+             (!( 'easeFactor' in data ) || data.easeFactor is number) &&
+             (!( 'interval' in data ) || data.interval is number) &&
+             (!( 'repetition' in data ) || data.repetition is number) &&
+             isValidOptionalString('nextReviewDate', 0, 100) &&
+             data.createdAt is string;
+    }
+
+    function isValidExamResult() {
+      let data = request.resource.data;
+      return hasOnlyAllowedFields(['userId', 'score', 'type', 'createdAt']) &&
+             data.userId is string && data.userId.size() > 0 && data.userId.size() < 100 &&
+             data.score is number && data.score >= 0 && data.score <= 990 &&
+             data.type in ['RealExam', 'Practice'] &&
+             data.createdAt is string;
+    }
+
+    function isValidFlashcard() {
+      let data = request.resource.data;
+      return hasOnlyAllowedFields(['userId', 'front', 'back', 'reviewCount', 'easeFactor', 'interval', 'repetition', 'nextReviewDate', 'createdAt']) &&
+             data.userId is string && data.userId.size() > 0 && data.userId.size() < 100 &&
+             data.front is string && data.front.size() > 0 && data.front.size() < 5000 &&
+             data.back is string && data.back.size() > 0 && data.back.size() < 5000 &&
+             data.reviewCount is number && data.reviewCount >= 0 &&
+             (!( 'easeFactor' in data ) || data.easeFactor is number) &&
+             (!( 'interval' in data ) || data.interval is number) &&
+             (!( 'repetition' in data ) || data.repetition is number) &&
+             data.nextReviewDate is string &&
+             data.createdAt is string;
+    }
+
+    // ===============================================================
+    // Rules
+    // ===============================================================
+
+    match /users/{userId} {
+      // Users can read their own profile, or anyone can read for rankings (but we only store non-sensitive data here if we want public rankings. For now, let's allow public read for rankings, but ensure no sensitive PII is exposed. Wait, email is here. We should restrict read to owner, and use a separate public collection if needed. Let's restrict to owner for safety).
+      allow read: if isOwner(userId);
+      allow create: if isOwner(userId) && isValidUserProfile() && uidUnchanged();
+      allow update: if isOwner(userId) && isValidUserProfile() && uidNotModified() && request.resource.data.createdAt == resource.data.createdAt;
+      allow delete: if false; // Don't allow deletion for now
+    }
+
+    match /wrong_answers/{docId} {
+      allow read: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated() && isValidWrongAnswer() && userIdUnchanged();
+      allow update: if isAuthenticated() && resource.data.userId == request.auth.uid && isValidWrongAnswer() && userIdNotModified() && request.resource.data.createdAt == resource.data.createdAt;
+      allow delete: if isAuthenticated() && resource.data.userId == request.auth.uid;
+    }
+
+    match /exam_results/{docId} {
+      allow read: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated() && isValidExamResult() && userIdUnchanged();
+      allow update: if false; // Exam results should be immutable
+      allow delete: if isAuthenticated() && resource.data.userId == request.auth.uid;
+    }
+
+    match /flashcards/{docId} {
+      allow read: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated() && isValidFlashcard() && userIdUnchanged();
+      allow update: if isAuthenticated() && resource.data.userId == request.auth.uid && isValidFlashcard() && userIdNotModified() && request.resource.data.createdAt == resource.data.createdAt;
+      allow delete: if isAuthenticated() && resource.data.userId == request.auth.uid;
+    }
+  }
+}

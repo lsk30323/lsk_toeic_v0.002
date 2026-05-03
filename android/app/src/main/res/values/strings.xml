@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ToeicApp</string>
+    <string name="title_activity_main">ToeicApp</string>
+    <string name="package_name">com.example.toeicapp</string>
+    <string name="custom_url_scheme">com.example.toeicapp</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.toeicapp",
+	"appName": "ToeicApp",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

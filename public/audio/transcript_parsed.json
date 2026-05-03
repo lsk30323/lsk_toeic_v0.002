@@ -1,0 +1,1303 @@
+[
+  {
+    "part": 1,
+    "question_number": 1,
+    "type": "photograph",
+    "transcript": {
+      "A": "a man is working next to a stack of boxes.",
+      "B": "a man is plugging in some equipment.",
+      "C": "a man is loading boxes onto a cart",
+      "D": "a man is reaching for an item on a shelf."
+    },
+    "answer": ""
+  },
+  {
+    "part": 1,
+    "question_number": 2,
+    "type": "photograph",
+    "transcript": {
+      "A": "she's pushing a cart down a hallway.",
+      "B": "she's looking at information on a screen",
+      "C": "she's placing some papers into a drawer.",
+      "D": "she's sorting some documents. ."
+    },
+    "answer": ""
+  },
+  {
+    "part": 1,
+    "question_number": 3,
+    "type": "photograph",
+    "transcript": {
+      "A": "He's hiking up a hill in the forest",
+      "B": "he's relaxing in a picnic area",
+      "C": "he's studying a sign in a field",
+      "D": "he's mowing a lawn in the garden."
+    },
+    "answer": ""
+  },
+  {
+    "part": 1,
+    "question_number": 4,
+    "type": "photograph",
+    "transcript": {
+      "A": "woman is hanging up a framed picture",
+      "B": "a woman is writing on a note pad",
+      "C": "a whiteboard has been mounted on a wall.",
+      "D": "file folders are being arranged on shelves."
+    },
+    "answer": ""
+  },
+  {
+    "part": 1,
+    "question_number": 5,
+    "type": "photograph",
+    "transcript": {
+      "A": "Some trees are being planted along the road.",
+      "B": "Lane markings had been painted on a roadway.",
+      "C": "Tree branches are being cleared off a walkway.",
+      "D": "Some leaves have been raked into a pile."
+    },
+    "answer": ""
+  },
+  {
+    "part": 1,
+    "question_number": 6,
+    "type": "photograph",
+    "transcript": {
+      "A": "Woman is paying for her purchase.",
+      "C": "Some wooden crates are filled with vegetables.",
+      "D": "Some items are being weighed on a scale."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 7,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Is there a post office nearby?",
+      "A": "2 stamps please",
+      "B": "No I sent it by email",
+      "C": "There's 1 around the corner."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 8,
+    "type": "question_response",
+    "transcript": {
+      "Question": "When will the next interview begin?",
+      "A": "It had an incredible view",
+      "B": "It's scheduled for 4.",
+      "C": "I started working here in June."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 9,
+    "type": "question_response",
+    "transcript": {
+      "Question": "How many client meetings do we have scheduled tomorrow?",
+      "A": "No I wasn't informed.",
+      "B": "I met with him this",
+      "C": "At least 5."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 10,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Are you inspecting the factory on Wednesday or Thursday?",
+      "A": "At the manufacturing plant",
+      "B": "It exceeded our expectations",
+      "C": "Thursday at 9 am."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 11,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Mr Lester is leading the management seminar.",
+      "A": "I haven't read it yet.",
+      "B": "Oh when is it?",
+      "C": "No I can manage myself."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 12,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Are you going to modify the blueprint for the office building?",
+      "A": "I've already made some changes.",
+      "B": "Do you work in this office too?",
+      "C": "I think it would look better in green."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 13,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Why didn't we see Miss Yats at the company outing?",
+      "A": "Yes she's traveling by train.",
+      "B": "Because she had a family event.",
+      "C": "Yes it was held outside."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 14,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Should we give our new recruits the test on company products before or after lunch?",
+      "A": "Yes the results were positive",
+      "B": "Several job opportunities.",
+      "C": "The orientation ends at noon."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 15,
+    "type": "question_response",
+    "transcript": {
+      "Question": "How often do you check your social media accounts?",
+      "A": "We do not accept checks.",
+      "B": "At least once every hour.",
+      "C": "On my laptop"
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 16,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Our company is holding a training workshop for all employees next Monday.",
+      "A": "Oh, I'm taking the day off.",
+      "B": "About 100 workers.",
+      "C": "The shop closes at 5."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 17,
+    "type": "question_response",
+    "transcript": {
+      "Question": "What would you like on your salad?",
+      "A": "The soup also comes recommended.",
+      "B": "Cease the dressing if you have any.",
+      "C": "Yes I found it delicious."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 18,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Where can I pick up an extra company uniform?",
+      "A": "Sure I'll send a replacement.",
+      "B": "From the HR office on the 2 floor.",
+      "C": "You can pick me up any time after 5."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 19,
+    "type": "question_response",
+    "transcript": {
+      "Question": "We should go over our slides before our presentation, shouldn't we?",
+      "A": "The present was from everyone",
+      "B": "I'd prefer to just go for lunch.",
+      "C": "Yes The floor is quite slippery."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 20,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Which of these patients is coming in for an appointment today?",
+      "A": "The 1 20 on that list",
+      "B": "James is known for his patience",
+      "C": "No I don't see the point"
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 21,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Who's available to help me put up the party decorations?",
+      "A": "An annual celebration",
+      "B": "I think Susan has some.",
+      "C": "I appreciate your assistance."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 22,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Wasn't the City Street parade postponed?",
+      "A": "Yes that's where I live.",
+      "B": "Just some resurfacing work",
+      "C": "No it's going ahead as planned."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 23,
+    "type": "question_response",
+    "transcript": {
+      "Question": "When is the retiring manager's last day?",
+      "A": "It has been a tiring week.",
+      "B": "My supervisor is stepping down.",
+      "C": "He decided to extend his contract."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 24,
+    "type": "question_response",
+    "transcript": {
+      "Question": "You used to be a member of that gym, didn't you?",
+      "A": "Yes but the monthly fees increased",
+      "B": "only 50 dollars per month.",
+      "C": "The instructors will show you."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 25,
+    "type": "question_response",
+    "transcript": {
+      "Question": "You should reserve the venue for the awards ceremony soon",
+      "A": "No He wasn't nominated.",
+      "B": "I did that before lunch.",
+      "C": "They serve a wide range of food."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 26,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Isn't the public library closed for remodeling?",
+      "A": "book by my favorite author",
+      "B": "About a 10 minute walk",
+      "C": ""
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 27,
+    "type": "question_response",
+    "transcript": {
+      "Question": ". Shouldn't we invite more shareholders to the product launch?",
+      "A": "No We have limited space",
+      "B": "I'm sorry but I don't have time for lunch.",
+      "C": "By checking the guest list"
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 28,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Did everyone get the memo about our business hours?",
+      "A": "They are all reading it now",
+      "B": "We'll be closing at 4 to day.",
+      "C": "Our business is doing well."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 29,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Why are you asking about my experience with computers?",
+      "A": "Yes it was a valuable experience.",
+      "B": "There's a vacancy in the IT team.",
+      "C": "Would you like to use my laptop?"
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 30,
+    "type": "question_response",
+    "transcript": {
+      "Question": "Hasn't the ballroom flooring been replaced?",
+      "A": "I had the same place in",
+      "B": "The budget wasn't big enough.",
+      "C": "It's a lodge company banquet."
+    },
+    "answer": ""
+  },
+  {
+    "part": 2,
+    "question_number": 31,
+    "type": "question_response",
+    "transcript": {
+      "Question": "I'd like to review your minutes from this morning's meeting.",
+      "A": "For approximately 90 minutes.",
+      "B": "I won't be able to make C. They've been sent out by email."
+    },
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      32,
+      33,
+      34
+    ],
+    "type": "conversation",
+    "introduction": "Questions 32 through 34 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Welcome to the WRO charitable fundraiser. Please check the seating plan here. Can I take a note of the company you work? For sure I'm the founder of Delta Digital, a leading developer of business software. I'm here to give a speech and make a sizable donation to your organization. Oh, we are so happy to have you here. Mister Reid. I have a special VIP welcome packet for you here. It includes some beverage vouchers and an event program."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 32,
+        "question_text": "Test Question 32",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 33,
+        "question_text": "Test Question 33",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 34,
+        "question_text": "Test Question 34",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      35,
+      36,
+      37
+    ],
+    "type": "conversation",
+    "introduction": "Questions 35 through 37 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hello I dropped my mobile phone a few days ago and the screen is cracked. A friend of mine recommended bringing it here to be fixed. Can that be done without an appointment? Yes but I won't be able to look at it until later today. Can you leave the device with me for a few hours? Oh, but I'll need my phone this afternoon. I have to drive out of town for a job interview and I'll need to use the GPs on my phone. I understand well. If you can bring it in at 9 o'clock to Morrow morning, I'll be able to fix it right away."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 35,
+        "question_text": "Test Question 35",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 36,
+        "question_text": "Test Question 36",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 37,
+        "question_text": "Test Question 37",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      38,
+      39,
+      40
+    ],
+    "type": "conversation",
+    "introduction": "Questions 38 through 40 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi Rashida, our supplier just dropped off the new uniforms for your employees. I'm going to bring them over to your branch this afternoon. Thanks Rob and we need to make sure the old uniforms are recycled. It would be very wasteful to just throw them away. Could you find out what our options are? No problem since the old shirts and pants don't feature our company branding, they could maybe be used by other people. Exactly. We could even donate them to a homeless shelter. The 1 on Wells Street might be interested. 1 of us should ask them. Well, I'll be passing Wells Street this afternoon. It's on my way to your branch. That would be ideal."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 38,
+        "question_text": "Test Question 38",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 39,
+        "question_text": "Test Question 39",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 40,
+        "question_text": "Test Question 40",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      41,
+      42,
+      43
+    ],
+    "type": "conversation",
+    "introduction": "Questions 41 through 43 refer to the following conversation with three speakers.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Debby Calvin I'd like to hear your ideas for improving staff morale in our workplace. Well, it's best that we listen to Kelvin's ideas. 1 Since he was successful in motivating staff at his previous job. Well, I feel the best way to boost employee morale is to set targets and rewards. For instance, at this company, we could reward employees who sell a certain number of sofas or dining tables. Great idea. Why don't we start by looking at the sales figures for our 3 seater sofas then we can set a target for staff and announce an attractive bonus."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 41,
+        "question_text": "Test Question 41",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 42,
+        "question_text": "Test Question 42",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 43,
+        "question_text": "Test Question 43",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      44,
+      45,
+      46
+    ],
+    "type": "conversation",
+    "introduction": "Questions 44 through 46 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi, welcome to Lotus Garden. We are excited to launch our new and improved menu this evening. Do you have a reservation? Yes it's under the name Sandra Potter and I booked a table for 4 at 7 PM. Hi Miss Potter, I have good news for you. To celebrate the start of our new menu, we're offering 50 percent of our appetizers and desserts. Wow I noticed your squid starter on social media and I'm tempted but I don't know. I've never tried squid before. Well, we let our diners try samples of our dishes before ordering. I can ask the chef to bring 1 to your table."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 44,
+        "question_text": "Test Question 44",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 45,
+        "question_text": "Test Question 45",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 46,
+        "question_text": "Test Question 46",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      47,
+      48,
+      49
+    ],
+    "type": "conversation",
+    "introduction": "Questions 47 through 49 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hm. I'm afraid your driving license is only for automatic vehicles. You need to have a license for manual cars. Oh, but I only have 1 for automatic vehicles. That's why I hired a car with automatic transmission. You rented a manual car through our website. Really I asked my assistant to make the booking. She may have made a mistake. Well, is there anything you can do for me? We have another branch at the bus terminal downtown and they have automatic vehicles available. I'll transfer your booking over and you can take a taxi there."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 47,
+        "question_text": "Test Question 47",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 48,
+        "question_text": "Test Question 48",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 49,
+        "question_text": "Test Question 49",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      50,
+      51,
+      52
+    ],
+    "type": "conversation",
+    "introduction": "Questions 50 through 52 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi Katy Before we open the agency today, I'm going to add these 15 new properties to our website. I've taken photographs of all the rooms. Okay but we still need to hire an experienced company to start taking pictures of our homes. You're doing a good job but professional photos would look. I know I've already contacted Image Experts, a business that specializes in taking pictures of property. The owner of the business is coming here to meet me at 11 A M. Today. Great I'll join you for that. I want to make sure they offer reasonable rates for their services."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 50,
+        "question_text": "Test Question 50",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 51,
+        "question_text": "Test Question 51",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 52,
+        "question_text": "Test Question 52",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      53,
+      54,
+      55
+    ],
+    "type": "conversation",
+    "introduction": "Questions 53 through 55 refer to the following conversation with 3 speakers.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Thanks for coming out to our company headquarters for this meeting. Yes thank you, Miss Ulson. We really hope you can show us some strategies to make our health food products more visible to potential customers on the Internet. I'm happy to be here. There are several ways to market products online. What did you have in? Well, we've been considering working with popular social media influencers and having them endorse our products. We looked into it though and many of them request high fees. Well, 1 way to lower costs is to provide them with free products or a lifetime discount. Of course, that means you'd need to work with an individual who genuinely likes your products."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 53,
+        "question_text": "Test Question 53",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 54,
+        "question_text": "Test Question 54",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 55,
+        "question_text": "Test Question 55",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      56,
+      57,
+      58
+    ],
+    "type": "conversation",
+    "introduction": "Questions 56 through 58 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi, Maria Can I have a quick chat with you? Of course, is everything okay? Well, I just came out of the board meeting and we have decided to relocate our company to a larger workspace in the downtown area. Oh really Yes we'll be hiring more staff and taking on new clients so we need more space. It means we'll probably close the office this Friday while we move. Okay but that's the final day of our pay period. If we close, I might not be able to hit my sales target. I understand we are going to lower the target this month to help all staff so just work as hard as you can to reach it by Thursday."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 56,
+        "question_text": "Test Question 56",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 57,
+        "question_text": "Test Question 57",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 58,
+        "question_text": "Test Question 58",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 3,
+    "question_numbers": [
+      59,
+      60,
+      61
+    ],
+    "type": "conversation",
+    "introduction": "Questions 59 through 61 refer to the following conversation.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Good afternoon my name is EVA and I'm the Storem manager. Can I help you with anything? Yes I recently started working at a local kindergarten and I want to buy some art supplies to use in class. A friend recommended Art Hub Supplies but I can't find that brand anywhere. A lot of people have been asking for that brand but you can only buy those items directly through the company's website. They aren't stocked by retailers. Oh, that's a little disappointing To be honest we have lots of products that are at least as good as those items and more affordably priced. Well, I was hoping to get supplies today so I'd be interested. Great I'd be happy to recommend some to you right now."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 59,
+        "question_text": "Test Question 59",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 60,
+        "question_text": "Test Question 60",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 61,
+        "question_text": "Test Question 61",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      71,
+      72,
+      73
+    ],
+    "type": "talk",
+    "introduction": "Questions 71 through 73 refer to the following excerpt from a meeting.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "As you all know, we have found it difficult to break into foreign markets with our clothing ranges. I heard that another sportswear manufacturer overcame this issue by taking on an innovative strategy. They contacted famous sports celebrities in foreign markets and paid them to endorse their products and it had a significant impact on sales. If we had endorsements from a few famous athletes, we could boost our brand recognition overseas. This would be a new approach for us. So I've invited Pamela Shepherd from Global Consulting to our next meeting. Miss Shepherd provides expert advice to businesses on how to market products overseas."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 71,
+        "question_text": "Test Question 71",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 72,
+        "question_text": "Test Question 72",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 73,
+        "question_text": "Test Question 73",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      74,
+      75,
+      76
+    ],
+    "type": "talk",
+    "introduction": "Questions 74 through 76 refer to the following BroadCast Next on WKRO Radio, we have your local news report this morning.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "I'm at Magnolia Park in downtown San Diego, where the Mega Music Festival is due to take place over the next few days. The event was scheduled to begin at 10 M but event organizers have been forced to push back the start time by 3 hours due to heavy rain and strong winds. Thousands of festival goers are waiting in line and many have decided just to go. If there is no improvement in the conditions, the organizers may have to provide ticket refunds. Anyone planning to attend the event can check the event website for regular updates on the situation."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 74,
+        "question_text": "Test Question 74",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 75,
+        "question_text": "Test Question 75",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 76,
+        "question_text": "Test Question 76",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      77,
+      78,
+      79
+    ],
+    "type": "talk",
+    "introduction": "Questions 77 through 79 refer to the following talk.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "It's my pleasure to welcome you all to this online course hosted by Grizzwald Business Institute. I'm Richard Wright and I'll be teaching you how to budget effectively and save money on your household bills, grocery shopping and other things. As you know, this course differs from other similar courses in that it costs nothing for you to join. The only thing we ask is that you make a donation to 1 of our partner charities. If you feel the course has been beneficial to you. Now I'm going to show you some slides that outline the structure of this 4 week course. Please mute your microphones for a few minutes."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 77,
+        "question_text": "Test Question 77",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 78,
+        "question_text": "Test Question 78",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 79,
+        "question_text": "Test Question 79",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      80,
+      81,
+      82
+    ],
+    "type": "talk",
+    "introduction": "Questions 80 through 82 refer to the following excerpt from a meeting.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "But please don't forget that our cinema is hosting the premier of the new Tom Wells movie next Saturday. That means we only have 9 days to make sure everything is prepared. Each of you will be given special formal wear which you must wear that evening. We already have your measurements and you should pick up your suit or dress from the admin office next Tuesday. Many of you have requested a ticket for a friend or family member to attend the event but there is a limited number of tickets. I can't make any promises."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 80,
+        "question_text": "Test Question 80",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 81,
+        "question_text": "Test Question 81",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 82,
+        "question_text": "Test Question 82",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      83,
+      84,
+      85
+    ],
+    "type": "talk",
+    "introduction": "Questions 83 through 85 refer to the following tour information.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi, everyone and welcome to the 3 stop on the tour Petruchy Fountain. I hope you all brought the vouchers I handed out to you on the tour bus. Those can be used to get 50 percent off pizza and gelaatto at a nearby restaurant. After we view the fountain. 1 I'm going to tell you about the interesting method used to sculpt the statues surrounding the fountain. It's hard to believe, but all these statues were carved from 1 huge block of stone in the 1600s. The fountain's condition had deteriorated over the years, but work was completed last month to restore it to its original condition."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 83,
+        "question_text": "Test Question 83",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 84,
+        "question_text": "Test Question 84",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 85,
+        "question_text": "Test Question 85",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      86,
+      87,
+      88
+    ],
+    "type": "talk",
+    "introduction": "Questions 86 through 88 refer to the following excerpt from a meeting.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "It's a pleasure to meet you all this morning. As some of you may know, my name is Tina Moore and I'm the new health and Well being officer here at the manufacturing plant. My job is to ensure that all employees are happy and coping well with the challenges of their jobs. Over the next few weeks, I will be scheduling counseling sessions for each of you in my office at 6 PM. However, if you have normally left for home by that time, the timetable is somewhat flexible. Don't forget that you can reach out to me at any time at Tina Moore at Erdogo Com. All messages will be treated as private and confidential."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 86,
+        "question_text": "Test Question 86",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 87,
+        "question_text": "Test Question 87",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 88,
+        "question_text": "Test Question 88",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      89,
+      90,
+      91
+    ],
+    "type": "talk",
+    "introduction": "Questions 89 through 91 refer to the following telephone message.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Hi BRT We have a slight problem with the software conference this weekend. The person who is supposed to deliver the keynote speech will not be able to attend the event. Mile Stanfort, the CEO of Stanfort Software, has had to pull out at the last minute because he needs to fly to Australia for a family emergency. We cannot make any changes to the schedule as it has already been posted on our website and sent out to all event attendees. So I need you to think of some individuals who may be willing to take Mister Stanford's place and get in contact with them."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 89,
+        "question_text": "Test Question 89",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 90,
+        "question_text": "Test Question 90",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 91,
+        "question_text": "Test Question 91",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      92,
+      93,
+      94
+    ],
+    "type": "talk",
+    "introduction": "Questions 92 through 94 refer to the following talk.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Good afternoon Every 1 I hope you are all enjoying the Active Sports Convention. As the lead product designer at Alpine Pursuits, it is my pleasure to introduce our brand new Model of tent, the Maverick 750. Among all the tents we have produced, we are confident that the Maverick 7 50 will be our most popular yet. 1 thing that makes this Model truly innovative is that it can be completely reversed. This means that you can choose between 2 different colors depending on which 1 you prefer. We have brought along some tents that can change from green to blue and you can get 1 for free to day by completing a survey. Just keep in mind, we could only fit 50 in our booth so head on over after my presentation if you're interested."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 92,
+        "question_text": "Test Question 92",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 93,
+        "question_text": "Test Question 93",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 94,
+        "question_text": "Test Question 94",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  },
+  {
+    "part": 4,
+    "question_numbers": [
+      95,
+      96,
+      97
+    ],
+    "type": "talk",
+    "introduction": "Questions 95 through 97 refer to the following talk and floor plan.",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "I'd like all waiting staff to know that we are welcoming a very special guest this Sunday. Margaret Burrows has been coming to our restaurant regularly since it opened 30 years ago and she will be celebrating her 100th birthday here on Sunday. The party has been arranged by her daughter who has requested the private dining room with 2 round tables. I want all of you to attend to the needs of the guests and make this a truly memorable occasion for everyone. When the guests arrive, remember to offer them a complimentary glass of sparkling wine or a soft drink. And if you have any questions, please let me know."
+      }
+    ],
+    "test_questions": [
+      {
+        "number": 95,
+        "question_text": "Test Question 95",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 96,
+        "question_text": "Test Question 96",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      },
+      {
+        "number": 97,
+        "question_text": "Test Question 97",
+        "options": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        }
+      }
+    ],
+    "answer": ""
+  }
+]

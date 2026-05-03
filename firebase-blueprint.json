@@ -1,0 +1,195 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "User Profile",
+      "description": "Stores user profile information and overall statistics.",
+      "type": "object",
+      "properties": {
+        "uid": {
+          "type": "string",
+          "description": "The user's unique ID."
+        },
+        "email": {
+          "type": "string",
+          "description": "The user's email address."
+        },
+        "displayName": {
+          "type": "string",
+          "description": "The user's display name."
+        },
+        "photoURL": {
+          "type": "string",
+          "description": "The user's profile photo URL."
+        },
+        "totalScore": {
+          "type": "number",
+          "description": "Cumulative score for ranking."
+        },
+        "examsTaken": {
+          "type": "number",
+          "description": "Total number of exams taken."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the profile was created."
+        }
+      },
+      "required": ["uid", "email", "totalScore", "examsTaken", "createdAt"]
+    },
+    "WrongAnswer": {
+      "title": "Wrong Answer",
+      "description": "Stores a question the user got wrong for spaced repetition.",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "The ID of the user who got this wrong."
+        },
+        "type": {
+          "type": "string",
+          "enum": ["LC", "RC", "Dictation"],
+          "description": "The type of question."
+        },
+        "question": {
+          "type": "string",
+          "description": "The question text."
+        },
+        "script": {
+          "type": "string",
+          "description": "The script for LC questions."
+        },
+        "options": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "The multiple choice options."
+        },
+        "answer": {
+          "type": "number",
+          "description": "The index of the correct answer."
+        },
+        "explanation": {
+          "type": "string",
+          "description": "Explanation of the correct answer."
+        },
+        "reviewCount": {
+          "type": "number",
+          "description": "Number of times this has been reviewed."
+        },
+        "easeFactor": {
+          "type": "number",
+          "description": "SM-2 ease factor."
+        },
+        "interval": {
+          "type": "number",
+          "description": "SM-2 interval in days."
+        },
+        "repetition": {
+          "type": "number",
+          "description": "SM-2 repetition count."
+        },
+        "nextReviewDate": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this should be reviewed next (spaced repetition)."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this was added."
+        }
+      },
+      "required": ["userId", "type", "question", "answer", "reviewCount", "createdAt"]
+    },
+    "ExamResult": {
+      "title": "Exam Result",
+      "description": "Stores the result of a completed exam or practice session.",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "The ID of the user."
+        },
+        "score": {
+          "type": "number",
+          "description": "The score achieved."
+        },
+        "type": {
+          "type": "string",
+          "enum": ["RealExam", "Practice"],
+          "description": "The type of session."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the exam was completed."
+        }
+      },
+      "required": ["userId", "score", "type", "createdAt"]
+    },
+    "Flashcard": {
+      "title": "Flashcard",
+      "description": "Stores a flashcard extracted from markdown for spaced repetition.",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "The ID of the user who owns this flashcard."
+        },
+        "front": {
+          "type": "string",
+          "description": "The front of the flashcard (term/question)."
+        },
+        "back": {
+          "type": "string",
+          "description": "The back of the flashcard (definition/answer)."
+        },
+        "reviewCount": {
+          "type": "number",
+          "description": "Number of times this has been reviewed."
+        },
+        "easeFactor": {
+          "type": "number",
+          "description": "SM-2 ease factor."
+        },
+        "interval": {
+          "type": "number",
+          "description": "SM-2 interval in days."
+        },
+        "repetition": {
+          "type": "number",
+          "description": "SM-2 repetition count."
+        },
+        "nextReviewDate": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this should be reviewed next."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this was added."
+        }
+      },
+      "required": ["userId", "front", "back", "reviewCount", "nextReviewDate", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/UserProfile" },
+      "description": "User profiles."
+    },
+    "/wrong_answers/{docId}": {
+      "schema": { "$ref": "#/entities/WrongAnswer" },
+      "description": "Wrong answers for review."
+    },
+    "/exam_results/{docId}": {
+      "schema": { "$ref": "#/entities/ExamResult" },
+      "description": "Exam results history."
+    },
+    "/flashcards/{docId}": {
+      "schema": { "$ref": "#/entities/Flashcard" },
+      "description": "Flashcards for vocabulary review."
+    }
+  }
+}
