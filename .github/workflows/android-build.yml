@@ -7,6 +7,15 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+# Note: ANDROID_DEBUG_KEYSTORE_BASE64 is inlined below intentionally.
+# Debug keystores are NOT security-sensitive (they can be extracted from any
+# debug APK). The corresponding SHA-1/SHA-256 are registered in Firebase
+# Console for OAuth on this Android app. Replace with a real release keystore
+# (stored as a GitHub Secret) before publishing the app.
+
+env:
+  ANDROID_DEBUG_KEYSTORE_BASE64: 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
+
 jobs:
   build:
     name: Build debug APK
@@ -31,16 +40,17 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
-      - name: Restore stable debug keystore from secret
+      - name: Restore stable debug keystore
         run: |
           mkdir -p ~/.android
-          if [ -n "${{ secrets.ANDROID_DEBUG_KEYSTORE_BASE64 }}" ]; then
-            echo "${{ secrets.ANDROID_DEBUG_KEYSTORE_BASE64 }}" | base64 -d > ~/.android/debug.keystore
-            echo "Restored stable debug.keystore ($(wc -c < ~/.android/debug.keystore) bytes)"
-            keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android 2>/dev/null | grep -E "SHA1|SHA256" || true
-          else
-            echo "ANDROID_DEBUG_KEYSTORE_BASE64 secret not set; Gradle will auto-generate ephemeral keystore"
+          echo "$ANDROID_DEBUG_KEYSTORE_BASE64" | base64 -d > ~/.android/debug.keystore
+          BYTES=$(wc -c < ~/.android/debug.keystore)
+          echo "Restored stable debug.keystore ($BYTES bytes; expected 2666)"
+          if [ "$BYTES" -ne 2666 ]; then
+            echo "::error::Keystore size mismatch! Got $BYTES bytes, expected 2666." >&2
+            exit 1
           fi
+          keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android | grep -E "SHA1|SHA256"
 
       - name: Install npm dependencies
         run: npm install --no-audit
@@ -91,6 +101,11 @@ jobs:
           echo "apk_path=$APK_PATH" >> $GITHUB_OUTPUT
           echo "Found APK at: $APK_PATH"
           ls -la "$APK_PATH"
+
+      - name: Verify APK signing certificate
+        run: |
+          unzip -p "${{ steps.find_apk.outputs.apk_path }}" META-INF/ANDROIDD.RSA META-INF/CERT.RSA META-INF/*.RSA 2>/dev/null \
+            | keytool -printcert | grep -E "SHA1|SHA256" || echo "(could not extract APK cert)"
 
       - name: Upload APK as artifact
         uses: actions/upload-artifact@v4
