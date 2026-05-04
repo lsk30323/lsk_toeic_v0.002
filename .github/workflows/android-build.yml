@@ -31,6 +31,17 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
+      - name: Restore stable debug keystore from secret
+        run: |
+          mkdir -p ~/.android
+          if [ -n "${{ secrets.ANDROID_DEBUG_KEYSTORE_BASE64 }}" ]; then
+            echo "${{ secrets.ANDROID_DEBUG_KEYSTORE_BASE64 }}" | base64 -d > ~/.android/debug.keystore
+            echo "Restored stable debug.keystore ($(wc -c < ~/.android/debug.keystore) bytes)"
+            keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android 2>/dev/null | grep -E "SHA1|SHA256" || true
+          else
+            echo "ANDROID_DEBUG_KEYSTORE_BASE64 secret not set; Gradle will auto-generate ephemeral keystore"
+          fi
+
       - name: Install npm dependencies
         run: npm install --no-audit
 
