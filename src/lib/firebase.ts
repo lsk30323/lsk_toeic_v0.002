@@ -21,6 +21,9 @@ export const db = initializeFirestore(app, {
 });
 
 export const signInWithGoogle = async () => {
+  // [DEBUG] Diagnostic alert to verify which platform branch runs.
+  // Remove this block once the Google sign-in issue is resolved.
+  alert(`[DEBUG] isNative=${Capacitor.isNativePlatform()} platform=${Capacitor.getPlatform()} pluginAvailable=${Capacitor.isPluginAvailable('FirebaseAuthentication')}`);
   try {
     if (Capacitor.isNativePlatform()) {
       // Native (Android/iOS): use Capacitor Firebase Auth plugin (no WebView popup)
@@ -36,16 +39,14 @@ export const signInWithGoogle = async () => {
     }
   } catch (error: any) {
     console.error("Error signing in with Google:", error);
-
     if (error?.code === 'auth/network-request-failed') {
-      alert("로그인 네트워크 요청에 실패했습니다.\n- 브라우저의 '팝업 차단'을 해제해주세요.\n- 광고 차단 프로그램(Ad-blocker)을 일시 중지해주세요.\n- '서드파티 쿠키 차단' 옵션이 켜져있다면 해제해주세요.\n- 우측 상단의 '새 탭에서 열기' 버튼을 눌러 새 창에서 시도해보세요.");
+      alert("\uB85C\uADF8\uC778 \uB124\uD2B8\uC6CC\uD06C \uC694\uCCAD\uC5D0 \uC2E4\uD328\uD588\uC2B5\uB2C8\uB2E4.");
     } else if (error?.code === 'auth/popup-closed-by-user') {
-      // User closed the popup, normally fine to ignore but we can log
       console.warn("Sign-in popup closed by user.");
     } else if (error?.code === 'auth/popup-blocked') {
-      alert("팝업이 차단되었습니다. 주소창 우측에서 팝업 차단을 해제한 뒤 다시 시도해주세요.");
+      alert("\uD31D\uC5C5\uC774 \uCC28\uB2E8\uB418\uC5C8\uC2B5\uB2C8\uB2E4.");
     } else {
-      alert(`로그인 중 오류가 발생했습니다: ${error?.message}`);
+      alert(`\uB85C\uADF8\uC778 \uC911 \uC624\uB958\uAC00 \uBC1C\uC0DD\uD588\uC2B5\uB2C8\uB2E4: ${error?.message}`);
     }
   }
 };
