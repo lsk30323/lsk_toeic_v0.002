@@ -28,6 +28,37 @@ export const db = initializeFirestore(app, {
   databaseId: firebaseConfig.firestoreDatabaseId
 });
 
+import {
+  getAuth,
+  GoogleAuthProvider,
+  OAuthProvider,
+  signInWithPopup,
+  signInWithCredential,
+  signInAnonymously,
+  signOut,
+  setPersistence,
+  browserLocalPersistence,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+} from 'firebase/auth';
+import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager } from 'firebase/firestore';
+import { Capacitor } from '@capacitor/core';
+import { FirebaseAuthentication } from '@capacitor-firebase/authentication';
+import firebaseConfig from '../../firebase-applet-config.json';
+
+const app = initializeApp(firebaseConfig);
+export const auth = getAuth(app);
+
+setPersistence(auth, browserLocalPersistence).catch((error) => {
+  console.error("Auth persistence error:", error);
+});
+
+export const db = initializeFirestore(app, {
+  localCache: persistentLocalCache({ tabManager: persistentMultipleTabManager() }),
+  // @ts-ignore
+  databaseId: firebaseConfig.firestoreDatabaseId
+});
+
 export const signInWithGoogle = async () => {
   try {
     if (Capacitor.isNativePlatform()) {
@@ -42,7 +73,48 @@ export const signInWithGoogle = async () => {
     }
   } catch (error: any) {
     console.error("Error signing in with Google:", error);
-    alert(`Google \uB85C\uADF8\uC778 \uC624\uB958: ${error?.message}`);
+    alert(`Google 로그인 오류: ${error?.message || error?.code}`);
+  }
+};
+
+export const signInWithApple = async () => {
+  try {
+    if (Capacitor.isNativePlatform()) {
+      const result = await FirebaseAuthentication.signInWithApple();
+      const idToken = result.credential?.idToken;
+      const nonce = result.credential?.nonce;
+      if (!idToken) throw new Error("No idToken returned from Apple sign-in");
+      const provider = new OAuthProvider('apple.com');
+      const credential = provider.credential({ idToken, rawNonce: nonce });
+      await signInWithCredential(auth, credential);
+    } else {
+      const provider = new OAuthProvider('apple.com');
+      provider.addScope('email');
+      provider.addScope('name');
+      await signInWithPopup(auth, provider);
+    }
+  } catch (error: any) {
+    console.error("Apple sign-in error:", error);
+    const code = error?.code || '';
+    if (code.includes('operation-not-allowed') || code.includes('admin-restricted')) {
+      alert('Apple 로그인이 비활성화되어 있습니다. Firebase 콘솔에서 Apple 제공업체를 활성화해주세요.');
+    } else {
+      alert(`Apple 로그인 오류: ${error?.message || code}`);
+    }
+  }
+};
+
+export const signInWithGuest = async () => {
+  try {
+    await signInAnonymously(auth);
+  } catch (error: any) {
+    console.error("Guest sign-in error:", error);
+    const code = error?.code || '';
+    if (code === 'auth/admin-restricted-operation' || code === 'auth/operation-not-allowed') {
+      alert('Guest 로그인이 비활성화되어 있습니다. Firebase 콘솔에서 Anonymous 제공업체를 활성화해주세요.');
+    } else {
+      alert(`Guest 로그인 오류: ${error?.message || code}`);
+    }
   }
 };
 
@@ -52,11 +124,11 @@ export const signInWithEmail = async (email: string, password: string) => {
   } catch (error: any) {
     console.error("Email sign-in error:", error);
     const code = error?.code || '';
-    if (code === 'auth/user-not-found') alert('\uD574\uB2F9 \uC774\uBA54\uC77C \uACC4\uC815\uC774 \uC5C6\uC2B5\uB2C8\uB2E4. \uD68C\uC6D0\uAC00\uC785\uC744 \uBA3C\uC800 \uD574\uC8FC\uC138\uC694.');
-    else if (code === 'auth/wrong-password' || code === 'auth/invalid-credential') alert('\uC774\uBA54\uC77C \uB610\uB294 \uBE44\uBC00\uBC88\uD638\uAC00 \uC62C\uBC14\uB974\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.');
-    else if (code === 'auth/invalid-email') alert('\uC774\uBA54\uC77C \uD615\uC2DD\uC774 \uC62C\uBC14\uB974\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.');
-    else if (code === 'auth/too-many-requests') alert('\uB108\uBB34 \uB9CE\uC740 \uC2DC\uB3C4. \uC7A0\uC2DC \uD6C4 \uB2E4\uC2DC \uC2DC\uB3C4\uD574\uC8FC\uC138\uC694.');
-    else alert(`\uB85C\uADF8\uC778 \uC624\uB958: ${error?.message || code}`);
+    if (code === 'auth/user-not-found') alert('해당 이메일 계정이 없습니다. 회원가입을 먼저 해주세요.');
+    else if (code === 'auth/wrong-password' || code === 'auth/invalid-credential') alert('이메일 또는 비밀번호가 올바르지 않습니다.');
+    else if (code === 'auth/invalid-email') alert('이메일 형식이 올바르지 않습니다.');
+    else if (code === 'auth/too-many-requests') alert('너무 많은 시도. 잠시 후 다시 시도해주세요.');
+    else alert(`로그인 오류: ${error?.message || code}`);
   }
 };
 
@@ -66,10 +138,10 @@ export const signUpWithEmail = async (email: string, password: string) => {
   } catch (error: any) {
     console.error("Email sign-up error:", error);
     const code = error?.code || '';
-    if (code === 'auth/email-already-in-use') alert('\uC774\uBBF8 \uC0AC\uC6A9 \uC911\uC778 \uC774\uBA54\uC77C\uC785\uB2C8\uB2E4. \uB85C\uADF8\uC778\uC744 \uC2DC\uB3C4\uD574\uBCF4\uC138\uC694.');
-    else if (code === 'auth/weak-password') alert('\uBE44\uBC00\uBC88\uD638\uB294 6\uC790 \uC774\uC0C1\uC774\uC5B4\uC57C \uD569\uB2C8\uB2E4.');
-    else if (code === 'auth/invalid-email') alert('\uC774\uBA54\uC77C \uD615\uC2DD\uC774 \uC62C\uBC14\uB974\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4.');
-    else alert(`\uD68C\uC6D0\uAC00\uC785 \uC624\uB958: ${error?.message || code}`);
+    if (code === 'auth/email-already-in-use') alert('이미 사용 중인 이메일입니다. 로그인을 시도해보세요.');
+    else if (code === 'auth/weak-password') alert('비밀번호는 6자 이상이어야 합니다.');
+    else if (code === 'auth/invalid-email') alert('이메일 형식이 올바르지 않습니다.');
+    else alert(`회원가입 오류: ${error?.message || code}`);
   }
 };
 
