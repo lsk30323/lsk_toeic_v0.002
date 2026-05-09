@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import { useAuth } from "../contexts/AuthContext";
 import { useTheme } from "../contexts/ThemeContext";
-import { logOut, signInWithGoogle } from "../lib/firebase";
+import { logOut, signInWithGoogle, signInWithEmail, signUpWithEmail } from "../lib/firebase";
 import {
   BookOpen,
   Headphones,
@@ -13,6 +13,7 @@ import {
   LayoutDashboard,
   LogOut,
   LogIn,
+  Mail,
   Menu,
   X,
   Palette,
@@ -27,6 +28,22 @@ export default function Layout() {
   const location = useLocation();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isThemeMenuOpen, setIsThemeMenuOpen] = useState(false);
+  // Email login form state
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [authMode, setAuthMode] = useState<"signIn" | "signUp">("signIn");
+  const handleEmailSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email || !password) {
+      alert("이메일과 비밀번호를 입력해주세요.");
+      return;
+    }
+    if (authMode === "signIn") {
+      signInWithEmail(email, password);
+    } else {
+      signUpWithEmail(email, password);
+    }
+  };
 
   const navItems = [
     { name: "대시보드", path: "/", icon: LayoutDashboard },
@@ -235,14 +252,14 @@ export default function Layout() {
               </button>
             </div>
           ) : (
-            <button
-              onClick={signInWithGoogle}
-              aria-label="Google 계정으로 로그인"
+            <Link
+              to="/"
+              aria-label="로그인 페이지로"
               className="w-full flex items-center justify-center gap-2 px-4 py-2 bg-blue-600 text-white dark:text-gray-900 rounded-lg hover:bg-blue-700 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
             >
               <LogIn className="w-4 h-4" aria-hidden="true" />
-              <span>Google 로그인</span>
-            </button>
+              <span>로그인</span>
+            </Link>
           )}
         </div>
       </aside>
@@ -258,14 +275,44 @@ export default function Layout() {
               <p className="text-sm md:text-base text-gray-600 mb-8 px-4">
                 모든 기능을 사용하려면 로그인해주세요.
               </p>
-              <button
-                onClick={signInWithGoogle}
-                aria-label="Google 계정으로 시작하기"
-                className="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 text-white dark:text-gray-900 rounded-xl hover:bg-blue-700 transition-colors font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+              <form
+                onSubmit={handleEmailSubmit}
+                className="max-w-sm mx-auto flex flex-col gap-3 px-4"
               >
-                <LogIn className="w-5 h-5" aria-hidden="true" />
-                <span>Google 계정으로 시작하기</span>
-              </button>
+                <input
+                  type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  placeholder="이메일"
+                  autoComplete="email"
+                  required
+                  className="w-full px-4 py-3 rounded-xl border border-gray-300 bg-white text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                />
+                <input
+                  type="password"
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  placeholder={authMode === "signUp" ? "비밀번호 (6자 이상)" : "비밀번호"}
+                  autoComplete={authMode === "signUp" ? "new-password" : "current-password"}
+                  required
+                  minLength={6}
+                  className="w-full px-4 py-3 rounded-xl border border-gray-300 bg-white text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                />
+                <button
+                  type="submit"
+                  className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-600 text-white dark:text-gray-900 rounded-xl hover:bg-blue-700 transition-colors font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+                >
+                  <Mail className="w-5 h-5" aria-hidden="true" />
+                  <span>{authMode === "signIn" ? "이메일로 로그인" : "이메일로 회원가입"}</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setAuthMode(authMode === "signIn" ? "signUp" : "signIn")}
+                  className="text-sm text-blue-600 hover:text-blue-700 underline"
+                >
+                  {authMode === "signIn" ? "처음이신가요? 회원가입하기" : "이미 계정이 있으신가요? 로그인하기"}
+                </button>
+              </form>
             </div>
           ) : (
             <React.Suspense fallback={
@@ -311,7 +358,7 @@ export default function Layout() {
           <span className="text-[10px] font-medium">더보기</span>
         </button>
       </nav>
-      {/* Add padding to main content to avoid overlap with bottom nav */}
+      {/* Add padding to main content to avoid overlap with bottom nav> */}
       <div className="md:hidden h-16" />
     </div>
   );
