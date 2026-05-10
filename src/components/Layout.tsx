@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import { useAuth } from "../contexts/AuthContext";
 import { useTheme } from "../contexts/ThemeContext";
-import { logOut, signInWithGoogle, signInWithApple, signInWithGuest, signInWithEmail, signUpWithEmail } from "../lib/firebase";
+import { logOut, signInWithGoogle, signInWithGuest, signInWithEmail, signUpWithEmail, linkAnonymousToGoogle } from "../lib/firebase";
 import {
   BookOpen,
   Headphones,
@@ -14,7 +14,6 @@ import {
   LogOut,
   LogIn,
   Mail,
-  Apple,
   UserCircle,
   ChevronDown,
   ChevronUp,
@@ -244,8 +243,16 @@ export default function Layout() {
                 </div>
                 <div className="text-sm overflow-hidden">
                   <p className="font-medium text-gray-900 truncate">
-                    {user.displayName || "사용자"}
+                    {user.isAnonymous ? "Guest 사용자" : (user.displayName || user.email || "사용자")}
                   </p>
+                  {user.isAnonymous && (
+                    <button
+                      onClick={linkAnonymousToGoogle}
+                      className="mt-1 text-xs text-blue-600 hover:text-blue-700 underline"
+                    >
+                      Google 계정 연결
+                    </button>
+                  )}
                 </div>
               </div>
               <button
@@ -294,15 +301,6 @@ export default function Layout() {
                       <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
                     </svg>
                     <span>Google로 로그인</span>
-                  </button>
-
-                  <button
-                    onClick={signInWithApple}
-                    aria-label="Apple로 로그인"
-                    className="w-full flex items-center justify-center gap-3 px-5 py-3 bg-white text-gray-900 rounded-xl font-medium shadow hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  >
-                    <Apple className="w-5 h-5" aria-hidden="true" />
-                    <span>Apple로 로그인</span>
                   </button>
 
                   <button
