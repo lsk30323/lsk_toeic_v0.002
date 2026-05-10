@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, Outlet, useLocation } from "react-router-dom";
 import { useAuth } from "../contexts/AuthContext";
 import { useTheme } from "../contexts/ThemeContext";
-import { logOut, signInWithGoogle, signInWithGuest, signInWithEmail, signUpWithEmail, linkAnonymousToGoogle } from "../lib/firebase";
+import { logOut, signInWithGoogle, signInWithGuest, signInWithEmail, signUpWithEmail, linkAnonymousToGoogle, linkAnonymousToEmail } from "../lib/firebase";
 import {
   BookOpen,
   Headphones,
@@ -36,6 +36,17 @@ export default function Layout() {
   const [password, setPassword] = useState("");
   const [authMode, setAuthMode] = useState<"signIn" | "signUp">("signIn");
   const [showEmailForm, setShowEmailForm] = useState(false);
+  const [showLinkEmailForm, setShowLinkEmailForm] = useState(false);
+  const [linkEmail, setLinkEmail] = useState("");
+  const [linkPassword, setLinkPassword] = useState("");
+  const handleLinkEmailSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!linkEmail || !linkPassword) {
+      alert("이메일과 비밀번호를 입력해주세요.");
+      return;
+    }
+    linkAnonymousToEmail(linkEmail, linkPassword);
+  };
   const handleEmailSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!email || !password) {
@@ -246,12 +257,49 @@ export default function Layout() {
                     {user.isAnonymous ? "Guest 사용자" : (user.displayName || user.email || "사용자")}
                   </p>
                   {user.isAnonymous && (
-                    <button
-                      onClick={linkAnonymousToGoogle}
-                      className="mt-1 text-xs text-blue-600 hover:text-blue-700 underline"
-                    >
-                      Google 계정 연결
-                    </button>
+                    <div className="mt-1 flex flex-col gap-1">
+                      <button
+                        onClick={linkAnonymousToGoogle}
+                        className="text-xs text-blue-600 hover:text-blue-700 underline text-left"
+                      >
+                        Google 계정 연결
+                      </button>
+                      <button
+                        onClick={() => setShowLinkEmailForm(!showLinkEmailForm)}
+                        className="text-xs text-blue-600 hover:text-blue-700 underline text-left"
+                      >
+                        {showLinkEmailForm ? "이메일 연결 취소" : "이메일 계정 연결"}
+                      </button>
+                      {showLinkEmailForm && (
+                        <form onSubmit={handleLinkEmailSubmit} className="flex flex-col gap-1 mt-1">
+                          <input
+                            type="email"
+                            value={linkEmail}
+                            onChange={(e) => setLinkEmail(e.target.value)}
+                            placeholder="이메일"
+                            autoComplete="email"
+                            required
+                            className="w-full px-2 py-1 text-xs rounded border border-gray-300 bg-white text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-1 focus:ring-blue-500"
+                          />
+                          <input
+                            type="password"
+                            value={linkPassword}
+                            onChange={(e) => setLinkPassword(e.target.value)}
+                            placeholder="비밀번호 (6자 이상)"
+                            autoComplete="new-password"
+                            required
+                            minLength={6}
+                            className="w-full px-2 py-1 text-xs rounded border border-gray-300 bg-white text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-1 focus:ring-blue-500"
+                          />
+                          <button
+                            type="submit"
+                            className="w-full px-2 py-1 text-xs bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors"
+                          >
+                            계정 연결
+                          </button>
+                        </form>
+                      )}
+                    </div>
                   )}
                 </div>
               </div>
@@ -418,3 +466,4 @@ export default function Layout() {
     </div>
   );
 }
+
