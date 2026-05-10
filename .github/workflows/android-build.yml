@@ -53,7 +53,7 @@ jobs:
           keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android | grep -E "SHA1|SHA256"
 
       - name: Install npm dependencies
-        run: npm ci --no-audit --include=dev
+        run: npm install --no-audit
 
       - name: Inject API keys into env
         run: |
