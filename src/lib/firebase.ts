@@ -2,7 +2,6 @@ import { initializeApp } from 'firebase/app';
 import {
   getAuth,
   GoogleAuthProvider,
-  OAuthProvider,
   signInWithPopup,
   signInWithCredential,
   signInAnonymously,
@@ -11,6 +10,8 @@ import {
   browserLocalPersistence,
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
+  linkWithCredential,
+  linkWithPopup,
 } from 'firebase/auth';
 import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager } from 'firebase/firestore';
 import { Capacitor } from '@capacitor/core';
@@ -45,33 +46,6 @@ export const signInWithGoogle = async () => {
   } catch (error: any) {
     console.error("Error signing in with Google:", error);
     alert(`Google 로그인 오류: ${error?.message || error?.code}`);
-  }
-};
-
-export const signInWithApple = async () => {
-  try {
-    if (Capacitor.isNativePlatform()) {
-      const result = await FirebaseAuthentication.signInWithApple();
-      const idToken = result.credential?.idToken;
-      const nonce = result.credential?.nonce;
-      if (!idToken) throw new Error("No idToken returned from Apple sign-in");
-      const provider = new OAuthProvider('apple.com');
-      const credential = provider.credential({ idToken, rawNonce: nonce });
-      await signInWithCredential(auth, credential);
-    } else {
-      const provider = new OAuthProvider('apple.com');
-      provider.addScope('email');
-      provider.addScope('name');
-      await signInWithPopup(auth, provider);
-    }
-  } catch (error: any) {
-    console.error("Apple sign-in error:", error);
-    const code = error?.code || '';
-    if (code.includes('operation-not-allowed') || code.includes('admin-restricted')) {
-      alert('Apple 로그인이 비활성화되어 있습니다. Firebase 콘솔에서 Apple 제공업체를 활성화해주세요.');
-    } else {
-      alert(`Apple 로그인 오류: ${error?.message || code}`);
-    }
   }
 };
 
@@ -113,6 +87,40 @@ export const signUpWithEmail = async (email: string, password: string) => {
     else if (code === 'auth/weak-password') alert('비밀번호는 6자 이상이어야 합니다.');
     else if (code === 'auth/invalid-email') alert('이메일 형식이 올바르지 않습니다.');
     else alert(`회원가입 오류: ${error?.message || code}`);
+  }
+};
+
+// Link the currently anonymous (Guest) account to a Google account.
+// Preserves the user's UID and existing Firestore data.
+export const linkAnonymousToGoogle = async () => {
+  if (!auth.currentUser || !auth.currentUser.isAnonymous) {
+    alert('Guest 사용자만 Google 계정 연결이 가능합니다.');
+    return;
+  }
+  try {
+    if (Capacitor.isNativePlatform()) {
+      // Use the plugin's link API on native — uses a different code path
+      // than signInWithGoogle so it shows an account picker even for first-time users.
+      const result = await FirebaseAuthentication.linkWithGoogle();
+      const idToken = result.credential?.idToken;
+      if (!idToken) throw new Error('No idToken returned from native link');
+      const credential = GoogleAuthProvider.credential(idToken);
+      await linkWithCredential(auth.currentUser, credential);
+    } else {
+      const provider = new GoogleAuthProvider();
+      await linkWithPopup(auth.currentUser, provider);
+    }
+    alert('Google 계정 연결 완료.');
+  } catch (error: any) {
+    console.error('Link to Google error:', error);
+    const code = error?.code || '';
+    if (code === 'auth/credential-already-in-use') {
+      alert('이 Google 계정은 이미 다른 사용자 계정에 연결되어 있습니다.');
+    } else if (code === 'auth/email-already-in-use') {
+      alert('이 이메일은 이미 사용 중입니다.');
+    } else {
+      alert(`Google 계정 연결 오류: ${error?.message || code}`);
+    }
   }
 };
 
