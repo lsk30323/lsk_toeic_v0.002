@@ -12,6 +12,7 @@ import {
   signInWithEmailAndPassword,
   linkWithCredential,
   linkWithPopup,
+  EmailAuthProvider,
 } from 'firebase/auth';
 import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager } from 'firebase/firestore';
 import { Capacitor } from '@capacitor/core';
@@ -124,6 +125,35 @@ export const linkAnonymousToGoogle = async () => {
   }
 };
 
+// Link the currently anonymous (Guest) account to an email/password account.
+// Preserves the user's UID and existing Firestore data.
+// Useful as a fallback when native Google linking hits "No credentials available".
+export const linkAnonymousToEmail = async (email: string, password: string) => {
+  if (!auth.currentUser || !auth.currentUser.isAnonymous) {
+    alert('Guest 사용자만 계정 연결이 가능합니다.');
+    return;
+  }
+  try {
+    const credential = EmailAuthProvider.credential(email, password);
+    await linkWithCredential(auth.currentUser, credential);
+    alert('이메일 계정 연결 완료. 다음번부터 이 이메일과 비밀번호로 로그인할 수 있습니다.');
+  } catch (error: any) {
+    console.error('Link to email error:', error);
+    const code = error?.code || '';
+    if (code === 'auth/email-already-in-use') {
+      alert('이 이메일은 이미 다른 계정에서 사용 중입니다.');
+    } else if (code === 'auth/weak-password') {
+      alert('비밀번호는 6자 이상이어야 합니다.');
+    } else if (code === 'auth/invalid-email') {
+      alert('이메일 형식이 올바르지 않습니다.');
+    } else if (code === 'auth/credential-already-in-use') {
+      alert('이 이메일 자격증명은 이미 사용 중입니다.');
+    } else {
+      alert(`이메일 계정 연결 오류: ${error?.message || code}`);
+    }
+  }
+};
+
 export const logOut = async () => {
   try {
     localStorage.removeItem('toeic_app_cached_auth');
@@ -186,3 +216,4 @@ export function handleFirestoreError(error: unknown, operationType: OperationTyp
   console.error('Firestore Error: ', JSON.stringify(errInfo));
   throw new Error(JSON.stringify(errInfo));
 }
+
