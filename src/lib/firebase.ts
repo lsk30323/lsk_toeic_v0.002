@@ -14,10 +14,12 @@ import {
   linkWithPopup,
   EmailAuthProvider,
 } from 'firebase/auth';
-import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager } from 'firebase/firestore';
+import { initializeFirestore, persistentLocalCache, persistentMultipleTabManager, doc, setDoc, serverTimestamp } from 'firebase/firestore';
 import { Capacitor } from '@capacitor/core';
 import { FirebaseAuthentication } from '@capacitor-firebase/authentication';
 import firebaseConfig from '../../firebase-applet-config.json';
+import { supabase } from './supabase';
+import { Browser } from '@capacitor/browser';
 
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
@@ -32,14 +34,24 @@ export const db = initializeFirestore(app, {
   databaseId: firebaseConfig.firestoreDatabaseId
 });
 
+// Google sign-in via Supabase OAuth (bypasses Android Credential Manager).
+// After Supabase auth completes, a deep link handler bridges to Firebase
+// by creating/keeping an anonymous Firebase user and storing the Google
+// profile (email, name, avatar) in Firestore.
 export const signInWithGoogle = async () => {
   try {
     if (Capacitor.isNativePlatform()) {
-      const result = await FirebaseAuthentication.signInWithGoogle();
-      const idToken = result.credential?.idToken;
-      if (!idToken) throw new Error("No idToken returned from native sign-in");
-      const credential = GoogleAuthProvider.credential(idToken);
-      await signInWithCredential(auth, credential);
+      const { data, error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          redirectTo: 'com.example.toeicapp://login-callback',
+          skipBrowserRedirect: true,
+        },
+      });
+      if (error) throw error;
+      if (!data?.url) throw new Error('No OAuth URL from Supabase');
+      await Browser.open({ url: data.url, presentationStyle: 'popover' });
+      // Flow resumes in handleSupabaseDeepLink (see App entry).
     } else {
       const provider = new GoogleAuthProvider();
       await signInWithPopup(auth, provider);
@@ -47,6 +59,55 @@ export const signInWithGoogle = async () => {
   } catch (error: any) {
     console.error("Error signing in with Google:", error);
     alert(`Google 로그인 오류: ${error?.message || error?.code}`);
+  }
+};
+
+// Called by the app's appUrlOpen deep-link handler when Supabase returns
+// the OAuth callback with access/refresh tokens. Sets the Supabase session,
+// closes the in-app browser, ensures a Firebase user exists, and writes the
+// Google profile into Firestore.
+export const handleSupabaseDeepLink = async (url: string) => {
+  try {
+    const hashOrQuery = url.includes('#') ? url.split('#')[1] : url.split('?')[1] || '';
+    const params = new URLSearchParams(hashOrQuery);
+    const access_token = params.get('access_token');
+    const refresh_token = params.get('refresh_token');
+    if (!access_token || !refresh_token) {
+      console.warn('Deep link missing tokens — ignoring', url);
+      return;
+    }
+    const { data: sessionData, error: sessionError } = await supabase.auth.setSession({
+      access_token,
+      refresh_token,
+    });
+    if (sessionError) throw sessionError;
+    const supabaseUser = sessionData.session?.user;
+    if (!supabaseUser) throw new Error('No Supabase user after setSession');
+
+    try { await Browser.close(); } catch { /* ignore */ }
+
+    // Ensure a Firebase user exists (anonymous). If user is already signed in
+    // (e.g., as Guest), keep their UID so Firestore data is preserved.
+    if (!auth.currentUser) {
+      await signInAnonymously(auth);
+    }
+
+    if (auth.currentUser) {
+      const userDocRef = doc(db, 'users', auth.currentUser.uid);
+      await setDoc(userDocRef, {
+        supabase_user_id: supabaseUser.id,
+        email: supabaseUser.email ?? null,
+        name: (supabaseUser.user_metadata as any)?.full_name ?? null,
+        avatar_url: (supabaseUser.user_metadata as any)?.avatar_url ?? null,
+        provider: 'google',
+        linked_at: serverTimestamp(),
+      }, { merge: true });
+    }
+
+    alert('Google 로그인 완료.');
+  } catch (error: any) {
+    console.error('Supabase deep link handler error:', error);
+    alert(`Google 로그인 처리 오류: ${error?.message || error?.code}`);
   }
 };
 
@@ -93,6 +154,12 @@ export const signUpWithEmail = async (email: string, password: string) => {
 
 // Link the currently anonymous (Guest) account to a Google account.
 // Preserves the user's UID and existing Firestore data.
+// Link the currently anonymous (Guest) Firebase user to a Google account
+// via Supabase OAuth. Since Method A keeps Firebase user anonymous, "linking"
+// here means writing Google profile data to the existing Firebase UID's
+// Firestore document — the UID stays the same so Firestore data is preserved.
+// (The actual implementation routes through signInWithGoogle which checks
+//  auth.currentUser before signing in a new anonymous user.)
 export const linkAnonymousToGoogle = async () => {
   if (!auth.currentUser || !auth.currentUser.isAnonymous) {
     alert('Guest 사용자만 Google 계정 연결이 가능합니다.');
@@ -100,28 +167,26 @@ export const linkAnonymousToGoogle = async () => {
   }
   try {
     if (Capacitor.isNativePlatform()) {
-      // Use the plugin's link API on native — uses a different code path
-      // than signInWithGoogle so it shows an account picker even for first-time users.
-      const result = await FirebaseAuthentication.linkWithGoogle();
-      const idToken = result.credential?.idToken;
-      if (!idToken) throw new Error('No idToken returned from native link');
-      const credential = GoogleAuthProvider.credential(idToken);
-      await linkWithCredential(auth.currentUser, credential);
+      const { data, error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          redirectTo: 'com.example.toeicapp://login-callback',
+          skipBrowserRedirect: true,
+        },
+      });
+      if (error) throw error;
+      if (!data?.url) throw new Error('No OAuth URL from Supabase');
+      await Browser.open({ url: data.url, presentationStyle: 'popover' });
+      // Resumes in handleSupabaseDeepLink — existing anonymous UID is kept,
+      // Google profile is merged into the Firestore user document.
     } else {
       const provider = new GoogleAuthProvider();
       await linkWithPopup(auth.currentUser, provider);
+      alert('Google 계정 연결 완료.');
     }
-    alert('Google 계정 연결 완료.');
   } catch (error: any) {
     console.error('Link to Google error:', error);
-    const code = error?.code || '';
-    if (code === 'auth/credential-already-in-use') {
-      alert('이 Google 계정은 이미 다른 사용자 계정에 연결되어 있습니다.');
-    } else if (code === 'auth/email-already-in-use') {
-      alert('이 이메일은 이미 사용 중입니다.');
-    } else {
-      alert(`Google 계정 연결 오류: ${error?.message || code}`);
-    }
+    alert(`Google 계정 연결 오류: ${error?.message || error?.code}`);
   }
 };
 
@@ -160,6 +225,7 @@ export const logOut = async () => {
     if (Capacitor.isNativePlatform()) {
       await FirebaseAuthentication.signOut();
     }
+    try { await supabase.auth.signOut(); } catch { /* ignore */ }
     await signOut(auth);
   } catch (error) {
     console.error("Error signing out", error);
