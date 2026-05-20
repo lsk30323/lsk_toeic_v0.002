@@ -1,11 +1,12 @@
-import React, { Suspense, lazy } from 'react';
+import React, { Suspense, lazy, useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AuthProvider } from './contexts/AuthContext';
 import { ThemeProvider } from './contexts/ThemeContext';
 import { ErrorBoundary } from './components/ErrorBoundary';
 import Layout from './components/Layout';
+import { App as CapApp } from '@capacitor/app';
+import { handleSupabaseDeepLink } from './lib/firebase';
 
-// 경량화를 위한 Lazy Loading (코드 스플리팅)
 const Dashboard = lazy(() => import('./pages/Dashboard'));
 const Study = lazy(() => import('./pages/Study'));
 const ListeningPlayer = lazy(() => import('./pages/ListeningPlayer'));
@@ -17,6 +18,17 @@ const Voca = lazy(() => import('./pages/Voca'));
 const YoutubePage = lazy(() => import('./pages/Youtube'));
 
 export default function App() {
+  useEffect(() => {
+    const sub = CapApp.addListener('appUrlOpen', (event) => {
+      if (event.url && event.url.startsWith('com.example.toeicapp://login-callback')) {
+        handleSupabaseDeepLink(event.url);
+      }
+    });
+    return () => {
+      sub.then((s) => s.remove()).catch(() => {});
+    };
+  }, []);
+
   return (
     <ErrorBoundary>
       <ThemeProvider>
@@ -51,3 +63,4 @@ export default function App() {
     </ErrorBoundary>
   );
 }
+
