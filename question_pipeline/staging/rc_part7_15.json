@@ -1,0 +1,1298 @@
+[
+  {
+    "passageType": "notice",
+    "passage": "CITY OF RIVERTON — DEPARTMENT OF BUILDINGS\n\nNOTICE TO PERMIT APPLICANTS\n\nEffective July 1, all applications for residential construction permits must be submitted through the city's online portal at riverton.gov/permits. Paper applications will be accepted only by appointment at the City Hall service counter, Room 204. Standard application review takes fifteen business days. Applicants who require faster processing may request expedited review, which is completed within five business days for an additional charge of $150.\n\nPermit fees are calculated at $0.45 per square foot of proposed construction, with a minimum fee of $90. Fees must be paid in full before a permit is issued. Each permit remains valid for 180 days from the date of issuance. A single 90-day extension may be granted if a written request is received before the permit expires; the extension fee is $40.\n\nQuestions may be directed to permits@rivertoncity.gov or 555-0142 during regular business hours.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce changes to the permit application process",
+          "To advertise a new construction company",
+          "To report the closure of City Hall",
+          "To invite residents to a public hearing"
+        ],
+        "answer": 0,
+        "explanation": "공지의 핵심은 7월 1일부터 주거용 건축 허가 신청이 온라인 포털로 제출되어야 한다는 절차 변경 안내입니다. 수수료, 처리 기간, 유효 기간 등 허가 신청 절차 전반에 대한 변경 및 안내가 주된 내용이므로 (A)가 정답입니다. 건설 회사 광고, 시청 폐쇄, 공청회 초대는 본문에 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would the permit fee be for a 1,200-square-foot construction project?",
+        "options": [
+          "$90",
+          "$450",
+          "$540",
+          "$690"
+        ],
+        "answer": 2,
+        "explanation": "허가 수수료는 제곱피트당 $0.45로 계산됩니다. 1,200제곱피트 × $0.45 = $540이며, 이는 최소 수수료 $90을 초과하므로 그대로 적용됩니다. 따라서 (C) $540이 정답입니다. (D) $690은 신속 처리 수수료 $150을 불필요하게 더한 오답 함정입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the maximum total period a permit can remain valid if an extension is approved?",
+        "options": [
+          "90 days",
+          "180 days",
+          "270 days",
+          "360 days"
+        ],
+        "answer": 2,
+        "explanation": "허가는 발급일로부터 180일간 유효하며, 만료 전에 서면 요청을 하면 90일 연장이 한 차례 가능합니다. 따라서 최대 유효 기간은 180일 + 90일 = 270일이므로 (C)가 정답입니다. 날짜 계산이 필요한 문제로, 연장은 단 한 번만 허용된다는 점에 유의해야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about expedited review?",
+        "options": [
+          "It is available only for commercial buildings.",
+          "It costs an extra $150 and takes five business days.",
+          "It requires approval from the city council.",
+          "It is free for online applicants."
+        ],
+        "answer": 1,
+        "explanation": "본문에서 신속 처리(expedited review)는 추가 요금 $150를 내면 영업일 기준 5일 이내에 완료된다고 명시되어 있으므로 (B)가 정답입니다. 상업용 건물 한정, 시의회 승인, 온라인 신청자 무료 혜택에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "CITY OF RIVERTON — APPLICATION RECEIPT\n\nApplication Number: BP-2026-0734\nDate Received: June 3\nApplicant: Marisol Vega, Vega Home Improvements\nProject Address: 88 Calloway Drive\nPermit Type: Residential addition (single story)\nApplication Fee Paid: $310 (credit card)\nAssigned Reviewer: D. Okafor\n\nStatus: INCOMPLETE — ACTION REQUIRED\n\nThe following required document was not included with your application: a site plan showing property boundaries and the location of the proposed addition. The missing document must be uploaded to your applicant account within ten calendar days of the date above. If it is not received by that deadline, the application will be closed and a new application, including a new fee, will be required.\n\nReview of complete applications is expected to finish within fifteen business days of the date all documents are received. You will be notified by e-mail when a decision has been made. Do not begin any construction work until the permit has been issued and posted at the project site.",
+    "questions": [
+      {
+        "question": "What is the applicant asked to do?",
+        "options": [
+          "Pay an additional inspection fee",
+          "Submit a missing site plan",
+          "Schedule a meeting with the reviewer",
+          "Post a permit at the project site"
+        ],
+        "answer": 1,
+        "explanation": "양식의 Status 항목에 INCOMPLETE — ACTION REQUIRED라고 표시되어 있고, 부지 경계와 증축 위치를 보여주는 site plan(배치도)이 누락되어 10일 이내에 업로드해야 한다고 안내하고 있으므로 (B)가 정답입니다. 추가 수수료 납부나 검토자 면담 요청은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By what date must the missing document be submitted?",
+        "options": [
+          "June 10",
+          "June 13",
+          "June 18",
+          "June 24"
+        ],
+        "answer": 1,
+        "explanation": "신청서 접수일이 6월 3일이고, 누락 서류는 접수일로부터 10일(calendar days) 이내에 제출해야 합니다. 6월 3일 + 10일 = 6월 13일이므로 (B)가 정답입니다. 달력일 기준이므로 주말을 제외하지 않는다는 점에 유의해야 하는 날짜 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if the deadline is missed?",
+        "options": [
+          "The fee will be refunded automatically.",
+          "The review period will be extended.",
+          "The application will be closed.",
+          "The reviewer will visit the project site."
+        ],
+        "answer": 2,
+        "explanation": "본문에 기한 내 서류가 접수되지 않으면 신청이 종료(closed)되며, 새로운 신청서와 새로운 수수료가 필요하다고 명시되어 있으므로 (C)가 정답입니다. 수수료 환불이나 검토 기간 연장은 언급되지 않았으며, 오히려 재신청 시 수수료를 다시 내야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about construction work?",
+        "options": [
+          "It may begin as soon as the fee is paid.",
+          "It must not start before the permit is issued.",
+          "It must be completed within fifteen days.",
+          "It will be supervised by D. Okafor."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 허가가 발급되어 현장에 게시되기 전까지는 어떤 공사도 시작하지 말라고 명시하고 있으므로 (B)가 정답입니다. 수수료 납부만으로 착공할 수 있다는 내용은 없으며, 15일은 공사 기한이 아니라 서류 완비 후 심사에 걸리는 기간입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "HARTWELL SAVINGS BANK — IMPORTANT ACCOUNT NOTICE\n\nDear Customers,\n\nBeginning September 1, a $2.00 monthly fee will apply to each checking or savings account that receives a mailed paper statement. Customers who switch to electronic statements will continue to receive their account records at no charge. Electronic statements are posted to online banking on the first business day of each month and are stored for seven years.\n\nThe paper statement fee will be automatically waived for account holders aged 65 or older and for all Premium Advantage account holders. No action is needed for customers in these groups.\n\nTo avoid the fee, log in to online banking, select Statement Preferences, and choose Electronic Delivery by August 25. Customers who enroll by that date will also be entered into a drawing for one of ten $100 gift cards. If you need assistance with enrollment, please visit any branch or call 555-0188.\n\nThank you for banking with Hartwell Savings.",
+    "questions": [
+      {
+        "question": "Why was the notice issued?",
+        "options": [
+          "To announce a fee for mailed paper statements",
+          "To introduce a new savings account product",
+          "To report a change in branch opening hours",
+          "To explain a security breach"
+        ],
+        "answer": 0,
+        "explanation": "공지의 첫 문단에서 9월 1일부터 우편 종이 명세서를 받는 계좌에 월 $2.00 수수료가 부과된다고 안내하고 있으므로 (A)가 정답입니다. 신규 상품 소개, 영업시간 변경, 보안 사고는 본문에 등장하지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a customer pay in paper statement fees over one full year?",
+        "options": [
+          "$2",
+          "$12",
+          "$24",
+          "$48"
+        ],
+        "answer": 2,
+        "explanation": "종이 명세서 수수료는 월 $2.00이므로 1년(12개월) 동안 부과되는 총액은 $2 × 12 = $24입니다. 따라서 (C)가 정답입니다. 월 수수료를 연 단위로 환산하는 간단한 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who will NOT be charged the fee even without changing their preferences?",
+        "options": [
+          "Customers who opened their account this year",
+          "Customers aged 65 or older",
+          "Customers with more than one account",
+          "Customers who visit a branch monthly"
+        ],
+        "answer": 1,
+        "explanation": "본문에 만 65세 이상 계좌 보유자와 Premium Advantage 계좌 보유자는 수수료가 자동 면제되며 별도 조치가 필요 없다고 명시되어 있으므로 (B)가 정답입니다. 신규 고객, 복수 계좌 보유자, 지점 방문 고객에 대한 면제 규정은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What additional benefit is offered to customers who enroll by August 25?",
+        "options": [
+          "A higher interest rate",
+          "A waiver of all banking fees",
+          "Entry into a gift card drawing",
+          "A free safe-deposit box"
+        ],
+        "answer": 2,
+        "explanation": "8월 25일까지 전자 명세서로 전환하는 고객은 $100 상품권 10장 중 하나를 받을 수 있는 추첨에 응모된다고 안내되어 있으므로 (C)가 정답입니다. 금리 인상, 전체 수수료 면제, 무료 대여금고는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Hartwell Savings Bank\n140 Commerce Street, Dalton\n\nJune 5\n\nDear Mr. Reuben Tate,\n\nOur records show that your savings account ending in 4471 has had no deposits, withdrawals, or customer-initiated activity for the past twenty-two months. Under state regulations, an account with no activity for twenty-four consecutive months must be classified as dormant. Dormant accounts are charged a $5.00 monthly maintenance fee, and online access to them is suspended until the account holder visits a branch in person.\n\nFurthermore, if an account remains dormant for an additional twelve months, the bank is required by law to transfer the balance to the state unclaimed property office, after which all claims must be filed with that office rather than with the bank.\n\nKeeping your account active is simple: make a deposit or withdrawal of any amount, or sign in to online banking, by August 15. Any one of these actions will reset the activity record. If you no longer need the account, you may close it at any branch free of charge.\n\nSincerely,\nPriya Raman\nCustomer Accounts Manager",
+    "questions": [
+      {
+        "question": "Why did Ms. Raman write the letter?",
+        "options": [
+          "To warn a customer that his account may become dormant",
+          "To confirm that an account has been closed",
+          "To offer a customer a loan with a low interest rate",
+          "To request repayment of an overdrawn balance"
+        ],
+        "answer": 0,
+        "explanation": "편지의 목적은 22개월간 거래가 없는 계좌가 24개월이 되면 휴면(dormant) 계좌로 분류된다는 사실을 알리고, 8월 15일까지 거래를 하여 이를 방지하도록 안내하는 것입니다. 따라서 (A)가 정답입니다. 계좌 해지 확인, 대출 제안, 마이너스 잔액 상환 요청은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the letter, what happens when an account is classified as dormant?",
+        "options": [
+          "The account is immediately closed.",
+          "A monthly fee is charged and online access is suspended.",
+          "The interest rate is reduced to zero.",
+          "The balance is donated to charity."
+        ],
+        "answer": 1,
+        "explanation": "휴면 계좌로 분류되면 월 $5.00의 관리 수수료가 부과되고, 계좌 소유자가 지점을 직접 방문할 때까지 온라인 접근이 정지된다고 명시되어 있으므로 (B)가 정답입니다. 즉시 해지되거나 잔액이 기부되는 것이 아니며, 금리에 대한 언급도 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How can Mr. Tate prevent his account from becoming dormant?",
+        "options": [
+          "By writing a letter to the state office",
+          "By paying a $5.00 reactivation fee",
+          "By making any transaction or logging in by August 15",
+          "By opening a second account at the bank"
+        ],
+        "answer": 2,
+        "explanation": "편지 후반부에서 8월 15일까지 금액에 상관없이 입금 또는 출금을 하거나 온라인 뱅킹에 로그인하면 활동 기록이 갱신되어 휴면 처리를 막을 수 있다고 안내하고 있으므로 (C)가 정답입니다. 주 정부 기관에 편지를 쓰거나 수수료를 내는 방법은 제시되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What can be inferred about funds transferred to the state unclaimed property office?",
+        "options": [
+          "They can no longer be recovered by the owner.",
+          "They must be claimed through the state office, not the bank.",
+          "They are returned to the bank after one year.",
+          "They earn a higher interest rate."
+        ],
+        "answer": 1,
+        "explanation": "잔액이 주 미수령 재산 관리소(state unclaimed property office)로 이관된 후에는 모든 청구를 은행이 아닌 해당 기관에 제기해야 한다고 명시되어 있습니다. 즉 돈을 영영 찾을 수 없는 것이 아니라 청구 창구가 바뀌는 것이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "GLENFIELD POST OFFICE — SERVICE CHANGES\n\nPlease note the following changes, which take effect Monday, October 6.\n\nPostage rates: The price of a standard first-class stamp will increase from $0.68 to $0.73. The rate for postcards will rise from $0.53 to $0.56. Customers may purchase stamps at current prices until October 5; stamps marked FOREVER remain valid regardless of future rate changes.\n\nCollection times: The final weekday mail collection from the lobby boxes will move from 6:00 P.M. to 5:30 P.M. Saturday collection remains at noon.\n\nWindow hours: Saturday counter service will be shortened to 9:00 A.M.–1:00 P.M. Weekday hours are unchanged.\n\nPassport services: Beginning October 6, passport applications will be accepted by appointment only. Appointments can be booked at glenfieldpost.gov/passport or by calling 555-0119.\n\nWe appreciate your understanding as we adjust our services to current mail volumes.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce the permanent closure of a post office",
+          "To describe several upcoming service changes",
+          "To recruit seasonal postal workers",
+          "To apologize for a delayed shipment"
+        ],
+        "answer": 1,
+        "explanation": "공지는 10월 6일부터 적용되는 우편 요금 인상, 수거 시간 변경, 토요일 창구 시간 단축, 여권 업무 예약제 전환 등 여러 가지 서비스 변경 사항을 안내하고 있으므로 (B)가 정답입니다. 우체국 폐쇄, 직원 채용, 배송 지연 사과는 본문 내용과 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much more will 20 first-class stamps cost at the new rate than at the current rate?",
+        "options": [
+          "$0.05",
+          "$0.50",
+          "$1.00",
+          "$1.45"
+        ],
+        "answer": 2,
+        "explanation": "일반 1종 우표 가격이 $0.68에서 $0.73로 인상되어 장당 $0.05 오릅니다. 20장 기준 인상분은 $0.05 × 20 = $1.00이므로 (C)가 정답입니다. (A)는 1장 기준 인상분, (D)는 새 요금 20장 가격($14.60)과 헷갈리도록 만든 함정과 무관한 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about FOREVER stamps?",
+        "options": [
+          "They will be discontinued on October 6.",
+          "They remain valid even after rates change.",
+          "They can be used only for postcards.",
+          "They must be exchanged for new stamps."
+        ],
+        "answer": 1,
+        "explanation": "본문에서 FOREVER 표시가 있는 우표는 향후 요금 변경과 관계없이 계속 유효하다고 명시하고 있으므로 (B)가 정답입니다. 단종, 엽서 전용, 교환 의무에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, what will customers need to do to apply for a passport after October 6?",
+        "options": [
+          "Visit on a Saturday morning",
+          "Make an appointment in advance",
+          "Pay an additional service fee",
+          "Submit applications by mail only"
+        ],
+        "answer": 1,
+        "explanation": "10월 6일부터 여권 신청은 예약제(by appointment only)로만 접수되며, 웹사이트나 전화로 예약할 수 있다고 안내되어 있으므로 (B)가 정답입니다. 토요일 방문, 추가 수수료, 우편 접수에 대한 요구 사항은 본문에 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Glenfield Post Office\n2 Station Road, Glenfield\n\nJuly 10\n\nDear Box Holder,\n\nOur records indicate that the six-month rental period for Post Office Box 412 will end on July 31. To keep your box without interruption, please renew by July 24. Renewals received between July 25 and July 31 will be processed with a $10 late-handling charge. If no renewal is received by August 10, the box will be closed, the lock will be reset, and any mail addressed to the box will be returned to senders.\n\nRenewal options are as follows: six months for $56 or twelve months for $102. Payment may be made online at glenfieldpost.gov/boxes, at the retail counter during business hours, or by check mailed to the address above. Please write your box number on all payments.\n\nCustomers who renew for twelve months will also receive two months of free package alerts by text message.\n\nThank you for using our box rental service.\n\nCarl Jensen\nRetail Services Supervisor",
+    "questions": [
+      {
+        "question": "Why was the letter sent?",
+        "options": [
+          "To inform a customer that a package has arrived",
+          "To remind a customer to renew a post office box rental",
+          "To announce an increase in box rental prices",
+          "To notify a customer of a change of address"
+        ],
+        "answer": 1,
+        "explanation": "편지는 사서함 412호의 6개월 임대 기간이 7월 31일에 종료되므로 7월 24일까지 갱신할 것을 안내하는 갱신 독려 편지입니다. 따라서 (B)가 정답입니다. 소포 도착 통지, 요금 인상 발표, 주소 변경 통보가 목적이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a customer save by choosing one twelve-month renewal instead of two six-month renewals?",
+        "options": [
+          "$10",
+          "$20",
+          "$46",
+          "$56"
+        ],
+        "answer": 0,
+        "explanation": "6개월 갱신은 $56이므로 두 번 갱신하면 $56 × 2 = $112입니다. 12개월 갱신은 $102이므로 절약액은 $112 − $102 = $10입니다. 따라서 (A)가 정답입니다. 두 요금제를 비교하여 차액을 구하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if no renewal is received by August 10?",
+        "options": [
+          "The rental fee will be doubled.",
+          "The box will be closed and mail returned to senders.",
+          "The mail will be forwarded to the customer's home.",
+          "The box will be assigned a new number."
+        ],
+        "answer": 1,
+        "explanation": "8월 10일까지 갱신이 접수되지 않으면 사서함이 폐쇄되고 자물쇠가 재설정되며, 해당 사서함으로 온 우편물은 발신인에게 반송된다고 명시되어 있으므로 (B)가 정답입니다. 요금 두 배 부과, 자택 전송, 번호 변경은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What extra benefit is offered with a twelve-month renewal?",
+        "options": [
+          "A discount on postage stamps",
+          "A free replacement key",
+          "Two months of free text message package alerts",
+          "Priority counter service"
+        ],
+        "answer": 2,
+        "explanation": "편지 후반부에 12개월 갱신 고객에게는 문자 메시지 소포 알림 서비스 2개월 무료 혜택이 제공된다고 안내되어 있으므로 (C)가 정답입니다. 우표 할인, 무료 열쇠 교체, 창구 우선 서비스는 본문에 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "BAYPORT–CEDAR ISLAND FERRY\nSUMMER SCHEDULE (June 15 – September 7)\n\nDepartures from Bayport Pier: 7:00 A.M., 9:30 A.M., 12:00 noon, 2:30 P.M., 5:00 P.M., 7:30 P.M.\n\nThe crossing takes 40 minutes. Each ferry departs Cedar Island for the return trip 45 minutes after its arrival there.\n\nFares: Adults $9 one way, $16 round trip. Children under 12 travel at half the adult one-way fare. Bicycles may be brought aboard for an additional $3 each. Passengers traveling with vehicles must reserve space at least 24 hours in advance at bayportferry.com, as vehicle capacity is limited to twelve cars per crossing.\n\nNotes: Boarding closes five minutes before departure. The 7:30 P.M. sailing does not operate on Sundays. In the event of severe weather, cancellations are posted on the website by 6:00 A.M. Ticket holders on canceled sailings may rebook free of charge or request a full refund within 30 days.",
+    "questions": [
+      {
+        "question": "What time does the 2:30 P.M. ferry arrive at Cedar Island?",
+        "options": [
+          "3:00 P.M.",
+          "3:10 P.M.",
+          "3:15 P.M.",
+          "3:40 P.M."
+        ],
+        "answer": 1,
+        "explanation": "운항 시간이 40분이므로 오후 2시 30분에 출발한 페리는 2:30 + 40분 = 오후 3시 10분에 시더 아일랜드에 도착합니다. 따라서 (B)가 정답입니다. 출발 시각에 소요 시간을 더하는 시간 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much does an adult save by buying a round-trip ticket instead of two one-way tickets?",
+        "options": [
+          "$1",
+          "$2",
+          "$3",
+          "$7"
+        ],
+        "answer": 1,
+        "explanation": "성인 편도 요금은 $9이므로 편도 두 번이면 $18입니다. 왕복 요금은 $16이므로 절약액은 $18 − $16 = $2입니다. 따라서 (B)가 정답입니다. (C) $3은 자전거 추가 요금과 혼동을 유도하는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must passengers traveling with a vehicle do?",
+        "options": [
+          "Arrive one hour before departure",
+          "Pay double the adult fare",
+          "Reserve space at least 24 hours in advance",
+          "Travel only on weekday sailings"
+        ],
+        "answer": 2,
+        "explanation": "차량 동반 승객은 회당 차량 수용이 12대로 제한되어 있으므로 최소 24시간 전에 웹사이트에서 자리를 예약해야 한다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 1시간 전 도착, 요금 2배, 평일 한정 탑승 조건은 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about canceled sailings?",
+        "options": [
+          "They are announced on the website by 6:00 A.M.",
+          "They are rescheduled to the following Sunday.",
+          "Tickets for them lose all value.",
+          "They occur only in winter."
+        ],
+        "answer": 0,
+        "explanation": "악천후로 인한 결항은 오전 6시까지 웹사이트에 게시되며, 결항 편 승객은 무료 재예약 또는 30일 이내 전액 환불이 가능하다고 안내되어 있습니다. 따라서 (A)가 정답입니다. 표가 무효가 된다는 (C)는 본문 내용과 반대됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "BAYPORT–CEDAR ISLAND FERRY — SERVICE NOTICE\n\nPosted October 20\n\nThe MV Harbor Star will be withdrawn from service from Monday, November 3, through Friday, November 14, for scheduled engine maintenance. During this period, the smaller vessel MV Gull will operate a reduced timetable of four daily crossings: 8:00 A.M., 11:00 A.M., 2:00 P.M., and 5:00 P.M. from Bayport.\n\nPlease note that the MV Gull carries foot passengers and bicycles only; it has no vehicle deck. Customers who need to take a car to Cedar Island during the maintenance period are advised to use the Route 9 bridge, approximately 30 kilometers north of Bayport.\n\nPassengers holding vehicle reservations for the affected dates will be contacted by e-mail and may transfer their booking to another date or receive a full refund. Foot passenger tickets remain valid on the MV Gull without any change.\n\nNormal service with the MV Harbor Star is expected to resume on Saturday, November 15. We apologize for any inconvenience.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To announce a temporary change in ferry service",
+          "To advertise discounted ferry fares",
+          "To introduce a newly built vessel",
+          "To report an accident at the pier"
+        ],
+        "answer": 0,
+        "explanation": "공지는 MV Harbor Star호가 엔진 정비를 위해 11월 3일부터 14일까지 운항을 중단하고, 그동안 대체 선박이 축소 운항한다는 일시적 서비스 변경을 알리는 것이므로 (A)가 정답입니다. 할인 요금, 신규 선박 도입, 사고 보고는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT possible on the MV Gull?",
+        "options": [
+          "Traveling with a bicycle",
+          "Traveling as a foot passenger",
+          "Transporting a car",
+          "Using an existing foot passenger ticket"
+        ],
+        "answer": 2,
+        "explanation": "MV Gull호는 도보 승객과 자전거만 수송할 수 있고 차량 갑판이 없다고 명시되어 있으므로, 자동차 수송이 불가능합니다. 따라서 (C)가 정답입니다. 자전거 동반, 도보 승객 탑승, 기존 도보 승객 표 사용은 모두 가능합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What alternative is suggested for drivers during the maintenance period?",
+        "options": [
+          "Taking an earlier ferry crossing",
+          "Using the Route 9 bridge",
+          "Renting a car on Cedar Island",
+          "Waiting until November 15"
+        ],
+        "answer": 1,
+        "explanation": "정비 기간 중 차량으로 시더 아일랜드에 가야 하는 고객에게는 베이포트에서 북쪽으로 약 30킬로미터 떨어진 Route 9 다리를 이용하라고 권고하고 있으므로 (B)가 정답입니다. 다른 선택지는 본문에서 제안된 대안이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How long will the MV Harbor Star be out of service?",
+        "options": [
+          "About one week",
+          "About twelve days",
+          "About one month",
+          "About three days"
+        ],
+        "answer": 1,
+        "explanation": "운항 중단 기간은 11월 3일 월요일부터 11월 14일 금요일까지로, 두 날짜를 포함하면 총 12일입니다. 따라서 (B)가 정답입니다. 시작일과 종료일을 바탕으로 기간을 계산하는 날짜 산술 문제입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "MAPLEWOOD TERRACE HOMEOWNERS ASSOCIATION\n\nNOTICE OF ANNUAL GENERAL MEETING\n\nAll residents are invited to the annual general meeting on Tuesday, October 12, at 7:00 P.M. in the clubhouse. The agenda includes the annual budget review, election of two board members, a report on landscaping contracts, and a vote on the revised parking policy described below. Light refreshments will be served from 6:30 P.M.\n\nOwners who cannot attend may vote by proxy. Proxy forms are available at the management office and must be returned no later than Friday, October 8.\n\nProposed parking policy (effective November 1 if approved): Guest vehicles parked in the community for more than 48 consecutive hours will require a guest permit displayed on the dashboard. Each unit may request up to two guest permits per month at no charge from the management office. Vehicles without a permit after the 48-hour limit may be towed at the owner's expense. Resident vehicles with valid stickers are not affected by this change.",
+    "questions": [
+      {
+        "question": "What is one purpose of the notice?",
+        "options": [
+          "To invite residents to an annual meeting",
+          "To announce the sale of the clubhouse",
+          "To request payment of overdue fees",
+          "To advertise units available for rent"
+        ],
+        "answer": 0,
+        "explanation": "공지는 10월 12일 화요일 오후 7시에 클럽하우스에서 열리는 연례 총회에 모든 주민을 초대하고 안건을 안내하는 것이 핵심 목적이므로 (A)가 정답입니다. 클럽하우스 매각, 연체료 납부 요청, 임대 광고는 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By when must proxy forms be returned?",
+        "options": [
+          "October 8",
+          "October 12",
+          "November 1",
+          "October 31"
+        ],
+        "answer": 0,
+        "explanation": "총회에 참석할 수 없는 소유주는 위임장(proxy)으로 투표할 수 있으며, 위임장 양식은 늦어도 10월 8일 금요일까지 제출해야 한다고 명시되어 있으므로 (A)가 정답입니다. 10월 12일은 총회 날짜, 11월 1일은 주차 정책 시행 예정일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the proposed policy, when would a guest vehicle need a permit?",
+        "options": [
+          "Immediately upon arrival",
+          "After being parked for more than 48 hours",
+          "Only on weekends",
+          "After receiving two warnings"
+        ],
+        "answer": 1,
+        "explanation": "제안된 주차 정책에 따르면 48시간을 연속으로 초과하여 주차된 방문객 차량은 대시보드에 방문객 허가증을 비치해야 합니다. 따라서 (B)가 정답입니다. 도착 즉시, 주말 한정, 경고 2회 후라는 조건은 본문에 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about resident vehicles?",
+        "options": [
+          "They must be re-registered every month.",
+          "They are limited to two per unit.",
+          "Those with valid stickers are not affected by the change.",
+          "They must park outside the community."
+        ],
+        "answer": 2,
+        "explanation": "공지 마지막 문장에서 유효한 스티커를 부착한 입주민 차량은 이번 정책 변경의 영향을 받지 않는다고 명시하고 있으므로 (C)가 정답입니다. 매월 재등록, 세대당 2대 제한(이는 방문객 허가증 수량), 단지 외부 주차 의무는 사실과 다릅니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Maplewood Terrace Homeowners Association\nManagement Office, Building C\n\nFebruary 10\n\nDear Homeowner,\n\nAt its January meeting, the board approved the full replacement of the roofs on Buildings A and B, which inspectors found to be at the end of their service life. The total contracted cost is $180,000. The association's reserve fund will cover $120,000 of this amount. The remaining $60,000 will be collected through a one-time special assessment divided equally among all 120 units.\n\nAccordingly, each unit owner is responsible for a special assessment of $500. Payment may be made in a single payment due by March 31, or in five monthly installments of $100 each, beginning March 1. Owners choosing installments must complete the enclosed payment plan form and return it to the management office by February 25.\n\nAssessments not paid according to either schedule will accrue a late charge of $15 per month. Questions may be directed to the treasurer at treasurer@maplewoodhoa.org.\n\nSincerely,\nGordon Alves\nBoard President",
+    "questions": [
+      {
+        "question": "Why was the letter written?",
+        "options": [
+          "To announce a special assessment for roof replacement",
+          "To invite owners to inspect the buildings",
+          "To report the hiring of a new treasurer",
+          "To explain an increase in monthly utility costs"
+        ],
+        "answer": 0,
+        "explanation": "편지는 A동과 B동 지붕 교체 공사 비용 중 적립금으로 충당되지 않는 $60,000를 일회성 특별 부과금으로 징수한다는 내용을 알리는 것이므로 (A)가 정답입니다. 건물 점검 초대, 신임 회계 담당자 채용, 공과금 인상은 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How was the $500 per-unit amount calculated?",
+        "options": [
+          "By dividing $180,000 by 120 units",
+          "By dividing $60,000 by 120 units",
+          "By dividing $120,000 by 120 units",
+          "By multiplying $100 by 12 months"
+        ],
+        "answer": 1,
+        "explanation": "총 공사비 $180,000 중 적립금이 $120,000를 부담하고 나머지 $60,000를 120세대가 균등 분담합니다. $60,000 ÷ 120 = $500이므로 (B)가 정답입니다. 전체 공사비나 적립금 분담분을 나누는 (A), (C)는 계산 근거가 잘못된 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must owners do to pay in installments?",
+        "options": [
+          "Pay a $15 enrollment fee",
+          "Return a payment plan form by February 25",
+          "Attend the January board meeting",
+          "Contact the roofing contractor directly"
+        ],
+        "answer": 1,
+        "explanation": "분할 납부를 선택하는 소유주는 동봉된 납부 계획서 양식을 작성하여 2월 25일까지 관리사무소에 제출해야 한다고 명시되어 있으므로 (B)가 정답입니다. 등록비 납부, 이사회 참석, 시공업체 직접 연락은 요구 사항이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When would the final installment payment be due for owners on the installment plan?",
+        "options": [
+          "March 31",
+          "May 1",
+          "July 1",
+          "August 1"
+        ],
+        "answer": 2,
+        "explanation": "분할 납부는 3월 1일부터 매월 $100씩 5회입니다. 즉 3월 1일, 4월 1일, 5월 1일, 6월 1일, 7월 1일에 납부하므로 마지막 회차는 7월 1일입니다. 따라서 (C)가 정답입니다. 시작 월을 포함하여 5개월을 세는 날짜 계산 문제입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "CRESTVIEW COMMUNITY CENTER — BLOOD DRIVE\n\nThe Crestview Community Center, in partnership with Regional Blood Services, will host a blood drive on Friday, May 22, from 10:00 A.M. to 4:00 P.M. in the main hall.\n\nWho can donate: Donors must be at least 17 years old, weigh at least 50 kilograms, and be in general good health. All donors must present a photo ID at check-in. Individuals who donated whole blood within the past eight weeks are not eligible.\n\nHow to participate: Appointments are strongly encouraged and can be booked at regionalblood.org/crestview. Walk-in donors will be accepted as time allows, but those with appointments will be seen first. The entire process, including registration, screening, donation, and rest, takes about one hour.\n\nBefore you arrive: Eat a full meal and drink plenty of water during the 24 hours before donating. Avoid heavy exercise on the day of your appointment.\n\nAs a thank-you, every donor will receive a voucher for a free beverage and snack at the center's café.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To announce a community blood drive",
+          "To recruit volunteers for a clinic",
+          "To advertise a new café menu",
+          "To explain changes to gym membership"
+        ],
+        "answer": 0,
+        "explanation": "공지는 5월 22일 금요일에 커뮤니티 센터에서 열리는 헌혈 행사를 알리고 참여 자격, 신청 방법, 준비 사항을 안내하고 있으므로 (A)가 정답입니다. 자원봉사자 모집, 카페 메뉴 광고, 회원권 변경은 본문의 목적이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT listed as a requirement for donors?",
+        "options": [
+          "Being at least 17 years old",
+          "Weighing at least 50 kilograms",
+          "Presenting a photo ID",
+          "Having donated blood before"
+        ],
+        "answer": 3,
+        "explanation": "헌혈 자격으로 만 17세 이상, 체중 50kg 이상, 전반적 건강 상태 양호, 사진이 있는 신분증 제시가 제시되어 있습니다. 과거 헌혈 경험은 요구 사항이 아니며, 오히려 최근 8주 이내에 전혈 헌혈을 한 사람은 참여할 수 없다고 되어 있으므로 (D)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about walk-in donors?",
+        "options": [
+          "They will not be admitted under any circumstances.",
+          "They may have to wait behind donors with appointments.",
+          "They must arrive before 10:00 A.M.",
+          "They will receive an extra voucher."
+        ],
+        "answer": 1,
+        "explanation": "예약 없이 방문하는 헌혈자도 시간이 허락하는 한 받지만, 예약자가 우선 안내된다고 명시되어 있습니다. 즉 현장 방문자는 예약자보다 기다릴 수 있다는 의미이므로 (B)가 정답입니다. 입장 전면 불가나 추가 상품권 제공은 본문과 다릅니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will every donor receive?",
+        "options": [
+          "A cash payment",
+          "A voucher for a free beverage and snack",
+          "A T-shirt from Regional Blood Services",
+          "A one-day gym pass"
+        ],
+        "answer": 1,
+        "explanation": "공지 마지막 문장에서 모든 헌혈자에게 센터 카페에서 사용할 수 있는 무료 음료 및 간식 교환권을 제공한다고 안내하고 있으므로 (B)가 정답입니다. 현금, 티셔츠, 체육관 이용권은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "REGIONAL BLOOD SERVICES — MOBILE DONATION UNIT\nWEEKLY SCHEDULE (June 1–5)\n\nMonday: Northside Public Library, 9:00 A.M.–1:00 P.M.\nTuesday: Ferndale Shopping Mall (east entrance), 11:00 A.M.–5:00 P.M.\nWednesday: No service — vehicle maintenance\nThursday: Bryce University Student Center, 10:00 A.M.–3:00 P.M.\nFriday: Lakeside Business Park (Building 2 lobby), 8:00 A.M.–12:00 noon\n\nImportant information for donors:\n- Final check-in at every location is 30 minutes before the posted closing time.\n- Photo ID is required for all donors.\n- Appointments may be booked at regionalblood.org/mobile; a limited number of walk-in spots are available each day.\n- Donors at Lakeside Business Park should sign in with building security before proceeding to the lobby.\n- The full schedule is repeated each week through August, except during the week of July 4, when the unit will operate only on Thursday and Friday.",
+    "questions": [
+      {
+        "question": "Where will the mobile unit be on Thursday?",
+        "options": [
+          "Northside Public Library",
+          "Ferndale Shopping Mall",
+          "Bryce University Student Center",
+          "Lakeside Business Park"
+        ],
+        "answer": 2,
+        "explanation": "주간 일정표에 따르면 목요일에는 이동 헌혈 차량이 Bryce University Student Center에서 오전 10시부터 오후 3시까지 운영됩니다. 따라서 (C)가 정답입니다. 일정표에서 요일별 장소를 정확히 찾는 세부 정보 문제입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the latest time a donor can check in at Lakeside Business Park?",
+        "options": [
+          "11:30 A.M.",
+          "12:00 noon",
+          "12:30 P.M.",
+          "8:00 A.M."
+        ],
+        "answer": 0,
+        "explanation": "모든 장소에서 최종 접수는 게시된 마감 시각 30분 전입니다. Lakeside Business Park의 마감은 정오(12:00)이므로 최종 접수 시각은 11:30 A.M.입니다. 따라서 (A)가 정답입니다. 마감 시각에서 30분을 빼는 시간 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why will there be no service on Wednesday?",
+        "options": [
+          "The staff will attend a training session.",
+          "The vehicle will undergo maintenance.",
+          "A public holiday is observed.",
+          "The location is unavailable."
+        ],
+        "answer": 1,
+        "explanation": "일정표의 수요일 항목에 No service — vehicle maintenance라고 명시되어 있어 차량 정비 때문에 운영하지 않는 것을 알 수 있습니다. 따라서 (B)가 정답입니다. 직원 교육, 공휴일, 장소 사용 불가는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must donors at Lakeside Business Park do first?",
+        "options": [
+          "Park in the visitor garage",
+          "Sign in with building security",
+          "Call the donation hotline",
+          "Print their appointment confirmation"
+        ],
+        "answer": 1,
+        "explanation": "안내 사항에 Lakeside Business Park의 헌혈자는 로비로 가기 전에 건물 보안 데스크에서 서명(sign in)해야 한다고 명시되어 있으므로 (B)가 정답입니다. 주차장 이용, 전화, 예약 확인서 출력에 대한 요구는 본문에 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "CITY OF NORWOOD — TRAFFIC ADVISORY\n\nATLAS AVENUE BRIDGE CLOSURE\n\nThe Atlas Avenue bridge over Miller Creek will be closed to all vehicle and pedestrian traffic from Monday, March 3, through Tuesday, April 14, while crews replace the bridge deck. The closure is expected to last six weeks.\n\nDetour: Through traffic should follow the signed detour via Harmon Road and Fifth Street. Drivers should allow an additional 10 to 15 minutes of travel time during peak hours.\n\nPublic transit: Bus Route 22 will be rerouted along the detour for the duration of the project. The stops at Atlas Avenue and Creekside Lane will be temporarily out of service; the nearest alternative stop is at Fifth Street and Grant Avenue.\n\nLocal access: Businesses on Atlas Avenue west of the bridge will remain open, and access to their parking areas will be maintained at all times.\n\nProject updates will be posted weekly at norwood.gov/roads. Residents may sign up for text alerts on the same page.",
+    "questions": [
+      {
+        "question": "How long is the bridge expected to be closed?",
+        "options": [
+          "Two weeks",
+          "Four weeks",
+          "Six weeks",
+          "Eight weeks"
+        ],
+        "answer": 2,
+        "explanation": "공지에서 교량 폐쇄가 3월 3일부터 4월 14일까지이며 약 6주간 지속될 것으로 예상된다고 명시하고 있습니다. 따라서 (C)가 정답입니다. 3월 3일부터 4월 14일까지의 기간을 주 단위로 계산해도 6주가 됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which roads make up the signed detour?",
+        "options": [
+          "Atlas Avenue and Creekside Lane",
+          "Harmon Road and Fifth Street",
+          "Grant Avenue and Miller Creek Road",
+          "Fifth Street and Atlas Avenue"
+        ],
+        "answer": 1,
+        "explanation": "우회로 안내에 따르면 통과 차량은 Harmon Road와 Fifth Street를 경유하는 표지판이 설치된 우회로를 따라야 합니다. 따라서 (B)가 정답입니다. Atlas Avenue와 Creekside Lane은 임시 폐쇄되는 버스 정류장의 위치입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about businesses west of the bridge?",
+        "options": [
+          "They will close during the project.",
+          "They will remain open with parking access maintained.",
+          "They will relocate to Fifth Street.",
+          "They will receive financial compensation."
+        ],
+        "answer": 1,
+        "explanation": "Local access 항목에서 교량 서쪽 Atlas Avenue의 상점들은 계속 영업하며, 주차장 진입로는 항상 유지된다고 명시하고 있으므로 (B)가 정답입니다. 영업 중단, 이전, 보상에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will Bus Route 22 passengers be affected?",
+        "options": [
+          "The route will be suspended entirely.",
+          "Two stops will be temporarily out of service.",
+          "Fares will increase during the project.",
+          "Buses will run only during peak hours."
+        ],
+        "answer": 1,
+        "explanation": "버스 22번 노선은 우회로를 따라 운행되며, Atlas Avenue 정류장과 Creekside Lane 정류장 두 곳이 임시로 운영 중단되고 가장 가까운 대체 정류장이 안내되어 있습니다. 따라서 (B)가 정답입니다. 노선 전면 중단, 요금 인상, 피크 시간 한정 운행은 본문과 다릅니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "CITY OF NORWOOD — NIGHT WORK NOTICE\n\nCOMMERCE BOULEVARD RESURFACING\n\nTo minimize disruption to daytime traffic, Commerce Boulevard between First Street and Ninth Street will be resurfaced at night. Work is scheduled nightly from 9:00 P.M. to 5:00 A.M., beginning Monday, September 8, and ending Friday, September 12.\n\nDuring work hours, one lane will remain open in each direction, and flaggers will direct traffic through the work zone. Drivers should expect brief stops and reduced speed limits.\n\nOn-street parking on Commerce Boulevard will be prohibited from 8:00 P.M. each work night until 6:00 A.M. the following morning. Vehicles left in the work zone will be towed at the owner's expense to the municipal lot at 30 Depot Street.\n\nResidents near the boulevard should expect noise from milling and paving equipment during work hours. If rain prevents paving on any scheduled night, that night's work will be carried out at the same hours during the following week.\n\nFor questions, contact the Public Works Department at 555-0163.",
+    "questions": [
+      {
+        "question": "Why is the work being done at night?",
+        "options": [
+          "To take advantage of cooler temperatures",
+          "To minimize disruption to daytime traffic",
+          "To meet a state funding deadline",
+          "To reduce labor costs"
+        ],
+        "answer": 1,
+        "explanation": "공지 첫 문장에서 주간 교통 혼잡을 최소화하기 위해(To minimize disruption to daytime traffic) 야간에 재포장 공사를 한다고 명시하고 있으므로 (B)가 정답입니다. 기온, 예산 마감, 인건비 절감은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to vehicles parked in the work zone during prohibited hours?",
+        "options": [
+          "They will receive a warning sticker.",
+          "They will be towed at the owner's expense.",
+          "They will be fined but not moved.",
+          "They will be relocated free of charge."
+        ],
+        "answer": 1,
+        "explanation": "작업 구간에 남겨진 차량은 소유주 부담으로 Depot Street 30번지의 시영 주차장으로 견인된다고 명시되어 있으므로 (B)가 정답입니다. 경고 스티커 부착, 벌금만 부과, 무료 이동은 본문과 다릅니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen if rain prevents paving on a scheduled night?",
+        "options": [
+          "The work will be canceled permanently.",
+          "The work will be done during the day instead.",
+          "The work will be rescheduled to the following week.",
+          "The entire project will start over."
+        ],
+        "answer": 2,
+        "explanation": "비로 인해 예정된 야간 작업이 불가능할 경우 그 작업은 다음 주 같은 시간대에 수행된다고 안내되어 있으므로 (C)가 정답입니다. 영구 취소, 주간 작업 전환, 프로젝트 전면 재시작은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can be inferred about residents living near Commerce Boulevard?",
+        "options": [
+          "They will be offered hotel accommodations.",
+          "They may hear equipment noise at night during the project.",
+          "They must move their vehicles to Depot Street themselves.",
+          "They voted to approve the project."
+        ],
+        "answer": 1,
+        "explanation": "공지에서 대로 인근 주민들은 작업 시간 동안 절삭 및 포장 장비 소음이 발생할 수 있음을 예상해야 한다고 안내하고 있습니다. 작업이 밤 9시부터 새벽 5시까지 진행되므로 야간 소음을 들을 수 있다는 (B)가 정답입니다. 호텔 제공이나 주민 투표는 본문에 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Vexor Software, Inc.\n900 Innovation Way, Suite 400\n\nJuly 2\n\nDear Ms. Lena Okoye,\n\nThis letter is to remind you that the annual license for DataSuite Pro (10 user seats) registered to Okoye Logistics will expire on August 31. The standard renewal price for your current configuration is $1,200.\n\nAs a returning customer, you qualify for our early renewal program: renew on or before July 31 and receive a 15 percent discount off the standard price. The discount cannot be combined with other offers and applies only to renewals of the same number of seats.\n\nPlease note what happens if the license is not renewed by August 31: the software will enter a 30-day grace period in read-only mode, during which your team can view existing projects but cannot create or edit files. After the grace period ends, access to the application will be disabled until a new license is purchased at the full first-time price.\n\nAll renewals processed this year include a free upgrade to DataSuite Pro version 8. To renew, visit vexorsoftware.com/renew or call your account manager at 555-0177.\n\nSincerely,\nDaniel Whitfield\nCustomer Renewals Team",
+    "questions": [
+      {
+        "question": "How much would Okoye Logistics pay if it renews by July 31?",
+        "options": [
+          "$1,020",
+          "$1,080",
+          "$1,200",
+          "$180"
+        ],
+        "answer": 0,
+        "explanation": "표준 갱신가가 $1,200이고 7월 31일까지 갱신하면 15% 할인이 적용됩니다. 할인액은 $1,200 × 0.15 = $180이므로 지불 금액은 $1,200 − $180 = $1,020입니다. 따라서 (A)가 정답입니다. (D) $180은 할인액 자체를 묻는 것으로 착각하도록 만든 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen during the 30-day grace period?",
+        "options": [
+          "The software will work normally.",
+          "Users can view projects but cannot create or edit files.",
+          "All saved files will be deleted.",
+          "The license fee will increase weekly."
+        ],
+        "answer": 1,
+        "explanation": "8월 31일까지 갱신하지 않으면 소프트웨어가 30일간 읽기 전용 모드로 전환되어, 기존 프로젝트를 볼 수는 있지만 파일 생성이나 편집은 불가능하다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 정상 작동, 파일 삭제, 주 단위 요금 인상은 본문과 다릅니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is included with all renewals processed this year?",
+        "options": [
+          "Five additional user seats",
+          "A free upgrade to version 8",
+          "Unlimited telephone training",
+          "A second-year discount"
+        ],
+        "answer": 1,
+        "explanation": "편지에서 올해 처리되는 모든 갱신에는 DataSuite Pro 버전 8로의 무료 업그레이드가 포함된다고 안내하고 있으므로 (B)가 정답입니다. 추가 좌석, 무제한 전화 교육, 2년 차 할인은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the early renewal discount?",
+        "options": [
+          "It can be combined with other promotions.",
+          "It applies only to renewals of the same number of seats.",
+          "It is available to first-time customers only.",
+          "It requires a two-year commitment."
+        ],
+        "answer": 1,
+        "explanation": "조기 갱신 할인은 다른 할인과 중복 적용이 불가능하며, 동일한 좌석 수로 갱신하는 경우에만 적용된다고 명시되어 있으므로 (B)가 정답입니다. (A)는 본문 내용과 반대이고, 이 할인은 기존 고객(returning customer) 대상이므로 (C)도 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Vexor Software, Inc.\n900 Innovation Way, Suite 400\n\nSeptember 18\n\nDear Valued Customer,\n\nWe are writing to inform you that technical support and security updates for LedgerWorks 5, the desktop edition of our accounting software, will end on December 31. After that date, the program will continue to open, but we will no longer fix errors, answer support requests, or issue patches for newly discovered security risks. We strongly recommend that customers move to LedgerWorks Cloud before the end of the year.\n\nTo make the transition easier, we are offering current LedgerWorks 5 customers 20 percent off the first year of any LedgerWorks Cloud subscription. In addition, our technicians will transfer your existing company files to the cloud at no charge, provided the migration is scheduled by November 15. Migrations scheduled after that date will be billed at our standard hourly rate.\n\nA free online seminar explaining the migration process will be held on Thursday, October 9, at 2:00 P.M. Register at vexorsoftware.com/seminar. A recording will be available to registrants who cannot attend.\n\nSincerely,\nAmelia Torres\nDirector of Customer Success",
+    "questions": [
+      {
+        "question": "What is the main purpose of the letter?",
+        "options": [
+          "To announce the end of support for a software product",
+          "To apologize for a recent service outage",
+          "To introduce a new director of customer success",
+          "To request feedback on a recent purchase"
+        ],
+        "answer": 0,
+        "explanation": "편지의 핵심은 LedgerWorks 5에 대한 기술 지원과 보안 업데이트가 12월 31일에 종료된다는 사실을 알리고, 클라우드 버전으로의 이전을 권장하는 것입니다. 따라서 (A)가 정답입니다. 서비스 장애 사과, 임원 소개, 구매 후기 요청은 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What incentive is offered to current LedgerWorks 5 customers?",
+        "options": [
+          "A free desktop computer",
+          "20 percent off the first year of a cloud subscription",
+          "A lifetime license at no cost",
+          "Double the usual storage space"
+        ],
+        "answer": 1,
+        "explanation": "전환을 돕기 위해 기존 LedgerWorks 5 고객에게 LedgerWorks Cloud 구독 첫해 요금의 20% 할인을 제공한다고 명시되어 있으므로 (B)가 정답입니다. 무료 컴퓨터, 평생 라이선스, 저장 공간 2배는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must customers do to receive free file migration?",
+        "options": [
+          "Attend the October 9 seminar",
+          "Schedule the migration by November 15",
+          "Purchase a two-year subscription",
+          "Sign up before September 18"
+        ],
+        "answer": 1,
+        "explanation": "기술자들이 회사 파일을 무료로 클라우드로 이전해 주는 조건은 11월 15일까지 이전 일정을 예약하는 것입니다. 그 이후 예약은 표준 시간당 요금이 청구됩니다. 따라서 (B)가 정답입니다. 세미나 참석이나 2년 구독은 무료 이전의 조건이 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the October 9 seminar?",
+        "options": [
+          "It will be held at the company's headquarters.",
+          "It costs $20 to attend.",
+          "Registrants who miss it can watch a recording.",
+          "It is open to new customers only."
+        ],
+        "answer": 2,
+        "explanation": "10월 9일 온라인 세미나는 무료이며, 참석하지 못하는 등록자에게는 녹화본이 제공된다고 안내되어 있으므로 (C)가 정답입니다. 본사 개최가 아닌 온라인 세미나이고, 참가비나 신규 고객 한정 조건은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "KESTREL LABORATORIES — QUALITY ASSURANCE NOTICE\n\nMONTHLY CALIBRATION OF ANALYTICAL BALANCES\n\nAll analytical balances in Rooms 210, 214, and 218 must be calibrated on the first working day of each month. Operators assigned to calibration duty should follow the steps below in order.\n\n1. Clean the weighing pan and the surrounding chamber with the supplied brush.\n2. Switch the balance on and allow it to warm up for at least 30 minutes before testing.\n3. Place the certified 100-gram reference weight (stored in the QA cabinet) at the center of the pan.\n4. Record the displayed reading in the calibration logbook kept beside each balance.\n5. The reading must fall within plus or minus 0.002 grams of 100 grams. If it does not, attach an OUT OF SERVICE tag to the balance and notify the quality assurance manager, Ms. Hana Sato, the same day.\n\nAfter a successful calibration, apply a dated green sticker to the front of the balance. Balances without a current sticker may not be used for client work under any circumstances.",
+    "questions": [
+      {
+        "question": "How often must the balances be calibrated?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Quarterly"
+        ],
+        "answer": 2,
+        "explanation": "공지 제목과 첫 문장에서 분석용 저울은 매달 첫 근무일에 교정(calibration)해야 한다고 명시하고 있으므로 (C)가 정답입니다. Monthly Calibration이라는 제목 자체가 단서가 됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How long must a balance warm up before testing?",
+        "options": [
+          "At least 10 minutes",
+          "At least 30 minutes",
+          "At least one hour",
+          "At least 100 minutes"
+        ],
+        "answer": 1,
+        "explanation": "2단계에서 저울의 전원을 켠 후 시험 전에 최소 30분간 예열(warm up)해야 한다고 명시되어 있으므로 (B)가 정답입니다. 절차의 세부 수치를 정확히 확인하는 문제입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should an operator do if a reading is outside the allowed tolerance?",
+        "options": [
+          "Repeat the test with a heavier weight",
+          "Tag the balance and notify the QA manager the same day",
+          "Adjust the balance using the logbook",
+          "Move the balance to another room"
+        ],
+        "answer": 1,
+        "explanation": "5단계에 따르면 측정값이 100그램 기준 ±0.002그램 범위를 벗어나면 저울에 OUT OF SERVICE 태그를 부착하고 당일 품질보증 관리자인 Hana Sato에게 알려야 합니다. 따라서 (B)가 정답입니다. 더 무거운 추로 재시험하거나 저울을 옮기라는 지시는 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about balances without a current green sticker?",
+        "options": [
+          "They may be used for internal tests only.",
+          "They must be returned to the manufacturer.",
+          "They may not be used for client work.",
+          "They should be stored in the QA cabinet."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 유효한 스티커가 없는 저울은 어떠한 경우에도 고객 업무(client work)에 사용할 수 없다고 명시하고 있으므로 (C)가 정답입니다. 내부 시험 허용, 제조사 반송, 캐비닛 보관은 본문에 없는 내용입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "PRECISION INSTRUMENT SERVICES — CALIBRATION RECORD\n\nCertificate Number: CAL-44120\nCustomer: Kestrel Laboratories, Room 218\nInstrument: Digital pressure gauge, Model PG-2214\nSerial Number: 88-31077\nDate of Calibration: June 2\nCalibration Interval: 6 months\nNext Calibration Due: December 2\n\nProcedure: The gauge was tested at five reference pressures using standards traceable to the national measurement institute. Initial readings at the two highest pressures were outside the acceptable range. The gauge was adjusted and retested.\n\nResult: PASS (after adjustment)\nTechnician: R. Calloway\nReviewed by: M. Ibarra, Quality Supervisor\n\nConditions: This certificate applies only to the instrument identified above and is valid only while the tamper seal on the adjustment screw remains intact. If the seal is broken for any reason, the calibration is void and the instrument must be recalibrated before further use. Retain this record for a minimum of three years for audit purposes.",
+    "questions": [
+      {
+        "question": "What is the purpose of the form?",
+        "options": [
+          "To document the calibration of an instrument",
+          "To request the purchase of a new gauge",
+          "To report a workplace accident",
+          "To schedule a facility inspection"
+        ],
+        "answer": 0,
+        "explanation": "이 양식은 디지털 압력계 모델 PG-2214의 교정 작업 내용, 결과, 유효 조건을 기록한 교정 기록서(Calibration Record)입니다. 따라서 (A)가 정답입니다. 신규 장비 구매 요청, 사고 보고, 시설 점검 일정과는 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was the outcome of the calibration?",
+        "options": [
+          "The gauge failed and was discarded.",
+          "The gauge passed after an adjustment was made.",
+          "The gauge passed without any changes.",
+          "The result is still under review."
+        ],
+        "answer": 1,
+        "explanation": "절차 설명에 따르면 가장 높은 두 압력에서의 초기 측정값이 허용 범위를 벗어나 조정 후 재시험했으며, 결과 항목에 PASS (after adjustment)라고 기재되어 있습니다. 따라서 (B)가 정답입니다. 무조정 합격인 (C)는 after adjustment라는 단서와 모순됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When is the next calibration due?",
+        "options": [
+          "In three years",
+          "On June 2 of next year",
+          "On December 2",
+          "Whenever the seal is broken"
+        ],
+        "answer": 2,
+        "explanation": "교정일이 6월 2일이고 교정 주기가 6개월이므로 다음 교정 기한은 12월 2일이며, 양식에도 Next Calibration Due: December 2로 명시되어 있습니다. 따라서 (C)가 정답입니다. 3년은 기록 보관 기간으로 혼동을 유도한 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Under what condition does the certificate become void?",
+        "options": [
+          "If the instrument is moved to another room",
+          "If the tamper seal on the adjustment screw is broken",
+          "If the record is kept longer than three years",
+          "If a different technician uses the gauge"
+        ],
+        "answer": 1,
+        "explanation": "조건 항목에서 이 인증서는 조정 나사의 봉인(tamper seal)이 온전한 동안에만 유효하며, 봉인이 어떤 이유로든 훼손되면 교정이 무효가 되어 재교정 전까지 사용할 수 없다고 명시하고 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "HOLLIS HALL RESIDENCE — SPRING MOVE-OUT PROCEDURES\n\nAll residents must vacate their rooms by 5:00 P.M. on Friday, May 15. Please read the following requirements carefully.\n\nCheckout appointments: Schedule a checkout inspection with your resident assistant (RA) at least 48 hours before your planned departure. During the inspection, your RA will examine the room and collect your key.\n\nKeys: A room key that is not returned at checkout will result in a $75 lock replacement charge billed to your student account.\n\nBelongings: Remove all personal items and dispose of trash in the bins behind the building. Items left in rooms after checkout will be discarded, and a $40 removal fee will be charged. Unwanted clothing and unopened food may be placed in the donation boxes in the lobby until May 14.\n\nLate departures: Residents who remain after the 5:00 P.M. deadline without written approval from the housing office will be charged $50 for each day or partial day, up to a maximum of three days, after which the room will be cleared by staff.\n\nQuestions should be sent to housing@hollis.edu.",
+    "questions": [
+      {
+        "question": "By when must residents leave their rooms?",
+        "options": [
+          "By noon on May 14",
+          "By 5:00 P.M. on May 15",
+          "By 9:00 A.M. on May 16",
+          "By the end of May"
+        ],
+        "answer": 1,
+        "explanation": "공지 첫 문장에서 모든 거주자는 5월 15일 금요일 오후 5시까지 방을 비워야 한다고 명시하고 있으므로 (B)가 정답입니다. 5월 14일은 기부 상자 이용 마감일로 혼동을 유도하는 날짜입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a resident be charged for leaving two days after the deadline without approval?",
+        "options": [
+          "$50",
+          "$75",
+          "$100",
+          "$150"
+        ],
+        "answer": 2,
+        "explanation": "승인 없이 마감 후에 남는 거주자는 하루(또는 하루 미만)당 $50씩, 최대 3일까지 부과됩니다. 이틀 늦게 떠나면 $50 × 2 = $100이므로 (C)가 정답입니다. (B) $75는 열쇠 미반납 시 잠금장치 교체비이고, (D) $150은 최대 3일 지연 시 금액입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What happens if a key is not returned at checkout?",
+        "options": [
+          "The student must pay a $75 lock replacement charge.",
+          "The student loses the housing deposit entirely.",
+          "The student cannot register for fall housing.",
+          "The student must mail the key within one week."
+        ],
+        "answer": 0,
+        "explanation": "Keys 항목에서 퇴실 점검 시 반납되지 않은 방 열쇠에 대해서는 $75의 잠금장치 교체 비용이 학생 계정으로 청구된다고 명시하고 있으므로 (A)가 정답입니다. 보증금 전액 몰수, 가을 학기 신청 제한, 우편 반납 의무는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must residents do at least 48 hours before leaving?",
+        "options": [
+          "Pay all outstanding charges",
+          "Schedule a checkout inspection with their RA",
+          "Empty the donation boxes",
+          "Submit a written complaint"
+        ],
+        "answer": 1,
+        "explanation": "퇴실 절차에 따르면 계획된 출발 시각으로부터 최소 48시간 전에 RA(기숙사 조교)와 퇴실 점검 일정을 잡아야 하며, 점검 시 RA가 방을 확인하고 열쇠를 수거합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "HOLLIS HALL RESIDENCE — DEPOSIT SETTLEMENT STATEMENT\n\nStatement Date: June 1\nResident: Theo Marsh\nRoom: 312B\nCheckout Completed: May 15, 2:40 P.M.\nHousing Deposit on File: $300\n\nDeductions assessed after inspection:\n- Repair of wall damage beside the desk: $45\n- Carpet cleaning (beverage stains): $60\n- Removal of items left in the closet: $25\nTotal Deductions: $130\n\nRefund Due to Resident: $170\n\nThe refund will be mailed as a check to the forwarding address provided at checkout within 30 days of the statement date. If no forwarding address was provided, the refund will be held by the housing office until one is submitted.\n\nDisputes: A resident who disagrees with any deduction may file a written appeal with the housing office within 14 days of the statement date. Appeals must include the room number and a description of the disputed charge. Photographs taken during the inspection are available on request. Decisions on appeals are issued within ten business days.",
+    "questions": [
+      {
+        "question": "How much will Mr. Marsh receive as a refund?",
+        "options": [
+          "$130",
+          "$170",
+          "$300",
+          "$255"
+        ],
+        "answer": 1,
+        "explanation": "보증금 $300에서 공제 총액 $130(벽 수리 $45 + 카펫 청소 $60 + 물품 처리 $25)을 빼면 환불액은 $300 − $130 = $170입니다. 따라서 (B)가 정답입니다. (A)는 공제 총액, (C)는 원래 보증금 금액입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which deduction was the largest?",
+        "options": [
+          "Wall repair",
+          "Carpet cleaning",
+          "Item removal",
+          "Lock replacement"
+        ],
+        "answer": 1,
+        "explanation": "공제 내역은 벽 수리 $45, 카펫 청소 $60, 옷장 내 물품 처리 $25입니다. 이 중 가장 큰 금액은 카펫 청소 $60이므로 (B)가 정답입니다. 잠금장치 교체 비용은 이 명세서에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By what date must an appeal be filed?",
+        "options": [
+          "June 11",
+          "June 15",
+          "June 30",
+          "July 1"
+        ],
+        "answer": 1,
+        "explanation": "이의 신청은 명세서 날짜(6월 1일)로부터 14일 이내에 서면으로 제출해야 합니다. 6월 1일 + 14일 = 6월 15일이므로 (B)가 정답입니다. 명세서 날짜를 기준으로 기한을 계산하는 날짜 산술 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the refund check?",
+        "options": [
+          "It will be delivered in person.",
+          "It will be mailed within 30 days of the statement date.",
+          "It can be collected only at the housing office.",
+          "It will be deposited directly into a bank account."
+        ],
+        "answer": 1,
+        "explanation": "환불금은 퇴실 시 제출한 전송 주소(forwarding address)로 명세서 날짜로부터 30일 이내에 수표로 우송된다고 명시되어 있으므로 (B)가 정답입니다. 직접 전달, 사무실 수령 한정, 계좌 입금은 본문과 다릅니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "METRO TRANSIT AUTHORITY — LOST AND FOUND POLICY\n\nItems found on buses, trains, or station property are sent to the central Lost and Found office at 75 Terminal Plaza, Lower Level.\n\nHolding periods: Most items are held for 60 days from the date they are received. Wallets, identification cards, and passports are held for 30 days, after which identification documents are forwarded to the agencies that issued them. Perishable items, including food and beverages, are discarded within 24 hours for health reasons.\n\nClaiming an item: Owners must claim items in person on weekdays between 8:00 A.M. and 4:00 P.M. To claim an item, you must describe it in reasonable detail and present a photo ID. A claim inquiry may be started online at metrotransit.gov/lostfound, but items are never mailed or released to third parties without a signed authorization letter.\n\nUnclaimed items: At the end of the holding period, unclaimed items of value are sold at public auction, and the proceeds support the authority's reduced-fare program. Other items are donated to local charities.\n\nThe Metro Transit Authority is not responsible for items lost on its vehicles or property.",
+    "questions": [
+      {
+        "question": "How long are most items held?",
+        "options": [
+          "24 hours",
+          "30 days",
+          "60 days",
+          "90 days"
+        ],
+        "answer": 2,
+        "explanation": "정책에 따르면 대부분의 물품은 접수일로부터 60일간 보관됩니다. 따라서 (C)가 정답입니다. 30일은 지갑, 신분증, 여권의 보관 기간이고 24시간은 부패성 물품의 폐기 기한이므로 혼동하지 않아야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happens to perishable items?",
+        "options": [
+          "They are donated to charities.",
+          "They are discarded within 24 hours.",
+          "They are sold at auction.",
+          "They are stored in a refrigerator for 30 days."
+        ],
+        "answer": 1,
+        "explanation": "음식과 음료를 포함한 부패성 물품은 위생상의 이유로 24시간 이내에 폐기된다고 명시되어 있으므로 (B)가 정답입니다. 기부와 경매는 보관 기간이 끝난 일반 물품에 적용되는 절차입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is required to claim an item in person?",
+        "options": [
+          "A police report and a fee",
+          "A detailed description and a photo ID",
+          "A signed letter from an employer",
+          "An online reservation number"
+        ],
+        "answer": 1,
+        "explanation": "물품을 찾으려면 평일 오전 8시부터 오후 4시 사이에 직접 방문하여 물품을 상세히 설명하고 사진이 있는 신분증을 제시해야 합니다. 따라서 (B)가 정답입니다. 경찰 신고서, 수수료, 고용주 서한, 예약 번호는 요구되지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, how are auction proceeds used?",
+        "options": [
+          "To fund the reduced-fare program",
+          "To pay Lost and Found staff",
+          "To purchase new buses",
+          "To reward the people who found the items"
+        ],
+        "answer": 0,
+        "explanation": "보관 기간이 끝난 고가의 미수령 물품은 공개 경매로 판매되며, 그 수익금은 교통공사의 요금 할인 프로그램(reduced-fare program)을 지원하는 데 사용된다고 명시되어 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "WESTBROOK CONFERENCE CENTER — LOST PROPERTY PROCEDURES\n\nFor the convenience of our guests and event organizers, the conference center maintains a lost property service at the security desk in the main lobby.\n\nReporting and turning in items: Guests who lose an item during an event should report it to the security desk as soon as possible. Anyone who finds an item on the premises is asked to hand it in at the same desk, where it will be logged with the date, location found, and a brief description.\n\nStorage periods: General items are stored for 30 days. Electronics such as laptops, tablets, and phones are kept in a locked safe for 90 days. Items bearing a name badge or business card will trigger an e-mail to the event organizer when contact details are available.\n\nReturning items: Items may be collected in person at any time the building is open. Alternatively, we can ship items at the owner's cost using the courier service of the owner's choice; a handling form must be completed before shipment.\n\nInquiries: Submit the lost property form at westbrookcc.com/lost. Our team responds to all inquiries within two business days.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To explain the center's lost property procedures",
+          "To announce the relocation of the security desk",
+          "To promote an upcoming conference",
+          "To recruit security staff"
+        ],
+        "answer": 0,
+        "explanation": "공지는 컨퍼런스 센터에서 분실물을 신고하고 보관하며 되찾는 절차 전반을 안내하고 있으므로 (A)가 정답입니다. 보안 데스크 이전, 행사 홍보, 직원 채용은 본문 내용이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How long are electronics kept?",
+        "options": [
+          "Two business days",
+          "30 days",
+          "60 days",
+          "90 days"
+        ],
+        "answer": 3,
+        "explanation": "노트북, 태블릿, 휴대전화 같은 전자기기는 잠금 금고에 90일간 보관된다고 명시되어 있으므로 (D)가 정답입니다. 30일은 일반 물품의 보관 기간이고, 2영업일은 문의 응답 기한입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who pays for shipping when an item is sent to its owner?",
+        "options": [
+          "The conference center",
+          "The event organizer",
+          "The owner of the item",
+          "The courier company"
+        ],
+        "answer": 2,
+        "explanation": "물품은 직접 수령하거나, 소유자가 선택한 택배사를 통해 소유자 부담(at the owner's cost)으로 배송받을 수 있다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 배송 전에는 취급 양식 작성이 필요하다는 조건도 함께 안내되어 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen if a found item has a business card attached?",
+        "options": [
+          "It will be discarded immediately.",
+          "The event organizer may be notified by e-mail.",
+          "It will be auctioned after 30 days.",
+          "It will be mailed automatically to the address on the card."
+        ],
+        "answer": 1,
+        "explanation": "이름표나 명함이 부착된 물품은 연락처를 확인할 수 있는 경우 행사 주최자에게 이메일이 발송된다고 명시되어 있으므로 (B)가 정답입니다. 즉시 폐기, 경매, 자동 우편 발송은 본문에 없는 내용입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Office of the City Clerk\nCity of Dorset\n12 Civic Square\n\nAugust 1\n\nDear Ms. Ingrid Halvorsen,\n\nYour name has been selected from the city's registry of licensed business owners to serve on the Dorset Small Business Advisory Panel. The panel provides feedback to the city council on regulations, fees, and programs that affect local businesses.\n\nService details: The panel meets four times a year at City Hall, with the first meeting of your term scheduled for Wednesday, September 9, at 6:00 P.M. Each term lasts one year, and members receive a stipend of $50 per meeting attended. Meeting materials are distributed by e-mail one week in advance.\n\nResponse required: Please confirm your participation, or request an exemption, within 14 days of the date of this letter. Exemptions are granted for documented hardship, extended travel, or a conflict of interest. To respond, complete the enclosed reply card or visit dorsetcity.gov/panel and enter access code BP-7741.\n\nIf no response is received by the deadline, a replacement will be selected and your name will be returned to the registry for future consideration.\n\nSincerely,\nEdwin Park\nCity Clerk",
+    "questions": [
+      {
+        "question": "Why did Mr. Park send the letter?",
+        "options": [
+          "To notify a business owner of her selection for an advisory panel",
+          "To inform a resident of an unpaid business tax",
+          "To invite the public to a city council election",
+          "To announce the closure of City Hall"
+        ],
+        "answer": 0,
+        "explanation": "편지는 수신인이 시의 사업자 등록부에서 소상공인 자문 패널 위원으로 선정되었음을 알리고, 참여 확인 또는 면제 신청을 요청하는 내용이므로 (A)가 정답입니다. 세금 미납, 선거 안내, 시청 폐쇄는 본문과 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By what date must Ms. Halvorsen respond?",
+        "options": [
+          "August 8",
+          "August 15",
+          "September 9",
+          "September 1"
+        ],
+        "answer": 1,
+        "explanation": "편지 날짜가 8월 1일이고, 편지 날짜로부터 14일 이내에 참여 확인 또는 면제 요청을 해야 합니다. 8월 1일 + 14일 = 8월 15일이므로 (B)가 정답입니다. 9월 9일은 첫 회의 날짜로 혼동을 유도하는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much would a member receive for attending all meetings in a one-year term?",
+        "options": [
+          "$50",
+          "$100",
+          "$200",
+          "$600"
+        ],
+        "answer": 2,
+        "explanation": "패널은 1년에 4회 모이고 회의 참석당 $50의 수당이 지급됩니다. 1년 임기 동안 전 회의에 참석하면 $50 × 4 = $200을 받으므로 (C)가 정답입니다. 회당 수당과 연간 회의 횟수를 곱하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if no response is received by the deadline?",
+        "options": [
+          "A fine will be issued.",
+          "A replacement will be selected.",
+          "The first meeting will be postponed.",
+          "The business license will be suspended."
+        ],
+        "answer": 1,
+        "explanation": "기한까지 회신이 없으면 대체 인원이 선정되고, 수신인의 이름은 향후 고려를 위해 등록부로 되돌아간다고 명시되어 있으므로 (B)가 정답입니다. 벌금, 회의 연기, 사업 면허 정지는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "City of Dorset — Licensing Division\n12 Civic Square, Suite 110\n\nSeptember 2\n\nDear Mr. Felix Arnaud,\n\nOur records show that the operating license for Arnaud Catering (License No. 88231) will expire on September 30. To continue operating legally, you must renew the license before that date.\n\nHow to renew: The fastest method is online at dorsetcity.gov/licenses, where payment can be made by card or bank transfer. You may also renew by mail or in person at the Licensing Division. The standard renewal fee is $120. Your renewal must include a current certificate of liability insurance; renewals received without it cannot be processed.\n\nLate renewals: Licenses renewed between October 1 and October 31 are subject to a $30 late penalty in addition to the standard fee. Businesses still unlicensed after October 31 may not operate and are subject to a fine of $100 for each day of operation without a valid license.\n\nIf your business has closed or changed ownership, please notify this office in writing so that our records can be updated.\n\nSincerely,\nNadia Solomon\nLicensing Division Manager",
+    "questions": [
+      {
+        "question": "What is the purpose of the letter?",
+        "options": [
+          "To remind a business owner to renew an operating license",
+          "To approve a new catering contract",
+          "To announce an inspection of a kitchen",
+          "To confirm a change of business ownership"
+        ],
+        "answer": 0,
+        "explanation": "편지는 Arnaud Catering의 영업 면허가 9월 30일에 만료되므로 그 전에 갱신하라고 알리는 갱신 안내문입니다. 따라서 (A)가 정답입니다. 계약 승인, 주방 점검, 소유권 변경 확인이 목적이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would Mr. Arnaud pay in total if he renews on October 10?",
+        "options": [
+          "$120",
+          "$130",
+          "$150",
+          "$220"
+        ],
+        "answer": 2,
+        "explanation": "10월 1일부터 10월 31일 사이의 갱신에는 표준 수수료 $120에 연체 가산금 $30이 추가됩니다. 따라서 10월 10일 갱신 시 총액은 $120 + $30 = $150이므로 (C)가 정답입니다. 기본 요금과 가산금을 합산하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must be included with the renewal?",
+        "options": [
+          "A list of employees",
+          "A current certificate of liability insurance",
+          "A copy of the original license",
+          "A letter from the city council"
+        ],
+        "answer": 1,
+        "explanation": "갱신 신청에는 유효한 책임보험 증명서(certificate of liability insurance)가 포함되어야 하며, 이것이 없는 갱신은 처리될 수 없다고 명시되어 있으므로 (B)가 정답입니다. 직원 명단, 원본 면허 사본, 시의회 서한은 요구되지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about businesses that remain unlicensed after October 31?",
+        "options": [
+          "They may operate while their paperwork is processed.",
+          "They are subject to a $100 fine per day of operation.",
+          "They will be given an additional 30-day grace period.",
+          "They must reapply in person only."
+        ],
+        "answer": 1,
+        "explanation": "10월 31일 이후에도 면허가 없는 사업체는 영업할 수 없으며, 유효한 면허 없이 영업하는 날마다 $100의 벌금이 부과될 수 있다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 처리 중 영업 허용이나 추가 유예 기간은 본문과 다릅니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]
