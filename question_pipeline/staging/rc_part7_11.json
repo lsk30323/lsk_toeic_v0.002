@@ -1,0 +1,2108 @@
+[
+  {
+    "passageType": "email",
+    "passage": "To: All Personal Banking Customers\nFrom: Meridian Trust Bank <service@meridiantrust.com>\nSubject: Upgraded Online Banking Platform Launching July 1\n\nDear Valued Customer,\n\nWe are pleased to announce that Meridian Trust Bank will launch a fully redesigned online banking platform on July 1. The new system offers faster transfers, customizable account alerts, and a budgeting dashboard that tracks your spending by category.\n\nTo prepare for the transition, online banking will be unavailable from 11:00 P.M. on June 30 until 6:00 A.M. on July 1. During this window, you may still withdraw cash at any of our ATMs, and your debit card will function normally.\n\nWhen you first log in to the new platform, you will be asked to verify your identity with a code sent to your registered mobile number. Please ensure your contact details are up to date by June 25. You can review them under Settings in your current account profile or by visiting any branch.\n\nNote that your existing username and password will carry over, so there is no need to re-register. Should you have questions, our support line at 555-0148 is open seven days a week.\n\nSincerely,\nDana Okafor\nDirector of Digital Services",
+    "questions": [
+      {
+        "question": "What is the main purpose of the email?",
+        "options": [
+          "To announce a new branch opening",
+          "To inform customers about an upgraded online system",
+          "To warn customers about fraudulent messages",
+          "To promote a new credit card product"
+        ],
+        "answer": 1,
+        "explanation": "이메일 첫 단락에서 7월 1일에 새롭게 개편된 온라인 뱅킹 플랫폼을 출시한다고 공지하고 있으므로, 이메일의 주된 목적은 업그레이드된 온라인 시스템을 안내하는 것입니다. 지점 개설, 사기 경고, 신용카드 홍보는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are customers asked to do by June 25?",
+        "options": [
+          "Create a new username",
+          "Visit a branch to sign a form",
+          "Confirm that their contact information is current",
+          "Download a mobile application"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 등록된 휴대전화 번호로 인증 코드가 발송되므로 6월 25일까지 연락처 정보를 최신 상태로 유지해 달라고 요청하고 있습니다. 새 사용자명 생성은 불필요하다고 명시되어 있고(기존 정보 유지), 지점 방문은 선택 사항이며, 앱 다운로드는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the service interruption?",
+        "options": [
+          "It will last for an entire weekend.",
+          "ATM withdrawals will still be possible during it.",
+          "Debit cards will be temporarily deactivated.",
+          "It will begin on the morning of July 1."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 6월 30일 오후 11시부터 7월 1일 오전 6시까지 온라인 뱅킹이 중단되지만, 그 시간 동안에도 ATM 현금 인출과 직불카드 사용은 정상적으로 가능하다고 안내하고 있습니다. 중단 시간은 하룻밤이며, 직불카드는 정상 작동하고, 시작 시점은 6월 30일 밤입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"carry over\" in paragraph 4 is closest in meaning to",
+        "options": [
+          "be transported",
+          "remain valid",
+          "be calculated",
+          "increase gradually"
+        ],
+        "answer": 1,
+        "explanation": "문맥상 기존 사용자명과 비밀번호가 새 플랫폼으로 'carry over'되어 재등록이 필요 없다는 의미이므로, '계속 유효하다(remain valid)'가 가장 가깝습니다. 물리적 운반, 계산, 점진적 증가의 의미가 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Branch Tellers, Harborview Savings Bank\nFrom: Priya Raman, Head of Retail Operations\nDate: March 3\nRe: Revised Cash-Handling Procedures\n\nBeginning March 17, all branches will adopt revised cash-handling procedures in response to recommendations from our internal audit team.\n\nFirst, any single cash withdrawal exceeding $8,000 must be approved by the branch manager on duty before funds are released. Previously, this threshold was $10,000. Second, teller drawers must be balanced twice per shift rather than once: at the midday handover and again at closing. Third, large deposits of loose coins will now be accepted only at the Linwood and Castle Street branches, which are equipped with high-capacity counting machines.\n\nTo help you become familiar with the new steps, thirty-minute briefing sessions will be held in each branch's meeting room during the week of March 10. Attendance is mandatory, and sessions count toward your annual compliance training hours. Sign-up sheets are posted in the staff lounge.\n\nPlease direct questions to your branch manager or to the Retail Operations office at extension 4402.",
+    "questions": [
+      {
+        "question": "Why was the memo written?",
+        "options": [
+          "To announce changes to internal procedures",
+          "To introduce a new branch manager",
+          "To report the results of a customer survey",
+          "To explain a change in business hours"
+        ],
+        "answer": 0,
+        "explanation": "메모의 제목과 첫 단락에서 내부 감사팀의 권고에 따라 3월 17일부터 개정된 현금 취급 절차를 도입한다고 밝히고 있으므로, 내부 절차 변경을 공지하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a procedural change?",
+        "options": [
+          "A lower approval threshold for large withdrawals",
+          "More frequent balancing of teller drawers",
+          "Restrictions on where coin deposits are accepted",
+          "A requirement to photograph large checks"
+        ],
+        "answer": 3,
+        "explanation": "메모에는 인출 승인 기준 하향($10,000에서 $8,000), 시재 점검 횟수 증가(1회에서 2회), 동전 대량 입금 가능 지점 제한이 언급되어 있으나, 수표 촬영 요건은 전혀 언급되지 않았습니다. NOT 유형 문제는 지문에 없는 항목을 찾아야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the Linwood branch?",
+        "options": [
+          "It recently failed an internal audit.",
+          "It has specialized coin-counting equipment.",
+          "It will be closed during the week of March 10.",
+          "It has the largest number of tellers."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 동전 대량 입금은 고용량 계수기(high-capacity counting machines)를 갖춘 Linwood와 Castle Street 지점에서만 받는다고 했으므로, Linwood 지점에 전문 동전 계수 장비가 있음을 추론할 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What are tellers required to do during the week of March 10?",
+        "options": [
+          "Balance their drawers three times per shift",
+          "Attend a briefing session",
+          "Transfer to a different branch",
+          "Complete an online examination"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 3월 10일 주간에 각 지점 회의실에서 30분짜리 설명회가 열리며 참석이 의무(mandatory)라고 명시하고 있습니다. 시재 점검은 2회이며, 지점 이동이나 온라인 시험은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Marcus Whitfield <m.whitfield@whitfieldbakery.com>\nFrom: Elena Sorrento <e.sorrento@crestpointcapital.com>\nSubject: Your Small Business Loan Application — Additional Documents Needed\nDate: April 14\n\nDear Mr. Whitfield,\n\nThank you for applying for a small business expansion loan with Crestpoint Capital. I have completed an initial review of your application for $75,000 to renovate your second bakery location, and I am pleased to report that it has advanced to the underwriting stage.\n\nBefore we can issue a final decision, our underwriters require three additional items: your business tax returns for the past two years, a current profit-and-loss statement prepared within the last ninety days, and a copy of the signed lease for the Edgewater Avenue property.\n\nPlease upload these documents through our secure client portal rather than sending them by e-mail, as we cannot accept financial records through unencrypted channels. Once everything is received, a decision is typically issued within ten business days.\n\nIf any document is unavailable, contact me directly at 555-0173 so we can discuss acceptable alternatives. We appreciate your patience and look forward to supporting your expansion.\n\nBest regards,\nElena Sorrento\nCommercial Lending Officer\nCrestpoint Capital",
+    "questions": [
+      {
+        "question": "Why did Ms. Sorrento write the e-mail?",
+        "options": [
+          "To reject a loan application",
+          "To request supporting paperwork",
+          "To announce a change in interest rates",
+          "To schedule a property inspection"
+        ],
+        "answer": 1,
+        "explanation": "이메일의 핵심은 대출 심사(underwriting) 단계 진행을 위해 세금 신고서, 손익계산서, 임대 계약서 등 세 가지 추가 서류를 요청하는 것입니다. 대출 거절이나 금리 변경, 부동산 점검 일정은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Whitfield most likely plan to do with the loan?",
+        "options": [
+          "Purchase delivery vehicles",
+          "Hire additional staff",
+          "Renovate a second store",
+          "Pay off existing debts"
+        ],
+        "answer": 2,
+        "explanation": "첫 단락에서 두 번째 베이커리 지점을 개조(renovate your second bakery location)하기 위한 75,000달러 대출 신청이라고 명시되어 있으므로, 두 번째 매장 개조가 대출 목적임을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are documents required to be submitted through the portal?",
+        "options": [
+          "E-mail attachments are too large.",
+          "The bank cannot accept financial records over unsecured channels.",
+          "The portal automatically fills out application forms.",
+          "Paper copies are being phased out."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 암호화되지 않은 채널(unencrypted channels)로는 재무 기록을 받을 수 없으므로 보안 포털을 통해 업로드하라고 안내하고 있습니다. 따라서 보안상의 이유가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is implied about the loan decision?",
+        "options": [
+          "It has already been approved by underwriters.",
+          "It will not be made until all documents are received.",
+          "It must be reviewed by Mr. Whitfield's accountant.",
+          "It will be delayed until next quarter."
+        ],
+        "answer": 1,
+        "explanation": "최종 결정 전에 세 가지 서류가 필요하며, '모든 서류가 접수되면(Once everything is received)' 통상 영업일 10일 이내에 결정이 내려진다고 했으므로, 서류가 모두 제출되기 전에는 결정이 내려지지 않음을 추론할 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Joanna Reyes <j.reyes@reyesdesignstudio.com>\nFrom: Claims Department <claims@shieldstoneinsurance.com>\nSubject: Claim #ST-88421 — Water Damage, 412 Fenwick Lane\nDate: September 9\n\nDear Ms. Reyes,\n\nWe have received the photographs and the plumber's report you submitted on September 5 in support of your commercial property claim for water damage at your studio.\n\nAfter reviewing the documentation, our adjuster, Tom Halloran, has approved a preliminary settlement of $6,240, which covers the replacement of damaged flooring and the repair of one interior wall. However, your claim for the damaged printing equipment remains under review because the purchase receipts you provided list a serial number that does not match the one shown in your photographs. Please confirm the correct serial number or submit the original warranty card by September 19. If we do not hear from you by that date, the equipment portion of the claim will be assessed using standard depreciation tables, which may reduce your reimbursement.\n\nThe approved portion of your settlement will be deposited into your registered account within five business days. Note that your policy's $500 deductible has already been subtracted from this figure.\n\nSincerely,\nShieldstone Insurance Claims Team",
+    "questions": [
+      {
+        "question": "What is the purpose of the e-mail?",
+        "options": [
+          "To deny an insurance claim in full",
+          "To provide an update on a claim and request clarification",
+          "To offer a discounted insurance policy",
+          "To schedule an on-site inspection"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 청구 건의 일부(바닥재·벽 수리) 승인 소식을 전하면서, 인쇄 장비 부분은 일련번호 불일치 때문에 확인 요청을 하고 있습니다. 즉, 청구 진행 상황 안내와 추가 확인 요청이 목적입니다. 전면 거절이 아니라는 점에 유의해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is part of the claim still under review?",
+        "options": [
+          "The plumber's report was incomplete.",
+          "The damage occurred outside the coverage period.",
+          "A serial number on a receipt does not match the photographs.",
+          "The deductible has not been paid."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 제출된 구매 영수증의 일련번호가 사진 속 장비의 일련번호와 일치하지 않아 인쇄 장비에 대한 청구가 검토 중이라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if Ms. Reyes does not respond by September 19?",
+        "options": [
+          "Her policy will be canceled.",
+          "Her equipment claim will be valued using depreciation tables.",
+          "The entire settlement will be withheld.",
+          "Her deductible will be increased."
+        ],
+        "answer": 1,
+        "explanation": "9월 19일까지 회신이 없으면 장비 부분 청구는 표준 감가상각표(standard depreciation tables)에 따라 산정되어 보상액이 줄어들 수 있다고 안내하고 있습니다. 보험 해지나 전체 보상금 보류, 자기부담금 인상은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the $6,240 settlement?",
+        "options": [
+          "It includes compensation for printing equipment.",
+          "It will be sent as a paper check.",
+          "It reflects the deduction of $500.",
+          "It must be used for repairs within thirty days."
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 보험 약관상 자기부담금(deductible) 500달러가 이미 차감된 금액이라고 명시하고 있습니다. 인쇄 장비 보상은 아직 검토 중이고, 지급은 등록 계좌 입금 방식이며, 사용 기한 조건은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Sales Agents, Lakemont Mutual Insurance\nFrom: Gerald Pinsky, Vice President of Sales\nDate: November 2\nRe: New Policy Renewal Procedure\n\nEffective December 1, Lakemont Mutual will move from paper-based renewal notices to an automated digital renewal system for all auto and homeowner policies.\n\nUnder the new system, policyholders will receive a renewal offer by e-mail sixty days before their policy expires, followed by a reminder at thirty days. Customers who take no action will be renewed automatically at the quoted rate, provided their payment method on file is valid. Customers without an e-mail address on record will continue to receive printed notices by mail, so no policyholder will be left uninformed.\n\nWhat this means for you: agents will no longer need to generate renewal letters manually, a task that consumed roughly six hours per agent each week. Instead, you are expected to use that time for outreach calls to clients whose premiums will increase by more than ten percent at renewal, as these accounts carry the highest risk of cancellation. A list of such accounts will appear on your dashboard every Monday.\n\nTraining webinars will run November 17-19. Recordings will be available for those unable to attend live.",
+    "questions": [
+      {
+        "question": "What is the main topic of the memo?",
+        "options": [
+          "A revision to employee commission rates",
+          "The automation of the policy renewal process",
+          "The merger of two insurance companies",
+          "A change in office locations"
+        ],
+        "answer": 1,
+        "explanation": "메모는 12월 1일부터 종이 기반 갱신 통지를 자동화된 디지털 갱신 시스템으로 전환한다는 내용을 중심으로 작성되었습니다. 수수료율, 합병, 사무실 이전은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the memo, when will policyholders first be notified about renewal?",
+        "options": [
+          "Ninety days before expiration",
+          "Sixty days before expiration",
+          "Thirty days before expiration",
+          "On the expiration date"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 보험 만료 60일 전에 이메일로 갱신 제안을 받고, 30일 전에 리마인더를 받는다고 명시되어 있습니다. 따라서 첫 통지는 만료 60일 전입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are agents expected to do with their freed-up time?",
+        "options": [
+          "Process paper renewal letters faster",
+          "Contact clients facing significant premium increases",
+          "Attend weekly sales meetings",
+          "Update the company's customer database"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 갱신 시 보험료가 10% 넘게 인상되는 고객은 해지 위험이 가장 높으므로, 절약된 시간을 이런 고객들에게 전화 연락(outreach calls)하는 데 쓰라고 지시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about customers without an e-mail address on file?",
+        "options": [
+          "They will still receive renewal information by mail.",
+          "Their policies will not be renewed automatically.",
+          "They must visit an agent in person.",
+          "They will be charged an administrative fee."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락 마지막에 이메일 주소가 등록되지 않은 고객은 계속 우편으로 인쇄된 통지를 받게 되어 어떤 보험 계약자도 정보를 받지 못하는 일이 없을 것이라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Field Agents, Northern Region\nFrom: Carla Jimenez <c.jimenez@beaconrockinsurance.com>\nSubject: Registration Open — Claims Technology Workshop, August 21\nDate: July 28\n\nDear Colleagues,\n\nRegistration is now open for our one-day workshop, Streamlining Claims with Mobile Tools, to be held on Thursday, August 21, at the Fairhaven Conference Center.\n\nThe workshop will introduce the new BeaconSnap mobile application, which allows agents to photograph damage, record customer statements, and submit complete claim files from the field. Agents who adopted the app during our spring pilot program reduced average claim-processing time from nine days to four. The morning session covers app navigation and photo standards; the afternoon session features hands-on practice with simulated claim scenarios.\n\nSpace is limited to forty participants, and spots will be assigned in the order registrations are received. Last year's session filled within a week, so early registration is strongly encouraged. To register, complete the form on the staff intranet under Training and Events no later than August 8. Lunch will be provided; please indicate any dietary restrictions on the form.\n\nAgents who complete the workshop will receive six continuing-education credits toward their license renewal.\n\nRegards,\nCarla Jimenez\nRegional Training Coordinator",
+    "questions": [
+      {
+        "question": "What is the purpose of the e-mail?",
+        "options": [
+          "To announce the results of a pilot program",
+          "To invite agents to register for a training event",
+          "To explain changes to license renewal rules",
+          "To introduce a new regional manager"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 8월 21일에 열리는 워크숍의 등록이 시작되었음을 알리고 등록 방법과 마감일을 안내하는 초대 성격의 글입니다. 파일럿 프로그램 결과는 부수적으로 언급될 뿐 주목적이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the BeaconSnap application?",
+        "options": [
+          "It shortened claim-processing times for pilot users.",
+          "It is available only to customers.",
+          "It requires a separate license fee.",
+          "It was developed by an outside vendor."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 봄 파일럿 프로그램에서 이 앱을 도입한 직원들의 평균 청구 처리 기간이 9일에서 4일로 단축되었다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Jimenez encourage early registration?",
+        "options": [
+          "The registration fee will increase after August 8.",
+          "Attendance is limited and demand has been high in the past.",
+          "The venue may change at short notice.",
+          "Dietary requests cannot be accommodated late."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 정원이 40명으로 제한되고 선착순 배정이며 작년에는 일주일 만에 마감되었다고 언급하면서 조기 등록을 강력히 권장하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will workshop participants receive?",
+        "options": [
+          "A free mobile device",
+          "A travel reimbursement",
+          "Continuing-education credits",
+          "A one-year software subscription"
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 워크숍을 수료한 직원은 면허 갱신에 필요한 평생교육 학점(continuing-education credits) 6점을 받게 된다고 명시되어 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Naomi Castellan <n.castellan@authormail.com>\nFrom: Theo Brandt <t.brandt@aldergatepress.com>\nSubject: Production Schedule for The Salt Garden\nDate: February 11\n\nDear Naomi,\n\nIt was a pleasure speaking with you last week. As promised, here is the production timeline for your novel, The Salt Garden, now that the manuscript has been accepted.\n\nOur copyeditor, Rosa Lindqvist, will send you her edited file by March 6. You will then have three weeks to review her changes and respond to queries; please note that this stage is the last opportunity to make substantial revisions to the text. After that point, changes will be limited to correcting typographical errors, as alterations during typesetting are costly and can delay printing.\n\nCover design concepts will be shared in mid-April. While we welcome your input, final approval of the cover rests with our art director, as stipulated in clause 9 of your contract. Advance reader copies will go out to reviewers in July, ahead of the planned October 14 publication date.\n\nFinally, our publicity team would like to schedule a call in early May to discuss bookstore events in your area. Could you let me know your availability for the first week of that month?\n\nWarm regards,\nTheo Brandt\nSenior Editor, Aldergate Press",
+    "questions": [
+      {
+        "question": "Why did Mr. Brandt send the e-mail?",
+        "options": [
+          "To reject a manuscript submission",
+          "To outline the schedule for publishing a book",
+          "To negotiate the terms of a contract",
+          "To invite an author to a book fair"
+        ],
+        "answer": 1,
+        "explanation": "이메일 서두에서 원고가 채택된 후의 제작 일정(production timeline)을 약속대로 보낸다고 밝히고, 교정·표지·서평용 가제본·출간일 등 출판 일정 전반을 안내하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By when can Ms. Castellan make major changes to her text?",
+        "options": [
+          "Before the copyeditor begins work",
+          "During the three-week review of the copyedited file",
+          "While the book is being typeset",
+          "After advance copies are distributed"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 교정자의 수정 파일을 검토하는 3주의 기간이 본문에 큰 수정을 가할 수 있는 마지막 기회라고 명시하고 있습니다. 그 이후에는 오탈자 수정만 가능합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the book's cover?",
+        "options": [
+          "It will be designed by Ms. Castellan herself.",
+          "Its final approval belongs to the art director.",
+          "It must be completed before March 6.",
+          "It will feature a photograph of the author."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 저자의 의견은 환영하지만 표지의 최종 승인 권한은 계약서 9조에 따라 아트 디렉터에게 있다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Brandt ask Ms. Castellan to provide?",
+        "options": [
+          "A revised author biography",
+          "Her availability for a call in May",
+          "A list of preferred reviewers",
+          "Feedback on the copyedited file by March 6"
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 홍보팀과의 통화 일정을 잡기 위해 5월 첫째 주의 가능한 시간을 알려 달라고 요청하고 있습니다. 3월 6일은 교정자가 파일을 보내는 시점이지 저자의 회신 기한이 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: Editorial and Production Staff, Quillstone Publishing\nFrom: Marianne Duval, Production Director\nDate: June 4\nRe: Consolidated E-book Conversion Workflow\n\nStarting July 1, all e-book conversion work will be handled in-house by our new digital production unit rather than by outside vendors. This change follows a six-month trial in which the unit converted eighteen titles with a forty percent reduction in per-title costs and an average turnaround of eight days, compared with the three weeks our vendors typically required.\n\nTo make the workflow run smoothly, editors must now submit final, approved manuscripts through the ProjectHub system instead of e-mailing files directly to production staff. Each submission must include the completed metadata form — title, contributor names, price category, and territorial rights — since incomplete forms were the leading cause of delays during the trial.\n\nPlease be aware that illustrated children's titles and cookbooks with complex layouts will continue to be sent to Pixelcraft Studio for the remainder of the year, as these formats require specialized fixed-layout conversion.\n\nA step-by-step guide to ProjectHub submissions is available on the intranet. Questions may be directed to Felix Arno at extension 2280.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the memo?",
+        "options": [
+          "To announce that e-book conversion will be done internally",
+          "To report a decline in e-book sales",
+          "To introduce a new line of children's books",
+          "To request volunteers for a trial program"
+        ],
+        "answer": 0,
+        "explanation": "메모 첫 단락에서 7월 1일부터 전자책 변환 작업을 외부 업체가 아닌 사내 디지털 제작 부서에서 처리한다고 공지하고 있습니다. 이것이 메모의 핵심 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was a result of the six-month trial?",
+        "options": [
+          "Conversion costs per title decreased by forty percent.",
+          "Eighteen vendors were evaluated.",
+          "Production time increased to three weeks.",
+          "Sales of digital titles doubled."
+        ],
+        "answer": 0,
+        "explanation": "첫 단락에서 6개월 시범 운영 동안 18종의 도서를 변환하면서 종당 비용이 40% 절감되었고 평균 처리 기간이 8일이었다고 밝히고 있습니다. 3주는 기존 외부 업체의 소요 기간입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the memo, what was the leading cause of delays during the trial?",
+        "options": [
+          "Vendor scheduling conflicts",
+          "Missing information on metadata forms",
+          "Software malfunctions",
+          "Staff shortages in the production unit"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 불완전한 메타데이터 양식(incomplete forms)이 시범 기간 중 지연의 가장 큰 원인이었다고 명시하고 있으므로, 양식의 정보 누락이 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about cookbooks with complex layouts?",
+        "options": [
+          "They will no longer be published in digital form.",
+          "They will be converted by an external company for now.",
+          "They sell better than children's titles.",
+          "They must be submitted by June 30."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 복잡한 레이아웃의 요리책과 어린이 그림책은 고정 레이아웃 변환이라는 특수 작업이 필요하므로 올해 말까지는 계속 외부 업체인 Pixelcraft Studio로 보내진다고 안내하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Exhibits Team <exhibits@meridianbooks.com>\nFrom: Howard Lassiter <h.lassiter@meridianbooks.com>\nSubject: Westhaven Book Fair — Booth Logistics\nDate: October 2\n\nTeam,\n\nWith the Westhaven International Book Fair three weeks away, here is an update on our arrangements.\n\nWe have secured booth 214, a corner location near the main entrance, which should give us considerably more foot traffic than last year's spot at the back of Hall C. The booth measures four meters by six meters, large enough for two display walls and a small signing table.\n\nOur freight carrier will collect display materials and book cartons from the warehouse on October 16. Anything not packed and labeled by 3:00 P.M. that day will have to be transported in personal vehicles, which our insurance does not cover, so please finish packing on time. Label every carton with the booth number and a contents list.\n\nThree author signings are confirmed: Lucia Ferrante on Friday at 2:00 P.M., and Devon Park and Amara Osei on Saturday. Friday afternoon is traditionally the fair's busiest period, so we expect long lines and will need at least four staff members at the booth then.\n\nPlease send me your preferred shifts by October 9.\n\nThanks,\nHoward",
+    "questions": [
+      {
+        "question": "What is suggested about last year's booth?",
+        "options": [
+          "It was located in a low-traffic area.",
+          "It was larger than this year's booth.",
+          "It had three display walls.",
+          "It hosted no author signings."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 올해 부스(정문 근처 코너 자리)는 작년의 C홀 뒤쪽 자리보다 훨씬 많은 유동 인구가 예상된다고 했으므로, 작년 부스는 사람들의 왕래가 적은 위치였음을 추론할 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Lassiter warn could happen after 3:00 P.M. on October 16?",
+        "options": [
+          "The booth reservation may be canceled.",
+          "Unpacked items would need to travel in personal cars without insurance coverage.",
+          "The freight carrier will charge an extra fee.",
+          "Book cartons will be returned to the publisher."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 10월 16일 오후 3시까지 포장 및 라벨링이 끝나지 않은 물품은 개인 차량으로 운반해야 하며 이는 회사 보험이 적용되지 않는다고 경고하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When is the fair expected to be busiest?",
+        "options": [
+          "Friday morning",
+          "Friday afternoon",
+          "Saturday morning",
+          "Saturday afternoon"
+        ],
+        "answer": 1,
+        "explanation": "네 번째 단락에서 금요일 오후가 전통적으로 박람회에서 가장 붐비는 시간대라고 명시하면서, 그 시간에 최소 4명의 직원이 부스에 필요하다고 했습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are staff members asked to do by October 9?",
+        "options": [
+          "Submit their shift preferences",
+          "Finish packing all cartons",
+          "Confirm author appearances",
+          "Reserve hotel rooms"
+        ],
+        "answer": 0,
+        "explanation": "이메일 마지막에 10월 9일까지 선호하는 근무 시간대(preferred shifts)를 보내 달라고 요청하고 있습니다. 포장 마감일은 10월 16일입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Laboratory Personnel, Building 4\nFrom: Dr. Ingrid Vasquez, Director of Quality and Compliance\nDate: May 12\nRe: Preparation for Regulatory Safety Audit\n\nVireon Pharmaceuticals will undergo a scheduled safety audit by the National Health Authority during the week of June 2. Inspectors will examine laboratory practices, documentation, and storage conditions in Building 4. Please review the following requirements before the end of May.\n\nAll reagent containers must carry labels showing contents, concentration, receipt date, and expiration date. During last year's internal review, unlabeled secondary containers were our most frequently cited issue, and inspectors treat repeat findings severely.\n\nLaboratory notebooks must be completed in ink, signed, and dated on each page. Any unused space on a page should be crossed out. Equipment calibration records for balances, pH meters, and refrigerators must be current; if you notice an overdue calibration sticker, notify the metrology team immediately rather than using the instrument.\n\nFinally, the cold-storage units on the third floor will be reorganized on May 23, and access will be restricted that day. Plan your sample retrievals accordingly.\n\nA mock inspection will be conducted by my team on May 27. Findings will be shared with supervisors the following morning so corrections can be made before the actual audit.",
+    "questions": [
+      {
+        "question": "Why was the memo distributed?",
+        "options": [
+          "To announce the results of a government inspection",
+          "To help staff prepare for an upcoming audit",
+          "To introduce new laboratory equipment",
+          "To report a product recall"
+        ],
+        "answer": 1,
+        "explanation": "메모는 6월 2일 주간에 예정된 국가 보건 당국의 안전 감사를 앞두고 직원들이 검토해야 할 준비 사항(라벨링, 실험 노트, 교정 기록 등)을 안내하기 위해 배포되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was the most common problem found during last year's internal review?",
+        "options": [
+          "Expired reagents in storage",
+          "Containers without proper labels",
+          "Missing signatures in notebooks",
+          "Overdue equipment calibrations"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 작년 내부 점검 때 라벨이 없는 2차 용기(unlabeled secondary containers)가 가장 자주 지적된 문제였다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should an employee do upon finding an overdue calibration sticker?",
+        "options": [
+          "Replace the sticker with a new one",
+          "Use the instrument only for routine tests",
+          "Contact the metrology team without using the instrument",
+          "Move the instrument to the third floor"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 교정 기한이 지난 스티커를 발견하면 해당 기기를 사용하지 말고 즉시 계측(metrology)팀에 알리라고 지시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen on May 27?",
+        "options": [
+          "The official audit will begin.",
+          "Cold-storage units will be reorganized.",
+          "A practice inspection will take place.",
+          "Calibration stickers will be replaced."
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 5월 27일에 모의 점검(mock inspection)이 실시되고, 그 결과는 다음 날 아침 관리자들에게 공유된다고 안내하고 있습니다. 냉장 보관고 재정리는 5월 23일이고, 실제 감사는 6월 2일 주간입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Clinical Operations Team\nFrom: Dr. Samuel Adeyemi <s.adeyemi@calyxbiopharma.com>\nSubject: Recruitment Update — CLX-204 Trial\nDate: August 18\n\nDear Team,\n\nHere is the mid-quarter update on participant recruitment for the CLX-204 hypertension study.\n\nAs of August 15, we have enrolled 312 of the 450 participants required across our five study sites. The Brookfield and Santa Rosa clinics have already met their individual targets, while the Davenport site has reached only forty percent of its goal. Our analysis suggests the shortfall stems from the site's limited evening hours, which make visits difficult for working adults — the demographic most represented in our screening pool.\n\nTo address this, the Davenport clinic will begin offering appointments until 8:00 P.M. on Tuesdays and Thursdays starting September 1. In addition, we have received ethics board approval to place recruitment notices in three regional newspapers and on two transit lines. Updated flyers are attached; please discard earlier versions, which list an incorrect phone number for the screening office.\n\nIf enrollment does not reach 400 by October 31, we will need to discuss extending the recruitment window with the study sponsor, which could delay the interim analysis. Let's make every effort to avoid that outcome.\n\nBest,\nSamuel",
+    "questions": [
+      {
+        "question": "What is the purpose of the e-mail?",
+        "options": [
+          "To announce the completion of a clinical study",
+          "To report on enrollment progress and corrective measures",
+          "To request additional research funding",
+          "To introduce a new study sponsor"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 CLX-204 임상시험의 참가자 모집 현황(450명 중 312명 등록)을 보고하고, 부진한 Davenport 지점에 대한 개선 조치(야간 진료 확대, 광고 게재)를 안내하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the likely reason for low enrollment at the Davenport site?",
+        "options": [
+          "Its location is far from public transit.",
+          "Its operating hours are inconvenient for working adults.",
+          "Its staff lacks recruitment training.",
+          "Its screening equipment is outdated."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 Davenport 지점의 부진은 저녁 운영 시간이 제한적이어서 직장인들이 방문하기 어렵기 때문으로 분석된다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why should earlier versions of the flyers be discarded?",
+        "options": [
+          "They show an incorrect telephone number.",
+          "They have not been approved by the ethics board.",
+          "They mention the wrong study name.",
+          "They omit the new evening hours."
+        ],
+        "answer": 0,
+        "explanation": "세 번째 단락에서 이전 버전의 전단에는 스크리닝 사무실의 전화번호가 잘못 기재되어 있으므로 폐기하라고 안내하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What could happen if enrollment falls short of 400 by October 31?",
+        "options": [
+          "The Davenport site will be closed.",
+          "The study results will be published early.",
+          "The recruitment period may need to be extended.",
+          "Two study sites will be merged."
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 10월 31일까지 등록 인원이 400명에 미치지 못하면 스폰서와 모집 기간 연장을 논의해야 하며, 이는 중간 분석을 지연시킬 수 있다고 언급하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: Packaging Department, Second Shift\nFrom: Hannah Strickland, Plant Operations Manager\nDate: January 20\nRe: Line 3 Changeover to Blister Packaging\n\nBeginning February 9, packaging line 3 will be converted from bottle filling to blister-pack production to support the launch of our new allergy tablet, Clarivex. The conversion addresses growing pharmacy demand for calendar-style packs, which help patients track daily doses.\n\nThe changeover will take place over two weekends, February 7-8 and February 14-15, so weekday production will not be interrupted. During this period, bottle-filling volume will shift temporarily to lines 1 and 2, and overtime slots will be available for operators willing to support the increased load. Sign-up sheets are posted outside the shift office.\n\nAll second-shift operators assigned to line 3 must complete a certification course on the new equipment before February 9. The course consists of a two-hour online module followed by a practical assessment conducted by the equipment manufacturer's trainer, who will be on site February 2-6. Operators who do not obtain certification by the deadline will be reassigned to other lines until they complete it.\n\nQuality assurance staff will run validation batches during the week of February 16; commercial production is scheduled to begin February 23.",
+    "questions": [
+      {
+        "question": "Why is line 3 being converted?",
+        "options": [
+          "To replace aging equipment",
+          "To produce a new product in blister packs",
+          "To comply with a government regulation",
+          "To reduce energy consumption"
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 신제품 알레르기약 Clarivex 출시를 지원하기 위해 3번 라인을 병 충전에서 블리스터 팩 생산으로 전환한다고 밝히고 있습니다. 약국들의 캘린더형 포장 수요 증가가 배경입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is the changeover scheduled for weekends?",
+        "options": [
+          "Trainers are available only on weekends.",
+          "Weekend labor costs are lower.",
+          "It avoids disrupting weekday production.",
+          "Validation batches must run on weekdays."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 전환 작업을 두 번의 주말에 걸쳐 진행하여 평일 생산이 중단되지 않도록 한다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to operators who are not certified by February 9?",
+        "options": [
+          "They will be assigned to different lines temporarily.",
+          "They will lose their overtime eligibility.",
+          "They will receive a written warning.",
+          "They will be transferred to the first shift."
+        ],
+        "answer": 0,
+        "explanation": "세 번째 단락에서 기한까지 인증을 받지 못한 작업자는 인증을 완료할 때까지 다른 라인으로 재배치된다고 명시하고 있습니다. 경고나 야근 자격 박탈, 1교대 전환은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When is commercial production on line 3 scheduled to start?",
+        "options": [
+          "February 9",
+          "February 14",
+          "February 16",
+          "February 23"
+        ],
+        "answer": 3,
+        "explanation": "마지막 단락에서 2월 16일 주간에 품질보증팀이 검증 배치를 생산하고, 상업 생산은 2월 23일에 시작될 예정이라고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Residential Customers, Glenbrook Service Area\nFrom: Tarrow Electric Cooperative <notices@tarrowelectric.com>\nSubject: Planned Power Interruption — Saturday, March 28\nDate: March 16\n\nDear Customer,\n\nTo replace aging transformers and install storm-resistant poles along Route 9, Tarrow Electric will interrupt service to the Glenbrook area on Saturday, March 28, from 8:00 A.M. to approximately 2:00 P.M.\n\nThis upgrade is part of our three-year grid modernization program, which has already reduced weather-related outages by thirty percent in the neighboring Pinehurst district. Once the work is complete, Glenbrook customers should experience fewer and shorter interruptions during severe weather.\n\nWe schedule planned work on weekends to minimize disruption to home-based businesses; however, we recognize that any outage is inconvenient. Customers who rely on electrically powered medical equipment should call 555-0190 before March 23 to arrange support, which may include a temporary battery unit delivered to your home at no cost.\n\nIf crews finish ahead of schedule, power will be restored early. In the event of heavy rain, the work will move to the following Saturday, April 4, and a notice will be posted on our website by 6:00 P.M. on March 27. We appreciate your patience as we strengthen the local grid.\n\nTarrow Electric Cooperative\nCustomer Communications",
+    "questions": [
+      {
+        "question": "Why will electricity service be interrupted on March 28?",
+        "options": [
+          "Crews will be repairing storm damage.",
+          "Infrastructure along a route will be upgraded.",
+          "A new billing system will be installed.",
+          "The cooperative is relocating its offices."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 노후 변압기 교체와 폭풍에 강한 전신주 설치 등 Route 9를 따라 진행되는 설비 개선 작업 때문에 서비스가 중단된다고 명시하고 있습니다. 이미 발생한 폭풍 피해 복구가 아니라 계획된 업그레이드입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the Pinehurst district?",
+        "options": [
+          "It will lose power on March 28.",
+          "It has already benefited from similar work.",
+          "It is served by a different utility company.",
+          "Its customers pay higher rates."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 이웃한 Pinehurst 지역은 같은 전력망 현대화 프로그램으로 기상 관련 정전이 이미 30% 감소했다고 언급되어 있으므로, 유사한 작업의 혜택을 이미 받았음을 알 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is asked to call the utility before March 23?",
+        "options": [
+          "Customers who operate home-based businesses",
+          "Customers who use medical devices that require electricity",
+          "Customers who wish to reschedule the work",
+          "Customers who experienced storm damage"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 전기로 작동하는 의료 장비에 의존하는 고객은 3월 23일 전에 전화하여 무료 임시 배터리 장치 등 지원을 받을 수 있도록 안내하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will customers know if the work is postponed?",
+        "options": [
+          "They will receive a phone call.",
+          "A notice will appear on the company's website.",
+          "A letter will be mailed to each home.",
+          "Crews will post signs along Route 9."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 폭우가 내릴 경우 작업이 다음 주 토요일(4월 4일)로 연기되며, 3월 27일 오후 6시까지 웹사이트에 공지가 게시될 것이라고 안내하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Field Service Technicians\nFrom: Owen Gallagher, Metering Services Manager, Brightwater Utilities\nDate: April 7\nRe: Smart Meter Installation — Phase Two\n\nPhase two of our smart meter rollout begins May 5 and covers approximately 22,000 households in the Eastfield and Carver Heights districts. Phase one, completed in March, finished eleven days ahead of schedule thanks to your efficiency — thank you.\n\nFor phase two, please note the following adjustments. Installation appointments will now be offered in two-hour windows instead of four-hour windows, a change requested by customers in our post-phase-one survey. This means tighter routing; your daily schedules will be generated by the new dispatch software, and route changes must be cleared with dispatch rather than swapped informally between technicians.\n\nApartment buildings with banked meters require a property manager's signature before work begins. A list of buildings and manager contacts will be loaded onto your tablets. If a resident refuses an installation, do not attempt to persuade them; record the refusal in the system and move to the next appointment. The customer relations team will follow up separately.\n\nReplacement meters and lockable enclosures will be stocked at the Carver Depot rather than the central warehouse to cut travel time. Collect your first week's inventory there on May 2.",
+    "questions": [
+      {
+        "question": "What is indicated about phase one of the rollout?",
+        "options": [
+          "It covered 22,000 households.",
+          "It was completed earlier than planned.",
+          "It was delayed by weather.",
+          "It required signatures from property managers."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 3월에 완료된 1단계는 기술자들의 효율 덕분에 일정보다 11일 앞당겨 끝났다고 명시하고 있습니다. 22,000가구는 2단계 대상입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why were appointment windows shortened?",
+        "options": [
+          "Customers asked for the change in a survey.",
+          "The dispatch software cannot handle longer windows.",
+          "Technicians requested shorter shifts.",
+          "Regulations limit appointment lengths."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 설치 예약 시간대를 4시간에서 2시간으로 줄인 것은 1단계 이후 실시한 고객 설문조사에서 고객들이 요청한 변경 사항이라고 밝히고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should a technician do if a resident declines an installation?",
+        "options": [
+          "Explain the benefits of the smart meter",
+          "Offer to return later the same day",
+          "Log the refusal and continue to the next job",
+          "Contact the property manager immediately"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 주민이 설치를 거부하면 설득하려 하지 말고 시스템에 거부 사실을 기록한 뒤 다음 예약으로 이동하라고 지시하고 있습니다. 후속 조치는 고객관리팀이 별도로 진행합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will equipment be stocked at the Carver Depot?",
+        "options": [
+          "The central warehouse is being renovated.",
+          "To reduce the time technicians spend traveling",
+          "To improve inventory security",
+          "The depot offers lower storage fees"
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 교체용 계량기와 잠금형 외함을 중앙 창고 대신 Carver Depot에 비치하는 이유는 이동 시간을 줄이기 위해서(to cut travel time)라고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Lydia Moreau <lmoreau@hartwellmail.com>\nFrom: Sunpath Energy Programs <programs@sunpathpower.com>\nSubject: Your Solar Rebate Application — Approved with Conditions\nDate: June 19\n\nDear Ms. Moreau,\n\nCongratulations! Your application for the Residential Solar Incentive Program has been approved. Based on the 6.4-kilowatt system proposed for your home at 88 Cobble Hill Road, you qualify for a rebate of $3,840, payable after installation is verified.\n\nPlease note the following conditions. The installation must be performed by a contractor on our certified installer list, which is updated monthly on our website; work completed by uncertified installers is not eligible for the rebate. Installation must be finished within 180 days of this notice, and an inspection by our technical team must be scheduled within 30 days of completion. Finally, the rebate is issued as a credit on your electricity account rather than as a check, and any unused balance carries forward to subsequent billing cycles.\n\nOne item in your file requires attention: the roof assessment you submitted is more than twelve months old. Please arrange an updated assessment and upload the report to your application portal before work begins. Many certified installers provide this service at no charge when they prepare a final quote.\n\nWe look forward to verifying your completed system.\n\nSunpath Energy Programs Team",
+    "questions": [
+      {
+        "question": "Why was the e-mail sent to Ms. Moreau?",
+        "options": [
+          "To notify her that her application was approved subject to conditions",
+          "To inform her that her rebate has been paid",
+          "To reject her application because of an old roof assessment",
+          "To advertise a new solar panel model"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 태양광 인센티브 프로그램 신청이 승인되었음을 알리면서, 인증 시공사 사용, 180일 내 설치 등 충족해야 할 조건들을 안내하고 있습니다. 리베이트는 아직 지급되지 않았고, 신청이 거절된 것도 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will the rebate be provided?",
+        "options": [
+          "As a mailed check",
+          "As a bank transfer",
+          "As a credit on her electricity account",
+          "As a discount from the installer"
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 리베이트는 수표가 아니라 전기 요금 계정의 크레딧으로 지급되며, 사용하지 않은 잔액은 다음 청구 주기로 이월된다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must Ms. Moreau do before installation begins?",
+        "options": [
+          "Pay a program enrollment fee",
+          "Submit a recent roof assessment",
+          "Choose a payment plan",
+          "Schedule a final inspection"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 제출된 지붕 평가서가 12개월이 넘었으므로, 공사 시작 전에 최신 평가를 받아 보고서를 포털에 업로드하라고 요청하고 있습니다. 최종 점검은 설치 완료 후 30일 이내에 예약하는 것입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about certified installers?",
+        "options": [
+          "They charge more than uncertified contractors.",
+          "Some offer free roof assessments with a quote.",
+          "They are employed directly by Sunpath Energy.",
+          "Their list is updated once a year."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락 마지막에 많은 인증 시공사들이 최종 견적을 준비할 때 지붕 평가를 무료로 제공한다고 언급되어 있습니다. 인증 시공사 명단은 매달 갱신되며, Sunpath 직원이라는 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Vincent Okada <v.okada@okadahospitality.com>\nFrom: Renata Bilic <r.bilic@atelierhalcyon.com>\nSubject: Revised Lobby Design — Halcyon Bay Hotel\nDate: October 27\n\nDear Mr. Okada,\n\nThank you for your detailed comments on the schematic design we presented on October 20. Attached are revised drawings for the hotel lobby that respond to each of your three concerns.\n\nFirst, we have relocated the reception desk away from the main entrance to reduce congestion during group check-ins; it now sits beside the garden atrium, with a dedicated queuing area. Second, the skylight has been reduced from twelve meters to nine meters in length. Our engineers confirmed this change lowers the structural steel requirement enough to bring the lobby package back within your construction budget. Third, in place of imported marble flooring, we propose a locally quarried limestone that achieves a similar appearance at roughly sixty percent of the cost, with shorter delivery times.\n\nOne decision remains open: the mezzanine café. Extending the mezzanine would add seating for forty guests but would require resubmitting our permit application, adding an estimated six weeks to the approval process. We need your direction on this by November 7 to hold the current construction start date.\n\nCould your team join us for a review meeting during the first week of November? I am available any afternoon except Wednesday.\n\nKind regards,\nRenata Bilic, Principal Architect\nAtelier Halcyon",
+    "questions": [
+      {
+        "question": "Why did Ms. Bilic send the e-mail?",
+        "options": [
+          "To present design changes made in response to client feedback",
+          "To request an extension of the construction deadline",
+          "To submit a final invoice for design services",
+          "To announce the completion of the hotel lobby"
+        ],
+        "answer": 0,
+        "explanation": "이메일 서두에서 10월 20일에 제시한 설계안에 대한 고객의 세 가지 우려 사항에 각각 대응한 수정 도면을 첨부한다고 밝히고 있으므로, 고객 피드백을 반영한 설계 변경을 제시하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why was the reception desk moved?",
+        "options": [
+          "To make room for a larger skylight",
+          "To ease crowding when groups check in",
+          "To comply with safety regulations",
+          "To improve views of the bay"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 단체 체크인 시 혼잡을 줄이기 위해 리셉션 데스크를 정문에서 떨어진 정원 아트리움 옆으로 옮기고 전용 대기 공간을 마련했다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is an advantage of the proposed limestone flooring?",
+        "options": [
+          "It is more durable than marble.",
+          "It is available in more colors.",
+          "It costs less and arrives faster than the imported option.",
+          "It requires no professional installation."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 현지에서 채석한 석회암은 수입 대리석과 비슷한 외관을 약 60%의 비용으로 구현하며 납품 기간도 짧다고 언급하고 있습니다. 내구성, 색상, 시공 관련 장점은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is implied about extending the mezzanine?",
+        "options": [
+          "It would reduce the number of guest seats.",
+          "It could delay the start of construction.",
+          "It has already been approved by the city.",
+          "It would lower the structural steel requirement."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 메자닌 확장은 허가 신청을 다시 제출해야 하여 승인 절차에 약 6주가 추가되며, 현재의 착공일을 지키려면 11월 7일까지 결정이 필요하다고 했습니다. 따라서 확장이 착공 지연으로 이어질 수 있음을 추론할 수 있습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Design Staff, Forsythe & Lang Architects\nFrom: Miriam Castile, Director of Information Technology\nDate: July 8\nRe: Transition to Floating Software Licenses\n\nOn August 4, the firm will replace individually assigned licenses for our drafting and rendering software with a shared pool of floating licenses managed by a central server.\n\nUnder the current arrangement, each workstation holds a permanent license whether or not it is in use; an internal review found that, on a typical day, almost a third of our licenses sit idle. The floating system will let any staff member check out a license on demand and will release it automatically after twenty minutes of inactivity. The change reduces our annual software costs by an estimated $48,000 — savings that will fund the additional rendering licenses requested by the visualization team for over a year.\n\nA few practical notes. Save your work frequently: if your license is reclaimed during inactivity, unsaved changes are preserved locally but cannot be edited until a license becomes available again. Staff working at client sites or on construction sites should reserve an offline license through the IT portal at least one day in advance; offline checkouts last up to seven days. Project managers may request priority access for teams facing submission deadlines.\n\nA demonstration session will be held in the main conference room on July 24 at noon. Pizza will be provided.",
+    "questions": [
+      {
+        "question": "What problem prompted the change described in the memo?",
+        "options": [
+          "Software vendors raised their prices.",
+          "A large share of licenses were going unused.",
+          "The central server was overloaded.",
+          "Staff complained about outdated software."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 내부 검토 결과 일반적인 날에 라이선스의 거의 3분의 1이 유휴 상태로 방치되어 있음이 확인되어 변동(floating) 라이선스 방식으로 전환하게 되었다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen after twenty minutes of inactivity?",
+        "options": [
+          "The workstation will shut down.",
+          "A license will be returned to the shared pool automatically.",
+          "Unsaved work will be deleted.",
+          "The IT department will be notified."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 20분간 사용하지 않으면 라이선스가 자동으로 반환(release)된다고 명시하고 있습니다. 저장하지 않은 작업은 로컬에 보존되지만 라이선스를 다시 받을 때까지 편집할 수 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should employees working away from the office do?",
+        "options": [
+          "Purchase a personal license",
+          "Reserve an offline license at least one day ahead",
+          "Borrow a colleague's workstation",
+          "Contact a project manager for approval"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 고객사나 건설 현장에서 일하는 직원은 최소 하루 전에 IT 포털을 통해 오프라인 라이선스를 예약해야 하며, 오프라인 사용은 최대 7일까지 가능하다고 안내하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will the expected savings be used?",
+        "options": [
+          "To hire additional IT staff",
+          "To upgrade workstation hardware",
+          "To pay for extra rendering licenses",
+          "To renovate the main conference room"
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 연간 약 48,000달러의 절감액으로 시각화 팀이 1년 넘게 요청해 온 추가 렌더링 라이선스 구입 비용을 충당할 것이라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Project Team — Dockside Cultural Center\nFrom: Anders Holm <a.holm@meridianarchitecture.com>\nSubject: Site Visit Arrangements — Friday, May 15\nDate: May 11\n\nTeam,\n\nOur quarterly site visit to the Dockside Cultural Center is confirmed for this Friday, May 15. Please read the following carefully, as several arrangements differ from our February visit.\n\nWe will meet at the contractor's site office at 9:00 A.M. — not at the harbor gate, which is closed this month while the seawall is being reinforced. Parking beside the site office is limited to six vehicles, so please use the shuttle from our headquarters, departing at 8:15 A.M. sharp.\n\nThe structural frame for the performance hall is now complete, and Friday's priority is to verify the dimensions of the window openings on the north facade before the glazing order is placed on May 20. Lena and Patrice, please bring the laser measuring kit and the latest facade drawings, revision F. Note that revision E, still posted on the project portal, was superseded last week; I have asked the document controller to correct this.\n\nHard hats, safety boots, and high-visibility vests are required at all times. The contractor will not issue loaner equipment anymore, so bring your own gear. Anyone arriving without it will be limited to the site office.\n\nLunch will follow at Quayside Kitchen, where we can discuss findings before returning at 3:00 P.M.\n\nAnders",
+    "questions": [
+      {
+        "question": "Why is the team meeting at the site office instead of the harbor gate?",
+        "options": [
+          "The harbor gate is inaccessible due to seawall work.",
+          "The site office has more parking.",
+          "The contractor requested the change.",
+          "The harbor gate is too far from the shuttle stop."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 방파제(seawall) 보강 공사로 이번 달 항만 게이트가 폐쇄되어 있으므로 시공사 현장 사무실에서 모인다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the main task planned for the visit?",
+        "options": [
+          "Inspecting the completed seawall",
+          "Checking the measurements of window openings",
+          "Interviewing the contractor's staff",
+          "Photographing the performance hall interior"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 5월 20일 유리(glazing) 발주 전에 북측 입면 창 개구부의 치수를 확인하는 것이 금요일 방문의 최우선 과제라고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about revision E of the facade drawings?",
+        "options": [
+          "It is the version that should be used on Friday.",
+          "It is no longer the current version.",
+          "It was prepared by the contractor.",
+          "It is missing from the project portal."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 포털에 아직 게시되어 있는 revision E는 지난주에 대체(superseded)되었고 최신 버전은 revision F라고 했으므로, revision E는 더 이상 유효한 버전이 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen to team members who arrive without safety gear?",
+        "options": [
+          "They will borrow equipment from the contractor.",
+          "They will be sent back to headquarters.",
+          "They will have to stay in the site office.",
+          "They will pay a safety fine."
+        ],
+        "answer": 2,
+        "explanation": "네 번째 단락에서 시공사가 더 이상 대여 장비를 제공하지 않으므로 개인 장비를 지참해야 하며, 장비 없이 도착한 사람은 현장 사무실에만 머물러야 한다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Staff, Calloway & Berg Accounting\nFrom: Diane Whitcomb, Managing Partner\nDate: January 9\nRe: Busy-Season Policies, February 1 - April 15\n\nAs we approach tax season, please review the firm's busy-season policies, which take effect February 1 and remain in place through April 15.\n\nScheduling. Core hours will be 9:00 A.M. to 7:00 P.M. on weekdays, and the office will be open on Saturdays from 9:00 A.M. to 2:00 P.M. Staff are expected to work one Saturday in three; the rotation schedule will be posted by January 23. Remote work remains available on Wednesdays only, as client document deliveries are lightest midweek.\n\nMeals and transportation. Staff working past 8:00 P.M. may order dinner through the firm's account, up to $25 per person, and may use a car service home at the firm's expense after 9:30 P.M. Receipts must be submitted within one week.\n\nTime off. Vacation requests during the busy season are suspended except in cases of emergency, which require approval from both your engagement manager and a partner. Vacation days already approved before January 9 will be honored.\n\nFinally, our annual post-season celebration is scheduled for April 24 at Harbor Hall. Families are welcome this year. Details will follow in March.",
+    "questions": [
+      {
+        "question": "What is the purpose of the memo?",
+        "options": [
+          "To announce the hiring of seasonal staff",
+          "To explain workplace policies during a peak period",
+          "To introduce a new managing partner",
+          "To describe changes to client billing rates"
+        ],
+        "answer": 1,
+        "explanation": "메모는 세금 신고 성수기(2월 1일~4월 15일) 동안 적용되는 근무 시간, 식비·교통비, 휴가 정책 등 회사 방침을 안내하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is remote work permitted only on Wednesdays?",
+        "options": [
+          "Client document deliveries are fewest on that day.",
+          "The office is closed for cleaning on Wednesdays.",
+          "Partners hold meetings on other days.",
+          "The firm's software is updated midweek."
+        ],
+        "answer": 0,
+        "explanation": "Scheduling 항목에서 고객 서류 배송이 주중(수요일)에 가장 적기 때문에 재택근무가 수요일에만 허용된다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a benefit for staff working late?",
+        "options": [
+          "A meal allowance of up to $25",
+          "A car service paid by the firm",
+          "An additional hourly bonus",
+          "Reimbursement upon submitting receipts"
+        ],
+        "answer": 2,
+        "explanation": "메모에는 오후 8시 이후 근무 시 1인당 25달러까지 식사 주문 가능, 오후 9시 30분 이후 회사 부담 차량 서비스 이용, 영수증 제출(1주일 이내)이 언급되어 있으나, 추가 시간당 보너스는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about vacation days approved before January 9?",
+        "options": [
+          "They must be rescheduled after April 15.",
+          "They will still be honored.",
+          "They require a partner's re-approval.",
+          "They will be converted to paid overtime."
+        ],
+        "answer": 1,
+        "explanation": "Time off 항목에서 성수기 중 휴가 신청은 원칙적으로 중단되지만, 1월 9일 이전에 이미 승인된 휴가는 그대로 인정된다(will be honored)고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Gregory Tanaka <g.tanaka@bluefirgrill.com>\nFrom: Yusuf Demir <y.demir@pattersonbray.com>\nSubject: Outstanding Items for Your Year-End Financial Statements\nDate: February 3\n\nDear Mr. Tanaka,\n\nWe are making good progress on the year-end financial statements for Blue Fir Grill, and most of the records your bookkeeper provided in January were complete and well organized. However, three items are still outstanding, and we cannot finalize the statements without them.\n\n1. Bank statements for November and December for the payroll account. We received statements for the operating account only.\n2. Invoices supporting the kitchen equipment purchase recorded on October 12. The ledger shows a payment of $14,300, but no supplier invoice was attached, and we need it to classify the purchase correctly for depreciation.\n3. A signed copy of the amended lease for your patio expansion. The rent increase it contains affects the expense figures we report.\n\nPlease upload these to our client portal by February 14. Our engagement timeline assumed all records would be in hand by mid-February; if the documents arrive later, we may not complete the statements before your bank's March 2 deadline for your credit line renewal, and rush processing would involve additional fees.\n\nAs always, call me at extension 230 if anything is unclear.\n\nSincerely,\nYusuf Demir, CPA\nPatterson & Bray Accounting",
+    "questions": [
+      {
+        "question": "Why did Mr. Demir write to Mr. Tanaka?",
+        "options": [
+          "To request missing financial records",
+          "To announce an increase in accounting fees",
+          "To recommend a new bookkeeper",
+          "To confirm that the statements are finished"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 연말 재무제표 작성을 마무리하기 위해 아직 미제출된 세 가지 자료(은행 명세서, 장비 구매 인보이스, 수정 임대계약서)를 요청하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Mr. Demir need the supplier invoice from October 12?",
+        "options": [
+          "To verify the payroll account balance",
+          "To properly classify the purchase for depreciation",
+          "To dispute an overcharge with the supplier",
+          "To calculate the rent increase"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 항목에서 장부에 14,300달러 지급 기록은 있으나 공급업체 인보이스가 없어, 감가상각을 위해 구매를 올바르게 분류하려면 인보이스가 필요하다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What could happen if the documents arrive after February 14?",
+        "options": [
+          "The bank will cancel Mr. Tanaka's credit line.",
+          "The statements may miss a bank deadline unless extra fees are paid.",
+          "The lease amendment will become invalid.",
+          "A different accountant will take over the engagement."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 서류가 늦게 도착하면 신용 한도 갱신을 위한 은행 마감일(3월 2일) 전에 재무제표를 완성하지 못할 수 있고, 긴급 처리에는 추가 수수료가 발생한다고 경고하고 있습니다. 신용 한도가 곧바로 취소된다고 단정하지는 않았습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "The word \"outstanding\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "excellent",
+          "not yet provided",
+          "overdue for payment",
+          "clearly visible"
+        ],
+        "answer": 1,
+        "explanation": "문맥상 'three items are still outstanding'은 세 가지 항목이 아직 제출되지 않았다는 의미이므로 'not yet provided'가 가장 가깝습니다. 'outstanding'의 '뛰어난'이라는 뜻과 혼동을 유도하는 동의어 문제입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Employees, Renner Hodge Advisory\nFrom: Tomas Albrecht, Chief Financial Officer\nDate: September 14\nRe: New Expense Reporting System — TrailLedger\n\nOn October 1, the firm will retire its spreadsheet-based expense reporting process and adopt TrailLedger, a cloud-based system accessible from both desktop computers and mobile devices.\n\nThe key improvement is receipt capture: simply photograph a receipt with your phone, and TrailLedger extracts the vendor, date, and amount automatically. The system also flags any expense that falls outside firm policy — for example, hotel rates above the approved city limits — before the report reaches your supervisor, which should sharply reduce the back-and-forth corrections that currently delay reimbursements by up to two weeks.\n\nTo prepare for the transition, all employees must complete two steps by September 26: activate your TrailLedger account using the invitation e-mail sent on September 12, and verify the bank account on file for reimbursement deposits. Anyone who has not received an invitation should contact the finance help desk, since several invitations were returned due to outdated e-mail addresses in our records.\n\nImportant: expense reports begun in the old spreadsheet format must be submitted no later than September 30. The old system will become read-only on October 1, and incomplete drafts cannot be transferred to TrailLedger.\n\nBrief video tutorials are posted on the intranet under Finance Resources.",
+    "questions": [
+      {
+        "question": "What is one announced advantage of TrailLedger?",
+        "options": [
+          "It eliminates the need for supervisor approval.",
+          "It automatically reads information from photographed receipts.",
+          "It increases the firm's reimbursement limits.",
+          "It pays employees in foreign currencies."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 휴대전화로 영수증을 촬영하기만 하면 TrailLedger가 판매처, 날짜, 금액을 자동으로 추출한다고 설명하고 있습니다. 상사 승인 절차 자체가 없어지는 것은 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What currently delays reimbursements?",
+        "options": [
+          "Slow bank transfers",
+          "Repeated corrections to noncompliant reports",
+          "A shortage of finance staff",
+          "Monthly processing cycles"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 현재는 정책에 맞지 않는 지출에 대한 수정 작업이 반복되면서(back-and-forth corrections) 환급이 최대 2주까지 지연된다고 언급하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why might some employees not have received an invitation e-mail?",
+        "options": [
+          "Their accounts were already activated.",
+          "The e-mail addresses on record were out of date.",
+          "Invitations are sent only to supervisors.",
+          "The invitations will be sent in October."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 일부 초대 메일이 기록상의 오래된 이메일 주소 때문에 반송되었다고 설명하며, 초대장을 받지 못한 직원은 재무 헬프데스크에 연락하라고 안내하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about expense reports started in the old format?",
+        "options": [
+          "They will be automatically moved to TrailLedger.",
+          "They must be finished and submitted by September 30.",
+          "They will be reviewed by the CFO personally.",
+          "They can be edited until the end of October."
+        ],
+        "answer": 1,
+        "explanation": "네 번째 단락에서 기존 스프레드시트 형식으로 시작한 경비 보고서는 9월 30일까지 제출해야 하며, 10월 1일부터 구 시스템은 읽기 전용이 되고 미완성 초안은 TrailLedger로 이전할 수 없다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Beatriz Lemos <b.lemos@lemosimports.com>\nFrom: Vantel Communications <accounts@vantelcom.com>\nSubject: Action Required — Your Business Plan Is Being Retired\nDate: March 5\n\nDear Ms. Lemos,\n\nWe are writing to inform you that your current mobile plan, Business Flex 20, will be discontinued on June 1 as we phase out our older third-generation network services. To ensure uninterrupted service for the six lines on your account, you will need to select a replacement plan before that date.\n\nBased on your usage over the past year — averaging 38 gigabytes of data per month across all lines — we recommend Business Core 50, which includes 50 gigabytes of shared data, unlimited domestic calling, and free international texting to twelve countries. At $144 per month, it costs $9 less than what you currently pay, because newer network technology is less expensive for us to operate.\n\nIf you take no action by May 15, your lines will be moved automatically to Business Core 50 at the promotional rate guaranteed for twenty-four months. Customers who prefer a different plan can compare all options at vantelcom.com/business or by calling our small business team at 555-0122, weekdays 8:00 A.M. to 6:00 P.M.\n\nPlease note that two of your devices, registered in 2019, are not compatible with the newer network. Eligible replacement phones are available at no cost with a two-year service agreement.\n\nVantel Communications Business Services",
+    "questions": [
+      {
+        "question": "Why is Ms. Lemos's current plan being discontinued?",
+        "options": [
+          "Her payments have been overdue.",
+          "An older network is being phased out.",
+          "Her company exceeded its data allowance.",
+          "The plan was offered for a limited time only."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 구형 3세대 네트워크 서비스를 단계적으로 폐지함에 따라 현재 요금제인 Business Flex 20이 6월 1일에 종료된다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the recommended plan?",
+        "options": [
+          "It is more expensive than the current plan.",
+          "It costs less than what Ms. Lemos pays now.",
+          "It includes unlimited international calling.",
+          "It covers fewer lines than the current plan."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 Business Core 50은 월 144달러로 현재 지불하는 금액보다 9달러 저렴하다고 명시하고 있습니다. 국제 통화가 아니라 12개국 무료 국제 문자가 포함됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if Ms. Lemos does nothing by May 15?",
+        "options": [
+          "Her six lines will be disconnected.",
+          "Her account will switch to the recommended plan automatically.",
+          "She will be charged a cancellation fee.",
+          "Her current plan will be extended for two years."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 5월 15일까지 아무 조치를 취하지 않으면 회선이 자동으로 Business Core 50으로 전환되며, 프로모션 요금이 24개월간 보장된다고 안내하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about two of Ms. Lemos's devices?",
+        "options": [
+          "They were purchased from a different carrier.",
+          "They will need to be replaced to work on the newer network.",
+          "They are still under warranty.",
+          "They can be upgraded with new software."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 2019년에 등록된 두 대의 기기는 새 네트워크와 호환되지 않으며, 2년 약정 시 무상으로 교체 휴대전화를 받을 수 있다고 안내하고 있으므로 교체가 필요함을 알 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: Customer Care Representatives, Tier 1\nFrom: Felicity Nwosu, Call Center Operations Manager, OrbitLink Telecom\nDate: October 13\nRe: Training for Fiber Service Inquiries\n\nAs OrbitLink expands fiber-optic service to four new suburbs next month, call volume about fiber availability, installation, and pricing is expected to rise by roughly thirty percent. All Tier 1 representatives will therefore complete a mandatory training program during the last two weeks of October.\n\nThe program has three parts. An online module, available now on the learning portal, covers fiber technology basics and must be finished before attending the classroom session. Classroom sessions, offered daily at 10:00 A.M. and 3:00 P.M. from October 20 to October 31, focus on the new ordering screens and on scheduling installation appointments. Finally, each representative will complete two hours of side-by-side call shadowing with a member of the fiber support team.\n\nUntil you complete all three parts, continue to transfer fiber-related calls to extension 7700 rather than attempting to answer from the general knowledge base, which has not yet been updated. Representatives who finish training by October 24 will be entered into a drawing for one of five $50 gift cards.\n\nSupervisors will track completion on the team dashboard. Schedule your classroom session with your shift lead, not directly through the portal, so coverage gaps can be avoided.",
+    "questions": [
+      {
+        "question": "Why is the training being conducted?",
+        "options": [
+          "Customer complaints about billing have increased.",
+          "A service expansion is expected to increase related calls.",
+          "New government rules require annual certification.",
+          "The call center is moving to a new location."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 다음 달 4개 교외 지역으로 광섬유 서비스를 확장함에 따라 관련 문의 전화가 약 30% 증가할 것으로 예상되어 의무 교육을 실시한다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must representatives do before attending a classroom session?",
+        "options": [
+          "Complete an online module",
+          "Shadow a fiber support team member",
+          "Pass a certification examination",
+          "Update the general knowledge base"
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 학습 포털의 온라인 모듈(광섬유 기술 기초)을 교실 수업 참석 전에 끝내야 한다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How should untrained representatives handle fiber-related calls?",
+        "options": [
+          "Answer them using the general knowledge base",
+          "Ask callers to call back in November",
+          "Transfer them to extension 7700",
+          "Take a message for the fiber support team"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 세 가지 교육 과정을 모두 마치기 전까지는 일반 지식 데이터베이스(아직 갱신되지 않음)로 답하려 하지 말고 광섬유 관련 전화를 내선 7700으로 돌리라고 지시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why should classroom sessions be scheduled through shift leads?",
+        "options": [
+          "The learning portal is out of service.",
+          "To prevent gaps in phone coverage",
+          "Shift leads must attend the same session.",
+          "Sessions fill up within a day."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 교실 수업 일정은 포털이 아니라 교대 책임자(shift lead)를 통해 잡아야 하는데, 이는 상담 인력 공백(coverage gaps)을 피하기 위해서라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Martin Greaves <m.greaves@harlowlogics.com>\nFrom: Sienna Park <s.park@cypresstel.com>\nSubject: Scheduled Network Upgrade for Your Office — April 11\nDate: March 30\n\nDear Mr. Greaves,\n\nThank you for renewing your enterprise service agreement with CypressTel. As discussed with your operations director, we have scheduled the upgrade of your office's dedicated internet circuit from 500 megabits to 2 gigabits for Saturday, April 11.\n\nOur engineers will arrive at your Linden Street office at 7:00 A.M. and expect to complete the work by noon. Your internet connection will be down for the duration; telephone service, which runs on a separate circuit, will not be affected. We chose a Saturday at your director's request to avoid disrupting your weekday trading operations.\n\nPlease arrange the following before our arrival: building access for two engineers, including the rooftop equipment room; a contact person reachable by mobile phone throughout the visit; and confirmation that your firewall vendor will have a technician on standby, since your equipment must be reconfigured to handle the higher speed once our work is finished. In our experience, this last step is where most delays occur — circuits are ready, but customer equipment is not.\n\nAs a service credit for the inconvenience, your April invoice will be reduced by fifteen percent. If you need to reschedule, let me know at least five business days in advance.\n\nBest regards,\nSienna Park\nEnterprise Account Manager, CypressTel",
+    "questions": [
+      {
+        "question": "What is the purpose of the e-mail?",
+        "options": [
+          "To confirm arrangements for a scheduled service upgrade",
+          "To apologize for a recent network outage",
+          "To propose a new service agreement",
+          "To announce a price increase"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 4월 11일 토요일로 예정된 인터넷 회선 업그레이드(500Mbps에서 2Gbps) 일정과 당일 준비 사항을 확인하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the telephone service?",
+        "options": [
+          "It will be unavailable until noon.",
+          "It will be upgraded along with the internet.",
+          "It will not be affected by the work.",
+          "It will be tested by the firewall vendor."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 전화 서비스는 별도의 회선으로 운영되므로 작업의 영향을 받지 않는다고 명시하고 있습니다. 중단되는 것은 인터넷 연결입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Ms. Park, what most often causes delays in upgrades like this one?",
+        "options": [
+          "Engineers arriving late to the site",
+          "Difficulty accessing rooftop equipment rooms",
+          "Customer equipment not being ready for reconfiguration",
+          "Poor weather conditions on the scheduled day"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 경험상 회선은 준비되었는데 고객 장비(방화벽)가 준비되지 않아 지연되는 경우가 가장 많다고 언급하면서, 방화벽 업체 기술자의 대기를 요청하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will Harlow Logics receive because of the inconvenience?",
+        "options": [
+          "A free month of service",
+          "A discount on its April bill",
+          "A faster circuit at no extra charge",
+          "Priority technical support for one year"
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 불편에 대한 서비스 크레딧으로 4월 청구서가 15% 할인된다고 안내하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Department Heads, Sterling Mutual Bank\nFrom: Rachel Adeoti, Chief Compliance Officer\nDate: August 5\nRe: Annual Anti-Fraud Refresher — Completion Required by August 29\n\nEvery employee must complete this year's anti-fraud refresher course by Friday, August 29. The deadline is earlier than in previous years because our regulator has moved its documentation review to early September.\n\nThe course takes about seventy-five minutes and can be completed in the learning portal in multiple sittings. This year's content adds two new sections: one on recognizing fraudulent wire-transfer instructions that appear to come from senior executives, and one on the proper handling of customer data when working outside the office. The final section includes a fifteen-question quiz; a score of at least eighty percent is required, and the quiz may be retaken once. Employees who do not pass after two attempts must attend an in-person session with the compliance team.\n\nDepartment heads are responsible for ensuring full completion within their teams. Completion reports will be circulated each Monday so you can follow up with anyone outstanding. Please schedule course time for branch employees during slower midafternoon hours rather than the morning rush.\n\nLast year, four departments reached one hundred percent completion two weeks early; those teams were recognized at the quarterly town hall. We hope to see every department on that list this year.",
+    "questions": [
+      {
+        "question": "Why is this year's deadline earlier than usual?",
+        "options": [
+          "The course is longer than in past years.",
+          "A regulator's review was moved to an earlier date.",
+          "The learning portal will shut down in September.",
+          "More employees must take the course this year."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 감독 기관이 문서 검토 시기를 9월 초로 앞당겼기 때문에 올해 마감일이 예년보다 빠르다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is one of the new topics in this year's course?",
+        "options": [
+          "Detecting counterfeit currency",
+          "Spotting fake wire-transfer requests that seem to come from executives",
+          "Responding to armed robbery situations",
+          "Approving small business loans"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 올해 새로 추가된 두 섹션 중 하나가 고위 임원이 보낸 것처럼 보이는 사기성 송금 지시를 식별하는 내용이라고 명시하고 있습니다. 다른 하나는 사외 근무 시 고객 데이터 취급입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What happens to employees who fail the quiz twice?",
+        "options": [
+          "They must meet with the compliance team in person.",
+          "They will be reported to the regulator.",
+          "They must retake the entire course online.",
+          "They will lose access to the learning portal."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 퀴즈는 1회 재응시가 가능하며, 두 번의 시도에서 80%를 넘지 못한 직원은 컴플라이언스 팀과의 대면 세션에 참석해야 한다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What are department heads asked to do?",
+        "options": [
+          "Teach the course to their teams",
+          "Submit quiz questions to the compliance office",
+          "Make sure everyone on their teams finishes the course",
+          "Attend the quarterly town hall meeting"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 부서장은 팀 내 전원 이수를 책임지며, 매주 월요일 배포되는 이수 현황 보고서로 미이수자를 챙기라고 안내하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Holders of Premium Care Health Policies\nFrom: Trillium Assurance <members@trilliumassurance.com>\nSubject: Your Member Portal Is Getting Simpler\nDate: May 22\n\nDear Member,\n\nOn June 16, Trillium Assurance will introduce a streamlined member portal designed around the three actions members perform most: submitting claims, checking claim status, and downloading coverage documents.\n\nThe redesigned claim submission page reduces the required fields from fourteen to six, and you can now photograph receipts with your phone instead of scanning them. Claim status updates will appear in real time, replacing the current system, under which information was refreshed only once per day. Members enrolled in direct deposit will also see estimated payment dates for approved claims.\n\nWhat you need to do: nothing, in most cases. Your login details stay the same, and pending claims will transfer automatically. However, members who saved draft claims in the old portal should submit them before June 13, as drafts cannot be carried into the new system. Saved bank details and dependent information will move over without any action on your part.\n\nA short guided tour will appear the first time you sign in after the change. If you prefer to file claims by mail, that option remains available, and paper forms can still be requested at 555-0177.\n\nThank you for being a Trillium member.\n\nMember Services Team",
+    "questions": [
+      {
+        "question": "What is the e-mail mainly about?",
+        "options": [
+          "An increase in monthly premiums",
+          "Improvements to an online member portal",
+          "A new health screening program",
+          "Changes to coverage for dependents"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 6월 16일에 도입되는 간소화된 회원 포털의 개선 사항(청구 양식 간소화, 실시간 상태 확인 등)을 안내하는 내용입니다. 보험료 인상이나 보장 변경은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How is the new claim submission process different?",
+        "options": [
+          "It requires fewer fields and accepts phone photos of receipts.",
+          "It must be completed within one day.",
+          "It is available only to direct deposit members.",
+          "It requires claims to be scanned and mailed."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 청구 제출 페이지의 필수 입력란이 14개에서 6개로 줄고, 영수증을 스캔하는 대신 휴대전화로 촬영해 제출할 수 있다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should members do with draft claims saved in the old portal?",
+        "options": [
+          "Delete them before June 16",
+          "Submit them before June 13",
+          "Print and mail them",
+          "Re-enter them after the new portal launches"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 구 포털에 저장된 임시 청구서(draft claims)는 새 시스템으로 이전되지 않으므로 6월 13일 전에 제출하라고 안내하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as something that will transfer automatically?",
+        "options": [
+          "Pending claims",
+          "Saved bank details",
+          "Dependent information",
+          "Draft claims"
+        ],
+        "answer": 3,
+        "explanation": "처리 중인 청구, 저장된 은행 정보, 부양가족 정보는 자동으로 이전된다고 명시되어 있으나, 임시 저장된 청구서(drafts)는 새 시스템으로 옮길 수 없다고 했으므로 자동 이전 항목이 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Editorial Interns, Larkfield Books\nFrom: Simone Petrov, Managing Editor\nDate: June 23\nRe: Guidelines for Evaluating Unsolicited Manuscripts\n\nWelcome to the summer internship program. One of your core duties will be preparing reader's reports on unsolicited manuscripts, and the following guidelines will help you do this consistently.\n\nEach intern will be assigned eight manuscripts per week through the submissions database. Read the full synopsis and the first fifty pages of every assignment; you are not expected to read entire manuscripts unless you recommend one for further review. Reports are due in the database every Friday by 4:00 P.M. and should run between 300 and 500 words, covering plot summary, writing quality, target readership, and a clear recommendation.\n\nUse the three-tier recommendation scale: decline, hold for discussion, or advance to senior editor. Fewer than five percent of submissions are typically advanced, so do not hesitate to recommend declining — a thoughtful explanation is more valuable to us than a generous rating. However, never contact an author directly for any reason. All correspondence with writers is handled by the editorial assistants, and an intern's e-mail to an author, even a kind one, can create legal complications regarding implied acceptance.\n\nWe will meet as a group on alternate Wednesdays at 2:00 P.M. to discuss notable submissions. Bring one manuscript you found promising, or one you found instructive to decline, to each meeting.",
+    "questions": [
+      {
+        "question": "For whom is the memo primarily intended?",
+        "options": [
+          "Senior editors",
+          "Editorial assistants",
+          "Summer interns",
+          "Literary agents"
+        ],
+        "answer": 2,
+        "explanation": "메모의 수신자가 'All Editorial Interns'이고 첫 단락에서 여름 인턴십 프로그램 참가자들의 핵심 업무인 원고 평가 보고서 작성 지침을 안내하고 있으므로, 여름 인턴이 대상입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much of each manuscript are interns expected to read?",
+        "options": [
+          "Only the synopsis",
+          "The synopsis and the first fifty pages",
+          "The first three chapters",
+          "The entire manuscript in all cases"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 모든 배정 원고의 전체 시놉시스와 처음 50쪽을 읽어야 하며, 추가 검토를 추천하는 경우가 아니면 원고 전체를 읽을 필요는 없다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are interns prohibited from contacting authors?",
+        "options": [
+          "Authors prefer to communicate with senior editors.",
+          "Such contact could create legal issues about implied acceptance.",
+          "Interns do not have company e-mail accounts.",
+          "Author contact details are confidential."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 인턴이 작가에게 보내는 이메일은 친절한 내용이라도 묵시적 수락(implied acceptance)과 관련된 법적 문제를 일으킬 수 있으므로 작가와의 모든 연락은 편집 어시스턴트가 담당한다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about manuscript submissions at Larkfield Books?",
+        "options": [
+          "Most of them are not advanced to senior editors.",
+          "They are mainly received through literary agents.",
+          "They must be submitted in printed form.",
+          "They are discussed at weekly Monday meetings."
+        ],
+        "answer": 0,
+        "explanation": "세 번째 단락에서 통상적으로 투고 원고의 5% 미만만이 선임 편집자에게 전달된다고 했으므로, 대부분의 원고는 통과되지 않음을 추론할 수 있습니다. 회의는 격주 수요일에 열립니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Staff, Helix Therapeutics\nFrom: Communications Office <comms@helixtherapeutics.com>\nSubject: Visit by Delegation from Osaka Research Partner — July 9\nDate: June 27\n\nDear Colleagues,\n\nOn Wednesday, July 9, Helix Therapeutics will host a six-member delegation from Kansai BioWorks, our development partner on the dermatology compound HX-117. The visit marks the start of the second phase of our joint research agreement, under which Kansai BioWorks will manufacture clinical supplies at its Osaka facility while our teams here lead the trial design.\n\nThe delegation will tour the formulation laboratories from 10:00 A.M. to 11:30 A.M. During this window, lab corridors on the second floor will be open to escorted visitors, so please ensure that confidential materials are cleared from whiteboards and benches by 9:30 A.M. Staff whose work involves projects unrelated to HX-117 should be prepared to pause demonstrations if asked, as our other pipeline programs are not covered by the partnership's confidentiality terms.\n\nA buffet lunch with the delegation will be held in the atrium at noon. All staff are welcome, and members of the HX-117 team are especially encouraged to attend. Please note that photography in the laboratories is prohibited for visitors and employees alike on that day; an approved photographer from the communications office will document the visit.\n\nQuestions may be sent to comms@helixtherapeutics.com by July 3.\n\nCommunications Office",
+    "questions": [
+      {
+        "question": "What is the purpose of the visit described in the e-mail?",
+        "options": [
+          "To inspect the company for safety violations",
+          "To mark the beginning of a new phase in a research partnership",
+          "To interview candidates for laboratory positions",
+          "To film a promotional video"
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 이번 방문은 공동 연구 협약의 2단계 시작을 기념하는 것이며, Kansai BioWorks는 오사카 시설에서 임상 시료를 생산하고 Helix는 시험 설계를 주도한다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are staff asked to do by 9:30 A.M. on July 9?",
+        "options": [
+          "Gather in the atrium",
+          "Remove confidential materials from view",
+          "Submit questions to the communications office",
+          "Set up demonstrations for visitors"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 2층 복도가 동행 방문객에게 개방되므로 오전 9시 30분까지 화이트보드와 실험대에서 기밀 자료를 치워 달라고 요청하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why might some staff need to pause their demonstrations?",
+        "options": [
+          "Their projects are not covered by the partnership's confidentiality terms.",
+          "The corridors will be too crowded for safe work.",
+          "Their equipment will be used for the tour.",
+          "The power supply will be interrupted."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 HX-117과 무관한 프로젝트는 파트너십의 기밀 유지 조항에 포함되지 않으므로, 해당 업무를 하는 직원은 요청 시 시연을 중단할 준비를 해야 한다고 안내하고 있습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about photography on the day of the visit?",
+        "options": [
+          "Visitors may photograph the atrium only.",
+          "Employees may take photos with permission.",
+          "Only a designated photographer may take pictures.",
+          "Photography is allowed after 11:30 A.M."
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 당일 실험실 내 사진 촬영은 방문객과 직원 모두에게 금지되며, 커뮤니케이션 부서에서 승인한 사진사가 방문을 기록한다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Staff, Grandview Power & Light\nFrom: Evelyn Marsh, Director of Human Resources\nDate: February 18\nRe: Storm Response Volunteer Roster — Spring Season\n\nEach spring, severe weather increases the likelihood of extended outages, and our storm response roster ensures we can restore service quickly. We are now seeking volunteers for the roster covering March 15 through June 15.\n\nField-qualified employees — line technicians, vegetation crews, and damage assessors — may sign up for on-call weeks, during which they must be reachable by phone and able to report within ninety minutes. On-call weeks carry a stipend of $300 in addition to overtime pay for any hours actually worked. Office staff can also contribute: during major events we need people to staff the customer information line, coordinate meal deliveries to crews, and log damage reports into the outage management system. Office volunteers receive overtime pay and a paid recovery day after any activation lasting more than twelve hours.\n\nNew this year, volunteers who complete a four-hour storm-role orientation by March 8 will be assigned to their preferred roles where possible. Orientation dates are February 26, March 3, and March 6, with both morning and evening options.\n\nLast spring's two major windstorms required 140 storm-role workers, and roster shortfalls meant some crews worked back-to-back shifts. A fuller roster this year will mean safer rotations for everyone. Sign up on the HR portal by March 1.",
+    "questions": [
+      {
+        "question": "Why was the memo written?",
+        "options": [
+          "To recruit employees for seasonal storm duties",
+          "To announce a permanent change in work schedules",
+          "To explain a rise in electricity rates",
+          "To report the results of a safety inspection"
+        ],
+        "answer": 0,
+        "explanation": "메모는 3월 15일부터 6월 15일까지의 폭풍 대응 당직 명단(storm response roster)에 참여할 자원자를 모집하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must field-qualified employees on call be able to do?",
+        "options": [
+          "Work from home during storms",
+          "Report for duty within ninety minutes",
+          "Train office volunteers",
+          "Remain at the office overnight"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 현장 자격을 갖춘 직원은 당직 주간에 전화 연락이 가능해야 하고 90분 이내에 출근할 수 있어야 한다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a task for office volunteers?",
+        "options": [
+          "Answering the customer information line",
+          "Arranging meals for work crews",
+          "Entering damage reports into a system",
+          "Driving repair trucks to work sites"
+        ],
+        "answer": 3,
+        "explanation": "사무직 자원자의 업무로 고객 안내 전화 응대, 작업반 식사 배달 조율, 피해 보고 입력이 언급되어 있으나, 수리 트럭 운전은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What advantage do volunteers gain by completing orientation by March 8?",
+        "options": [
+          "A higher on-call stipend",
+          "An extra paid vacation day",
+          "Priority consideration for their preferred roles",
+          "Exemption from overnight shifts"
+        ],
+        "answer": 2,
+        "explanation": "세 번째 단락에서 올해 새로 도입된 사항으로, 3월 8일까지 4시간짜리 오리엔테이션을 마친 자원자는 가능한 한 선호하는 역할에 배정된다고 안내하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Department Managers, Crescent Harbor Bank\nFrom: Lionel Baptiste <l.baptiste@crescentharbor.com>\nSubject: Pilot Results and Expansion — Saturday Advisory Appointments\nDate: November 18\n\nDear Managers,\n\nI am writing to share the results of our three-month pilot offering financial advisory appointments on Saturday mornings at the Bayfront and Mill Creek branches, and to outline the next steps.\n\nThe pilot exceeded expectations. Across the two branches, advisors held 412 Saturday appointments, with seventy percent booked by customers who had never previously used our advisory services. Surveys show that most of these customers work weekday hours and had found our standard schedule impossible to use. Notably, appointment requests at Bayfront were nearly double those at Mill Creek, which we attribute to Bayfront's location beside a busy farmers market that operates on weekends.\n\nGiven these results, Saturday appointments will expand to six additional branches beginning January 10. Each participating branch will need two advisors and one service associate on a rotating Saturday schedule. Staff who volunteer for Saturday rotations will receive a weekday off in the same week plus a ten percent shift premium. Branch managers should submit staffing plans to me by December 5; where volunteers are insufficient, we will discuss alternatives before considering assigned rotations.\n\nPlease also review your branch's Saturday security procedures with your facilities coordinator before the launch, since several branches have not operated weekend hours in over a decade.\n\nRegards,\nLionel Baptiste\nSenior Vice President, Retail Banking",
+    "questions": [
+      {
+        "question": "What is the main purpose of the e-mail?",
+        "options": [
+          "To report pilot program results and announce its expansion",
+          "To explain the closure of two underperforming branches",
+          "To introduce a new type of savings account",
+          "To request feedback on a customer survey draft"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 토요일 자산관리 상담 시범 운영의 결과(412건 상담, 신규 고객 70%)를 공유하고, 1월 10일부터 6개 지점으로 확대한다는 계획을 알리는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about most customers who booked Saturday appointments?",
+        "options": [
+          "They were long-time advisory clients.",
+          "Their weekday work schedules prevented earlier use of the service.",
+          "They live far from any branch.",
+          "They requested appointments by telephone."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 토요일 예약 고객의 70%가 자산관리 서비스를 처음 이용했으며, 설문 결과 대부분 평일에 근무하여 기존 일정을 이용할 수 없었던 것으로 나타났다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why did the Bayfront branch likely receive more appointment requests?",
+        "options": [
+          "It has more advisors than Mill Creek.",
+          "It is next to a weekend farmers market.",
+          "It offered longer Saturday hours.",
+          "It advertised in local newspapers."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 Bayfront 지점의 예약 요청이 Mill Creek의 거의 두 배였는데, 이는 주말에 운영되는 번화한 농산물 시장 옆이라는 입지 덕분으로 분석하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will employees who volunteer for Saturday work receive?",
+        "options": [
+          "A weekday off and a pay premium",
+          "An annual bonus and extra vacation days",
+          "A transfer to the branch of their choice",
+          "Free parking and meal vouchers"
+        ],
+        "answer": 0,
+        "explanation": "세 번째 단락에서 토요일 순환 근무에 자원하는 직원은 같은 주에 평일 휴무 하루와 10%의 근무 수당(shift premium)을 받는다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Underwriting Staff, Cobalt Shield Insurance\nFrom: Henrik Olsen, Chief Underwriting Officer\nDate: April 21\nRe: Updated Guidelines for Coastal Property Policies\n\nFollowing our annual review of weather-related claims data, the company is updating its underwriting guidelines for residential properties located within three kilometers of the coastline. The new guidelines take effect for all policies quoted on or after May 12; quotes issued before that date remain valid under the old rules for their standard thirty-day period.\n\nTwo changes are central. First, properties in the affected zone will require a roof inspection report no more than five years old before a new policy can be issued. Homes with roofs over twenty years old will be referred to a senior underwriter rather than declined automatically, as replacement documentation or reinforcement work may justify standard terms. Second, the premium credit for storm shutters increases from five percent to eight percent, reflecting claims data showing that shuttered homes sustained markedly less window and water damage in last autumn's storms.\n\nPlease note that these guidelines apply to new business only. Renewal policies will follow a separate transition plan to be announced in June, and you should not apply the new requirements to renewals in the meantime.\n\nThe full guideline document, including revised rating tables, is available in the underwriting manual, section 12. A question-and-answer session will be held by videoconference on April 29 at 10:00 A.M.",
+    "questions": [
+      {
+        "question": "What prompted the updated guidelines?",
+        "options": [
+          "A review of claims related to weather events",
+          "A merger with another insurance company",
+          "New national building codes",
+          "Customer complaints about premium increases"
+        ],
+        "answer": 0,
+        "explanation": "첫 단락에서 기상 관련 청구 데이터에 대한 연례 검토에 따라 해안 3킬로미터 이내 주거용 부동산에 대한 인수 지침을 갱신한다고 밝히고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to applications for homes with roofs over twenty years old?",
+        "options": [
+          "They will be declined automatically.",
+          "They will be passed to a senior underwriter for review.",
+          "They will receive an eight percent premium credit.",
+          "They will be approved with standard terms."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 지붕이 20년이 넘은 주택은 자동 거절이 아니라 선임 인수심사역에게 회부되며, 교체 증빙이나 보강 공사가 있으면 표준 조건이 적용될 수 있다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why was the storm shutter credit increased?",
+        "options": [
+          "Shutter manufacturers lowered their prices.",
+          "Competitors offer larger discounts.",
+          "Data showed shuttered homes suffered less damage in recent storms.",
+          "Regulators required a larger credit."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 지난가을 폭풍 때 셔터를 설치한 주택의 창문 및 수해 피해가 현저히 적었다는 청구 데이터를 반영하여 보험료 할인율을 5%에서 8%로 올렸다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about renewal policies?",
+        "options": [
+          "They are subject to the new rules starting May 12.",
+          "They will follow a separate plan to be announced later.",
+          "They will all require roof inspections immediately.",
+          "They will be canceled if within three kilometers of the coast."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 새 지침은 신규 계약에만 적용되며, 갱신 계약은 6월에 발표될 별도의 전환 계획을 따르므로 그 전까지 갱신 건에 새 요건을 적용하지 말라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Front Desk and Concierge Staff Distribution List\nFrom: Aileen Murtagh <a.murtagh@kestrelaccounting.ie>\nSubject: Client Welcome Procedures During Office Renovation\nDate: March 12\n\nDear Reception Team,\n\nAs you know, renovation of our fourth-floor client meeting suites begins Monday, March 23, and will continue for approximately five weeks. With over two hundred client visits expected during tax season, please follow the arrangements below.\n\nAll client meetings will move to the temporary suites on the sixth floor. When clients arrive, issue them a visitor badge as usual, but escort them to the sixth-floor lounge rather than directing them to the elevators alone — the route passes through a section of corridor with construction signage that has confused visitors during similar projects. The lounge will be stocked with refreshments each morning, and four meeting rooms there have been reserved exclusively for client use through April 30.\n\nCouriers delivering client documents should be directed to the mailroom as before; nothing changes for deliveries. However, please note that the freight elevator will be reserved for construction crews between 10:00 A.M. and 2:00 P.M. daily, so any large deliveries should be scheduled outside those hours.\n\nIf a client with limited mobility is scheduled to visit, notify me a day ahead so we can arrange a meeting room on the ground floor, since the sixth-floor lounge is reached by a short flight of stairs from the elevator landing.\n\nThank you for keeping our clients comfortable during this busy stretch.\n\nAileen Murtagh\nOffice Manager, Kestrel Accounting",
+    "questions": [
+      {
+        "question": "Why will client meetings be relocated?",
+        "options": [
+          "The fourth-floor meeting suites are being renovated.",
+          "The sixth floor offers better views.",
+          "The firm is expanding to a new building.",
+          "Clients requested more private rooms."
+        ],
+        "answer": 0,
+        "explanation": "첫 단락에서 3월 23일부터 약 5주간 4층 고객 회의실 개조 공사가 진행되기 때문에 모든 고객 미팅이 6층 임시 회의실로 옮겨진다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why should staff escort clients instead of directing them to the elevators?",
+        "options": [
+          "The elevators are out of service.",
+          "Construction signs along the route have confused visitors before.",
+          "Visitor badges do not work on the sixth floor.",
+          "Clients must sign in again upstairs."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 이동 경로에 공사 안내판이 설치된 복도 구간이 있어 유사한 공사 때 방문객들이 혼란을 겪었으므로, 고객을 직접 6층 라운지까지 안내하라고 지시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about large courier deliveries?",
+        "options": [
+          "They should be scheduled outside 10:00 A.M. to 2:00 P.M.",
+          "They must be left at the front desk.",
+          "They will be suspended during the renovation.",
+          "They should be taken directly to the sixth floor."
+        ],
+        "answer": 0,
+        "explanation": "세 번째 단락에서 화물 엘리베이터가 매일 오전 10시부터 오후 2시까지 공사 인력 전용으로 예약되므로, 대형 배송은 그 시간대를 피해서 일정을 잡아야 한다고 안내하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why should Ms. Murtagh be notified before a client with limited mobility visits?",
+        "options": [
+          "Extra staff must be assigned to the front desk.",
+          "A ground-floor meeting room needs to be arranged.",
+          "The client must be issued a special badge.",
+          "The freight elevator requires advance booking."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 6층 라운지는 엘리베이터에서 짧은 계단을 올라가야 하므로, 거동이 불편한 고객이 방문할 경우 하루 전에 알리면 1층에 회의실을 마련하겠다고 안내하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: Retail Store Managers, Velocity Wireless\nFrom: Dario Fuentes, Director of Retail Operations\nDate: August 8\nRe: Trade-In Program Changes Effective September 1\n\nOur device trade-in program is being revised on September 1 to address two persistent problems: inconsistent device grading between stores and a backlog at our refurbishment center.\n\nFirst, all stores will use the new InspectPoint diagnostic station to grade trade-in devices. The station runs a twelve-point automated check — screen condition, battery health, water damage indicators, and more — and assigns a grade in under four minutes. Manual grading will no longer be accepted; in our audit last quarter, manual assessments at different stores valued identical devices as much as $80 apart, leading to customer complaints and credit adjustments. Each store will receive its station and a half-day staff training during the week of August 18.\n\nSecond, customers will now receive their trade-in credit as soon as the InspectPoint grade is confirmed, rather than waiting for the refurbishment center to re-verify the device. Center re-verification will continue behind the scenes, but our data shows its grades matched store-level InspectPoint results in ninety-six percent of cases during the pilot, so holding customer credit for re-verification is no longer justified.\n\nDevices with cracked casings or non-original parts remain ineligible for instant credit and must still be sent for full evaluation. Post the updated eligibility chart, included with this memo, beside each register by August 29.",
+    "questions": [
+      {
+        "question": "What problem did manual grading cause?",
+        "options": [
+          "Devices were lost during shipping.",
+          "Identical devices received widely different values.",
+          "Stores ran out of replacement parts.",
+          "Customers waited weeks for appointments."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 지난 분기 감사 결과 매장마다 수작업 평가로 동일한 기기의 가치가 최대 80달러까지 차이가 나서 고객 불만과 크레딧 조정이 발생했다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the InspectPoint station?",
+        "options": [
+          "It completes its checks in under four minutes.",
+          "It requires two employees to operate.",
+          "It will be installed in select stores only.",
+          "It repairs damaged screens automatically."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 InspectPoint 진단 스테이션은 화면 상태, 배터리 건강도, 침수 여부 등 12개 항목을 자동 점검하여 4분 이내에 등급을 부여한다고 명시하고 있습니다. 모든 매장에 설치됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will customers no longer wait for the refurbishment center's check?",
+        "options": [
+          "The center is closing in September.",
+          "Pilot data showed center grades almost always matched store results.",
+          "Customers will inspect devices themselves.",
+          "The center will stop re-verifying devices."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 시범 운영 기간 동안 재생 센터의 등급이 매장 InspectPoint 결과와 96% 일치했으므로, 재검증을 위해 고객 크레딧 지급을 보류할 이유가 없어졌다고 설명하고 있습니다. 재검증 자체는 계속 진행됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which devices are NOT eligible for instant credit?",
+        "options": [
+          "Devices with low battery health",
+          "Devices more than two years old",
+          "Devices with cracked casings or non-original parts",
+          "Devices purchased from other carriers"
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 케이스가 깨졌거나 비정품 부품이 사용된 기기는 즉시 크레딧 대상에서 제외되며 전체 평가를 위해 센터로 보내야 한다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Residents of the Kingfisher Lane Service Area\nFrom: Clearstream Water Authority <updates@clearstreamwater.org>\nSubject: Hydrant Flushing Program — Week of October 6\nDate: September 25\n\nDear Customer,\n\nDuring the week of October 6, Clearstream Water Authority crews will conduct the autumn hydrant flushing program in your neighborhood. Flushing clears mineral sediment from water mains and verifies that hydrants will perform properly in an emergency. Work will take place between 9:00 A.M. and 3:00 P.M., Monday through Thursday, deliberately avoiding the morning hours when household water use is heaviest.\n\nWhat to expect: while crews are working nearby, you may notice reduced water pressure or temporary discoloration. Discolored water is caused by harmless mineral particles and is not a health risk; however, we recommend waiting until the water runs clear before doing laundry, as the particles can stain light-colored fabrics. If discoloration persists, run the cold tap closest to your water meter for several minutes.\n\nPlease also avoid parking within three meters of any hydrant during the work week. Vehicles blocking hydrant access are the most common cause of schedule delays, and crews are authorized to request towing where necessary.\n\nA street-by-street schedule is posted at clearstreamwater.org/flushing, and updates will be sent by text message to customers who have registered a mobile number on their account. There is no need to be home during the work, and no crew member will ever need to enter your residence for this program.\n\nClearstream Water Authority",
+    "questions": [
+      {
+        "question": "Why does the water authority flush hydrants?",
+        "options": [
+          "To lower customers' water bills",
+          "To remove sediment from pipes and test hydrant readiness",
+          "To install new water meters",
+          "To detect illegal water connections"
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 소화전 방류는 상수도관의 광물 침전물을 제거하고 비상시 소화전이 제대로 작동하는지 확인하기 위한 작업이라고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is the work scheduled to start at 9:00 A.M.?",
+        "options": [
+          "Crews are unavailable earlier in the day.",
+          "Morning hours have the heaviest household water use.",
+          "City rules prohibit earlier construction noise.",
+          "Water pressure is too low before 9:00 A.M."
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 가정의 물 사용이 가장 많은 아침 시간대를 의도적으로 피해서 오전 9시부터 오후 3시까지 작업을 진행한다고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should customers postpone until their water runs clear?",
+        "options": [
+          "Drinking tap water",
+          "Washing laundry",
+          "Watering their gardens",
+          "Using their dishwashers"
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 변색된 물의 광물 입자가 밝은색 옷감에 얼룩을 남길 수 있으므로 물이 맑아질 때까지 세탁을 미루라고 권고하고 있습니다. 물 자체는 건강에 해롭지 않다고 명시되어 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the e-mail, what most often delays the flushing schedule?",
+        "options": [
+          "Heavy rainfall",
+          "Cars parked too close to hydrants",
+          "Broken water mains",
+          "Staffing shortages"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 소화전 접근을 막는 차량이 일정 지연의 가장 흔한 원인이며, 필요한 경우 견인을 요청할 권한이 작업반에 있다고 안내하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Project Architects and Designers, Castellan Rowe Architecture\nFrom: Beatrice Han, Director of Professional Development\nDate: September 3\nRe: Internal Mentorship Program — Applications Open\n\nApplications are now open for the third year of our internal mentorship program, which pairs early-career designers with senior architects for a nine-month cycle beginning November 1.\n\nThe program's value is well established. Of the fourteen designers mentored over the past two cycles, eleven have passed at least two sections of their professional licensing examinations, compared with a firm-wide average pass rate of fifty-four percent for non-participants. Mentored staff also reported higher satisfaction in last year's workplace survey, particularly regarding clarity of career paths.\n\nHow it works: pairs meet for at least two hours each month, and mentees may shadow their mentors at client presentations, consultant coordination meetings, and site walks. Each pair also completes one joint activity per quarter, such as a design competition entry or a conference presentation. Mentees receive twenty hours of billable-time relief per quarter to participate; mentors receive ten.\n\nEligibility: designers with two to six years of experience may apply as mentees. Architects with at least ten years of experience and a professional license may volunteer as mentors. We particularly encourage applications from our Riverside studio, which was underrepresented last cycle.\n\nApply through the professional development page by September 26. Pairings will be announced October 17 after a matching review that considers project types, career goals, and studio locations.",
+    "questions": [
+      {
+        "question": "What is the purpose of the memo?",
+        "options": [
+          "To invite applications for a mentorship program",
+          "To announce changes to licensing examinations",
+          "To report the results of a workplace survey",
+          "To introduce new senior architects"
+        ],
+        "answer": 0,
+        "explanation": "메모는 11월 1일부터 시작되는 9개월 과정의 사내 멘토십 프로그램 3기 지원 접수가 시작되었음을 알리고 자격 요건과 지원 방법을 안내하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What evidence is given of the program's effectiveness?",
+        "options": [
+          "Participants completed more projects than other staff.",
+          "Most mentored designers passed sections of their licensing exams.",
+          "The firm's revenue increased after the program began.",
+          "All mentors received promotions."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 지난 두 기수 동안 멘토링을 받은 14명 중 11명이 자격시험의 최소 두 과목에 합격했으며, 이는 비참가자의 평균 합격률 54%와 비교된다고 제시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What do mentees receive to support their participation?",
+        "options": [
+          "A quarterly cash bonus",
+          "Twenty hours of billable-time relief per quarter",
+          "A paid conference trip each year",
+          "Automatic promotion after nine months"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 멘티는 참여를 위해 분기당 20시간의 청구 가능 시간 면제(billable-time relief)를 받고, 멘토는 10시간을 받는다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is eligible to serve as a mentor?",
+        "options": [
+          "Any employee with two to six years of experience",
+          "Designers at the Riverside studio only",
+          "Licensed architects with ten or more years of experience",
+          "Staff who participated in a previous cycle"
+        ],
+        "answer": 2,
+        "explanation": "네 번째 단락에서 멘토는 10년 이상의 경력과 전문 자격증(professional license)을 보유한 건축사가 자원할 수 있다고 명시하고 있습니다. 2~6년 경력자는 멘티 지원 자격입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Subscribers, Halverson Literary Quarterly\nFrom: Subscriptions Office <subscriptions@halversonquarterly.com>\nSubject: Important Changes to Your Subscription Options\nDate: January 28\n\nDear Subscriber,\n\nFor thirty-two years, Halverson Literary Quarterly has delivered new fiction, poetry, and criticism to readers in print. Beginning with our Summer issue, we are introducing changes to how the magazine is delivered and priced.\n\nRising paper and postage costs have made our current model difficult to sustain: printing and mailing now absorb sixty-one percent of each subscription dollar, leaving less for what matters most — paying our contributors. Rather than reduce writers' fees or page counts, we are restructuring our offerings.\n\nThree options will be available. The digital subscription, at $28 per year, includes each issue in three e-reader formats, complete access to our forty-year archive, and a monthly subscriber newsletter. The print-plus-digital subscription, at $52 per year, adds the quarterly print edition, now produced on heavier paper with improved binding. Finally, the patron tier, at $120 per year, includes everything above plus an invitation to our annual contributors' reading and your name in each issue's supporter list.\n\nCurrent print subscribers will be moved to print-plus-digital at their existing rate of $44 for one full renewal cycle — a savings of $8 — as thanks for your loyalty. After that cycle, standard pricing applies.\n\nTo select your option, log in at halversonquarterly.com/account before March 15. Subscribers who make no selection will continue receiving the print edition without interruption under the print-plus-digital plan.\n\nWith appreciation,\nThe Subscriptions Office",
+    "questions": [
+      {
+        "question": "Why is the magazine changing its subscription model?",
+        "options": [
+          "Readership has declined sharply.",
+          "Printing and mailing costs consume most subscription revenue.",
+          "The magazine is merging with another publication.",
+          "Contributors requested digital-only publication."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 종이와 우편 요금 상승으로 인쇄·발송 비용이 구독료의 61%를 차지하여 기고자에게 지급할 몫이 줄어들기 때문에, 원고료나 지면을 줄이는 대신 구독 구조를 개편한다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in the digital subscription?",
+        "options": [
+          "An invitation to an annual reading",
+          "Access to a forty-year archive",
+          "A printed quarterly edition",
+          "A listing in each issue's supporter list"
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 연 28달러의 디지털 구독에는 3가지 전자책 형식의 발행본, 40년 아카이브 전체 이용권, 월간 뉴스레터가 포함된다고 명시하고 있습니다. 낭독회 초대와 후원자 명단 게재는 patron 등급의 혜택입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What benefit will current print subscribers receive?",
+        "options": [
+          "A free upgrade to the patron tier",
+          "The print-plus-digital plan at a reduced rate for one renewal cycle",
+          "A lifetime price guarantee",
+          "Two extra issues per year"
+        ],
+        "answer": 1,
+        "explanation": "네 번째 단락에서 기존 인쇄판 구독자는 감사의 표시로 한 번의 갱신 주기 동안 기존 요금인 44달러(8달러 절약)에 print-plus-digital 플랜으로 전환된다고 안내하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen to subscribers who do not make a selection by March 15?",
+        "options": [
+          "Their subscriptions will be canceled.",
+          "They will be switched to digital-only delivery.",
+          "They will keep receiving print issues under the print-plus-digital plan.",
+          "They will be charged the patron rate."
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 아무 선택을 하지 않은 구독자는 print-plus-digital 플랜으로 인쇄판을 중단 없이 계속 받게 된다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Staff, Hawthorne Gas & Electric, Riverbend Office\nFrom: Curtis Delgado, Facilities Manager\nDate: July 14\nRe: Building Energy Conservation Measures — August Trial\n\nAs an energy provider, we are often asked whether we follow the conservation advice we give customers. This August, the Riverbend office will pilot a set of internal conservation measures, and the results will be shared publicly in our autumn sustainability report.\n\nThe following changes will be in place from August 3 to August 31. Cooling setpoints will rise from 22 to 24 degrees Celsius in open work areas; conference rooms will remain at 22 degrees when booked. Lighting in corridors and storage areas will switch to occupancy sensors, which facilities crews will install during the last week of July, outside business hours. Window blinds on the south side of the building should be lowered by 11:00 A.M. each day — reminders will appear on the building's digital displays. Finally, the cafeteria will replace its two oldest refrigerated display cases, which together consume more electricity than all the office's printers combined.\n\nWe anticipate a reduction of roughly twelve percent in the building's August electricity use compared with last August. Staff who have concerns about workspace comfort — particularly those near the south windows — should contact the facilities help desk, and desk fans will be provided on request.\n\nIf the trial meets its target, the measures will be made permanent here and extended to our Lakeshore and Dunmore offices next year.",
+    "questions": [
+      {
+        "question": "Why is the office conducting the conservation trial?",
+        "options": [
+          "To comply with a new energy regulation",
+          "To demonstrate that the company follows its own advice and report results publicly",
+          "To reduce the cost of an upcoming renovation",
+          "To test products before selling them to customers"
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 에너지 회사로서 고객에게 권하는 절약 조언을 스스로 실천하는지 자주 질문을 받기 때문에 자체 절약 조치를 시범 운영하고, 그 결과를 가을 지속가능성 보고서에 공개할 예정이라고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the conference rooms?",
+        "options": [
+          "They will be closed during August.",
+          "They will stay at 22 degrees when in use.",
+          "They will be fitted with occupancy sensors.",
+          "They will have their blinds lowered at 11:00 A.M."
+        ],
+        "answer": 1,
+        "explanation": "두 번째 단락에서 개방형 업무 공간의 냉방 설정 온도는 22도에서 24도로 올라가지만, 회의실은 예약 시 22도로 유지된다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the cafeteria's two oldest display cases?",
+        "options": [
+          "They use a large amount of electricity.",
+          "They will be moved to the Lakeshore office.",
+          "They were donated by a customer.",
+          "They will be repaired during July."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 구내식당의 가장 오래된 냉장 진열장 두 대는 사무실의 모든 프린터를 합친 것보다 더 많은 전기를 소비하므로 교체된다고 했습니다. 따라서 전력 소비가 매우 크다는 것을 알 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if the trial achieves its goal?",
+        "options": [
+          "Staff will receive a share of the savings.",
+          "The measures will become permanent and spread to other offices.",
+          "The building will be sold.",
+          "August working hours will be shortened."
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 시범 운영이 목표(약 12% 절감)를 달성하면 해당 조치들이 Riverbend 사무실에 영구 적용되고 내년에 Lakeshore와 Dunmore 사무실로 확대된다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Wholesale Account Holders\nFrom: Nordica Pharmaceuticals Distribution <wholesale@nordicapharma.com>\nSubject: Ordering Deadlines and Holiday Logistics — December\nDate: November 20\n\nDear Account Holder,\n\nTo help your pharmacy maintain adequate stock through the holiday period, please review the following ordering arrangements for December.\n\nOur distribution centers will operate normally through December 19. Orders placed by 2:00 P.M. on that date will ship the same day. From December 22 to January 2, the centers will run with reduced staffing: orders will ship within three business days instead of one, and Saturday deliveries will be suspended. Normal service resumes January 5.\n\nWe strongly encourage placing your principal December order by December 12. Last year, orders submitted during the final week before the holidays were thirty percent larger on average than normal, and several products — particularly pediatric fever reducers and cold remedies — sold out at the wholesale level. Accounts that ordered early received full allocations, while later orders were partially filled.\n\nFor urgent patient-specific needs during the reduced-service period, our emergency line at 555-0186 will operate daily, including holidays, from 8:00 A.M. to 8:00 P.M. Emergency orders are limited to medically necessary items and ship by courier at no extra charge — a service we provide at cost because patient care comes first.\n\nFinally, please verify your delivery address and receiving hours in the account portal by December 1, as holiday staffing changes at your location may affect delivery acceptance.\n\nNordica Pharmaceuticals Distribution Team",
+    "questions": [
+      {
+        "question": "What is the main purpose of the e-mail?",
+        "options": [
+          "To announce new product launches",
+          "To explain holiday ordering and delivery arrangements",
+          "To introduce a new account manager",
+          "To report a medication recall"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 약국 도매 고객들에게 12월 연휴 기간의 주문 마감일, 배송 일정 변경, 비상 주문 절차 등 물류 운영 방침을 안내하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will be different between December 22 and January 2?",
+        "options": [
+          "Orders will ship within three business days.",
+          "The emergency line will be closed.",
+          "All deliveries will require a signature.",
+          "Prices will increase temporarily."
+        ],
+        "answer": 0,
+        "explanation": "두 번째 단락에서 12월 22일부터 1월 2일까지는 인력 감축 운영으로 주문이 1일이 아닌 3영업일 이내에 출고되며, 토요일 배송이 중단된다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does the distributor recommend ordering by December 12?",
+        "options": [
+          "Prices will rise after that date.",
+          "Late orders last year were only partially filled for some products.",
+          "The account portal closes on December 12.",
+          "Couriers stop working after that date."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 작년 연휴 직전 주의 주문량이 평소보다 30% 많아 일부 제품(소아 해열제, 감기약 등)이 도매 단계에서 품절되었고, 일찍 주문한 계정은 전량을 받았지만 늦은 주문은 일부만 충족되었다고 설명하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is true about emergency orders?",
+        "options": [
+          "They include any product in the catalog.",
+          "They are shipped by courier without an additional fee.",
+          "They can be placed only on weekdays.",
+          "They require a minimum order value."
+        ],
+        "answer": 1,
+        "explanation": "네 번째 단락에서 비상 주문은 의학적으로 필요한 품목으로 제한되지만, 추가 요금 없이 택배로 발송된다고 명시하고 있습니다. 비상 전화는 공휴일 포함 매일 운영됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Loan Officers and Branch Managers, Pellworth Community Bank\nFrom: Susannah Greer, Director of Community Lending\nDate: March 24\nRe: Launch of the Storefront Revival Loan Program\n\nOn April 14, Pellworth Community Bank will launch the Storefront Revival Loan, a new product supporting small businesses that renovate street-level commercial spaces in the Old Mill and Tannery Row districts. The program is funded in part by a development grant from the city, which allows us to offer rates 1.5 percentage points below our standard commercial renovation loans.\n\nKey terms: loans range from $20,000 to $150,000, with repayment periods up to ten years. Eligible expenses include facade restoration, accessibility improvements, signage, and interior renovations of customer-facing areas. Back-office improvements and inventory purchases are not eligible under the grant's terms, so applications mixing eligible and ineligible costs must itemize them separately.\n\nApplicants must hold a current business license, have operated for at least one year, and provide a contractor's estimate with their application. Because grant funds are capped, the program will accept applications only until allocated funds are exhausted — based on inquiry volume so far, we project this could occur within four months.\n\nA briefing for loan officers will be held on April 2 at the main office, repeated by videoconference on April 4. Marketing materials, including window posters for participating branches, will arrive by April 9. Direct program questions to my office; media inquiries must go to corporate communications.",
+    "questions": [
+      {
+        "question": "What makes the new loan's rates lower than standard rates?",
+        "options": [
+          "A reduction in the bank's operating costs",
+          "Partial funding from a city grant",
+          "A partnership with a national bank",
+          "Higher fees charged at application"
+        ],
+        "answer": 1,
+        "explanation": "첫 단락에서 이 프로그램은 시의 개발 보조금으로 일부 자금이 지원되므로 표준 상업용 리모델링 대출보다 1.5%포인트 낮은 금리를 제공할 수 있다고 설명하고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which expense would NOT be eligible under the program?",
+        "options": [
+          "Restoring a building facade",
+          "Installing a wheelchair ramp",
+          "Purchasing inventory for resale",
+          "Renovating a customer seating area"
+        ],
+        "answer": 2,
+        "explanation": "두 번째 단락에서 외관 복원, 접근성 개선, 간판, 고객 응대 공간의 내부 수리는 대상이지만, 사무 공간 개선과 재고 구입은 보조금 조건상 대상이 아니라고 명시하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why might the application period be shorter than four months?",
+        "options": [
+          "The city plans to cancel the grant.",
+          "Available funds are limited and demand appears high.",
+          "The bank lacks staff to process applications.",
+          "The districts are scheduled for demolition."
+        ],
+        "answer": 1,
+        "explanation": "세 번째 단락에서 보조금 재원에 상한이 있어 배정된 자금이 소진될 때까지만 신청을 받으며, 현재까지의 문의량으로 볼 때 4개월 이내에 소진될 수 있다고 전망하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the memo, who should handle questions from the media?",
+        "options": [
+          "Branch managers",
+          "The corporate communications department",
+          "Ms. Greer's office",
+          "The city's development office"
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 프로그램 관련 질문은 Greer 이사의 사무실로 보내되, 언론 문의는 반드시 기업 커뮤니케이션 부서로 보내야 한다고 명시하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  }
+]
