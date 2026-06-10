@@ -2,4 +2,1157 @@
 // 데이터 출처: question_pipeline/reviewed/ (에이전트 파이프라인 검수 완료분)
 import { BankQuestion } from './index';
 
-export const PART4_QUESTIONS: BankQuestion[] = [];
+export const PART4_QUESTIONS: BankQuestion[] = [
+  {
+    "id": "p4-0001",
+    "part": 4,
+    "type": "LC",
+    "question": "Why is the speaker calling?",
+    "script": "Hello, this message is for Ms. Tanaka. This is Renee calling from Brightview Dental Clinic. I am calling about your appointment scheduled for this Thursday at two in the afternoon. Unfortunately, Dr. Morales has to attend an emergency training session that day, so we need to move your cleaning to another time. We have openings on Friday morning at nine and on Monday afternoon at three. Please call us back at 555-0182 before Wednesday evening to let us know which time works better for you. If neither time is convenient, we will be happy to find another slot next week. Thank you, and we apologize for the inconvenience.",
+    "options": [
+      "To reschedule an appointment",
+      "To confirm a payment",
+      "To advertise a new service",
+      "To request medical records"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'we need to move your cleaning to another time'이라며 목요일 예약을 다른 시간으로 옮겨야 한다고 말하므로 전화의 목적은 예약 변경(reschedule)입니다. 결제 확인, 서비스 광고, 진료 기록 요청에 대한 언급은 전혀 없으므로 (B), (C), (D)는 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0002",
+    "part": 4,
+    "type": "LC",
+    "question": "Where does the speaker most likely work?",
+    "script": "Hello, this message is for Ms. Tanaka. This is Renee calling from Brightview Dental Clinic. I am calling about your appointment scheduled for this Thursday at two in the afternoon. Unfortunately, Dr. Morales has to attend an emergency training session that day, so we need to move your cleaning to another time. We have openings on Friday morning at nine and on Monday afternoon at three. Please call us back at 555-0182 before Wednesday evening to let us know which time works better for you. If neither time is convenient, we will be happy to find another slot next week. Thank you, and we apologize for the inconvenience.",
+    "options": [
+      "At a law office",
+      "At a dental clinic",
+      "At a fitness center",
+      "At a travel agency"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'This is Renee calling from Brightview Dental Clinic'이라고 자신을 소개하며, 'cleaning'(스케일링)과 'Dr. Morales' 같은 표현으로 치과임을 알 수 있습니다. 법률 사무소, 헬스장, 여행사와 관련된 단서는 담화에 없습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0003",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the listener asked to do by Wednesday evening?",
+    "script": "Hello, this message is for Ms. Tanaka. This is Renee calling from Brightview Dental Clinic. I am calling about your appointment scheduled for this Thursday at two in the afternoon. Unfortunately, Dr. Morales has to attend an emergency training session that day, so we need to move your cleaning to another time. We have openings on Friday morning at nine and on Monday afternoon at three. Please call us back at 555-0182 before Wednesday evening to let us know which time works better for you. If neither time is convenient, we will be happy to find another slot next week. Thank you, and we apologize for the inconvenience.",
+    "options": [
+      "Visit the clinic in person",
+      "Fill out an online form",
+      "Return a phone call",
+      "Pay an outstanding bill"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'Please call us back at 555-0182 before Wednesday evening'이라며 수요일 저녁 전까지 회신 전화를 해 달라고 요청합니다. 직접 방문, 온라인 양식 작성, 요금 납부는 언급되지 않았으므로 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0004",
+    "part": 4,
+    "type": "LC",
+    "question": "What problem does the speaker mention?",
+    "script": "Hi, Mr. Delgado, this is Priya from Garden Gate Catering. I am calling about the lunch order for your company retreat on the twenty-second. You originally requested forty boxed lunches with the grilled salmon option, but our seafood supplier just informed us that they cannot deliver salmon that week because of a shipping delay. We can offer roasted chicken or a vegetarian pasta instead at the same price, and we will include complimentary desserts to make up for the change. Could you let me know your preference by Friday? That way our kitchen team can finalize the menu and print the labels in time. Thanks so much, and again, I am sorry about this.",
+    "options": [
+      "An ingredient is unavailable",
+      "A delivery address is incorrect",
+      "An event was canceled",
+      "A payment did not go through"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'our seafood supplier just informed us that they cannot deliver salmon that week'이라며 배송 지연으로 연어를 구할 수 없다는 문제를 설명합니다. 즉 주문한 재료(연어)를 쓸 수 없다는 내용이므로 (A)가 정답입니다. 배송 주소 오류, 행사 취소, 결제 실패는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0005",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker offer to do?",
+    "script": "Hi, Mr. Delgado, this is Priya from Garden Gate Catering. I am calling about the lunch order for your company retreat on the twenty-second. You originally requested forty boxed lunches with the grilled salmon option, but our seafood supplier just informed us that they cannot deliver salmon that week because of a shipping delay. We can offer roasted chicken or a vegetarian pasta instead at the same price, and we will include complimentary desserts to make up for the change. Could you let me know your preference by Friday? That way our kitchen team can finalize the menu and print the labels in time. Thanks so much, and again, I am sorry about this.",
+    "options": [
+      "Provide a full refund",
+      "Include free desserts",
+      "Deliver the order early",
+      "Upgrade the venue decorations"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'we will include complimentary desserts to make up for the change'라며 보상으로 무료 디저트를 제공하겠다고 제안합니다. complimentary가 free로 패러프레이즈되었습니다. 환불, 조기 배송, 장식 업그레이드는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0006",
+    "part": 4,
+    "type": "LC",
+    "question": "Why does the speaker need a reply by Friday?",
+    "script": "Hi, Mr. Delgado, this is Priya from Garden Gate Catering. I am calling about the lunch order for your company retreat on the twenty-second. You originally requested forty boxed lunches with the grilled salmon option, but our seafood supplier just informed us that they cannot deliver salmon that week because of a shipping delay. We can offer roasted chicken or a vegetarian pasta instead at the same price, and we will include complimentary desserts to make up for the change. Could you let me know your preference by Friday? That way our kitchen team can finalize the menu and print the labels in time. Thanks so much, and again, I am sorry about this.",
+    "options": [
+      "To reserve a delivery truck",
+      "To order more supplies from a vendor",
+      "To finalize the menu and print labels on time",
+      "To confirm the number of attendees"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'That way our kitchen team can finalize the menu and print the labels in time'이라며 금요일까지 답을 받아야 메뉴 확정과 라벨 인쇄를 제때 할 수 있다고 이유를 밝힙니다. 트럭 예약, 추가 발주, 참석 인원 확인은 담화에 없는 내용입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0007",
+    "part": 4,
+    "type": "LC",
+    "question": "Who most likely is the speaker?",
+    "script": "Good afternoon, Ms. Okafor. This is Sam from the Helpdesk at Crowley Financial. I am following up on the ticket you submitted yesterday about your laptop running slowly. I remotely checked your machine this morning and found that an outdated security program was using most of your memory. I have removed the old version and installed the current one, so things should be much faster now. However, the update will not take full effect until you restart your computer, so please do that before you open any applications tomorrow. If the problem continues after the restart, just reply to the ticket and I will reserve a replacement laptop for you. Have a great day.",
+    "options": [
+      "A financial adviser",
+      "A software salesperson",
+      "A laptop repair shop owner",
+      "A technical support employee"
+    ],
+    "answer": 3,
+    "explanation": "화자는 'This is Sam from the Helpdesk'라고 소개하고 접수된 ticket을 처리하며 원격으로 컴퓨터를 점검했다고 말하므로 사내 기술 지원(IT 헬프데스크) 직원임을 알 수 있습니다. 금융회사(Crowley Financial)에 근무하지만 업무 내용은 재무 상담이 아니므로 (A)는 함정입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0008",
+    "part": 4,
+    "type": "LC",
+    "question": "What caused the listener's computer problem?",
+    "script": "Good afternoon, Ms. Okafor. This is Sam from the Helpdesk at Crowley Financial. I am following up on the ticket you submitted yesterday about your laptop running slowly. I remotely checked your machine this morning and found that an outdated security program was using most of your memory. I have removed the old version and installed the current one, so things should be much faster now. However, the update will not take full effect until you restart your computer, so please do that before you open any applications tomorrow. If the problem continues after the restart, just reply to the ticket and I will reserve a replacement laptop for you. Have a great day.",
+    "options": [
+      "A broken cooling fan",
+      "An outdated security program",
+      "A virus from an e-mail attachment",
+      "Too many files on the hard drive"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'an outdated security program was using most of your memory'라며 오래된 보안 프로그램이 메모리를 차지해 노트북이 느려졌다고 원인을 설명합니다. 냉각 팬 고장, 바이러스, 파일 과다 저장은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0009",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker say he will do if the problem continues?",
+    "script": "Good afternoon, Ms. Okafor. This is Sam from the Helpdesk at Crowley Financial. I am following up on the ticket you submitted yesterday about your laptop running slowly. I remotely checked your machine this morning and found that an outdated security program was using most of your memory. I have removed the old version and installed the current one, so things should be much faster now. However, the update will not take full effect until you restart your computer, so please do that before you open any applications tomorrow. If the problem continues after the restart, just reply to the ticket and I will reserve a replacement laptop for you. Have a great day.",
+    "options": [
+      "Visit the listener's desk",
+      "Contact an outside vendor",
+      "Set aside a replacement device",
+      "Extend the warranty period"
+    ],
+    "answer": 2,
+    "explanation": "담화 마지막에 'If the problem continues after the restart, just reply to the ticket and I will reserve a replacement laptop for you'라고 했으므로, 문제가 지속되면 교체용 노트북을 준비해 두겠다는 (C)가 정답입니다. reserve가 set aside로 패러프레이즈되었습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0010",
+    "part": 4,
+    "type": "LC",
+    "question": "Who most likely is the listener?",
+    "script": "Hello, this message is for the tenant in apartment 4B. This is Marcus Webb, the building manager at Riverside Towers. I received your note about the leaking pipe under your kitchen sink, and I want to assure you that we take water issues very seriously. A licensed plumber will be available tomorrow between ten and noon. Since the repair requires access to your unit, please confirm that someone will be home during that window, or let me know if I have your permission to enter with the master key. Also, please remove any items stored under the sink tonight so the plumber can start right away. You can reach me anytime at extension 200.",
+    "options": [
+      "A building resident",
+      "A plumbing contractor",
+      "A real estate agent",
+      "A maintenance supervisor"
+    ],
+    "answer": 0,
+    "explanation": "화자가 'this message is for the tenant in apartment 4B'라고 했으므로 청자는 아파트 4B호의 세입자, 즉 건물 거주자입니다. 배관공은 내일 방문할 제3자이고, 부동산 중개인이나 관리 책임자는 담화와 무관합니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0011",
+    "part": 4,
+    "type": "LC",
+    "question": "What will happen tomorrow between ten and noon?",
+    "script": "Hello, this message is for the tenant in apartment 4B. This is Marcus Webb, the building manager at Riverside Towers. I received your note about the leaking pipe under your kitchen sink, and I want to assure you that we take water issues very seriously. A licensed plumber will be available tomorrow between ten and noon. Since the repair requires access to your unit, please confirm that someone will be home during that window, or let me know if I have your permission to enter with the master key. Also, please remove any items stored under the sink tonight so the plumber can start right away. You can reach me anytime at extension 200.",
+    "options": [
+      "A lease will be renewed",
+      "A repair will be carried out",
+      "A safety inspection will take place",
+      "New appliances will be delivered"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'A licensed plumber will be available tomorrow between ten and noon'이라며 그 시간대에 배관공이 와서 누수 수리를 할 것이라고 말합니다. 임대 계약 갱신, 안전 점검, 가전 배송은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0012",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the listener asked to do tonight?",
+    "script": "Hello, this message is for the tenant in apartment 4B. This is Marcus Webb, the building manager at Riverside Towers. I received your note about the leaking pipe under your kitchen sink, and I want to assure you that we take water issues very seriously. A licensed plumber will be available tomorrow between ten and noon. Since the repair requires access to your unit, please confirm that someone will be home during that window, or let me know if I have your permission to enter with the master key. Also, please remove any items stored under the sink tonight so the plumber can start right away. You can reach me anytime at extension 200.",
+    "options": [
+      "Turn off the water supply",
+      "Sign a repair authorization form",
+      "Clear out a storage space",
+      "Move a vehicle from the parking lot"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'please remove any items stored under the sink tonight'이라며 오늘 밤 싱크대 아래 물건을 치워 달라고 요청합니다. 이는 보관 공간을 비우라는 (C)로 패러프레이즈됩니다. 수도 차단, 서류 서명, 차량 이동은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0013",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the main purpose of the message?",
+    "script": "Good morning, Mr. Chen. This is Adriana Velez, hiring manager at Northgate Logistics. Thank you for applying for the operations analyst position. We were very impressed with your résumé, particularly your experience improving warehouse tracking systems, and we would like to invite you for an interview next Tuesday at ten thirty. The interview will take about an hour and will include a short data exercise, so please bring your own laptop. Our office is located at 35 Harbor Street, and visitor parking is available behind the building. Please confirm your attendance by replying to the e-mail we sent this morning. We look forward to meeting you.",
+    "options": [
+      "To offer a job to a candidate",
+      "To request additional references",
+      "To invite a candidate to an interview",
+      "To announce a change in job requirements"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'we would like to invite you for an interview next Tuesday at ten thirty'라며 면접에 초대하는 것이 전화의 핵심 목적임을 밝힙니다. 아직 채용 제안 단계가 아니므로 (A)는 오답이며, 추가 추천인 요청이나 자격 요건 변경도 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0014",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the listener asked to bring?",
+    "script": "Good morning, Mr. Chen. This is Adriana Velez, hiring manager at Northgate Logistics. Thank you for applying for the operations analyst position. We were very impressed with your résumé, particularly your experience improving warehouse tracking systems, and we would like to invite you for an interview next Tuesday at ten thirty. The interview will take about an hour and will include a short data exercise, so please bring your own laptop. Our office is located at 35 Harbor Street, and visitor parking is available behind the building. Please confirm your attendance by replying to the e-mail we sent this morning. We look forward to meeting you.",
+    "options": [
+      "A portfolio of past projects",
+      "A laptop computer",
+      "Two forms of identification",
+      "A list of references"
+    ],
+    "answer": 1,
+    "explanation": "면접에 'a short data exercise'가 포함되므로 'please bring your own laptop'이라고 요청했습니다. 따라서 노트북을 가져오라는 (B)가 정답입니다. 포트폴리오, 신분증, 추천인 목록은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0015",
+    "part": 4,
+    "type": "LC",
+    "question": "How should the listener confirm attendance?",
+    "script": "Good morning, Mr. Chen. This is Adriana Velez, hiring manager at Northgate Logistics. Thank you for applying for the operations analyst position. We were very impressed with your résumé, particularly your experience improving warehouse tracking systems, and we would like to invite you for an interview next Tuesday at ten thirty. The interview will take about an hour and will include a short data exercise, so please bring your own laptop. Our office is located at 35 Harbor Street, and visitor parking is available behind the building. Please confirm your attendance by replying to the e-mail we sent this morning. We look forward to meeting you.",
+    "options": [
+      "By calling the front desk",
+      "By visiting the office",
+      "By replying to an e-mail",
+      "By completing an online survey"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'Please confirm your attendance by replying to the e-mail we sent this morning'이라며 이메일 회신으로 참석을 확정해 달라고 요청합니다. 전화, 방문, 설문 작성은 담화에 없는 방법입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0016",
+    "part": 4,
+    "type": "LC",
+    "question": "Why does the speaker apologize?",
+    "script": "Hello, Ms. Brennan, this is Theo at Lakeside Auto Service. I am calling with an update on your sedan. We finished inspecting the brakes this morning, and the rear brake pads need to be replaced. Unfortunately, the specific pads for your model are out of stock at our usual distributor, and the earliest they can ship them is Thursday. I apologize for the delay, since I know we promised the car back by tomorrow. To make things easier, we can provide a loaner vehicle at no charge until the work is done. If you would rather have the car back now and return next week for the repair, that is also fine. Please call me back to let me know.",
+    "options": [
+      "An estimate was higher than expected",
+      "A repair will take longer than promised",
+      "A vehicle was damaged during service",
+      "An invoice contained an error"
+    ],
+    "answer": 1,
+    "explanation": "화자는 부품 재고가 없어 목요일에야 배송된다며 'I apologize for the delay, since I know we promised the car back by tomorrow'라고 사과합니다. 즉 약속한 기한보다 수리가 늦어지는 것이 사과의 이유입니다. 견적 초과, 차량 파손, 청구서 오류는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0017",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker imply about the brake pads?",
+    "script": "Hello, Ms. Brennan, this is Theo at Lakeside Auto Service. I am calling with an update on your sedan. We finished inspecting the brakes this morning, and the rear brake pads need to be replaced. Unfortunately, the specific pads for your model are out of stock at our usual distributor, and the earliest they can ship them is Thursday. I apologize for the delay, since I know we promised the car back by tomorrow. To make things easier, we can provide a loaner vehicle at no charge until the work is done. If you would rather have the car back now and return next week for the repair, that is also fine. Please call me back to let me know.",
+    "options": [
+      "They were recently recalled by the manufacturer",
+      "They are more expensive than standard parts",
+      "They are not currently available from the supplier",
+      "They were installed incorrectly last time"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'the specific pads for your model are out of stock at our usual distributor'라며 거래처에 해당 부품 재고가 없다고 말합니다. out of stock이 not currently available로 패러프레이즈된 (C)가 정답입니다. 리콜, 가격, 이전 설치 오류는 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0018",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker offer the listener at no charge?",
+    "script": "Hello, Ms. Brennan, this is Theo at Lakeside Auto Service. I am calling with an update on your sedan. We finished inspecting the brakes this morning, and the rear brake pads need to be replaced. Unfortunately, the specific pads for your model are out of stock at our usual distributor, and the earliest they can ship them is Thursday. I apologize for the delay, since I know we promised the car back by tomorrow. To make things easier, we can provide a loaner vehicle at no charge until the work is done. If you would rather have the car back now and return next week for the repair, that is also fine. Please call me back to let me know.",
+    "options": [
+      "A temporary vehicle",
+      "A full tank of fuel",
+      "A future oil change",
+      "A car wash service"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'we can provide a loaner vehicle at no charge until the work is done'이라며 수리가 끝날 때까지 무료 대차(임시 차량)를 제공하겠다고 제안합니다. loaner vehicle이 temporary vehicle로 패러프레이즈되었습니다. 주유, 오일 교환, 세차는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0019",
+    "part": 4,
+    "type": "LC",
+    "question": "Where is the announcement most likely being made?",
+    "script": "Attention, passengers on Flight 372 to Vancouver. We have a gate change to announce. Your flight will now depart from Gate 27 in Concourse C instead of Gate 14. To reach Concourse C, please take the moving walkway past the food court and follow the signs for Gates 20 through 35. The walk takes about ten minutes, so we recommend heading there now. Boarding will begin at five fifteen, starting with passengers who need extra assistance and families with small children. Please have your boarding pass and a valid photo ID ready when you reach the gate. We apologize for any inconvenience and thank you for flying with Pacific Wing Airlines.",
+    "options": [
+      "At a train station",
+      "At an airport",
+      "At a ferry terminal",
+      "At a bus depot"
+    ],
+    "answer": 1,
+    "explanation": "'Flight 372', 'gate change', 'Boarding', 'boarding pass', 'flying with Pacific Wing Airlines' 등 항공 여행 관련 표현이 반복되므로 공항 안내 방송임을 알 수 있습니다. 기차역, 페리 터미널, 버스 차고지는 담화 내용과 맞지 않습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0020",
+    "part": 4,
+    "type": "LC",
+    "question": "What change does the speaker announce?",
+    "script": "Attention, passengers on Flight 372 to Vancouver. We have a gate change to announce. Your flight will now depart from Gate 27 in Concourse C instead of Gate 14. To reach Concourse C, please take the moving walkway past the food court and follow the signs for Gates 20 through 35. The walk takes about ten minutes, so we recommend heading there now. Boarding will begin at five fifteen, starting with passengers who need extra assistance and families with small children. Please have your boarding pass and a valid photo ID ready when you reach the gate. We apologize for any inconvenience and thank you for flying with Pacific Wing Airlines.",
+    "options": [
+      "A flight has been canceled",
+      "A departure time has been delayed",
+      "A departure gate has been moved",
+      "A baggage policy has been revised"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'Your flight will now depart from Gate 27 in Concourse C instead of Gate 14'라며 출발 게이트가 14번에서 27번으로 변경되었음을 알립니다. 항공편 취소나 출발 시간 지연, 수하물 규정 변경은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0021",
+    "part": 4,
+    "type": "LC",
+    "question": "Who will board the plane first?",
+    "script": "Attention, passengers on Flight 372 to Vancouver. We have a gate change to announce. Your flight will now depart from Gate 27 in Concourse C instead of Gate 14. To reach Concourse C, please take the moving walkway past the food court and follow the signs for Gates 20 through 35. The walk takes about ten minutes, so we recommend heading there now. Boarding will begin at five fifteen, starting with passengers who need extra assistance and families with small children. Please have your boarding pass and a valid photo ID ready when you reach the gate. We apologize for any inconvenience and thank you for flying with Pacific Wing Airlines.",
+    "options": [
+      "Business-class ticket holders",
+      "Frequent flyer members",
+      "Passengers seated in the rear rows",
+      "Passengers needing assistance and families with children"
+    ],
+    "answer": 3,
+    "explanation": "'Boarding will begin at five fifteen, starting with passengers who need extra assistance and families with small children'이라고 했으므로 도움이 필요한 승객과 어린 자녀 동반 가족이 먼저 탑승합니다. 비즈니스석, 상용 고객, 뒷좌석 승객 우선 탑승은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0022",
+    "part": 4,
+    "type": "LC",
+    "question": "Who is the intended audience for this announcement?",
+    "script": "Good evening, Fairfield Market shoppers. May I have your attention, please? Our store will be closing in fifteen minutes, at nine o'clock. Please bring your final selections to the registers at the front of the store. As a reminder, our bakery counter has marked all remaining bread and pastries down by fifty percent, so be sure to stop by before you check out. Also, starting next Monday, we will be open until ten on weeknights to serve you better. If you have a Fairfield rewards card, scan it at the register tonight to receive double points on your entire purchase. Thank you for shopping with us, and we hope to see you again soon.",
+    "options": [
+      "Store employees",
+      "Customers in a supermarket",
+      "Delivery drivers",
+      "Bakery suppliers"
+    ],
+    "answer": 1,
+    "explanation": "첫 문장에서 'Fairfield Market shoppers'라고 부르고, 계산대로 물건을 가져오라는 내용과 적립 카드 안내가 이어지므로 청자는 매장 안의 고객들입니다. 직원, 배송 기사, 납품업체를 대상으로 한 내용이 아닙니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0023",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker say about the bakery items?",
+    "script": "Good evening, Fairfield Market shoppers. May I have your attention, please? Our store will be closing in fifteen minutes, at nine o'clock. Please bring your final selections to the registers at the front of the store. As a reminder, our bakery counter has marked all remaining bread and pastries down by fifty percent, so be sure to stop by before you check out. Also, starting next Monday, we will be open until ten on weeknights to serve you better. If you have a Fairfield rewards card, scan it at the register tonight to receive double points on your entire purchase. Thank you for shopping with us, and we hope to see you again soon.",
+    "options": [
+      "They are freshly baked every hour",
+      "They have sold out for the day",
+      "They are discounted by half",
+      "They can be ordered online"
+    ],
+    "answer": 2,
+    "explanation": "'our bakery counter has marked all remaining bread and pastries down by fifty percent'라고 했으므로 남은 빵과 페이스트리가 50% 할인된다는 (C)가 정답입니다. marked down by fifty percent가 discounted by half로 패러프레이즈되었습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0024",
+    "part": 4,
+    "type": "LC",
+    "question": "What will change starting next Monday?",
+    "script": "Good evening, Fairfield Market shoppers. May I have your attention, please? Our store will be closing in fifteen minutes, at nine o'clock. Please bring your final selections to the registers at the front of the store. As a reminder, our bakery counter has marked all remaining bread and pastries down by fifty percent, so be sure to stop by before you check out. Also, starting next Monday, we will be open until ten on weeknights to serve you better. If you have a Fairfield rewards card, scan it at the register tonight to receive double points on your entire purchase. Thank you for shopping with us, and we hope to see you again soon.",
+    "options": [
+      "The store's weeknight hours",
+      "The rewards program rules",
+      "The location of the registers",
+      "The bakery counter's menu"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'starting next Monday, we will be open until ten on weeknights'라며 다음 주 월요일부터 평일 영업시간이 밤 10시까지로 연장된다고 안내합니다. 적립 프로그램 규정, 계산대 위치, 베이커리 메뉴 변경은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0025",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the announcement mainly about?",
+    "script": "Attention, all employees of the Meridian Building. This is a message from the facilities team. Beginning tomorrow morning, the two elevators on the east side of the lobby will be shut down for scheduled modernization work, which is expected to last three weeks. During this period, please use the west elevators or the central stairway. We expect longer wait times between eight thirty and nine thirty, so you may want to arrive a few minutes early. Deliveries of heavy equipment should be coordinated with the loading dock by calling extension 510 at least one day in advance. We appreciate your patience while we improve the building. A reminder e-mail with the full schedule will be sent this afternoon.",
+    "options": [
+      "A fire safety drill",
+      "Temporary elevator maintenance",
+      "A change in office layout",
+      "New security procedures"
+    ],
+    "answer": 1,
+    "explanation": "공지의 핵심은 'the two elevators on the east side of the lobby will be shut down for scheduled modernization work'로, 약 3주간 동쪽 엘리베이터가 현대화 공사로 운행 중단된다는 내용입니다. 소방 훈련, 사무실 배치 변경, 보안 절차는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0026",
+    "part": 4,
+    "type": "LC",
+    "question": "Why does the speaker suggest arriving early?",
+    "script": "Attention, all employees of the Meridian Building. This is a message from the facilities team. Beginning tomorrow morning, the two elevators on the east side of the lobby will be shut down for scheduled modernization work, which is expected to last three weeks. During this period, please use the west elevators or the central stairway. We expect longer wait times between eight thirty and nine thirty, so you may want to arrive a few minutes early. Deliveries of heavy equipment should be coordinated with the loading dock by calling extension 510 at least one day in advance. We appreciate your patience while we improve the building. A reminder e-mail with the full schedule will be sent this afternoon.",
+    "options": [
+      "Parking spaces will be limited",
+      "A staff meeting will be held",
+      "Waiting times are expected to increase",
+      "Security checks will take longer"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'We expect longer wait times between eight thirty and nine thirty, so you may want to arrive a few minutes early'라며 출근 시간대 엘리베이터 대기 시간이 길어질 것이므로 일찍 도착하라고 권합니다. 주차, 회의, 보안 검색은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0027",
+    "part": 4,
+    "type": "LC",
+    "question": "According to the speaker, what will be sent in the afternoon?",
+    "script": "Attention, all employees of the Meridian Building. This is a message from the facilities team. Beginning tomorrow morning, the two elevators on the east side of the lobby will be shut down for scheduled modernization work, which is expected to last three weeks. During this period, please use the west elevators or the central stairway. We expect longer wait times between eight thirty and nine thirty, so you may want to arrive a few minutes early. Deliveries of heavy equipment should be coordinated with the loading dock by calling extension 510 at least one day in advance. We appreciate your patience while we improve the building. A reminder e-mail with the full schedule will be sent this afternoon.",
+    "options": [
+      "A building access card",
+      "A survey about facilities",
+      "A list of emergency contacts",
+      "An e-mail with a detailed schedule"
+    ],
+    "answer": 3,
+    "explanation": "마지막 문장 'A reminder e-mail with the full schedule will be sent this afternoon'에서 오후에 전체 일정이 담긴 이메일이 발송될 것임을 알 수 있습니다. 출입 카드, 설문, 비상 연락처 목록은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0028",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the cause of the delay?",
+    "script": "May I have your attention, please? This is an announcement for passengers waiting for the seven forty express train to Carlton Central on Platform 2. Due to a signal malfunction near the Ashford junction, this service is delayed by approximately twenty-five minutes. Engineers are on site, and we expect normal operations to resume shortly. Passengers with urgent connections may take the local train on Platform 5, which departs in six minutes and stops at all stations to Carlton Central. Your express tickets will be accepted on that service today. For updates, please check the display boards or the station app. We are sorry for the disruption to your journey this morning.",
+    "options": [
+      "Severe weather conditions",
+      "A signal malfunction",
+      "Track construction work",
+      "A staff shortage"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'Due to a signal malfunction near the Ashford junction, this service is delayed'라며 신호 장치 고장이 지연의 원인이라고 명확히 밝힙니다. 날씨, 선로 공사, 인력 부족은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0029",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker suggest passengers with urgent connections do?",
+    "script": "May I have your attention, please? This is an announcement for passengers waiting for the seven forty express train to Carlton Central on Platform 2. Due to a signal malfunction near the Ashford junction, this service is delayed by approximately twenty-five minutes. Engineers are on site, and we expect normal operations to resume shortly. Passengers with urgent connections may take the local train on Platform 5, which departs in six minutes and stops at all stations to Carlton Central. Your express tickets will be accepted on that service today. For updates, please check the display boards or the station app. We are sorry for the disruption to your journey this morning.",
+    "options": [
+      "Request a full refund",
+      "Wait in the station lounge",
+      "Board a local train on another platform",
+      "Purchase a new ticket"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'Passengers with urgent connections may take the local train on Platform 5'라며 급한 승객은 5번 승강장의 완행열차를 이용하라고 안내합니다. 또한 기존 급행 승차권이 그대로 인정되므로 새 표 구매(D)는 불필요하며, 환불이나 라운지 대기는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0030",
+    "part": 4,
+    "type": "LC",
+    "question": "How can passengers get updated information?",
+    "script": "May I have your attention, please? This is an announcement for passengers waiting for the seven forty express train to Carlton Central on Platform 2. Due to a signal malfunction near the Ashford junction, this service is delayed by approximately twenty-five minutes. Engineers are on site, and we expect normal operations to resume shortly. Passengers with urgent connections may take the local train on Platform 5, which departs in six minutes and stops at all stations to Carlton Central. Your express tickets will be accepted on that service today. For updates, please check the display boards or the station app. We are sorry for the disruption to your journey this morning.",
+    "options": [
+      "By visiting the ticket office",
+      "By checking display boards or a mobile app",
+      "By calling a customer hotline",
+      "By asking platform attendants"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'For updates, please check the display boards or the station app'이라며 전광판이나 역 앱에서 최신 정보를 확인하라고 안내합니다. 매표소 방문, 전화 문의, 직원 문의는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0031",
+    "part": 4,
+    "type": "LC",
+    "question": "What will happen at the library next month?",
+    "script": "Good afternoon, and welcome to the Westbrook Public Library. Before you settle in, we have a few announcements. Starting next month, the second floor will be closed for a major renovation that will add ten private study rooms and a recording studio for podcast production. While the work is underway, all reference materials normally kept upstairs will be moved to the reading room behind the main desk. Our hours will not change, but the quiet zone will temporarily relocate to the basement level. If you would like to see the architectural plans, they are posted on the community board near the entrance, and our staff will gladly answer any questions. Thank you for your understanding.",
+    "options": [
+      "A renovation project will begin",
+      "A new branch will open",
+      "Membership fees will increase",
+      "Operating hours will be reduced"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'Starting next month, the second floor will be closed for a major renovation'이라며 다음 달부터 2층 대규모 보수 공사가 시작된다고 알립니다. 화자가 'Our hours will not change'라고 했으므로 (D)는 명백한 오답이며, 신규 분관이나 회비 인상도 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0032",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker say will be added after the renovation?",
+    "script": "Good afternoon, and welcome to the Westbrook Public Library. Before you settle in, we have a few announcements. Starting next month, the second floor will be closed for a major renovation that will add ten private study rooms and a recording studio for podcast production. While the work is underway, all reference materials normally kept upstairs will be moved to the reading room behind the main desk. Our hours will not change, but the quiet zone will temporarily relocate to the basement level. If you would like to see the architectural plans, they are posted on the community board near the entrance, and our staff will gladly answer any questions. Thank you for your understanding.",
+    "options": [
+      "A children's play area",
+      "A café and gift shop",
+      "Study rooms and a recording studio",
+      "An outdoor reading garden"
+    ],
+    "answer": 2,
+    "explanation": "보수 공사로 'ten private study rooms and a recording studio for podcast production'이 추가된다고 했으므로 (C)가 정답입니다. 어린이 놀이 공간, 카페, 야외 정원은 담화에 없는 내용입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0033",
+    "part": 4,
+    "type": "LC",
+    "question": "Where can listeners view the architectural plans?",
+    "script": "Good afternoon, and welcome to the Westbrook Public Library. Before you settle in, we have a few announcements. Starting next month, the second floor will be closed for a major renovation that will add ten private study rooms and a recording studio for podcast production. While the work is underway, all reference materials normally kept upstairs will be moved to the reading room behind the main desk. Our hours will not change, but the quiet zone will temporarily relocate to the basement level. If you would like to see the architectural plans, they are posted on the community board near the entrance, and our staff will gladly answer any questions. Thank you for your understanding.",
+    "options": [
+      "On the library's Web site",
+      "On a board near the entrance",
+      "At the basement quiet zone",
+      "In the second-floor reading room"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'they are posted on the community board near the entrance'라며 설계도가 입구 근처 게시판에 게시되어 있다고 안내합니다. 웹사이트, 지하 정숙 구역, 2층 열람실은 게시 장소로 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0034",
+    "part": 4,
+    "type": "LC",
+    "question": "What department does the speaker most likely work in?",
+    "script": "Thanks for joining this morning's meeting, everyone. As head of the sales department, I want to start with some good news. Our third-quarter revenue came in twelve percent above target, thanks largely to the new corporate accounts in the healthcare sector. However, our renewal rate for smaller clients dropped slightly, and I believe that is because we have not been following up after the initial sale. So, starting next week, every account representative will schedule a thirty-day check-in call with each new client. Dana has created a simple call script, which she will e-mail to you by the end of the day. Let's review the regional numbers next.",
+    "options": [
+      "Human resources",
+      "Sales",
+      "Product development",
+      "Accounting"
+    ],
+    "answer": 1,
+    "explanation": "화자가 'As head of the sales department'라고 자신을 소개하므로 영업 부서 책임자임을 알 수 있습니다. 매출(revenue), 고객 갱신율(renewal rate), 영업 담당자(account representative) 등 영업 관련 어휘도 이를 뒷받침합니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0035",
+    "part": 4,
+    "type": "LC",
+    "question": "According to the speaker, why did the renewal rate drop?",
+    "script": "Thanks for joining this morning's meeting, everyone. As head of the sales department, I want to start with some good news. Our third-quarter revenue came in twelve percent above target, thanks largely to the new corporate accounts in the healthcare sector. However, our renewal rate for smaller clients dropped slightly, and I believe that is because we have not been following up after the initial sale. So, starting next week, every account representative will schedule a thirty-day check-in call with each new client. Dana has created a simple call script, which she will e-mail to you by the end of the day. Let's review the regional numbers next.",
+    "options": [
+      "Prices were raised too quickly",
+      "A competitor launched a similar product",
+      "Clients were not contacted after their first purchase",
+      "The product quality declined"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'that is because we have not been following up after the initial sale'이라며 첫 판매 이후 후속 연락을 하지 않은 것이 소규모 고객 갱신율 하락의 원인이라고 분석합니다. 가격 인상, 경쟁사 제품, 품질 저하는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0036",
+    "part": 4,
+    "type": "LC",
+    "question": "What will Dana send by the end of the day?",
+    "script": "Thanks for joining this morning's meeting, everyone. As head of the sales department, I want to start with some good news. Our third-quarter revenue came in twelve percent above target, thanks largely to the new corporate accounts in the healthcare sector. However, our renewal rate for smaller clients dropped slightly, and I believe that is because we have not been following up after the initial sale. So, starting next week, every account representative will schedule a thirty-day check-in call with each new client. Dana has created a simple call script, which she will e-mail to you by the end of the day. Let's review the regional numbers next.",
+    "options": [
+      "A revised price list",
+      "A script for client calls",
+      "A list of healthcare accounts",
+      "A quarterly revenue report"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'Dana has created a simple call script, which she will e-mail to you by the end of the day'라며 Dana가 만든 고객 전화용 스크립트가 당일 중으로 이메일 발송될 것이라고 말합니다. 가격표, 거래처 목록, 분기 보고서는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0037",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the main topic of the meeting?",
+    "script": "Before we wrap up, I want to talk about the new project management software we will adopt company-wide in July. As many of you know, our current system cannot handle file sharing with outside partners, which has caused version confusion on several recent projects. The new platform, TaskBridge, lets us share documents securely and tracks every revision automatically. Now, I realize learning a new tool takes time, so we have arranged three training sessions during the last week of June, and attendance at one session is mandatory. Sign-up sheets are by the kitchen on the third floor. If you have a scheduling conflict, talk to your team lead, and we will arrange a recorded session for you.",
+    "options": [
+      "Hiring outside consultants",
+      "Introducing new software",
+      "Revising the vacation policy",
+      "Opening a new office"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'the new project management software we will adopt company-wide in July'에 대해 이야기하겠다고 하며, 새 플랫폼 TaskBridge 도입과 교육 일정을 설명합니다. 따라서 회의의 주제는 신규 소프트웨어 도입입니다. 컨설턴트 고용, 휴가 정책, 신규 사무실은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0038",
+    "part": 4,
+    "type": "LC",
+    "question": "What problem does the speaker mention about the current system?",
+    "script": "Before we wrap up, I want to talk about the new project management software we will adopt company-wide in July. As many of you know, our current system cannot handle file sharing with outside partners, which has caused version confusion on several recent projects. The new platform, TaskBridge, lets us share documents securely and tracks every revision automatically. Now, I realize learning a new tool takes time, so we have arranged three training sessions during the last week of June, and attendance at one session is mandatory. Sign-up sheets are by the kitchen on the third floor. If you have a scheduling conflict, talk to your team lead, and we will arrange a recorded session for you.",
+    "options": [
+      "It cannot share files with external partners",
+      "It is too expensive to maintain",
+      "It frequently crashes during meetings",
+      "It is incompatible with mobile devices"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'our current system cannot handle file sharing with outside partners, which has caused version confusion'이라며 현재 시스템이 외부 파트너와의 파일 공유를 지원하지 못해 버전 혼란이 생겼다고 지적합니다. 유지 비용, 시스템 다운, 모바일 호환성 문제는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0039",
+    "part": 4,
+    "type": "LC",
+    "question": "What should employees do if they have a scheduling conflict?",
+    "script": "Before we wrap up, I want to talk about the new project management software we will adopt company-wide in July. As many of you know, our current system cannot handle file sharing with outside partners, which has caused version confusion on several recent projects. The new platform, TaskBridge, lets us share documents securely and tracks every revision automatically. Now, I realize learning a new tool takes time, so we have arranged three training sessions during the last week of June, and attendance at one session is mandatory. Sign-up sheets are by the kitchen on the third floor. If you have a scheduling conflict, talk to your team lead, and we will arrange a recorded session for you.",
+    "options": [
+      "Submit a written request to HR",
+      "Speak with their team lead",
+      "Attend a weekend session",
+      "Complete an online course instead"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'If you have a scheduling conflict, talk to your team lead, and we will arrange a recorded session for you'라며 일정이 겹치는 직원은 팀장과 상의하라고 안내합니다. 인사부 서면 요청, 주말 세션, 온라인 강좌는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0040",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the speaker mainly discussing?",
+    "script": "The last item on our agenda is the travel budget for the coming fiscal year. As you saw in the finance report, our travel spending rose almost forty percent last year, mostly because of last-minute bookings. Rather than cutting trips entirely, the leadership team has decided to introduce a new approval process. From now on, any trip estimated to cost over eight hundred dollars must be approved by a director at least three weeks before departure. Booking early should also help us get better airfares. I know this adds a step to your planning, but it will protect the budget for the conferences that matter most. The finance team will circulate the new request form on Friday.",
+    "options": [
+      "A change to travel approval procedures",
+      "The cancellation of an annual conference",
+      "A reduction in staff headcount",
+      "The selection of a new travel agency"
+    ],
+    "answer": 0,
+    "explanation": "화자는 출장비 급증 문제에 대한 대응으로 'the leadership team has decided to introduce a new approval process'라며 800달러 초과 출장에 대한 새 승인 절차를 설명합니다. 컨퍼런스 취소, 인원 감축, 여행사 선정은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0041",
+    "part": 4,
+    "type": "LC",
+    "question": "According to the speaker, what mainly caused the increase in travel spending?",
+    "script": "The last item on our agenda is the travel budget for the coming fiscal year. As you saw in the finance report, our travel spending rose almost forty percent last year, mostly because of last-minute bookings. Rather than cutting trips entirely, the leadership team has decided to introduce a new approval process. From now on, any trip estimated to cost over eight hundred dollars must be approved by a director at least three weeks before departure. Booking early should also help us get better airfares. I know this adds a step to your planning, but it will protect the budget for the conferences that matter most. The finance team will circulate the new request form on Friday.",
+    "options": [
+      "Higher hotel rates",
+      "Reservations made at the last minute",
+      "An increase in international trips",
+      "Larger conference registration fees"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'our travel spending rose almost forty percent last year, mostly because of last-minute bookings'라며 막판 예약이 출장비 증가의 주된 원인이라고 밝힙니다. 호텔 요금, 해외 출장 증가, 등록비 인상은 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0042",
+    "part": 4,
+    "type": "LC",
+    "question": "What will the finance team do on Friday?",
+    "script": "The last item on our agenda is the travel budget for the coming fiscal year. As you saw in the finance report, our travel spending rose almost forty percent last year, mostly because of last-minute bookings. Rather than cutting trips entirely, the leadership team has decided to introduce a new approval process. From now on, any trip estimated to cost over eight hundred dollars must be approved by a director at least three weeks before departure. Booking early should also help us get better airfares. I know this adds a step to your planning, but it will protect the budget for the conferences that matter most. The finance team will circulate the new request form on Friday.",
+    "options": [
+      "Present a revised budget",
+      "Approve pending trips",
+      "Distribute a new form",
+      "Meet with the directors"
+    ],
+    "answer": 2,
+    "explanation": "마지막 문장 'The finance team will circulate the new request form on Friday'에서 재무팀이 금요일에 새 신청 양식을 배포할 것임을 알 수 있습니다. circulate가 distribute로 패러프레이즈되었습니다. 예산 발표, 출장 승인, 임원 회의는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0043",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the purpose of the talk?",
+    "script": "Good morning, team. I called this brief meeting to share some exciting news. After months of market research, headquarters has approved the opening of our first branch on the west coast, in Portland, this October. The new location will focus on our outdoor product line, which has been our fastest-growing category for two years. Here is how this affects us. We need five experienced staff members to relocate temporarily to train the new hires. Anyone who volunteers will receive a housing allowance and a completion bonus. If you are interested, please send me a short statement of interest by the end of next week. I will share more details about the timeline at Thursday's all-hands meeting.",
+    "options": [
+      "To explain a product recall",
+      "To announce a new branch opening",
+      "To introduce a new manager",
+      "To review safety regulations"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'headquarters has approved the opening of our first branch on the west coast, in Portland, this October'라며 신규 지점 개설 소식을 전하기 위해 회의를 소집했다고 밝힙니다. 제품 리콜, 신임 관리자 소개, 안전 규정 검토는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0044",
+    "part": 4,
+    "type": "LC",
+    "question": "What incentive is offered to volunteers?",
+    "script": "Good morning, team. I called this brief meeting to share some exciting news. After months of market research, headquarters has approved the opening of our first branch on the west coast, in Portland, this October. The new location will focus on our outdoor product line, which has been our fastest-growing category for two years. Here is how this affects us. We need five experienced staff members to relocate temporarily to train the new hires. Anyone who volunteers will receive a housing allowance and a completion bonus. If you are interested, please send me a short statement of interest by the end of next week. I will share more details about the timeline at Thursday's all-hands meeting.",
+    "options": [
+      "Extra vacation days",
+      "A permanent promotion",
+      "A housing allowance and a bonus",
+      "A company vehicle"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'Anyone who volunteers will receive a housing allowance and a completion bonus'라며 임시 파견 지원자에게 주거 수당과 완료 보너스를 제공한다고 말합니다. 추가 휴가, 승진, 회사 차량은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0045",
+    "part": 4,
+    "type": "LC",
+    "question": "What will happen at Thursday's meeting?",
+    "script": "Good morning, team. I called this brief meeting to share some exciting news. After months of market research, headquarters has approved the opening of our first branch on the west coast, in Portland, this October. The new location will focus on our outdoor product line, which has been our fastest-growing category for two years. Here is how this affects us. We need five experienced staff members to relocate temporarily to train the new hires. Anyone who volunteers will receive a housing allowance and a completion bonus. If you are interested, please send me a short statement of interest by the end of next week. I will share more details about the timeline at Thursday's all-hands meeting.",
+    "options": [
+      "Volunteers will be selected",
+      "More details about a timeline will be shared",
+      "New hires will be introduced",
+      "A budget will be finalized"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'I will share more details about the timeline at Thursday's all-hands meeting'이라며 목요일 전체 회의에서 일정에 대한 추가 정보를 공유하겠다고 말합니다. 지원자 선발, 신입 사원 소개, 예산 확정은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0046",
+    "part": 4,
+    "type": "LC",
+    "question": "Who most likely is the speaker?",
+    "script": "Good morning, commuters. This is Erica Stone with your seven o'clock traffic update on Radio 88. If you are heading downtown on the Harborview Bridge, expect heavy delays this morning. A delivery truck broke down in the left lane near the south tower, and crews are working to remove it now. Traffic is backed up for nearly three kilometers, so consider taking the Fulton Tunnel instead, where traffic is moving smoothly. Elsewhere, Route 9 is clear in both directions, but watch for crews trimming trees near the Maple Street exit. I will be back with another update in thirty minutes. Now, over to Jeff for the weather.",
+    "options": [
+      "A police officer",
+      "A radio traffic reporter",
+      "A tow truck operator",
+      "A city engineer"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'This is Erica Stone with your seven o'clock traffic update on Radio 88'이라고 자신을 소개하므로 라디오 교통 리포터입니다. 마지막에 'over to Jeff for the weather'라며 다음 코너로 넘기는 것도 방송 진행자의 전형적인 표현입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0047",
+    "part": 4,
+    "type": "LC",
+    "question": "What caused the delays on the Harborview Bridge?",
+    "script": "Good morning, commuters. This is Erica Stone with your seven o'clock traffic update on Radio 88. If you are heading downtown on the Harborview Bridge, expect heavy delays this morning. A delivery truck broke down in the left lane near the south tower, and crews are working to remove it now. Traffic is backed up for nearly three kilometers, so consider taking the Fulton Tunnel instead, where traffic is moving smoothly. Elsewhere, Route 9 is clear in both directions, but watch for crews trimming trees near the Maple Street exit. I will be back with another update in thirty minutes. Now, over to Jeff for the weather.",
+    "options": [
+      "Road resurfacing work",
+      "A multiple-car accident",
+      "A broken-down truck",
+      "A public parade"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'A delivery truck broke down in the left lane near the south tower'라며 고장 난 배송 트럭이 다리 정체의 원인이라고 설명합니다. 도로 포장 공사, 다중 추돌 사고, 퍼레이드는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0048",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker recommend drivers do?",
+    "script": "Good morning, commuters. This is Erica Stone with your seven o'clock traffic update on Radio 88. If you are heading downtown on the Harborview Bridge, expect heavy delays this morning. A delivery truck broke down in the left lane near the south tower, and crews are working to remove it now. Traffic is backed up for nearly three kilometers, so consider taking the Fulton Tunnel instead, where traffic is moving smoothly. Elsewhere, Route 9 is clear in both directions, but watch for crews trimming trees near the Maple Street exit. I will be back with another update in thirty minutes. Now, over to Jeff for the weather.",
+    "options": [
+      "Use an alternate route",
+      "Delay their morning commute",
+      "Take public transportation",
+      "Carpool with coworkers"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'consider taking the Fulton Tunnel instead, where traffic is moving smoothly'라며 정체된 다리 대신 터널이라는 우회로를 이용하라고 권합니다. 출근 지연, 대중교통, 카풀은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0049",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the weather expected to be like this afternoon?",
+    "script": "And now for your weekend weather outlook on KVR News. It is a chilly start this Saturday morning with patchy fog along the coast, but skies will clear by midmorning. This afternoon will be sunny and mild, with highs around twenty-two degrees, perfect for the food festival at Brookside Park. However, do not put away your umbrellas just yet. A storm system moving in from the west will bring heavy rain and gusty winds beginning late Sunday afternoon and continuing into Monday morning. If you are planning to drive Monday, allow extra time, as some low-lying roads may flood. Stay tuned for the full seven-day forecast right after the sports report.",
+    "options": [
+      "Rainy and windy",
+      "Sunny and mild",
+      "Foggy and cold",
+      "Cloudy and humid"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'This afternoon will be sunny and mild, with highs around twenty-two degrees'라며 오후 날씨가 맑고 온화할 것이라고 예보합니다. 비와 강풍은 일요일 늦은 오후부터이고, 안개는 토요일 아침에 한정된 내용이므로 (A), (C)는 시점이 다른 함정입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0050",
+    "part": 4,
+    "type": "LC",
+    "question": "When will the storm system arrive?",
+    "script": "And now for your weekend weather outlook on KVR News. It is a chilly start this Saturday morning with patchy fog along the coast, but skies will clear by midmorning. This afternoon will be sunny and mild, with highs around twenty-two degrees, perfect for the food festival at Brookside Park. However, do not put away your umbrellas just yet. A storm system moving in from the west will bring heavy rain and gusty winds beginning late Sunday afternoon and continuing into Monday morning. If you are planning to drive Monday, allow extra time, as some low-lying roads may flood. Stay tuned for the full seven-day forecast right after the sports report.",
+    "options": [
+      "Saturday morning",
+      "Saturday evening",
+      "Late Sunday afternoon",
+      "Monday evening"
+    ],
+    "answer": 2,
+    "explanation": "화자는 폭풍이 'beginning late Sunday afternoon and continuing into Monday morning'에 비와 강풍을 몰고 올 것이라고 했으므로 일요일 늦은 오후가 정답입니다. 토요일 아침은 안개가 끼는 시간대이며, 월요일 아침까지 이어진다고 했지 월요일 저녁 시작이 아닙니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0051",
+    "part": 4,
+    "type": "LC",
+    "question": "What will listeners hear after the sports report?",
+    "script": "And now for your weekend weather outlook on KVR News. It is a chilly start this Saturday morning with patchy fog along the coast, but skies will clear by midmorning. This afternoon will be sunny and mild, with highs around twenty-two degrees, perfect for the food festival at Brookside Park. However, do not put away your umbrellas just yet. A storm system moving in from the west will bring heavy rain and gusty winds beginning late Sunday afternoon and continuing into Monday morning. If you are planning to drive Monday, allow extra time, as some low-lying roads may flood. Stay tuned for the full seven-day forecast right after the sports report.",
+    "options": [
+      "A traffic update",
+      "A seven-day forecast",
+      "An interview with a chef",
+      "A festival schedule"
+    ],
+    "answer": 1,
+    "explanation": "마지막 문장 'Stay tuned for the full seven-day forecast right after the sports report'에서 스포츠 뉴스 직후에 주간 예보가 방송될 것임을 알 수 있습니다. 교통 정보, 셰프 인터뷰, 축제 일정은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0052",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the news report mainly about?",
+    "script": "In local business news, Hartwell Robotics announced this morning that it will expand its manufacturing plant on the north side of Granville. The company, which builds automated equipment for food packaging, plans to invest sixty million dollars in the project and create roughly three hundred new jobs over the next two years. A company spokesperson said the expansion was driven by record overseas orders, especially from customers in Southeast Asia. City officials welcomed the news, noting that Hartwell has also pledged to fund a job training program at Granville Community College. Construction is scheduled to begin this fall, with the expanded facility expected to open by the end of next year.",
+    "options": [
+      "A factory expansion",
+      "A corporate merger",
+      "A product launch",
+      "A leadership change"
+    ],
+    "answer": 0,
+    "explanation": "보도의 핵심은 'Hartwell Robotics announced this morning that it will expand its manufacturing plant'로, 로봇 기업의 공장 증설 소식입니다. 합병, 신제품 출시, 경영진 교체는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0053",
+    "part": 4,
+    "type": "LC",
+    "question": "According to the report, what prompted the company's decision?",
+    "script": "In local business news, Hartwell Robotics announced this morning that it will expand its manufacturing plant on the north side of Granville. The company, which builds automated equipment for food packaging, plans to invest sixty million dollars in the project and create roughly three hundred new jobs over the next two years. A company spokesperson said the expansion was driven by record overseas orders, especially from customers in Southeast Asia. City officials welcomed the news, noting that Hartwell has also pledged to fund a job training program at Granville Community College. Construction is scheduled to begin this fall, with the expanded facility expected to open by the end of next year.",
+    "options": [
+      "A government subsidy",
+      "Record orders from overseas customers",
+      "Rising domestic labor costs",
+      "The purchase of a competitor"
+    ],
+    "answer": 1,
+    "explanation": "대변인의 말로 'the expansion was driven by record overseas orders, especially from customers in Southeast Asia'라고 전하므로 해외 주문 급증이 증설 결정의 배경입니다. 정부 보조금, 인건비 상승, 경쟁사 인수는 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0054",
+    "part": 4,
+    "type": "LC",
+    "question": "What has the company pledged to fund?",
+    "script": "In local business news, Hartwell Robotics announced this morning that it will expand its manufacturing plant on the north side of Granville. The company, which builds automated equipment for food packaging, plans to invest sixty million dollars in the project and create roughly three hundred new jobs over the next two years. A company spokesperson said the expansion was driven by record overseas orders, especially from customers in Southeast Asia. City officials welcomed the news, noting that Hartwell has also pledged to fund a job training program at Granville Community College. Construction is scheduled to begin this fall, with the expanded facility expected to open by the end of next year.",
+    "options": [
+      "A public park renovation",
+      "A scholarship for engineering students",
+      "A job training program at a local college",
+      "A new bus route to the factory"
+    ],
+    "answer": 2,
+    "explanation": "'Hartwell has also pledged to fund a job training program at Granville Community College'라고 했으므로 지역 대학의 직업 훈련 프로그램에 자금을 지원하기로 약속한 (C)가 정답입니다. 공원 보수, 장학금, 버스 노선은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0055",
+    "part": 4,
+    "type": "LC",
+    "question": "Who is Lena Moreau?",
+    "script": "Welcome back to Business Beat on Radio Metro. I am your host, Caleb Fontaine. Coming up in just a moment, we will be joined by Lena Moreau, founder of GreenCrate, a delivery company that ships fresh produce from local farms directly to offices and homes. In only four years, her company has grown from a single van to a fleet serving three cities, and last month it won the National Small Business Innovation Award. Lena will tell us how she keeps prices low while paying farmers fairly, and she will share her advice for anyone thinking about starting their own company. Stay with us. We will be right back after this short break.",
+    "options": [
+      "A radio show host",
+      "A company founder",
+      "A farm inspector",
+      "An award ceremony organizer"
+    ],
+    "answer": 1,
+    "explanation": "화자는 Lena Moreau를 'founder of GreenCrate, a delivery company'라고 소개하므로 그녀는 회사 창업자입니다. 라디오 진행자는 화자인 Caleb Fontaine이며, 농장 검사관이나 시상식 주최자는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0056",
+    "part": 4,
+    "type": "LC",
+    "question": "What did GreenCrate receive last month?",
+    "script": "Welcome back to Business Beat on Radio Metro. I am your host, Caleb Fontaine. Coming up in just a moment, we will be joined by Lena Moreau, founder of GreenCrate, a delivery company that ships fresh produce from local farms directly to offices and homes. In only four years, her company has grown from a single van to a fleet serving three cities, and last month it won the National Small Business Innovation Award. Lena will tell us how she keeps prices low while paying farmers fairly, and she will share her advice for anyone thinking about starting their own company. Stay with us. We will be right back after this short break.",
+    "options": [
+      "A government grant",
+      "An innovation award",
+      "A new delivery contract",
+      "An investment from a bank"
+    ],
+    "answer": 1,
+    "explanation": "'last month it won the National Small Business Innovation Award'라고 했으므로 지난달 혁신상을 수상한 (B)가 정답입니다. 보조금, 배송 계약, 은행 투자는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0057",
+    "part": 4,
+    "type": "LC",
+    "question": "What will happen after the break?",
+    "script": "Welcome back to Business Beat on Radio Metro. I am your host, Caleb Fontaine. Coming up in just a moment, we will be joined by Lena Moreau, founder of GreenCrate, a delivery company that ships fresh produce from local farms directly to offices and homes. In only four years, her company has grown from a single van to a fleet serving three cities, and last month it won the National Small Business Innovation Award. Lena will tell us how she keeps prices low while paying farmers fairly, and she will share her advice for anyone thinking about starting their own company. Stay with us. We will be right back after this short break.",
+    "options": [
+      "A listener call-in segment will begin",
+      "A music performance will be broadcast",
+      "A guest will be interviewed",
+      "A news bulletin will be read"
+    ],
+    "answer": 2,
+    "explanation": "화자는 광고 직후 Lena Moreau가 출연해 사업 비결과 창업 조언을 들려줄 것이라고 예고하고 'We will be right back after this short break'라고 마무리하므로, 휴식 후 게스트 인터뷰가 진행될 것입니다. 청취자 전화 연결, 음악 공연, 뉴스 속보는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0058",
+    "part": 4,
+    "type": "LC",
+    "question": "What is being advertised?",
+    "script": "Are you tired of crowded gyms and expensive contracts? Then come discover Summit Fitness, the newest training center in the Oakdale district. Our spacious facility features more than two hundred machines, a heated indoor pool, and group classes ranging from yoga to kickboxing, all led by certified instructors. For this month only, new members pay no enrollment fee and receive two free sessions with a personal trainer. Plus, our mobile app lets you reserve equipment in advance, so you will never wait in line again. Visit us at 48 Cedar Avenue, or sign up online at summitfitness.com. Summit Fitness, where your goals become reality.",
+    "options": [
+      "A sporting goods store",
+      "A fitness center",
+      "A swimming competition",
+      "A health food brand"
+    ],
+    "answer": 1,
+    "explanation": "광고는 'Summit Fitness, the newest training center'를 홍보하며 운동 기구, 수영장, 그룹 수업 등 헬스장 시설을 소개하므로 피트니스 센터 광고입니다. 스포츠용품점, 수영 대회, 건강식품 브랜드가 아닙니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0059",
+    "part": 4,
+    "type": "LC",
+    "question": "What benefit is offered to new members this month?",
+    "script": "Are you tired of crowded gyms and expensive contracts? Then come discover Summit Fitness, the newest training center in the Oakdale district. Our spacious facility features more than two hundred machines, a heated indoor pool, and group classes ranging from yoga to kickboxing, all led by certified instructors. For this month only, new members pay no enrollment fee and receive two free sessions with a personal trainer. Plus, our mobile app lets you reserve equipment in advance, so you will never wait in line again. Visit us at 48 Cedar Avenue, or sign up online at summitfitness.com. Summit Fitness, where your goals become reality.",
+    "options": [
+      "A discount on workout clothing",
+      "A free water bottle",
+      "A waived enrollment fee and free training sessions",
+      "Unlimited guest passes"
+    ],
+    "answer": 2,
+    "explanation": "'For this month only, new members pay no enrollment fee and receive two free sessions with a personal trainer'라고 했으므로 등록비 면제와 무료 PT 2회가 이달의 신규 회원 혜택입니다. 의류 할인, 물병 증정, 게스트 패스는 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0060",
+    "part": 4,
+    "type": "LC",
+    "question": "According to the advertisement, what can listeners do with the mobile app?",
+    "script": "Are you tired of crowded gyms and expensive contracts? Then come discover Summit Fitness, the newest training center in the Oakdale district. Our spacious facility features more than two hundred machines, a heated indoor pool, and group classes ranging from yoga to kickboxing, all led by certified instructors. For this month only, new members pay no enrollment fee and receive two free sessions with a personal trainer. Plus, our mobile app lets you reserve equipment in advance, so you will never wait in line again. Visit us at 48 Cedar Avenue, or sign up online at summitfitness.com. Summit Fitness, where your goals become reality.",
+    "options": [
+      "Track their daily calorie intake",
+      "Reserve equipment ahead of time",
+      "Watch recorded exercise classes",
+      "Order protein supplements"
+    ],
+    "answer": 1,
+    "explanation": "'our mobile app lets you reserve equipment in advance'라고 했으므로 앱으로 기구를 미리 예약할 수 있다는 (B)가 정답입니다. in advance가 ahead of time으로 패러프레이즈되었습니다. 칼로리 기록, 녹화 강의 시청, 보충제 주문은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0061",
+    "part": 4,
+    "type": "LC",
+    "question": "Who is the advertisement mainly intended for?",
+    "script": "Is your team still working at desks from a decade ago? At Apex Office Interiors, we believe a comfortable workspace is a productive workspace. This week, we are clearing out our showroom to make space for next season's collection, which means every ergonomic chair, standing desk, and conference table is reduced by up to forty percent. Businesses that spend over five thousand dollars will also receive free delivery and professional assembly within the metropolitan area. Need help planning a full office layout? Our design consultants offer complimentary thirty-minute consultations, available by appointment. But hurry, the showroom sale ends Sunday at six. Apex Office Interiors, furniture that works as hard as you do.",
+    "options": [
+      "Interior design students",
+      "Companies furnishing their offices",
+      "Homeowners renovating kitchens",
+      "Furniture factory workers"
+    ],
+    "answer": 1,
+    "explanation": "광고는 사무용 의자, 스탠딩 책상, 회의 테이블 할인과 'Businesses that spend over five thousand dollars'를 위한 혜택을 강조하므로 사무실 가구를 구매하려는 기업 고객이 주요 대상입니다. 디자인 전공 학생, 주택 리모델링 고객, 공장 근로자는 대상이 아닙니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0062",
+    "part": 4,
+    "type": "LC",
+    "question": "Why is the business holding a sale?",
+    "script": "Is your team still working at desks from a decade ago? At Apex Office Interiors, we believe a comfortable workspace is a productive workspace. This week, we are clearing out our showroom to make space for next season's collection, which means every ergonomic chair, standing desk, and conference table is reduced by up to forty percent. Businesses that spend over five thousand dollars will also receive free delivery and professional assembly within the metropolitan area. Need help planning a full office layout? Our design consultants offer complimentary thirty-minute consultations, available by appointment. But hurry, the showroom sale ends Sunday at six. Apex Office Interiors, furniture that works as hard as you do.",
+    "options": [
+      "To celebrate a store anniversary",
+      "To compete with a new rival store",
+      "To make room for new merchandise",
+      "To close the business permanently"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'we are clearing out our showroom to make space for next season's collection'이라며 다음 시즌 신상품을 위한 공간 확보가 세일의 이유라고 밝힙니다. 개점 기념, 경쟁 대응, 폐업은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0063",
+    "part": 4,
+    "type": "LC",
+    "question": "How can listeners receive a free consultation?",
+    "script": "Is your team still working at desks from a decade ago? At Apex Office Interiors, we believe a comfortable workspace is a productive workspace. This week, we are clearing out our showroom to make space for next season's collection, which means every ergonomic chair, standing desk, and conference table is reduced by up to forty percent. Businesses that spend over five thousand dollars will also receive free delivery and professional assembly within the metropolitan area. Need help planning a full office layout? Our design consultants offer complimentary thirty-minute consultations, available by appointment. But hurry, the showroom sale ends Sunday at six. Apex Office Interiors, furniture that works as hard as you do.",
+    "options": [
+      "By making an appointment",
+      "By spending over five thousand dollars",
+      "By visiting before noon",
+      "By filling out an online survey"
+    ],
+    "answer": 0,
+    "explanation": "'Our design consultants offer complimentary thirty-minute consultations, available by appointment'라고 했으므로 무료 상담은 예약을 통해 받을 수 있습니다. 5천 달러 이상 구매 시 혜택은 무료 배송과 조립이므로 (B)는 함정이며, 오전 방문이나 설문 작성은 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0064",
+    "part": 4,
+    "type": "LC",
+    "question": "What is the purpose of the speech?",
+    "script": "Good evening, everyone. Before we enjoy dessert, I would like to say a few words about our guest of honor, Vivian Cho, who is retiring after twenty-eight years with Calloway Publishing. Vivian joined us as a junior editor and went on to lead the children's book division, where she discovered some of our best-selling authors. But what we will remember most is her generosity as a mentor. More than thirty editors in this room, including me, learned this business under her guidance. Vivian, on behalf of everyone at Calloway, thank you for your dedication. Please come up to the stage to receive a small token of our appreciation, and then, friends, let us all raise our glasses.",
+    "options": [
+      "To honor a retiring colleague",
+      "To welcome a new executive",
+      "To celebrate a company merger",
+      "To launch a new book series"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'our guest of honor, Vivian Cho, who is retiring after twenty-eight years'를 위해 몇 마디 하겠다고 했으므로 은퇴하는 동료를 기리는 연설입니다. 신임 임원 환영, 합병 축하, 신간 출간 행사가 아닙니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0065",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker say will be remembered most about Ms. Cho?",
+    "script": "Good evening, everyone. Before we enjoy dessert, I would like to say a few words about our guest of honor, Vivian Cho, who is retiring after twenty-eight years with Calloway Publishing. Vivian joined us as a junior editor and went on to lead the children's book division, where she discovered some of our best-selling authors. But what we will remember most is her generosity as a mentor. More than thirty editors in this room, including me, learned this business under her guidance. Vivian, on behalf of everyone at Calloway, thank you for your dedication. Please come up to the stage to receive a small token of our appreciation, and then, friends, let us all raise our glasses.",
+    "options": [
+      "Her record-breaking sales figures",
+      "Her mentorship of other editors",
+      "Her award-winning book designs",
+      "Her international business deals"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'what we will remember most is her generosity as a mentor'라며 30명이 넘는 편집자가 그녀에게 배웠다고 말하므로, 가장 기억에 남을 것은 후배 편집자들에 대한 멘토링입니다. 판매 기록, 북 디자인, 해외 사업은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0066",
+    "part": 4,
+    "type": "LC",
+    "question": "What will Ms. Cho most likely do next?",
+    "script": "Good evening, everyone. Before we enjoy dessert, I would like to say a few words about our guest of honor, Vivian Cho, who is retiring after twenty-eight years with Calloway Publishing. Vivian joined us as a junior editor and went on to lead the children's book division, where she discovered some of our best-selling authors. But what we will remember most is her generosity as a mentor. More than thirty editors in this room, including me, learned this business under her guidance. Vivian, on behalf of everyone at Calloway, thank you for your dedication. Please come up to the stage to receive a small token of our appreciation, and then, friends, let us all raise our glasses.",
+    "options": [
+      "Give a presentation about her career",
+      "Sign copies of a new book",
+      "Go on stage to accept a gift",
+      "Announce her successor"
+    ],
+    "answer": 2,
+    "explanation": "화자가 'Please come up to the stage to receive a small token of our appreciation'이라고 요청하므로 Vivian Cho는 무대에 올라 감사의 선물을 받을 것입니다. 발표, 사인회, 후임자 발표는 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0067",
+    "part": 4,
+    "type": "LC",
+    "question": "Where is the talk most likely taking place?",
+    "script": "Welcome to the final workshop of this year's Regional Marketing Conference. I am Dr. Omar Haddad, and for the next ninety minutes we will explore how small businesses can use customer data responsibly. Before we begin, a few housekeeping notes. The slides from every session, including this one, will be posted on the conference Web site by Friday, so there is no need to photograph the screen. Also, please write any questions on the cards provided at your table. We will collect them at the halfway point, and I will answer as many as time allows. Finally, do not forget to complete the feedback form in your conference app. Now, let us start with a story about a small bakery.",
+    "options": [
+      "At a professional conference",
+      "At a university lecture hall",
+      "At a company board meeting",
+      "At a television studio"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'Welcome to the final workshop of this year's Regional Marketing Conference'라고 시작하며 컨퍼런스 웹사이트, 컨퍼런스 앱 등의 표현을 사용하므로 전문 컨퍼런스 현장임을 알 수 있습니다. 대학 강의, 이사회, 방송 스튜디오는 어울리지 않습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0068",
+    "part": 4,
+    "type": "LC",
+    "question": "Why does the speaker say there is no need to photograph the screen?",
+    "script": "Welcome to the final workshop of this year's Regional Marketing Conference. I am Dr. Omar Haddad, and for the next ninety minutes we will explore how small businesses can use customer data responsibly. Before we begin, a few housekeeping notes. The slides from every session, including this one, will be posted on the conference Web site by Friday, so there is no need to photograph the screen. Also, please write any questions on the cards provided at your table. We will collect them at the halfway point, and I will answer as many as time allows. Finally, do not forget to complete the feedback form in your conference app. Now, let us start with a story about a small bakery.",
+    "options": [
+      "Photography is prohibited in the venue",
+      "The slides will be available online",
+      "Printed handouts will be distributed",
+      "The presentation contains confidential data"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'The slides from every session... will be posted on the conference Web site by Friday, so there is no need to photograph the screen'이라며 슬라이드가 온라인에 게시되기 때문에 화면을 찍을 필요가 없다고 설명합니다. 촬영 금지 규정, 인쇄물 배포, 기밀 자료는 언급되지 않았습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p4-0069",
+    "part": 4,
+    "type": "LC",
+    "question": "How should listeners submit their questions?",
+    "script": "Welcome to the final workshop of this year's Regional Marketing Conference. I am Dr. Omar Haddad, and for the next ninety minutes we will explore how small businesses can use customer data responsibly. Before we begin, a few housekeeping notes. The slides from every session, including this one, will be posted on the conference Web site by Friday, so there is no need to photograph the screen. Also, please write any questions on the cards provided at your table. We will collect them at the halfway point, and I will answer as many as time allows. Finally, do not forget to complete the feedback form in your conference app. Now, let us start with a story about a small bakery.",
+    "options": [
+      "By raising their hands during the talk",
+      "By writing them on cards at their tables",
+      "By posting them in the conference app",
+      "By e-mailing the speaker afterward"
+    ],
+    "answer": 1,
+    "explanation": "화자는 'please write any questions on the cards provided at your table'이라며 테이블에 비치된 카드에 질문을 적어 달라고 안내합니다. 앱은 피드백 양식 제출용으로 언급되었으므로 (C)는 함정이며, 손들기나 이메일 질문은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p4-0070",
+    "part": 4,
+    "type": "LC",
+    "question": "Who most likely is the speaker?",
+    "script": "Good morning, everyone, and welcome aboard the Harbor Belle. My name is Rosa, and I will be your guide on this two-hour cruise of Halton Bay. As we leave the dock, you will see the historic lighthouse on your right, built in 1882 and still in operation today. In about twenty minutes, we will pass Seal Rock, where you can usually spot dozens of harbor seals sunning themselves, so have your cameras ready. Light refreshments are available at the snack bar on the lower deck, and restrooms are located at the rear of the boat. For your safety, please remain seated whenever the captain sounds the horn twice. Now, sit back and enjoy the view.",
+    "options": [
+      "A boat tour guide",
+      "A marine biologist",
+      "A ferry ticket agent",
+      "A lighthouse keeper"
+    ],
+    "answer": 0,
+    "explanation": "화자는 'I will be your guide on this two-hour cruise of Halton Bay'라고 자신을 소개하므로 유람선 투어 가이드입니다. 해양 생물학자, 매표 직원, 등대지기는 담화 내용과 맞지 않습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0071",
+    "part": 4,
+    "type": "LC",
+    "question": "What does the speaker say can be seen at Seal Rock?",
+    "script": "Good morning, everyone, and welcome aboard the Harbor Belle. My name is Rosa, and I will be your guide on this two-hour cruise of Halton Bay. As we leave the dock, you will see the historic lighthouse on your right, built in 1882 and still in operation today. In about twenty minutes, we will pass Seal Rock, where you can usually spot dozens of harbor seals sunning themselves, so have your cameras ready. Light refreshments are available at the snack bar on the lower deck, and restrooms are located at the rear of the boat. For your safety, please remain seated whenever the captain sounds the horn twice. Now, sit back and enjoy the view.",
+    "options": [
+      "Rare seabirds nesting",
+      "Seals resting in the sun",
+      "A sunken historic ship",
+      "Fishing boats unloading their catch"
+    ],
+    "answer": 1,
+    "explanation": "화자는 Seal Rock에서 'you can usually spot dozens of harbor seals sunning themselves'라며 햇볕을 쬐는 물범들을 볼 수 있다고 안내합니다. sunning themselves가 resting in the sun으로 패러프레이즈되었습니다. 바닷새, 침몰선, 어선은 언급되지 않았습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p4-0072",
+    "part": 4,
+    "type": "LC",
+    "question": "What should passengers do when the horn sounds twice?",
+    "script": "Good morning, everyone, and welcome aboard the Harbor Belle. My name is Rosa, and I will be your guide on this two-hour cruise of Halton Bay. As we leave the dock, you will see the historic lighthouse on your right, built in 1882 and still in operation today. In about twenty minutes, we will pass Seal Rock, where you can usually spot dozens of harbor seals sunning themselves, so have your cameras ready. Light refreshments are available at the snack bar on the lower deck, and restrooms are located at the rear of the boat. For your safety, please remain seated whenever the captain sounds the horn twice. Now, sit back and enjoy the view.",
+    "options": [
+      "Put on life jackets",
+      "Move to the lower deck",
+      "Stay in their seats",
+      "Gather at the rear of the boat"
+    ],
+    "answer": 2,
+    "explanation": "화자는 'please remain seated whenever the captain sounds the horn twice'라며 경적이 두 번 울리면 자리에 앉아 있으라고 당부합니다. remain seated가 stay in their seats로 패러프레이즈되었습니다. 구명조끼 착용, 아래층 이동, 선미 집합은 언급되지 않았습니다.",
+    "difficulty": "medium"
+  }
+];

@@ -2,4 +2,645 @@
 // 데이터 출처: question_pipeline/reviewed/ (에이전트 파이프라인 검수 완료분)
 import { BankQuestion } from './index';
 
-export const PART1_QUESTIONS: BankQuestion[] = [];
+export const PART1_QUESTIONS: BankQuestion[] = [
+  {
+    "id": "p1-0001",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is sitting at a desk in an office, typing on a laptop computer. A coffee mug is placed next to the laptop.]",
+    "script": "(A) He is typing on a laptop. (B) He is drinking from a mug. (C) He is closing the laptop. (D) He is wiping the desk.",
+    "options": [
+      "He is typing on a laptop.",
+      "He is drinking from a mug.",
+      "He is closing the laptop.",
+      "He is wiping the desk."
+    ],
+    "answer": 0,
+    "explanation": "사진 속 남자는 노트북으로 타이핑을 하고 있으므로 (A)가 정답입니다. (B)는 머그잔이 옆에 놓여 있을 뿐 마시고 있는 동작이 아니므로 오답입니다. 사진에 보이는 사물(mug)을 이용해 혼동을 유도하는 전형적인 함정입니다. (C)의 closing과 (D)의 wiping은 사진에 나타나지 않은 동작입니다. Part 1에서는 '사물이 보이는 것'과 '그 사물로 동작을 하는 것'을 구분하는 것이 핵심입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0002",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman is standing at a copy machine in an office, placing a sheet of paper into the machine.]",
+    "script": "(A) She is pouring a cup of coffee. (B) She is stapling some documents. (C) She is opening a drawer. (D) She is making some copies.",
+    "options": [
+      "She is pouring a cup of coffee.",
+      "She is stapling some documents.",
+      "She is opening a drawer.",
+      "She is making some copies."
+    ],
+    "answer": 3,
+    "explanation": "여자가 복사기에 종이를 넣고 있으므로 '복사를 하고 있다'는 (D)가 정답입니다. (A)는 copy와 coffee의 유사 발음을 이용한 음성 함정입니다. (B)의 stapling(스테이플러로 찍다)과 (C)의 opening a drawer는 사진에 없는 동작입니다. copy/coffee처럼 발음이 비슷한 단어 쌍은 Part 1의 대표적인 함정 유형이므로 주의 깊게 들어야 합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0003",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is loading cardboard boxes onto the back of a delivery truck parked at a loading dock.]",
+    "script": "(A) He is unpacking some boxes. (B) He is loading boxes onto a truck. (C) He is driving a delivery truck. (D) He is sealing a box with tape.",
+    "options": [
+      "He is unpacking some boxes.",
+      "He is loading boxes onto a truck.",
+      "He is driving a delivery truck.",
+      "He is sealing a box with tape."
+    ],
+    "answer": 1,
+    "explanation": "남자가 트럭에 상자를 싣고 있으므로 (B)가 정답입니다. (A)의 unpacking(짐을 풀다)은 정반대 동작이며, (C)는 트럭이 정차되어 있고 남자가 운전 중이 아니므로 오답입니다. (D)의 sealing(테이프로 봉하다)은 사진에 없는 동작입니다. load/unload, pack/unpack처럼 반대 의미의 동사로 혼동을 주는 패턴에 유의하세요. loading dock(하역장)은 Part 1 빈출 장소 어휘입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0004",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: An empty conference room. Chairs are arranged around a long table, and a projector screen has been pulled down at the front of the room.]",
+    "script": "(A) People are seated around a table. (B) A presentation is being given. (C) Chairs are being stacked in a corner. (D) A screen has been lowered at the front of the room.",
+    "options": [
+      "People are seated around a table.",
+      "A presentation is being given.",
+      "Chairs are being stacked in a corner.",
+      "A screen has been lowered at the front of the room."
+    ],
+    "answer": 3,
+    "explanation": "빈 회의실 사진으로, 스크린이 내려져 있는 상태를 현재완료 수동태(has been lowered)로 표현한 (D)가 정답입니다. (A)와 (B)는 사람이 없는 사진이므로 오답입니다. (C)의 'are being stacked'는 현재진행 수동태로 의자를 쌓고 있는 사람이 있어야 하는데 사진에 사람이 없으므로 오답입니다. 사물 사진에서는 'has/have been + 과거분사'(완료된 상태)가 정답으로, 'is/are being + 과거분사'(진행 중인 동작)가 오답으로 자주 출제됩니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0005",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A row of bicycles is parked in a rack along a sidewalk. There are no people in the photo.]",
+    "script": "(A) Some people are riding bicycles. (B) A bicycle is being repaired. (C) Bicycles have been parked in a row. (D) A man is locking up his bicycle.",
+    "options": [
+      "Some people are riding bicycles.",
+      "A bicycle is being repaired.",
+      "Bicycles have been parked in a row.",
+      "A man is locking up his bicycle."
+    ],
+    "answer": 2,
+    "explanation": "자전거들이 거치대에 일렬로 세워져 있는 상태이므로 현재완료 수동태로 표현한 (C)가 정답입니다. 사진에 사람이 없으므로 사람의 동작을 묘사한 (A)와 (D)는 즉시 오답 처리할 수 있습니다. (B)의 'is being repaired'는 수리하는 사람이 있어야 성립하는 진행 수동태이므로 오답입니다. 사물 사진에서는 'have been + p.p.'(상태)와 'are being + p.p.'(동작 진행)의 구분이 가장 중요한 포인트입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0006",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman is reaching for a book on a high shelf in a library.]",
+    "script": "(A) She is reading a book at a table. (B) She is returning books to a cart. (C) She is writing on a notepad. (D) She is reaching for a book on a shelf.",
+    "options": [
+      "She is reading a book at a table.",
+      "She is returning books to a cart.",
+      "She is writing on a notepad.",
+      "She is reaching for a book on a shelf."
+    ],
+    "answer": 3,
+    "explanation": "여자가 높은 선반의 책을 향해 손을 뻗고 있으므로 (D)가 정답입니다. reach for(~을 향해 손을 뻗다)는 Part 1 최빈출 표현 중 하나입니다. (A)의 reading은 도서관에서 연상되는 동작이지만 사진과 다르며, (B)와 (C)도 사진에 없는 동작입니다. 책을 '잡으려고 손을 뻗는 것'과 '이미 들고 있는 것(holding)'을 구분하는 것이 포인트입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0007",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Two women are shaking hands in an office lobby. One of them is holding a briefcase.]",
+    "script": "(A) They are waving at each other. (B) They are greeting each other. (C) One woman is opening her briefcase. (D) They are walking out of the lobby.",
+    "options": [
+      "They are waving at each other.",
+      "They are greeting each other.",
+      "One woman is opening her briefcase.",
+      "They are walking out of the lobby."
+    ],
+    "answer": 1,
+    "explanation": "두 여자가 악수를 하고 있으므로 이를 '인사를 나누고 있다'로 포괄적으로 표현한 (B)가 정답입니다. shaking hands가 greeting each other로 패러프레이징되는 전형적인 패턴입니다. (A)의 waving(손을 흔들다)은 악수와 다른 동작입니다. (C)는 서류 가방을 들고만 있을 뿐(holding) 여는 동작이 아니며, (D)의 걸어 나가는 동작은 사진에 없습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0008",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A gardener is trimming a hedge with large shears in front of an office building.]",
+    "script": "(A) He is mowing the lawn. (B) He is raking some leaves. (C) He is trimming some bushes. (D) He is planting flowers in a bed.",
+    "options": [
+      "He is mowing the lawn.",
+      "He is raking some leaves.",
+      "He is trimming some bushes.",
+      "He is planting flowers in a bed."
+    ],
+    "answer": 2,
+    "explanation": "정원사가 큰 가위로 생울타리를 다듬고 있으므로 hedge를 bushes로 바꿔 표현한 (C)가 정답입니다. trim(다듬다)은 정원 관련 사진의 빈출 동사입니다. (A)의 mowing(잔디 깎기), (B)의 raking(갈퀴질), (D)의 planting(심기)은 모두 정원 작업이지만 사진의 동작과 다릅니다. 같은 직업·장소에서 연상되는 유사 동작들을 구분해 듣는 연습이 필요합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0009",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Merchandise is displayed on tables at an outdoor market stall. A vendor is standing behind the stall.]",
+    "script": "(A) Some goods are on display at a stall. (B) A vendor is packing up the merchandise. (C) Customers are lining up to pay. (D) Tables are being set up in a market.",
+    "options": [
+      "Some goods are on display at a stall.",
+      "A vendor is packing up the merchandise.",
+      "Customers are lining up to pay.",
+      "Tables are being set up in a market."
+    ],
+    "answer": 0,
+    "explanation": "노점 가판대에 상품이 진열되어 있으므로 (A)가 정답입니다. be on display(진열되어 있다)는 are displayed와 같은 의미의 빈출 표현입니다. (B)는 상인이 서 있을 뿐 상품을 싸는 동작이 없고, (C)는 사진에 줄 선 손님이 없으므로 오답입니다. (D)의 'are being set up'은 테이블을 설치 중인 사람이 보여야 하는 진행 수동태이므로 이미 설치가 끝난 사진과 맞지 않습니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0010",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is mopping the floor of a hotel lobby. A yellow caution sign has been placed nearby.]",
+    "script": "(A) He is vacuuming a carpet. (B) He is cleaning the floor. (C) He is polishing a window. (D) He is putting up a sign.",
+    "options": [
+      "He is vacuuming a carpet.",
+      "He is cleaning the floor.",
+      "He is polishing a window.",
+      "He is putting up a sign."
+    ],
+    "answer": 1,
+    "explanation": "남자가 호텔 로비 바닥을 대걸레로 닦고 있으므로 mopping을 cleaning으로 일반화한 (B)가 정답입니다. (A)는 청소라는 공통점을 이용한 함정이지만 진공청소기와 카펫이 아니므로 오답입니다. (C)의 polishing(광내기)도 청소 연상 어휘 함정입니다. (D)는 주의 표지판이 이미 놓여 있는 상태(has been placed)이지 세우는 동작 중이 아니므로 오답입니다. mop, sweep, vacuum, wipe 등 청소 동사를 구분해서 들을 수 있어야 합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0011",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman is trying on a jacket in front of a mirror in a clothing store.]",
+    "script": "(A) She is hanging clothes on a rack. (B) She is folding a sweater. (C) She is trying on a jacket. (D) She is paying for some clothing.",
+    "options": [
+      "She is hanging clothes on a rack.",
+      "She is folding a sweater.",
+      "She is trying on a jacket.",
+      "She is paying for some clothing."
+    ],
+    "answer": 2,
+    "explanation": "여자가 거울 앞에서 재킷을 입어 보고 있으므로 (C)가 정답입니다. try on(입어 보다)은 의류 매장 사진의 최빈출 표현입니다. (A)의 hanging(걸기)과 (B)의 folding(개기)은 매장 직원이 할 법한 동작으로 연상 함정이며, (D)의 계산하는 모습도 사진에 없습니다. try on(입어 보는 동작), put on(입는 동작), wear(입고 있는 상태)의 차이를 명확히 구분하세요.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0012",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Several boats are docked at a marina. Buildings line the waterfront in the background.]",
+    "script": "(A) Boats are sailing across the water. (B) People are fishing from a pier. (C) A boat is being lifted out of the water. (D) Some boats are tied up at a dock.",
+    "options": [
+      "Boats are sailing across the water.",
+      "People are fishing from a pier.",
+      "A boat is being lifted out of the water.",
+      "Some boats are tied up at a dock."
+    ],
+    "answer": 3,
+    "explanation": "보트들이 정박해 있는 풍경 사진이므로 (D)가 정답입니다. be docked, be tied up, be moored는 모두 '정박해 있다'를 뜻하는 빈출 패러프레이징 표현입니다. (A)는 정박 상태와 모순되는 sailing이라 오답이고, (B)는 사람이 없는 사진이므로 오답입니다. (C)의 'is being lifted'는 들어 올리는 작업이 진행 중이어야 하는 진행 수동태이므로 오답입니다. 항구·해변 풍경은 사물 사진의 단골 소재입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0013",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man wearing glasses is giving a presentation in front of a whiteboard. Several colleagues are seated, watching him.]",
+    "script": "(A) He is addressing a group of people. (B) He is wiping the whiteboard. (C) The audience is leaving the room. (D) He is handing out some documents.",
+    "options": [
+      "He is addressing a group of people.",
+      "He is wiping the whiteboard.",
+      "The audience is leaving the room.",
+      "He is handing out some documents."
+    ],
+    "answer": 0,
+    "explanation": "남자가 동료들 앞에서 발표하고 있으므로 giving a presentation을 addressing a group(여러 사람 앞에서 말하다)으로 패러프레이징한 (A)가 정답입니다. address가 '연설하다, 말을 하다'라는 동사로 쓰이는 점이 핵심입니다. (B)는 화이트보드라는 사물을 이용한 함정이고, (C)는 청중이 앉아서 보고 있으므로 모순됩니다. (D)의 handing out(나눠 주다)은 사진에 없는 동작입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0014",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A doctor is examining a patient's arm in a clinic. The patient is seated on an examination table.]",
+    "script": "(A) The patient is filling out a form. (B) The doctor is writing a prescription. (C) They are walking down a hallway. (D) A patient is being examined by a doctor.",
+    "options": [
+      "The patient is filling out a form.",
+      "The doctor is writing a prescription.",
+      "They are walking down a hallway.",
+      "A patient is being examined by a doctor."
+    ],
+    "answer": 3,
+    "explanation": "의사가 환자의 팔을 진찰하고 있으므로 이를 수동태로 표현한 (D)가 정답입니다. 'is being examined'는 현재진행 수동태로, 진찰하는 의사가 사진에 있으므로 올바른 표현입니다. 능동(The doctor is examining a patient)을 수동으로 바꾼 패러프레이징 유형입니다. (A)의 서류 작성, (B)의 처방전 쓰기는 병원에서 연상되는 동작이지만 사진에 없고, (C)는 두 사람 모두 이동 중이 아니므로 오답입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0015",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A path winds through a park. Trees line both sides of the path, and fallen leaves cover the ground. No people are visible.]",
+    "script": "(A) Leaves are scattered on the ground. (B) People are strolling along a path. (C) Trees are being planted along a road. (D) A park bench is occupied.",
+    "options": [
+      "Leaves are scattered on the ground.",
+      "People are strolling along a path.",
+      "Trees are being planted along a road.",
+      "A park bench is occupied."
+    ],
+    "answer": 0,
+    "explanation": "낙엽이 땅에 흩어져 있는 풍경이므로 (A)가 정답입니다. be scattered(흩어져 있다)는 풍경 사진의 빈출 상태 표현입니다. 사람이 없는 사진이므로 (B)의 strolling(산책하기)은 오답입니다. (C)의 'are being planted'는 나무를 심는 사람이 있어야 하는 진행 수동태이므로 오답이고, (D)의 occupied(사용 중인)는 벤치에 앉은 사람이 있어야 하므로 오답입니다. 무인 풍경 사진에서는 사람 주어 보기를 먼저 소거하는 전략이 유효합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0016",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Two cyclists wearing helmets are riding bicycles along a riverside path. The river is visible on their left.]",
+    "script": "(A) They are repairing their bicycles. (B) They are swimming in a river. (C) They are riding along a path. (D) They are putting on their helmets.",
+    "options": [
+      "They are repairing their bicycles.",
+      "They are swimming in a river.",
+      "They are riding along a path.",
+      "They are putting on their helmets."
+    ],
+    "answer": 2,
+    "explanation": "두 사람이 강변 길을 따라 자전거를 타고 있으므로 (C)가 정답입니다. (A)의 수리하기는 사진과 다른 동작이고, (B)는 강이 배경에 보일 뿐 수영하는 사람이 없으므로 배경 사물을 이용한 함정입니다. (D)는 헬멧을 이미 착용한 상태(wearing)이지 쓰는 동작(putting on) 중이 아니므로 오답입니다. wearing(상태)과 putting on(동작)의 구분은 Part 1에서 반복 출제되는 핵심 포인트입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0017",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: An office desk with a desktop computer, a desk lamp, and neatly stacked folders. The chair is empty and no one is in the room.]",
+    "script": "(A) Some folders are piled on a desk. (B) A man is adjusting a lamp. (C) Papers are scattered across the floor. (D) A computer is being installed.",
+    "options": [
+      "Some folders are piled on a desk.",
+      "A man is adjusting a lamp.",
+      "Papers are scattered across the floor.",
+      "A computer is being installed."
+    ],
+    "answer": 0,
+    "explanation": "책상 위에 폴더가 가지런히 쌓여 있으므로 stacked를 piled로 패러프레이징한 (A)가 정답입니다. be piled/stacked(쌓여 있다)는 사물 사진의 빈출 상태 표현입니다. 무인 사진이므로 사람 주어인 (B)는 즉시 오답입니다. (C)는 서류가 바닥이 아닌 책상 위에 정돈되어 있으므로 위치와 상태가 모두 틀렸습니다. (D)의 'is being installed'는 설치하는 사람이 보여야 하므로 오답입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0018",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman is kneeling next to a filing cabinet, putting folders into an open lower drawer.]",
+    "script": "(A) She is shutting a window. (B) She is leaning against a wall. (C) She is typing on a keyboard. (D) She is filing some documents.",
+    "options": [
+      "She is shutting a window.",
+      "She is leaning against a wall.",
+      "She is typing on a keyboard.",
+      "She is filing some documents."
+    ],
+    "answer": 3,
+    "explanation": "여자가 서류함 서랍에 폴더를 넣어 정리하고 있으므로 (D)가 정답입니다. file이 동사로 '서류를 철하여 정리하다'라는 의미로 쓰이는 점이 핵심입니다. (A)의 shutting은 서랍(drawer)이 아닌 창문(window)을 닫는다고 했으므로 목적어가 틀렸습니다. (B)의 leaning against(기대다)는 kneeling(무릎 꿇다)과 다른 자세이며, (C)의 타이핑은 사진에 없는 동작입니다. kneel, bend, crouch, lean 등 자세 동사를 구분해 두세요.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0019",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Two movers are carrying a large sofa up the front steps of a house. A moving truck is parked on the street.]",
+    "script": "(A) They are carrying some furniture. (B) They are assembling a sofa. (C) They are knocking on a door. (D) They are unloading boxes from a truck.",
+    "options": [
+      "They are carrying some furniture.",
+      "They are assembling a sofa.",
+      "They are knocking on a door.",
+      "They are unloading boxes from a truck."
+    ],
+    "answer": 0,
+    "explanation": "두 사람이 소파를 옮기고 있으므로 sofa를 furniture로 일반화한 (A)가 정답입니다. couch/sofa → furniture처럼 상위어로 바꾸는 패러프레이징은 Part 1의 핵심 출제 원리입니다. (B)의 assembling(조립하기)은 같은 사물에 대한 다른 동작 함정입니다. (C)는 사진에 없는 동작이고, (D)는 트럭이 주차되어 있을 뿐 상자를 내리는 장면이 아니므로 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0020",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A fountain is spraying water in the middle of a city plaza. Some pigeons are gathered near the fountain, and benches surround the area. No people are visible.]",
+    "script": "(A) People are tossing coins into a fountain. (B) Water is spraying from a fountain. (C) The benches are all occupied. (D) A plaza is being swept.",
+    "options": [
+      "People are tossing coins into a fountain.",
+      "Water is spraying from a fountain.",
+      "The benches are all occupied.",
+      "A plaza is being swept."
+    ],
+    "answer": 1,
+    "explanation": "분수에서 물이 뿜어져 나오는 풍경이므로 (B)가 정답입니다. 분수 사진에서는 'Water is spraying/shooting up from a fountain'이 정답 문장으로 자주 출제됩니다. 무인 사진이므로 (A)는 오답이고, (C)는 벤치가 비어 있으므로 occupied(사용 중)와 모순됩니다. (D)의 'is being swept'는 청소하는 사람이 있어야 하는 진행 수동태이므로 오답입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0021",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A receptionist is handing a key card to a guest across the front desk of a hotel. The guest's suitcase is standing beside him.]",
+    "script": "(A) The guest is signing a registration form. (B) A key is being handed to a guest. (C) The receptionist is answering the phone. (D) Luggage is being carried to a room.",
+    "options": [
+      "The guest is signing a registration form.",
+      "A key is being handed to a guest.",
+      "The receptionist is answering the phone.",
+      "Luggage is being carried to a room."
+    ],
+    "answer": 1,
+    "explanation": "직원이 투숙객에게 카드 키를 건네고 있으므로 이를 진행 수동태로 표현한 (B)가 정답입니다. 건네는 사람이 사진에 있으므로 'is being handed'가 성립합니다. (A)의 서명하기와 (C)의 전화 받기는 호텔 프런트에서 연상되는 동작이지만 사진에 없습니다. (D)는 여행 가방이 옆에 세워져 있을 뿐 옮겨지는 중이 아니므로 오답입니다. 능동 문장을 수동태로 바꾼 정답 패턴에 익숙해지세요.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0022",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Some cars are parked in a row in an outdoor parking lot. The parking spaces are marked with white lines. No people are visible.]",
+    "script": "(A) Cars are stopped at an intersection. (B) A parking attendant is directing traffic. (C) Some vehicles are parked side by side. (D) The parking lines are being painted.",
+    "options": [
+      "Cars are stopped at an intersection.",
+      "A parking attendant is directing traffic.",
+      "Some vehicles are parked side by side.",
+      "The parking lines are being painted."
+    ],
+    "answer": 2,
+    "explanation": "차들이 주차장에 나란히 주차되어 있으므로 (C)가 정답입니다. side by side(나란히), in a row(일렬로)는 사물 배열을 나타내는 빈출 표현입니다. (A)는 장소가 교차로가 아니므로 오답이고, 무인 사진이므로 (B)의 주차 요원도 오답입니다. (D)의 'are being painted'는 선을 칠하는 사람이 있어야 하는 진행 수동태인데, 선은 이미 그어져 있는 상태이므로 오답입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0023",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A worker in a warehouse is driving a forklift, lifting a wooden pallet stacked with boxes.]",
+    "script": "(A) A pallet is being lifted by a forklift. (B) Boxes are being wrapped in plastic. (C) A worker is climbing onto a shelf. (D) Crates are scattered across the floor.",
+    "options": [
+      "A pallet is being lifted by a forklift.",
+      "Boxes are being wrapped in plastic.",
+      "A worker is climbing onto a shelf.",
+      "Crates are scattered across the floor."
+    ],
+    "answer": 0,
+    "explanation": "지게차가 팰릿을 들어 올리고 있으므로 진행 수동태로 표현한 (A)가 정답입니다. 지게차를 운전하는 작업자가 있으므로 'is being lifted'가 성립합니다. (B)의 포장 작업은 사진에 없고, (C)는 작업자가 지게차를 운전 중이지 선반에 오르는 중이 아닙니다. (D)는 상자가 팰릿 위에 정돈되어 쌓여 있으므로 scattered(흩어져 있는)와 모순됩니다. 창고(warehouse)와 forklift, pallet, crate는 Part 1 빈출 어휘입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0024",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Several diners are seated at tables in a restaurant. A server is pouring water into a glass at one of the tables.]",
+    "script": "(A) The diners are leaving the restaurant. (B) A table is being cleared of dishes. (C) Water is being poured into a glass. (D) A server is taking off her uniform.",
+    "options": [
+      "The diners are leaving the restaurant.",
+      "A table is being cleared of dishes.",
+      "Water is being poured into a glass.",
+      "A server is taking off her uniform."
+    ],
+    "answer": 2,
+    "explanation": "종업원이 잔에 물을 따르고 있으므로 이를 진행 수동태로 표현한 (C)가 정답입니다. 따르는 사람이 사진에 있으므로 'is being poured'가 성립합니다. (A)는 손님들이 앉아 있으므로 떠나는 중이라는 묘사와 모순됩니다. (B)의 'is being cleared'는 그릇을 치우는 동작이 사진에 없으므로 오답이고, (D)는 유니폼을 입고 있는 상태이지 벗는 동작이 아닙니다. pour(따르다)는 식당 사진 최빈출 동사 중 하나입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0025",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is jogging along a beach at sunrise. Waves are rolling onto the shore behind him.]",
+    "script": "(A) He is diving into the ocean. (B) He is collecting seashells. (C) He is resting under a beach umbrella. (D) He is running along the shore.",
+    "options": [
+      "He is diving into the ocean.",
+      "He is collecting seashells.",
+      "He is resting under a beach umbrella.",
+      "He is running along the shore."
+    ],
+    "answer": 3,
+    "explanation": "남자가 해변을 따라 조깅하고 있으므로 jogging을 running으로 패러프레이징한 (D)가 정답입니다. jog = run, beach = shore의 이중 패러프레이징입니다. (A)의 다이빙과 (B)의 조개 줍기는 해변에서 연상되는 동작이지만 사진에 없습니다. (C)의 resting(쉬다)은 달리는 동작과 정반대이며 파라솔도 사진에 없습니다. along the shore/coast(해안을 따라)는 해변 사진의 빈출 전치사구입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0026",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A bridge spans a wide river. A boat is passing under the bridge, and tall buildings stand along the riverbank.]",
+    "script": "(A) A boat is passing under a bridge. (B) A bridge is under construction. (C) People are diving from a bridge. (D) Buildings are reflected in a swimming pool.",
+    "options": [
+      "A boat is passing under a bridge.",
+      "A bridge is under construction.",
+      "People are diving from a bridge.",
+      "Buildings are reflected in a swimming pool."
+    ],
+    "answer": 0,
+    "explanation": "배가 다리 아래를 지나가고 있으므로 (A)가 정답입니다. pass under(아래로 지나가다), span(가로지르다)은 다리·강 풍경 사진의 빈출 표현입니다. (B)는 다리가 완공된 상태이므로 공사 중(under construction)이라는 묘사와 맞지 않습니다. (C)의 다이빙하는 사람은 사진에 없고, (D)는 건물이 강가에 있을 뿐 수영장이라는 장소가 틀렸습니다. 풍경 사진에서는 사물 간의 위치 관계를 정확히 파악하는 것이 중요합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0027",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman is wheeling a suitcase through an airport terminal. She is wearing a backpack and looking up at a departure board.]",
+    "script": "(A) She is packing a backpack. (B) She is pulling her luggage. (C) She is buying a plane ticket. (D) She is boarding an airplane.",
+    "options": [
+      "She is packing a backpack.",
+      "She is pulling her luggage.",
+      "She is buying a plane ticket.",
+      "She is boarding an airplane."
+    ],
+    "answer": 1,
+    "explanation": "여자가 캐리어를 끌며 이동하고 있으므로 wheeling a suitcase를 pulling her luggage로 패러프레이징한 (B)가 정답입니다. wheel/pull/drag a suitcase는 공항 사진의 빈출 표현입니다. (A)는 배낭을 메고 있는 상태이지 짐을 싸는 동작이 아닙니다. (C)의 항공권 구매와 (D)의 탑승은 공항에서 연상되는 동작이지만 사진에 나타나지 않으므로 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0028",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A painter on scaffolding is applying paint to the exterior wall of a building with a roller.]",
+    "script": "(A) Scaffolding is being taken down. (B) He is mixing some paint in a bucket. (C) A wall is being painted. (D) He is washing windows on a ladder.",
+    "options": [
+      "Scaffolding is being taken down.",
+      "He is mixing some paint in a bucket.",
+      "A wall is being painted.",
+      "He is washing windows on a ladder."
+    ],
+    "answer": 2,
+    "explanation": "작업자가 롤러로 외벽에 페인트를 칠하고 있으므로 진행 수동태로 표현한 (C)가 정답입니다. 칠하는 사람이 사진에 있으므로 'is being painted'가 성립합니다. (A)는 비계가 사용 중이지 철거되는 중이 아니므로 오답입니다. (B)는 페인트라는 연관 사물을 이용한 다른 동작 함정이고, (D)는 동작(washing windows)과 위치(ladder가 아닌 scaffolding) 모두 틀렸습니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0029",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man in a suit is getting out of a taxi in front of an office building, holding the car door open.]",
+    "script": "(A) He is hailing a taxi on the street. (B) He is loading a suitcase into the trunk. (C) He is exiting a vehicle. (D) He is crossing the street at a crosswalk.",
+    "options": [
+      "He is hailing a taxi on the street.",
+      "He is loading a suitcase into the trunk.",
+      "He is exiting a vehicle.",
+      "He is crossing the street at a crosswalk."
+    ],
+    "answer": 2,
+    "explanation": "남자가 택시에서 내리고 있으므로 getting out of를 exiting으로 패러프레이징한 (C)가 정답입니다. get out of = exit = step out of(차에서 내리다), get into = enter(차에 타다) 패러프레이징은 차량 사진의 핵심입니다. (A)의 hailing(택시를 부르다)은 이미 택시에서 내리는 상황과 맞지 않고, (B)의 짐 싣기와 (D)의 길 건너기는 사진에 없는 동작입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0030",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Shelves in a bookstore are fully stocked with books. A rolling ladder is attached to one of the bookcases. No people are visible.]",
+    "script": "(A) Books have been placed on the shelves. (B) A clerk is climbing a rolling ladder. (C) Books are being packed into boxes. (D) Customers are browsing in the store.",
+    "options": [
+      "Books have been placed on the shelves.",
+      "A clerk is climbing a rolling ladder.",
+      "Books are being packed into boxes.",
+      "Customers are browsing in the store."
+    ],
+    "answer": 0,
+    "explanation": "책장이 책으로 가득 채워져 있는 상태이므로 현재완료 수동태(have been placed)로 표현한 (A)가 정답입니다. be stocked with = be filled with = have been placed처럼 진열 상태를 나타내는 표현을 알아두세요. 무인 사진이므로 사람을 묘사한 (B)와 (D)는 오답입니다. (C)의 'are being packed'는 포장하는 사람이 있어야 하는 진행 수동태이므로 역시 오답입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0031",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A woman wearing safety goggles is operating a sewing machine in a clothing factory. Rolls of fabric are stacked on a table beside her.]",
+    "script": "(A) She is measuring a piece of fabric. (B) She is using a sewing machine. (C) She is hanging garments on a rack. (D) She is putting on safety goggles.",
+    "options": [
+      "She is measuring a piece of fabric.",
+      "She is using a sewing machine.",
+      "She is hanging garments on a rack.",
+      "She is putting on safety goggles."
+    ],
+    "answer": 1,
+    "explanation": "여자가 재봉틀로 작업하고 있으므로 operating을 using으로 패러프레이징한 (B)가 정답입니다. operate = use = work with(기계를 다루다) 동사군은 공장·작업장 사진의 핵심입니다. (A)는 옆에 천이 쌓여 있다는 점을 이용한 함정이지만 치수를 재는 동작이 없습니다. (C)의 옷 걸기는 사진에 없고, (D)는 보호안경을 이미 착용한 상태(wearing)이므로 putting on(쓰는 동작)이 아닙니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0032",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is taking a photograph of a monument with a camera. Other tourists are walking around the monument in the background.]",
+    "script": "(A) He is putting his camera into a bag. (B) He is climbing up a monument. (C) He is photographing a monument. (D) He is buying a souvenir from a vendor.",
+    "options": [
+      "He is putting his camera into a bag.",
+      "He is climbing up a monument.",
+      "He is photographing a monument.",
+      "He is buying a souvenir from a vendor."
+    ],
+    "answer": 2,
+    "explanation": "남자가 카메라로 기념물을 촬영하고 있으므로 taking a photograph of를 동사 photographing으로 표현한 (C)가 정답입니다. take a picture/photo of = photograph(동사)는 관광 사진의 빈출 패러프레이징입니다. (A)는 카메라를 사용 중이지 가방에 넣는 동작이 아니고, (B)의 기념물 오르기와 (D)의 기념품 구매는 관광지에서 연상되는 동작이지만 사진에 없습니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0033",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A man is browsing items at an electronics store, comparing two boxed products he is holding in his hands.]",
+    "script": "(A) He is plugging in an appliance. (B) He is comparing some products. (C) He is standing in line at a register. (D) He is returning an item to a clerk.",
+    "options": [
+      "He is plugging in an appliance.",
+      "He is comparing some products.",
+      "He is standing in line at a register.",
+      "He is returning an item to a clerk."
+    ],
+    "answer": 1,
+    "explanation": "남자가 두 제품을 양손에 들고 비교하고 있으므로 (B)가 정답입니다. compare(비교하다), examine(살펴보다)은 쇼핑 사진의 빈출 동사입니다. (A)의 전원 연결은 전자제품 매장에서 연상되는 동작이지만 사진에 없습니다. (C)는 계산대 줄이 사진에 없고, (D)의 반품하는 모습도 보이지 않으므로 오답입니다. hold(들고 있다)와 결합된 구체적 동작을 정확히 파악하는 것이 포인트입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0034",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A delivery person is handing a package to a woman at her front door. She is reaching out to receive it.]",
+    "script": "(A) A package is being weighed on a scale. (B) A woman is sealing a box with tape. (C) A courier is knocking on a door. (D) A parcel is being delivered to a customer.",
+    "options": [
+      "A package is being weighed on a scale.",
+      "A woman is sealing a box with tape.",
+      "A courier is knocking on a door.",
+      "A parcel is being delivered to a customer."
+    ],
+    "answer": 3,
+    "explanation": "배달원이 여자에게 소포를 건네고 있으므로 package를 parcel로 바꾸고 진행 수동태로 표현한 (D)가 정답입니다. 배달하는 사람이 사진에 있으므로 'is being delivered'가 성립합니다. package = parcel, delivery person = courier 패러프레이징도 핵심입니다. (A)의 무게 재기와 (B)의 테이프 봉하기는 택배 연상 함정이고, (C)는 문이 이미 열려 있고 소포를 건네는 중이므로 노크하는 동작이 아닙니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0035",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A group of hikers is walking up a mountain trail single file. They are all carrying backpacks, and one of them is using a walking stick.]",
+    "script": "(A) They are hiking along a trail. (B) They are setting up a tent. (C) They are resting on some rocks. (D) They are taking off their backpacks.",
+    "options": [
+      "They are hiking along a trail.",
+      "They are setting up a tent.",
+      "They are resting on some rocks.",
+      "They are taking off their backpacks."
+    ],
+    "answer": 0,
+    "explanation": "등산객들이 산길을 따라 걸어 올라가고 있으므로 walking up a trail을 hiking along a trail로 표현한 (A)가 정답입니다. walk in single file(일렬로 걷다)도 함께 알아두면 좋은 표현입니다. (B)의 텐트 치기와 (C)의 휴식은 등산에서 연상되는 동작이지만 사진에 없습니다. (D)는 배낭을 메고 있는 상태(carrying)이지 벗는 동작(taking off)이 아니므로 상태와 동작을 혼동시키는 함정입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0036",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Laundry is hanging on a clothesline in a backyard. A basket of clothes sits on the grass below. No people are in the photo.]",
+    "script": "(A) A woman is hanging up some laundry. (B) Clothes are being ironed on a board. (C) Some clothing is hanging on a line. (D) A basket is being carried across the yard.",
+    "options": [
+      "A woman is hanging up some laundry.",
+      "Clothes are being ironed on a board.",
+      "Some clothing is hanging on a line.",
+      "A basket is being carried across the yard."
+    ],
+    "answer": 2,
+    "explanation": "빨래가 빨랫줄에 걸려 있는 상태이므로 (C)가 정답입니다. hang은 자동사로 쓰여 'be hanging on(걸려 있다)'이라는 상태를 나타낼 수 있으며 이때는 사람이 없어도 성립합니다. 무인 사진이므로 사람 주어인 (A)는 오답입니다. (B)의 'are being ironed'와 (D)의 'is being carried'는 모두 동작 주체가 필요한 진행 수동태이므로 오답입니다. laundry = clothes = clothing = garments 패러프레이징도 알아두세요.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0037",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A teacher is writing on a whiteboard in a classroom while students seated at desks copy the notes into their notebooks.]",
+    "script": "(A) Students are raising their hands. (B) A whiteboard is being erased. (C) Students are leaving the classroom. (D) Some students are taking notes.",
+    "options": [
+      "Students are raising their hands.",
+      "A whiteboard is being erased.",
+      "Students are leaving the classroom.",
+      "Some students are taking notes."
+    ],
+    "answer": 3,
+    "explanation": "학생들이 공책에 필기를 하고 있으므로 copying the notes를 taking notes로 패러프레이징한 (D)가 정답입니다. take notes(필기하다), write down(받아 적다)은 교실·회의 사진의 빈출 표현입니다. (A)의 손 들기는 교실 연상 함정이고, (B)는 교사가 칠판에 쓰고 있지(writing) 지우고 있지(erasing) 않으므로 반대 동작 함정입니다. (C)는 학생들이 앉아 있으므로 모순됩니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p1-0038",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: An airplane is parked at an airport gate. A jet bridge is connected to the aircraft, and baggage carts are lined up near the plane.]",
+    "script": "(A) An airplane is taking off from a runway. (B) An aircraft is parked at a gate. (C) Passengers are walking across the tarmac. (D) Luggage is being inspected by an officer.",
+    "options": [
+      "An airplane is taking off from a runway.",
+      "An aircraft is parked at a gate.",
+      "Passengers are walking across the tarmac.",
+      "Luggage is being inspected by an officer."
+    ],
+    "answer": 1,
+    "explanation": "비행기가 탑승구에 정지해 있으므로 airplane을 aircraft로 패러프레이징한 (B)가 정답입니다. airplane = aircraft = plane은 공항 사진의 기본 패러프레이징입니다. (A)는 비행기가 게이트에 정지해 있으므로 이륙(taking off)과 모순됩니다. (C)는 활주로를 걷는 승객이 사진에 없고, (D)의 'is being inspected'는 검사하는 직원이 보이지 않으므로 오답입니다. 수하물 카트가 lined up(정렬되어) 있다는 상태 표현도 참고하세요.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p1-0039",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: Snow-capped mountains rise behind a calm lake. The mountains are reflected in the water. A small wooden cabin stands near the shore. No people are visible.]",
+    "script": "(A) Boats are floating on the lake. (B) A cabin is being built near the shore. (C) Hikers are climbing the mountains. (D) Mountains are reflected in the water.",
+    "options": [
+      "Boats are floating on the lake.",
+      "A cabin is being built near the shore.",
+      "Hikers are climbing the mountains.",
+      "Mountains are reflected in the water."
+    ],
+    "answer": 3,
+    "explanation": "산이 잔잔한 호수에 비치고 있으므로 (D)가 정답입니다. be reflected in the water(물에 비치다)는 호수·강 풍경 사진의 대표적인 정답 표현입니다. (A)는 호수에 배가 없으므로 오답이고, 무인 사진이므로 (C)의 등산객도 오답입니다. (B)의 'is being built'는 오두막이 이미 완성되어 서 있는 상태이므로 짓고 있는 중이라는 진행 수동태와 맞지 않습니다. reflect, overlook, surround는 풍경 사진 3대 빈출 동사입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p1-0040",
+    "part": 1,
+    "type": "LC",
+    "question": "[Photo: A produce section in a supermarket. Fruits and vegetables are neatly displayed in tiered bins under bright lights. No shoppers are present.]",
+    "script": "(A) Shoppers are filling their baskets. (B) Produce has been arranged in bins. (C) Fruit is being weighed at a counter. (D) An employee is restocking the shelves.",
+    "options": [
+      "Shoppers are filling their baskets.",
+      "Produce has been arranged in bins.",
+      "Fruit is being weighed at a counter.",
+      "An employee is restocking the shelves."
+    ],
+    "answer": 1,
+    "explanation": "과일과 채소가 진열대에 가지런히 진열되어 있는 상태이므로 현재완료 수동태(has been arranged)로 표현한 (B)가 정답입니다. fruits and vegetables가 produce(농산물)로 패러프레이징되는 점도 핵심입니다. 무인 사진이므로 사람을 묘사한 (A)와 (D)는 오답이고, (C)의 'is being weighed'는 무게를 재는 사람이 필요한 진행 수동태이므로 오답입니다. display = arrange = lay out 표현군도 알아두세요.",
+    "difficulty": "hard"
+  }
+];
