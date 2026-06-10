@@ -3,20 +3,14 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Where is the new printer being installed? (A) Next to the copy room. (B) Yes, it prints in color. (C) By Friday afternoon.",
-    "options": ["Next to the copy room.", "Yes, it prints in color.", "By Friday afternoon."],
+    "script": "Where can I find the expense report forms? (A) They're all online now. (B) The trip was expensive. (C) About fifty dollars.",
+    "options": [
+      "They're all online now.",
+      "The trip was expensive.",
+      "About fifty dollars."
+    ],
     "answer": 0,
-    "explanation": "Where 의문문으로 장소를 묻고 있으므로 'Next to the copy room(복사실 옆에)'이라는 위치 응답인 (A)가 정답입니다. (B)는 의문사 의문문에 Yes/No로 답할 수 없고 printer-prints의 연상 어휘 함정이며, (C)는 When 의문문에 어울리는 시점 응답입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Where can I find the expense report forms? (A) The trip was expensive. (B) They're all online now. (C) About fifty dollars.",
-    "options": ["The trip was expensive.", "They're all online now.", "About fifty dollars."],
-    "answer": 1,
-    "explanation": "경비 보고서 양식을 어디서 찾을 수 있는지 묻는 Where 의문문에 '이제는 전부 온라인에 있다'고 위치 정보를 우회적으로 알려주는 (B)가 정답입니다. (A)는 expense-expensive의 유사 발음 함정이고, (C)는 비용(How much)에 어울리는 응답으로 expense에서 연상되는 금액 함정입니다.",
+    "explanation": "경비 보고서 양식을 어디서 찾을 수 있는지 묻는 Where 의문문에 '이제는 전부 온라인에 있다'고 위치 정보를 우회적으로 알려주는 (A)가 정답입니다. (B)는 expense-expensive의 유사 발음 함정이고, (C)는 비용(How much)에 어울리는 응답으로 expense에서 연상되는 금액 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -24,7 +18,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Where did you put the client's contract? (A) Sam was the last one to have it. (B) At three o'clock. (C) I signed up for the contest.",
-    "options": ["Sam was the last one to have it.", "At three o'clock.", "I signed up for the contest."],
+    "options": [
+      "Sam was the last one to have it.",
+      "At three o'clock.",
+      "I signed up for the contest."
+    ],
     "answer": 0,
     "explanation": "계약서를 어디에 두었는지 묻는 질문에 직접 위치를 말하는 대신 '마지막으로 갖고 있던 사람은 Sam이다'라며 단서를 제공하는 간접 응답 (A)가 정답입니다. (B)는 시간 응답으로 When 의문문용 오답이고, (C)는 contract-contest의 유사 발음 함정입니다.",
     "difficulty": "medium"
@@ -33,60 +31,56 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Where should we hold the year-end banquet? (A) It was held last December. (B) The budget hasn't been approved yet. (C) Yes, at the hotel.",
-    "options": ["It was held last December.", "The budget hasn't been approved yet.", "Yes, at the hotel."],
-    "answer": 1,
-    "explanation": "연말 연회 장소를 묻는 질문에 '아직 예산이 승인되지 않아 장소를 정할 수 없다'는 뜻을 내포한 간접 응답 (B)가 정답입니다. (A)는 hold-held의 파생어 반복 함정으로 과거 시점 이야기라 어색하고, (C)는 의문사 의문문에 Yes로 답해 오답입니다.",
+    "script": "Where should we hold the year-end banquet? (A) It was held last December. (B) Yes, at the hotel. (C) The budget hasn't been approved yet.",
+    "options": [
+      "It was held last December.",
+      "Yes, at the hotel.",
+      "The budget hasn't been approved yet."
+    ],
+    "answer": 2,
+    "explanation": "연말 연회 장소를 묻는 질문에 '아직 예산이 승인되지 않아 장소를 정할 수 없다'는 뜻을 내포한 간접 응답 (C)가 정답입니다. (A)는 hold-held의 파생어 반복 함정으로 과거 시점 이야기라 어색하고, (B)는 의문사 의문문에 Yes로 답해 오답입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Where's the nearest pharmacy? (A) There's one across from the bank. (B) He's a pharmacist. (C) Near the end of the month.",
-    "options": ["There's one across from the bank.", "He's a pharmacist.", "Near the end of the month."],
+    "script": "Where are we staying during the conference? (A) Lisa booked the hotel, so ask her. (B) For three nights. (C) I stayed up late.",
+    "options": [
+      "Lisa booked the hotel, so ask her.",
+      "For three nights.",
+      "I stayed up late."
+    ],
     "answer": 0,
-    "explanation": "가장 가까운 약국의 위치를 묻는 Where 의문문에 '은행 맞은편에 하나 있다'고 위치를 알려주는 (A)가 정답입니다. (B)는 pharmacy-pharmacist의 파생어 함정이고, (C)는 nearest-near의 유사 발음을 이용한 시점 응답 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Where are we staying during the conference? (A) For three nights. (B) Lisa booked the hotel, so ask her. (C) I stayed up late.",
-    "options": ["For three nights.", "Lisa booked the hotel, so ask her.", "I stayed up late."],
-    "answer": 1,
-    "explanation": "숙소 위치를 묻는 질문에 직접 답하는 대신 '호텔은 Lisa가 예약했으니 그녀에게 물어보라'고 제3자를 안내하는 간접 응답 (B)가 정답입니다. (A)는 기간(How long)에 대한 응답이며, (C)는 staying-stayed의 파생어 반복 함정입니다.",
+    "explanation": "숙소 위치를 묻는 질문에 직접 답하는 대신 '호텔은 Lisa가 예약했으니 그녀에게 물어보라'고 제3자를 안내하는 간접 응답 (A)가 정답입니다. (B)는 기간(How long)에 대한 응답이며, (C)는 staying-stayed의 파생어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "When will the renovation work be finished? (A) On the fourth floor. (B) The contractor hasn't given us a date. (C) It was finished nicely.",
-    "options": ["On the fourth floor.", "The contractor hasn't given us a date.", "It was finished nicely."],
-    "answer": 1,
-    "explanation": "공사 완료 시점을 묻는 When 의문문에 '시공업체가 아직 날짜를 알려주지 않았다'며 모른다는 사실을 전하는 간접 응답 (B)가 정답입니다. (A)는 장소 응답으로 Where 의문문용 오답이고, (C)는 finished를 그대로 반복한 동어 반복 함정입니다.",
+    "script": "When will the renovation work be finished? (A) The contractor hasn't given us a date. (B) On the fourth floor. (C) It was finished nicely.",
+    "options": [
+      "The contractor hasn't given us a date.",
+      "On the fourth floor.",
+      "It was finished nicely."
+    ],
+    "answer": 0,
+    "explanation": "공사 완료 시점을 묻는 When 의문문에 '시공업체가 아직 날짜를 알려주지 않았다'며 모른다는 사실을 전하는 간접 응답 (A)가 정답입니다. (B)는 장소 응답으로 Where 의문문용 오답이고, (C)는 finished를 그대로 반복한 동어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "When does the train to Boston leave? (A) Every hour on the half hour. (B) From platform nine. (C) No, by bus.",
-    "options": ["Every hour on the half hour.", "From platform nine.", "No, by bus."],
-    "answer": 0,
-    "explanation": "기차 출발 시각을 묻는 When 의문문에 '매시 30분마다'라는 시간 정보를 주는 (A)가 정답입니다. (B)는 train에서 연상되는 platform을 이용한 장소 함정이고, (C)는 의문사 의문문에 No로 답할 수 없으며 교통수단 연상 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "When is the deadline for the grant application? (A) I applied some paint. (B) Check the foundation's Web site. (C) A research grant.",
-    "options": ["I applied some paint.", "Check the foundation's Web site.", "A research grant."],
-    "answer": 1,
-    "explanation": "보조금 신청 마감일을 묻는 질문에 직접 날짜를 말하지 않고 '재단 웹사이트를 확인해 보라'고 정보의 출처를 알려주는 간접 응답 (B)가 정답입니다. (A)는 application-applied의 다의어/파생어 함정이고, (C)는 grant를 그대로 반복한 동어 반복 함정입니다.",
+    "script": "When is the deadline for the grant application? (A) I applied some paint. (B) A research grant. (C) Check the foundation's Web site.",
+    "options": [
+      "I applied some paint.",
+      "A research grant.",
+      "Check the foundation's Web site."
+    ],
+    "answer": 2,
+    "explanation": "보조금 신청 마감일을 묻는 질문에 직접 날짜를 말하지 않고 '재단 웹사이트를 확인해 보라'고 정보의 출처를 알려주는 간접 응답 (C)가 정답입니다. (A)는 application-applied의 다의어/파생어 함정이고, (B)는 grant를 그대로 반복한 동어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -94,7 +88,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "When did Mr. Alvarez join the company? (A) Right after he finished graduate school. (B) He's joining us for lunch. (C) The company is in Chicago.",
-    "options": ["Right after he finished graduate school.", "He's joining us for lunch.", "The company is in Chicago."],
+    "options": [
+      "Right after he finished graduate school.",
+      "He's joining us for lunch.",
+      "The company is in Chicago."
+    ],
     "answer": 0,
     "explanation": "입사 시점을 묻는 When 의문문에 '대학원을 마친 직후'라는 시점 정보를 주는 (A)가 정답입니다. 특정 연도 대신 사건 기준으로 시점을 표현하는 전형적인 정답 패턴입니다. (B)는 join을 반복한 동어 반복 함정, (C)는 company를 반복하며 위치를 말하는 Where용 오답입니다.",
     "difficulty": "medium"
@@ -103,110 +101,112 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "When should I send out the meeting invitations? (A) In the main conference room. (B) Twenty people attended. (C) The agenda isn't final yet.",
-    "options": ["In the main conference room.", "Twenty people attended.", "The agenda isn't final yet."],
+    "script": "When should I send out the meeting invitations? (A) The agenda isn't final yet. (B) In the main conference room. (C) Twenty people attended.",
+    "options": [
+      "The agenda isn't final yet.",
+      "In the main conference room.",
+      "Twenty people attended."
+    ],
+    "answer": 0,
+    "explanation": "회의 초대장 발송 시점을 묻는 질문에 '안건이 아직 확정되지 않았다', 즉 지금은 보낼 수 없다는 뜻을 내포한 간접 응답 (A)가 정답입니다. (B)는 meeting에서 연상되는 회의실 장소 함정이고, (C)는 참석 인원(How many)에 대한 연상 어휘 함정입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Who approved the overtime request? (A) Over ten hours. (B) She requested a transfer. (C) It hasn't been approved yet.",
+    "options": [
+      "Over ten hours.",
+      "She requested a transfer.",
+      "It hasn't been approved yet."
+    ],
     "answer": 2,
-    "explanation": "회의 초대장 발송 시점을 묻는 질문에 '안건이 아직 확정되지 않았다', 즉 지금은 보낼 수 없다는 뜻을 내포한 간접 응답 (C)가 정답입니다. (A)는 meeting에서 연상되는 회의실 장소 함정이고, (B)는 참석 인원(How many)에 대한 연상 어휘 함정입니다.",
-    "difficulty": "hard"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "When are you taking your vacation this year? (A) To the coast of Spain. (B) Probably in late August. (C) For two weeks.",
-    "options": ["To the coast of Spain.", "Probably in late August.", "For two weeks."],
-    "answer": 1,
-    "explanation": "휴가 시기를 묻는 When 의문문에 '아마 8월 말쯤'이라는 시점 응답 (B)가 정답입니다. (A)는 휴가지(Where)에 대한 연상 함정이고, (C)는 휴가 기간(How long)에 대한 연상 함정으로, 둘 다 vacation에서 떠올리기 쉬운 오답입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Who's leading the safety training session? (A) At nine in the morning. (B) Someone from headquarters. (C) Yes, it's mandatory.",
-    "options": ["At nine in the morning.", "Someone from headquarters.", "Yes, it's mandatory."],
-    "answer": 1,
-    "explanation": "안전 교육 진행자를 묻는 Who 의문문에 '본사에서 온 사람'이라고 사람으로 답한 (B)가 정답입니다. 구체적인 이름이 아니어도 직책·소속으로 답하면 정답이 될 수 있습니다. (A)는 시간 응답으로 When용 오답이고, (C)는 의문사 의문문에 Yes로 답해 오답입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Who approved the overtime request? (A) It hasn't been approved yet. (B) Over ten hours. (C) She requested a transfer.",
-    "options": ["It hasn't been approved yet.", "Over ten hours.", "She requested a transfer."],
-    "answer": 0,
-    "explanation": "초과 근무 요청을 누가 승인했는지 묻는 질문에 '아직 승인되지 않았다'며 질문의 전제 자체를 바로잡는 간접 응답 (A)가 정답입니다. (B)는 overtime-over의 유사 발음 함정이고, (C)는 request-requested의 파생어 반복 함정입니다.",
+    "explanation": "초과 근무 요청을 누가 승인했는지 묻는 질문에 '아직 승인되지 않았다'며 질문의 전제 자체를 바로잡는 간접 응답 (C)가 정답입니다. (A)는 overtime-over의 유사 발음 함정이고, (B)는 request-requested의 파생어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Who should I contact about the broken air conditioner? (A) It's quite cold today. (B) The number's posted by the elevator. (C) A new contract.",
-    "options": ["It's quite cold today.", "The number's posted by the elevator.", "A new contract."],
-    "answer": 1,
-    "explanation": "고장 난 에어컨 관련 연락 대상을 묻는 질문에 사람 이름 대신 '연락처가 엘리베이터 옆에 게시되어 있다'고 정보의 위치를 알려주는 간접 응답 (B)가 정답입니다. (A)는 air conditioner에서 연상되는 온도 표현 함정이고, (C)는 contact-contract의 유사 발음 함정입니다.",
+    "script": "Who should I contact about the broken air conditioner? (A) It's quite cold today. (B) A new contract. (C) The number's posted by the elevator.",
+    "options": [
+      "It's quite cold today.",
+      "A new contract.",
+      "The number's posted by the elevator."
+    ],
+    "answer": 2,
+    "explanation": "고장 난 에어컨 관련 연락 대상을 묻는 질문에 사람 이름 대신 '연락처가 엘리베이터 옆에 게시되어 있다'고 정보의 위치를 알려주는 간접 응답 (C)가 정답입니다. (A)는 air conditioner에서 연상되는 온도 표현 함정이고, (B)는 contact-contract의 유사 발음 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Who's going to replace Ms. Tanaka when she retires? (A) They're still interviewing candidates. (B) A retirement party. (C) In her office.",
-    "options": ["They're still interviewing candidates.", "A retirement party.", "In her office."],
-    "answer": 0,
-    "explanation": "후임자가 누구인지 묻는 Who 의문문에 '아직 후보 면접 중'이라며 결정되지 않았음을 알리는 간접 응답 (A)가 정답입니다. (B)는 retires-retirement의 파생어 연상 함정이고, (C)는 장소 응답으로 Where용 오답입니다.",
+    "script": "Who's going to replace Ms. Tanaka when she retires? (A) A retirement party. (B) They're still interviewing candidates. (C) In her office.",
+    "options": [
+      "A retirement party.",
+      "They're still interviewing candidates.",
+      "In her office."
+    ],
+    "answer": 1,
+    "explanation": "후임자가 누구인지 묻는 Who 의문문에 '아직 후보 면접 중'이라며 결정되지 않았음을 알리는 간접 응답 (B)가 정답입니다. (A)는 retires-retirement의 파생어 연상 함정이고, (C)는 장소 응답으로 Where용 오답입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Who designed the new company logo? (A) An outside agency did. (B) On the letterhead. (C) Yes, I like the design.",
-    "options": ["An outside agency did.", "On the letterhead.", "Yes, I like the design."],
-    "answer": 0,
-    "explanation": "로고 디자인의 주체를 묻는 Who 의문문에 '외부 에이전시가 했다'고 행위자로 답한 (A)가 정답입니다. (B)는 logo에서 연상되는 위치(편지지 상단) 함정이고, (C)는 designed-design의 파생어 반복에 더해 의문사 의문문에 Yes로 답한 이중 오답입니다.",
+    "script": "Who designed the new company logo? (A) On the letterhead. (B) An outside agency did. (C) Yes, I like the design.",
+    "options": [
+      "On the letterhead.",
+      "An outside agency did.",
+      "Yes, I like the design."
+    ],
+    "answer": 1,
+    "explanation": "로고 디자인의 주체를 묻는 Who 의문문에 '외부 에이전시가 했다'고 행위자로 답한 (B)가 정답입니다. (A)는 logo에서 연상되는 위치(편지지 상단) 함정이고, (C)는 designed-design의 파생어 반복에 더해 의문사 의문문에 Yes로 답한 이중 오답입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "What time does the pharmacy close on weekends? (A) Close to the station. (B) At six on Saturdays. (C) Twice a week.",
-    "options": ["Close to the station.", "At six on Saturdays.", "Twice a week."],
-    "answer": 1,
-    "explanation": "주말 영업 마감 시간을 묻는 What time 의문문에 '토요일은 6시'라는 시간 응답 (B)가 정답입니다. (A)는 close가 '닫다'가 아닌 '가까운'으로 쓰인 다의어 함정이고, (C)는 빈도(How often)에 대한 응답으로 오답입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "What's the fastest way to get to the airport? (A) A round-trip ticket. (B) The subway, if you're leaving at rush hour. (C) It departs at noon.",
-    "options": ["A round-trip ticket.", "The subway, if you're leaving at rush hour.", "It departs at noon."],
-    "answer": 1,
-    "explanation": "공항까지 가장 빠른 방법을 묻는 질문에 '러시아워에 출발한다면 지하철'이라고 조건을 붙여 교통수단으로 답한 (B)가 정답입니다. (A)는 airport에서 연상되는 항공권 함정이고, (C)는 출발 시간(When)에 대한 연상 어휘 함정입니다.",
+    "script": "What's the fastest way to get to the airport? (A) A round-trip ticket. (B) It departs at noon. (C) The subway, if you're leaving at rush hour.",
+    "options": [
+      "A round-trip ticket.",
+      "It departs at noon.",
+      "The subway, if you're leaving at rush hour."
+    ],
+    "answer": 2,
+    "explanation": "공항까지 가장 빠른 방법을 묻는 질문에 '러시아워에 출발한다면 지하철'이라고 조건을 붙여 교통수단으로 답한 (C)가 정답입니다. (A)는 airport에서 연상되는 항공권 함정이고, (B)는 출발 시간(When)에 대한 연상 어휘 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "What did you think of the keynote speech? (A) I had to leave before it started. (B) A key to the office. (C) He spoke for an hour.",
-    "options": ["I had to leave before it started.", "A key to the office.", "He spoke for an hour."],
-    "answer": 0,
-    "explanation": "기조연설에 대한 의견을 묻는 질문에 '시작 전에 자리를 떠야 해서 못 들었다'며 답할 수 없는 이유를 밝히는 간접 응답 (A)가 정답입니다. (B)는 keynote-key의 유사 발음 함정이고, (C)는 speech-spoke의 파생어 함정으로 의견이 아닌 사실만 말해 어색합니다.",
+    "script": "What did you think of the keynote speech? (A) A key to the office. (B) He spoke for an hour. (C) I had to leave before it started.",
+    "options": [
+      "A key to the office.",
+      "He spoke for an hour.",
+      "I had to leave before it started."
+    ],
+    "answer": 2,
+    "explanation": "기조연설에 대한 의견을 묻는 질문에 '시작 전에 자리를 떠야 해서 못 들었다'며 답할 수 없는 이유를 밝히는 간접 응답 (C)가 정답입니다. (A)는 keynote-key의 유사 발음 함정이고, (B)는 speech-spoke의 파생어 함정으로 의견이 아닌 사실만 말해 어색합니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "What's included in the conference registration fee? (A) I already registered. (B) There's a full list in the brochure. (C) About two hundred attendees.",
-    "options": ["I already registered.", "There's a full list in the brochure.", "About two hundred attendees."],
-    "answer": 1,
-    "explanation": "등록비에 포함된 항목을 묻는 질문에 직접 나열하는 대신 '안내 책자에 전체 목록이 있다'고 정보의 출처를 알려주는 간접 응답 (B)가 정답입니다. (A)는 registration-registered의 파생어 반복 함정이고, (C)는 conference에서 연상되는 참석자 수 함정입니다.",
+    "script": "What's included in the conference registration fee? (A) There's a full list in the brochure. (B) I already registered. (C) About two hundred attendees.",
+    "options": [
+      "There's a full list in the brochure.",
+      "I already registered.",
+      "About two hundred attendees."
+    ],
+    "answer": 0,
+    "explanation": "등록비에 포함된 항목을 묻는 질문에 직접 나열하는 대신 '안내 책자에 전체 목록이 있다'고 정보의 출처를 알려주는 간접 응답 (A)가 정답입니다. (B)는 registration-registered의 파생어 반복 함정이고, (C)는 conference에서 연상되는 참석자 수 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -214,7 +214,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "What should we do with the leftover catering supplies? (A) The food was delicious. (B) Let's donate them to the shelter. (C) A catering company.",
-    "options": ["The food was delicious.", "Let's donate them to the shelter.", "A catering company."],
+    "options": [
+      "The food was delicious.",
+      "Let's donate them to the shelter.",
+      "A catering company."
+    ],
     "answer": 1,
     "explanation": "남은 케이터링 물품 처리 방법을 묻는 What 의문문에 '보호소에 기부하자'고 구체적인 방안을 제안하는 (B)가 정답입니다. (A)는 catering에서 연상되는 음식 평가 함정이고, (C)는 catering을 그대로 반복한 동어 반복 함정입니다.",
     "difficulty": "easy"
@@ -224,7 +228,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "What's wrong with the projector in room 5? (A) The bulb needs replacing. (B) Five copies, please. (C) He projected the sales figures.",
-    "options": ["The bulb needs replacing.", "Five copies, please.", "He projected the sales figures."],
+    "options": [
+      "The bulb needs replacing.",
+      "Five copies, please.",
+      "He projected the sales figures."
+    ],
     "answer": 0,
     "explanation": "프로젝터의 문제점을 묻는 질문에 '전구를 교체해야 한다'고 고장 원인을 설명하는 (A)가 정답입니다. (B)는 room 5의 five를 반복한 숫자 함정이고, (C)는 projector-projected의 파생어 함정으로 '예측하다'라는 다른 의미로 쓰였습니다.",
     "difficulty": "medium"
@@ -234,7 +242,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Why was the staff meeting postponed? (A) The director's flight was delayed. (B) In the staff lounge. (C) Yes, next Monday.",
-    "options": ["The director's flight was delayed.", "In the staff lounge.", "Yes, next Monday."],
+    "options": [
+      "The director's flight was delayed.",
+      "In the staff lounge.",
+      "Yes, next Monday."
+    ],
     "answer": 0,
     "explanation": "회의가 연기된 이유를 묻는 Why 의문문에 '이사님 비행기가 지연되었기 때문'이라고 이유로 답한 (A)가 정답입니다. Because 없이도 이유가 되면 정답입니다. (B)는 staff를 반복한 장소 함정이고, (C)는 의문사 의문문에 Yes로 답해 오답입니다.",
     "difficulty": "easy"
@@ -243,10 +255,14 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Why are the windows in the lobby covered? (A) They're being replaced this week. (B) I'll cover your shift. (C) The lobby is spacious.",
-    "options": ["They're being replaced this week.", "I'll cover your shift.", "The lobby is spacious."],
-    "answer": 0,
-    "explanation": "로비 창문이 가려져 있는 이유를 묻는 질문에 '이번 주에 교체 중이기 때문'이라고 이유를 설명하는 (A)가 정답입니다. (B)는 covered-cover의 다의어 함정으로 '근무를 대신하다'라는 다른 의미이고, (C)는 lobby를 반복했지만 이유와 무관한 진술입니다.",
+    "script": "Why are the windows in the lobby covered? (A) I'll cover your shift. (B) The lobby is spacious. (C) They're being replaced this week.",
+    "options": [
+      "I'll cover your shift.",
+      "The lobby is spacious.",
+      "They're being replaced this week."
+    ],
+    "answer": 2,
+    "explanation": "로비 창문이 가려져 있는 이유를 묻는 질문에 '이번 주에 교체 중이기 때문'이라고 이유를 설명하는 (C)가 정답입니다. (A)는 covered-cover의 다의어 함정으로 '근무를 대신하다'라는 다른 의미이고, (B)는 lobby를 반복했지만 이유와 무관한 진술입니다.",
     "difficulty": "medium"
   },
   {
@@ -254,7 +270,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Why is the parking garage closed today? (A) I just got an e-mail about it—let me forward it to you. (B) Park on the third level. (C) It closes at ten.",
-    "options": ["I just got an e-mail about it—let me forward it to you.", "Park on the third level.", "It closes at ten."],
+    "options": [
+      "I just got an e-mail about it—let me forward it to you.",
+      "Park on the third level.",
+      "It closes at ten."
+    ],
     "answer": 0,
     "explanation": "주차장이 폐쇄된 이유를 묻는 질문에 직접 이유를 말하는 대신 '관련 이메일을 받았으니 전달해 주겠다'고 정보를 제공하는 간접 응답 (A)가 정답입니다. (B)는 parking-park의 파생어 반복 함정이고, (C)는 closed-closes의 파생어 함정으로 폐쇄 이유가 아닌 마감 시간을 말해 어색합니다.",
     "difficulty": "hard"
@@ -264,7 +284,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Why did Ms. Greer cancel her trip to Singapore? (A) A direct flight. (B) Her project deadline was moved up. (C) She enjoyed the trip.",
-    "options": ["A direct flight.", "Her project deadline was moved up.", "She enjoyed the trip."],
+    "options": [
+      "A direct flight.",
+      "Her project deadline was moved up.",
+      "She enjoyed the trip."
+    ],
     "answer": 1,
     "explanation": "출장을 취소한 이유를 묻는 Why 의문문에 '프로젝트 마감이 앞당겨졌기 때문'이라고 이유를 설명하는 (B)가 정답입니다. (A)는 trip에서 연상되는 항공편 함정이고, (C)는 trip을 반복했지만 취소된 출장을 즐겼다는 모순된 내용이라 오답입니다.",
     "difficulty": "medium"
@@ -273,20 +297,14 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Why is the cafeteria so crowded today? (A) They're offering free dessert. (B) A crowd of reporters. (C) No, I already ate.",
-    "options": ["They're offering free dessert.", "A crowd of reporters.", "No, I already ate."],
-    "answer": 0,
-    "explanation": "구내식당이 붐비는 이유를 묻는 질문에 '무료 디저트를 제공하고 있기 때문'이라고 이유로 답한 (A)가 정답입니다. (B)는 crowded-crowd의 파생어 반복 함정이고, (C)는 의문사 의문문에 No로 답할 수 없으며 cafeteria에서 연상되는 식사 표현 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "How do I request a new ID badge? (A) There's a form on the intranet. (B) It's a good idea. (C) He's a security guard.",
-    "options": ["There's a form on the intranet.", "It's a good idea.", "He's a security guard."],
-    "answer": 0,
-    "explanation": "사원증 신청 방법을 묻는 How 의문문에 '인트라넷에 양식이 있다'고 절차를 안내하는 (A)가 정답입니다. (B)는 ID-idea의 유사 발음 함정이고, (C)는 ID badge에서 연상되는 보안 요원 함정입니다.",
+    "script": "How do I request a new ID badge? (A) It's a good idea. (B) He's a security guard. (C) There's a form on the intranet.",
+    "options": [
+      "It's a good idea.",
+      "He's a security guard.",
+      "There's a form on the intranet."
+    ],
+    "answer": 2,
+    "explanation": "사원증 신청 방법을 묻는 How 의문문에 '인트라넷에 양식이 있다'고 절차를 안내하는 (C)가 정답입니다. (A)는 ID-idea의 유사 발음 함정이고, (B)는 ID badge에서 연상되는 보안 요원 함정입니다.",
     "difficulty": "easy"
   },
   {
@@ -294,7 +312,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "How was the trade show in Berlin? (A) By plane. (B) We got more orders than expected. (C) It shows at eight.",
-    "options": ["By plane.", "We got more orders than expected.", "It shows at eight."],
+    "options": [
+      "By plane.",
+      "We got more orders than expected.",
+      "It shows at eight."
+    ],
     "answer": 1,
     "explanation": "무역 박람회가 어땠는지 소감을 묻는 How 의문문에 '예상보다 많은 주문을 받았다'며 성과로 답하는 (B)가 정답입니다. (A)는 How를 교통수단 질문으로 착각하게 만드는 함정이고, (C)는 show를 '상영하다'라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
@@ -303,160 +325,182 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "How many people have signed up for the workshop? (A) The sign is by the door. (B) Registration doesn't close until Friday. (C) It works fine.",
-    "options": ["The sign is by the door.", "Registration doesn't close until Friday.", "It works fine."],
-    "answer": 1,
-    "explanation": "워크숍 등록 인원을 묻는 How many 의문문에 숫자 대신 '등록이 금요일까지라 아직 알 수 없다'는 의미를 내포한 간접 응답 (B)가 정답입니다. (A)는 signed-sign의 파생어 함정이고, (C)는 workshop-works의 유사 발음 함정입니다.",
+    "script": "How many people have signed up for the workshop? (A) Registration doesn't close until Friday. (B) The sign is by the door. (C) It works fine.",
+    "options": [
+      "Registration doesn't close until Friday.",
+      "The sign is by the door.",
+      "It works fine."
+    ],
+    "answer": 0,
+    "explanation": "워크숍 등록 인원을 묻는 How many 의문문에 숫자 대신 '등록이 금요일까지라 아직 알 수 없다'는 의미를 내포한 간접 응답 (A)가 정답입니다. (B)는 signed-sign의 파생어 함정이고, (C)는 workshop-works의 유사 발음 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "How long does the ferry crossing take? (A) About forty-five minutes. (B) It costs ten euros. (C) Across the street.",
-    "options": ["About forty-five minutes.", "It costs ten euros.", "Across the street."],
-    "answer": 0,
-    "explanation": "페리 운항 소요 시간을 묻는 How long 의문문에 '약 45분'이라는 기간 응답 (A)가 정답입니다. (B)는 요금(How much)에 대한 응답으로 연상 함정이고, (C)는 crossing-across의 유사 발음 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "How often is the office equipment inspected? (A) An inspector from the city. (B) Every six months. (C) Quite often, I exercise.",
-    "options": ["An inspector from the city.", "Every six months.", "Quite often, I exercise."],
-    "answer": 1,
-    "explanation": "사무기기 점검 주기를 묻는 How often 의문문에 '6개월마다'라는 빈도 응답 (B)가 정답입니다. (A)는 inspected-inspector의 파생어 함정으로 Who에 어울리는 응답이고, (C)는 often을 반복했지만 질문과 무관한 내용입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "How can we reduce our shipping costs? (A) The ship leaves tonight. (B) Marco's been researching some options. (C) It cost a lot.",
-    "options": ["The ship leaves tonight.", "Marco's been researching some options.", "It cost a lot."],
-    "answer": 1,
-    "explanation": "배송비 절감 방법을 묻는 How 의문문에 구체적 방법 대신 'Marco가 방안을 조사 중'이라고 진행 상황을 알려주는 간접 응답 (B)가 정답입니다. (A)는 shipping-ship의 유사 발음 함정이고, (C)는 costs-cost의 파생어 반복 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Do you have this jacket in a smaller size? (A) Let me check in the back. (B) It's a small company. (C) Yes, the price is right.",
-    "options": ["Let me check in the back.", "It's a small company.", "Yes, the price is right."],
-    "answer": 0,
-    "explanation": "더 작은 사이즈가 있는지 묻는 Yes/No 의문문에 Yes/No 대신 '창고를 확인해 보겠다'고 행동으로 답하는 간접 응답 (A)가 정답입니다. (B)는 smaller-small의 파생어 함정이고, (C)는 Yes로 시작하지만 뒤 내용이 사이즈와 무관해 오답입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Is the quarterly report ready for review? (A) I'm still waiting on the sales figures. (B) A quarter past three. (C) Yes, I read the review.",
-    "options": ["I'm still waiting on the sales figures.", "A quarter past three.", "Yes, I read the review."],
-    "answer": 0,
-    "explanation": "분기 보고서가 준비되었는지 묻는 질문에 '아직 매출 수치를 기다리는 중', 즉 준비되지 않았다는 뜻의 간접 응답 (A)가 정답입니다. (B)는 quarterly-quarter의 유사 발음 함정이고, (C)는 review를 '서평/후기'라는 다른 의미로 반복한 다의어 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Did you get my message about the schedule change? (A) A massage appointment. (B) Yes, thanks—I've updated my calendar. (C) The schedule is on the wall.",
-    "options": ["A massage appointment.", "Yes, thanks—I've updated my calendar.", "The schedule is on the wall."],
-    "answer": 1,
-    "explanation": "일정 변경 메시지를 받았는지 묻는 Yes/No 의문문에 'Yes, 고마워요. 캘린더를 업데이트했어요'라고 직접 답한 (B)가 정답입니다. (A)는 message-massage의 대표적인 유사 발음 함정이고, (C)는 schedule을 반복했지만 질문과 무관한 위치 정보입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Are you attending the product launch next week? (A) The product sells well. (B) It depends on whether I finish this audit. (C) At the launch party.",
-    "options": ["The product sells well.", "It depends on whether I finish this audit.", "At the launch party."],
-    "answer": 1,
-    "explanation": "제품 출시 행사 참석 여부를 묻는 질문에 Yes/No 대신 '감사 업무를 끝내느냐에 달려 있다'고 조건부로 답하는 간접 응답 (B)가 정답입니다. (A)는 product를 반복한 동어 반복 함정이고, (C)는 launch를 반복한 장소 응답 함정입니다.",
-    "difficulty": "hard"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Have the new business cards arrived yet? (A) The card reader is broken. (B) He arrived this morning. (C) They came in this morning's mail.",
-    "options": ["The card reader is broken.", "He arrived this morning.", "They came in this morning's mail."],
+    "script": "How long does the ferry crossing take? (A) It costs ten euros. (B) Across the street. (C) About forty-five minutes.",
+    "options": [
+      "It costs ten euros.",
+      "Across the street.",
+      "About forty-five minutes."
+    ],
     "answer": 2,
-    "explanation": "새 명함이 도착했는지 묻는 현재완료 의문문에 '오늘 아침 우편으로 왔다'고 도착 사실을 알려주는 (C)가 정답입니다. (A)는 cards-card의 반복 함정이고, (B)는 arrived를 반복했지만 주어가 He여서 명함(They)과 맞지 않는 오답입니다.",
+    "explanation": "페리 운항 소요 시간을 묻는 How long 의문문에 '약 45분'이라는 기간 응답 (C)가 정답입니다. (A)는 요금(How much)에 대한 응답으로 연상 함정이고, (B)는 crossing-across의 유사 발음 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Does this bus stop at the central station? (A) You'll need the number 7. (B) The bus is crowded. (C) Yes, please stop.",
-    "options": ["You'll need the number 7.", "The bus is crowded.", "Yes, please stop."],
-    "answer": 0,
-    "explanation": "이 버스가 중앙역에 서는지 묻는 질문에 '7번 버스를 타야 한다', 즉 이 버스는 서지 않는다는 뜻을 내포한 간접 응답 (A)가 정답입니다. (B)는 bus를 반복했지만 질문과 무관하고, (C)는 stop을 '멈추다'라는 다른 의미로 반복한 다의어 함정입니다.",
+    "script": "How can we reduce our shipping costs? (A) The ship leaves tonight. (B) It cost a lot. (C) Marco's been researching some options.",
+    "options": [
+      "The ship leaves tonight.",
+      "It cost a lot.",
+      "Marco's been researching some options."
+    ],
+    "answer": 2,
+    "explanation": "배송비 절감 방법을 묻는 How 의문문에 구체적 방법 대신 'Marco가 방안을 조사 중'이라고 진행 상황을 알려주는 간접 응답 (C)가 정답입니다. (A)는 shipping-ship의 유사 발음 함정이고, (B)는 costs-cost의 파생어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Is there a vegetarian option on the menu? (A) I'd recommend the mushroom risotto. (B) The restaurant opens at five. (C) No, I'm not hungry.",
-    "options": ["I'd recommend the mushroom risotto.", "The restaurant opens at five.", "No, I'm not hungry."],
-    "answer": 0,
-    "explanation": "채식 메뉴가 있는지 묻는 질문에 Yes 대신 '버섯 리소토를 추천한다'며 채식 메뉴가 있음을 보여주는 간접 응답 (A)가 정답입니다. (B)는 menu에서 연상되는 식당 영업시간 함정이고, (C)는 No로 시작하지만 메뉴 유무가 아닌 본인의 배고픔을 말해 어색합니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Can I exchange this shirt without a receipt? (A) The fitting room is over there. (B) You'll have to speak with the manager. (C) Yes, it fits well.",
-    "options": ["The fitting room is over there.", "You'll have to speak with the manager.", "Yes, it fits well."],
+    "script": "Do you have this jacket in a smaller size? (A) It's a small company. (B) Let me check in the back. (C) Yes, the price is right.",
+    "options": [
+      "It's a small company.",
+      "Let me check in the back.",
+      "Yes, the price is right."
+    ],
     "answer": 1,
-    "explanation": "영수증 없이 교환이 가능한지 묻는 질문에 '매니저와 이야기해야 한다'며 권한 있는 사람에게 넘기는 간접 응답 (B)가 정답입니다. (A)는 shirt에서 연상되는 탈의실 함정이고, (C)는 Yes로 시작하지만 교환 가능 여부가 아닌 옷의 핏을 말해 오답입니다.",
+    "explanation": "더 작은 사이즈가 있는지 묻는 Yes/No 의문문에 Yes/No 대신 '창고를 확인해 보겠다'고 행동으로 답하는 간접 응답 (B)가 정답입니다. (A)는 smaller-small의 파생어 함정이고, (C)는 Yes로 시작하지만 뒤 내용이 사이즈와 무관해 오답입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Did the IT department fix your laptop? (A) They had to order a new part. (B) Yes, on my desk. (C) The top of the page.",
-    "options": ["They had to order a new part.", "Yes, on my desk.", "The top of the page."],
-    "answer": 0,
-    "explanation": "IT 부서가 노트북을 고쳤는지 묻는 질문에 '새 부품을 주문해야 했다', 즉 아직 수리가 끝나지 않았다는 뜻의 간접 응답 (A)가 정답입니다. (B)는 Yes 뒤에 위치 정보가 와서 질문과 맞지 않고, (C)는 laptop-top의 유사 발음 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Will the museum be open on the holiday? (A) The exhibit was wonderful. (B) Its hours are listed online. (C) I opened the window.",
-    "options": ["The exhibit was wonderful.", "Its hours are listed online.", "I opened the window."],
+    "script": "Is the quarterly report ready for review? (A) A quarter past three. (B) I'm still waiting on the sales figures. (C) Yes, I read the review.",
+    "options": [
+      "A quarter past three.",
+      "I'm still waiting on the sales figures.",
+      "Yes, I read the review."
+    ],
     "answer": 1,
-    "explanation": "휴일에 박물관이 여는지 묻는 질문에 Yes/No 대신 '운영 시간이 온라인에 나와 있다'고 확인 방법을 안내하는 간접 응답 (B)가 정답입니다. (A)는 museum에서 연상되는 전시회 함정이고, (C)는 open-opened의 파생어 함정으로 전혀 다른 의미입니다.",
+    "explanation": "분기 보고서가 준비되었는지 묻는 질문에 '아직 매출 수치를 기다리는 중', 즉 준비되지 않았다는 뜻의 간접 응답 (B)가 정답입니다. (A)는 quarterly-quarter의 유사 발음 함정이고, (C)는 review를 '서평/후기'라는 다른 의미로 반복한 다의어 함정입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Are you attending the product launch next week? (A) The product sells well. (B) At the launch party. (C) It depends on whether I finish this audit.",
+    "options": [
+      "The product sells well.",
+      "At the launch party.",
+      "It depends on whether I finish this audit."
+    ],
+    "answer": 2,
+    "explanation": "제품 출시 행사 참석 여부를 묻는 질문에 Yes/No 대신 '감사 업무를 끝내느냐에 달려 있다'고 조건부로 답하는 간접 응답 (C)가 정답입니다. (A)는 product를 반복한 동어 반복 함정이고, (B)는 launch를 반복한 장소 응답 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Do you know how to use the new accounting software? (A) Marie gave me a quick tutorial yesterday. (B) An account number. (C) It's soft, isn't it?",
-    "options": ["Marie gave me a quick tutorial yesterday.", "An account number.", "It's soft, isn't it?"],
-    "answer": 0,
-    "explanation": "새 회계 소프트웨어 사용법을 아는지 묻는 질문에 'Marie가 어제 간단히 가르쳐 줬다'며 안다는 사실을 우회적으로 전하는 (A)가 정답입니다. (B)는 accounting-account의 파생어 함정이고, (C)는 software-soft의 유사 발음 함정입니다.",
+    "script": "Have the new business cards arrived yet? (A) The card reader is broken. (B) They came in this morning's mail. (C) He arrived this morning.",
+    "options": [
+      "The card reader is broken.",
+      "They came in this morning's mail.",
+      "He arrived this morning."
+    ],
+    "answer": 1,
+    "explanation": "새 명함이 도착했는지 묻는 현재완료 의문문에 '오늘 아침 우편으로 왔다'고 도착 사실을 알려주는 (B)가 정답입니다. (A)는 cards-card의 반복 함정이고, (C)는 arrived를 반복했지만 주어가 He여서 명함(They)과 맞지 않는 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Does this bus stop at the central station? (A) The bus is crowded. (B) Yes, please stop. (C) You'll need the number 7.",
+    "options": [
+      "The bus is crowded.",
+      "Yes, please stop.",
+      "You'll need the number 7."
+    ],
+    "answer": 2,
+    "explanation": "이 버스가 중앙역에 서는지 묻는 질문에 '7번 버스를 타야 한다', 즉 이 버스는 서지 않는다는 뜻을 내포한 간접 응답 (C)가 정답입니다. (A)는 bus를 반복했지만 질문과 무관하고, (B)는 stop을 '멈추다'라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Has the board approved the merger proposal? (A) They're meeting on it Thursday. (B) I'm bored, too. (C) Yes, I'll propose.",
-    "options": ["They're meeting on it Thursday.", "I'm bored, too.", "Yes, I'll propose."],
+    "script": "Is there a vegetarian option on the menu? (A) The restaurant opens at five. (B) No, I'm not hungry. (C) I'd recommend the mushroom risotto.",
+    "options": [
+      "The restaurant opens at five.",
+      "No, I'm not hungry.",
+      "I'd recommend the mushroom risotto."
+    ],
+    "answer": 2,
+    "explanation": "채식 메뉴가 있는지 묻는 질문에 Yes 대신 '버섯 리소토를 추천한다'며 채식 메뉴가 있음을 보여주는 간접 응답 (C)가 정답입니다. (A)는 menu에서 연상되는 식당 영업시간 함정이고, (B)는 No로 시작하지만 메뉴 유무가 아닌 본인의 배고픔을 말해 어색합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Can I exchange this shirt without a receipt? (A) You'll have to speak with the manager. (B) The fitting room is over there. (C) Yes, it fits well.",
+    "options": [
+      "You'll have to speak with the manager.",
+      "The fitting room is over there.",
+      "Yes, it fits well."
+    ],
     "answer": 0,
-    "explanation": "이사회의 합병안 승인 여부를 묻는 질문에 '목요일에 그 건으로 회의한다', 즉 아직 결정 전이라는 뜻의 간접 응답 (A)가 정답입니다. (B)는 board-bored의 대표적인 유사 발음 함정이고, (C)는 proposal-propose의 파생어 함정입니다.",
+    "explanation": "영수증 없이 교환이 가능한지 묻는 질문에 '매니저와 이야기해야 한다'며 권한 있는 사람에게 넘기는 간접 응답 (A)가 정답입니다. (B)는 shirt에서 연상되는 탈의실 함정이고, (C)는 Yes로 시작하지만 교환 가능 여부가 아닌 옷의 핏을 말해 오답입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Did the IT department fix your laptop? (A) Yes, on my desk. (B) They had to order a new part. (C) The top of the page.",
+    "options": [
+      "Yes, on my desk.",
+      "They had to order a new part.",
+      "The top of the page."
+    ],
+    "answer": 1,
+    "explanation": "IT 부서가 노트북을 고쳤는지 묻는 질문에 '새 부품을 주문해야 했다', 즉 아직 수리가 끝나지 않았다는 뜻의 간접 응답 (B)가 정답입니다. (A)는 Yes 뒤에 위치 정보가 와서 질문과 맞지 않고, (C)는 laptop-top의 유사 발음 함정입니다.",
+    "difficulty": "medium"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Will the museum be open on the holiday? (A) Its hours are listed online. (B) The exhibit was wonderful. (C) I opened the window.",
+    "options": [
+      "Its hours are listed online.",
+      "The exhibit was wonderful.",
+      "I opened the window."
+    ],
+    "answer": 0,
+    "explanation": "휴일에 박물관이 여는지 묻는 질문에 Yes/No 대신 '운영 시간이 온라인에 나와 있다'고 확인 방법을 안내하는 간접 응답 (A)가 정답입니다. (B)는 museum에서 연상되는 전시회 함정이고, (C)는 open-opened의 파생어 함정으로 전혀 다른 의미입니다.",
+    "difficulty": "hard"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Has the board approved the merger proposal? (A) I'm bored, too. (B) They're meeting on it Thursday. (C) Yes, I'll propose.",
+    "options": [
+      "I'm bored, too.",
+      "They're meeting on it Thursday.",
+      "Yes, I'll propose."
+    ],
+    "answer": 1,
+    "explanation": "이사회의 합병안 승인 여부를 묻는 질문에 '목요일에 그 건으로 회의한다', 즉 아직 결정 전이라는 뜻의 간접 응답 (B)가 정답입니다. (A)는 board-bored의 대표적인 유사 발음 함정이고, (C)는 proposal-propose의 파생어 함정입니다.",
     "difficulty": "hard"
   },
   {
@@ -464,7 +508,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Didn't you order more printer paper last week? (A) The order may have been delayed. (B) A paper presentation. (C) No, print double-sided.",
-    "options": ["The order may have been delayed.", "A paper presentation.", "No, print double-sided."],
+    "options": [
+      "The order may have been delayed.",
+      "A paper presentation.",
+      "No, print double-sided."
+    ],
     "answer": 0,
     "explanation": "부정의문문은 not을 빼고 '주문했는지'를 묻는 것으로 이해하면 됩니다. '주문이 지연된 것 같다'며 주문은 했으나 도착하지 않았음을 설명하는 간접 응답 (A)가 정답입니다. (B)는 paper를 '논문'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 printer-print의 파생어 함정입니다.",
     "difficulty": "medium"
@@ -473,30 +521,28 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Isn't the warehouse supposed to close at six? (A) Not during inventory season. (B) The house is for sale. (C) Yes, it's quite close.",
-    "options": ["Not during inventory season.", "The house is for sale.", "Yes, it's quite close."],
-    "answer": 0,
-    "explanation": "창고가 6시에 닫는 게 아니냐는 부정의문문에 '재고 조사 기간에는 아니다'라고 예외를 알려주는 (A)가 정답입니다. (B)는 warehouse-house의 유사 발음 함정이고, (C)는 close를 '가까운'이라는 다른 의미로 반복한 다의어 함정입니다.",
+    "script": "Isn't the warehouse supposed to close at six? (A) The house is for sale. (B) Not during inventory season. (C) Yes, it's quite close.",
+    "options": [
+      "The house is for sale.",
+      "Not during inventory season.",
+      "Yes, it's quite close."
+    ],
+    "answer": 1,
+    "explanation": "창고가 6시에 닫는 게 아니냐는 부정의문문에 '재고 조사 기간에는 아니다'라고 예외를 알려주는 (B)가 정답입니다. (A)는 warehouse-house의 유사 발음 함정이고, (C)는 close를 '가까운'이라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Haven't you met the new branch manager yet? (A) Only briefly, at orientation. (B) The branch by the river. (C) Yes, I'll manage.",
-    "options": ["Only briefly, at orientation.", "The branch by the river.", "Yes, I'll manage."],
-    "answer": 0,
-    "explanation": "새 지점장을 아직 못 만났냐는 부정의문문에 '오리엔테이션에서 잠깐만 만났다'고 만난 정도를 설명하는 (A)가 정답입니다. (B)는 branch를 '나뭇가지/지점'의 다의어로 반복한 함정이고, (C)는 manager-manage의 파생어 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Don't we need a permit for the street fair? (A) The application's already been submitted. (B) It's not fair. (C) On Main Street.",
-    "options": ["The application's already been submitted.", "It's not fair.", "On Main Street."],
-    "answer": 0,
-    "explanation": "거리 축제에 허가가 필요하지 않냐는 부정의문문에 '신청서를 이미 제출했다'며 필요하고 이미 조치했음을 알리는 간접 응답 (A)가 정답입니다. (B)는 fair를 '공정한'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 street를 반복한 장소 함정입니다.",
+    "script": "Don't we need a permit for the street fair? (A) It's not fair. (B) The application's already been submitted. (C) On Main Street.",
+    "options": [
+      "It's not fair.",
+      "The application's already been submitted.",
+      "On Main Street."
+    ],
+    "answer": 1,
+    "explanation": "거리 축제에 허가가 필요하지 않냐는 부정의문문에 '신청서를 이미 제출했다'며 필요하고 이미 조치했음을 알리는 간접 응답 (B)가 정답입니다. (A)는 fair를 '공정한'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 street를 반복한 장소 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -504,7 +550,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Wasn't Mr. Osei supposed to call this morning? (A) His assistant said he's in meetings all day. (B) Yes, in the morning paper. (C) A conference call room.",
-    "options": ["His assistant said he's in meetings all day.", "Yes, in the morning paper.", "A conference call room."],
+    "options": [
+      "His assistant said he's in meetings all day.",
+      "Yes, in the morning paper.",
+      "A conference call room."
+    ],
     "answer": 0,
     "explanation": "Osei 씨가 오전에 전화하기로 하지 않았냐는 부정의문문에 '비서 말로는 종일 회의 중이라더라'며 전화가 오지 않은 이유를 전하는 간접 응답 (A)가 정답입니다. (B)는 morning을 반복한 동어 반복 함정이고, (C)는 call을 반복한 연상 어휘 함정입니다.",
     "difficulty": "hard"
@@ -513,40 +563,42 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Aren't these figures from last quarter? (A) No, they were updated yesterday. (B) He figured it out. (C) In the last row.",
-    "options": ["No, they were updated yesterday.", "He figured it out.", "In the last row."],
-    "answer": 0,
-    "explanation": "이 수치가 지난 분기 것이 아니냐는 부정의문문에 'No, 어제 업데이트된 것'이라고 사실을 바로잡는 (A)가 정답입니다. 부정의문문도 사실이 아니면 No로 답합니다. (B)는 figures-figured의 파생어 함정이고, (C)는 last를 반복한 위치 응답 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "The shipment arrived on time, didn't it? (A) Actually, it came a day late. (B) Ship it overnight. (C) Yes, what time is it?",
-    "options": ["Actually, it came a day late.", "Ship it overnight.", "Yes, what time is it?"],
-    "answer": 0,
-    "explanation": "배송이 제때 도착했지 않았냐고 확인하는 부가의문문에 '사실은 하루 늦게 왔다'고 상대의 추측을 정정하는 (A)가 정답입니다. (B)는 shipment-ship의 파생어 함정이고, (C)는 time을 반복하며 되묻는 척하지만 문맥상 어색한 오답입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "You've worked with this client before, haven't you? (A) The work is challenging. (B) Yes, on two previous campaigns. (C) Before the deadline.",
-    "options": ["The work is challenging.", "Yes, on two previous campaigns.", "Before the deadline."],
+    "script": "Aren't these figures from last quarter? (A) He figured it out. (B) No, they were updated yesterday. (C) In the last row.",
+    "options": [
+      "He figured it out.",
+      "No, they were updated yesterday.",
+      "In the last row."
+    ],
     "answer": 1,
-    "explanation": "이 고객과 일해 본 적이 있지 않냐는 부가의문문에 'Yes, 이전 캠페인 두 건에서'라고 구체적으로 확인해 주는 (B)가 정답입니다. (A)는 worked-work의 파생어 반복 함정이고, (C)는 before를 반복한 동어 반복 함정입니다.",
+    "explanation": "이 수치가 지난 분기 것이 아니냐는 부정의문문에 'No, 어제 업데이트된 것'이라고 사실을 바로잡는 (B)가 정답입니다. 부정의문문도 사실이 아니면 No로 답합니다. (A)는 figures-figured의 파생어 함정이고, (C)는 last를 반복한 위치 응답 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "The keynote speaker canceled, didn't she? (A) That's what I heard, too. (B) The speakers are loud. (C) She spoke clearly.",
-    "options": ["That's what I heard, too.", "The speakers are loud.", "She spoke clearly."],
-    "answer": 0,
-    "explanation": "기조연설자가 취소했지 않았냐는 부가의문문에 '나도 그렇게 들었다'며 확정 대신 전해 들은 정보로 동의하는 간접 응답 (A)가 정답입니다. (B)는 speaker를 '스피커(음향기기)'라는 다른 의미로 반복한 다의어 함정이고, (C)는 speaker-spoke의 파생어 함정입니다.",
+    "script": "The shipment arrived on time, didn't it? (A) Ship it overnight. (B) Yes, what time is it? (C) Actually, it came a day late.",
+    "options": [
+      "Ship it overnight.",
+      "Yes, what time is it?",
+      "Actually, it came a day late."
+    ],
+    "answer": 2,
+    "explanation": "배송이 제때 도착했지 않았냐고 확인하는 부가의문문에 '사실은 하루 늦게 왔다'고 상대의 추측을 정정하는 (C)가 정답입니다. (A)는 shipment-ship의 파생어 함정이고, (B)는 time을 반복하며 되묻는 척하지만 문맥상 어색한 오답입니다.",
+    "difficulty": "easy"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "The keynote speaker canceled, didn't she? (A) The speakers are loud. (B) That's what I heard, too. (C) She spoke clearly.",
+    "options": [
+      "The speakers are loud.",
+      "That's what I heard, too.",
+      "She spoke clearly."
+    ],
+    "answer": 1,
+    "explanation": "기조연설자가 취소했지 않았냐는 부가의문문에 '나도 그렇게 들었다'며 확정 대신 전해 들은 정보로 동의하는 간접 응답 (B)가 정답입니다. (A)는 speaker를 '스피커(음향기기)'라는 다른 의미로 반복한 다의어 함정이고, (C)는 speaker-spoke의 파생어 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -554,7 +606,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "We're supposed to submit time sheets today, aren't we? (A) Actually, the deadline was extended to Monday. (B) On the bed sheets. (C) Yes, I have the time.",
-    "options": ["Actually, the deadline was extended to Monday.", "On the bed sheets.", "Yes, I have the time."],
+    "options": [
+      "Actually, the deadline was extended to Monday.",
+      "On the bed sheets.",
+      "Yes, I have the time."
+    ],
     "answer": 0,
     "explanation": "오늘 근무 시간표를 제출해야 하지 않냐는 부가의문문에 '사실 마감이 월요일로 연장됐다'고 새로운 정보로 정정하는 간접 응답 (A)가 정답입니다. (B)는 sheets를 '침대 시트'라는 다른 의미로 반복한 다의어 함정이고, (C)는 time을 반복한 동어 반복 함정입니다.",
     "difficulty": "medium"
@@ -563,30 +619,42 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "This café has free Internet access, doesn't it? (A) You have to ask for the password. (B) The coffee is free. (C) An access road.",
-    "options": ["You have to ask for the password.", "The coffee is free.", "An access road."],
-    "answer": 0,
-    "explanation": "카페에 무료 인터넷이 있지 않냐는 부가의문문에 '비밀번호를 요청해야 한다', 즉 인터넷이 있다는 사실을 전제로 이용 방법을 알려주는 간접 응답 (A)가 정답입니다. (B)는 free를 반복한 동어 반복 함정이고, (C)는 access를 '진입로'라는 다른 의미로 반복한 다의어 함정입니다.",
+    "script": "This café has free Internet access, doesn't it? (A) The coffee is free. (B) An access road. (C) You have to ask for the password.",
+    "options": [
+      "The coffee is free.",
+      "An access road.",
+      "You have to ask for the password."
+    ],
+    "answer": 2,
+    "explanation": "카페에 무료 인터넷이 있지 않냐는 부가의문문에 '비밀번호를 요청해야 한다', 즉 인터넷이 있다는 사실을 전제로 이용 방법을 알려주는 간접 응답 (C)가 정답입니다. (A)는 free를 반복한 동어 반복 함정이고, (B)는 access를 '진입로'라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Mr. Dupont is retiring at the end of the year, isn't he? (A) The tires need replacing. (B) Where did you hear that? (C) At the end of the hall.",
-    "options": ["The tires need replacing.", "Where did you hear that?", "At the end of the hall."],
-    "answer": 1,
-    "explanation": "Dupont 씨가 연말에 은퇴하지 않냐는 부가의문문에 '그 얘기 어디서 들었어요?'라고 되묻는 반문형 간접 응답 (B)가 정답입니다. 확인되지 않은 소문에 대한 자연스러운 반응입니다. (A)는 retiring-tires의 유사 발음 함정이고, (C)는 end를 반복한 장소 응답 함정입니다.",
+    "script": "Mr. Dupont is retiring at the end of the year, isn't he? (A) Where did you hear that? (B) The tires need replacing. (C) At the end of the hall.",
+    "options": [
+      "Where did you hear that?",
+      "The tires need replacing.",
+      "At the end of the hall."
+    ],
+    "answer": 0,
+    "explanation": "Dupont 씨가 연말에 은퇴하지 않냐는 부가의문문에 '그 얘기 어디서 들었어요?'라고 되묻는 반문형 간접 응답 (A)가 정답입니다. 확인되지 않은 소문에 대한 자연스러운 반응입니다. (B)는 retiring-tires의 유사 발음 함정이고, (C)는 end를 반복한 장소 응답 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Would you like the report as a PDF or a printed copy? (A) Electronic is fine. (B) Yes, please. (C) The printer is out of ink.",
-    "options": ["Electronic is fine.", "Yes, please.", "The printer is out of ink."],
-    "answer": 0,
-    "explanation": "PDF와 인쇄본 중 무엇을 원하는지 묻는 선택의문문에 '전자 파일이면 된다'며 한쪽(PDF)을 고르는 (A)가 정답입니다. 선택의문문에는 Yes/No로 답할 수 없으므로 (B)는 오답이고, (C)는 printed-printer의 파생어 연상 함정입니다.",
+    "script": "Would you like the report as a PDF or a printed copy? (A) Yes, please. (B) Electronic is fine. (C) The printer is out of ink.",
+    "options": [
+      "Yes, please.",
+      "Electronic is fine.",
+      "The printer is out of ink."
+    ],
+    "answer": 1,
+    "explanation": "PDF와 인쇄본 중 무엇을 원하는지 묻는 선택의문문에 '전자 파일이면 된다'며 한쪽(PDF)을 고르는 (B)가 정답입니다. 선택의문문에는 Yes/No로 답할 수 없으므로 (A)는 오답이고, (C)는 printed-printer의 파생어 연상 함정입니다.",
     "difficulty": "easy"
   },
   {
@@ -594,7 +662,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Should we take the highway or the local roads? (A) Whichever is faster at this hour. (B) Yes, let's take it. (C) The road is closed.",
-    "options": ["Whichever is faster at this hour.", "Yes, let's take it.", "The road is closed."],
+    "options": [
+      "Whichever is faster at this hour.",
+      "Yes, let's take it.",
+      "The road is closed."
+    ],
     "answer": 0,
     "explanation": "고속도로와 일반 도로 중 선택을 묻는 선택의문문에 '이 시간에 더 빠른 쪽 아무거나'라고 제3의 선택으로 답하는 (A)가 정답입니다. (B)는 선택의문문에 Yes로 답해 오답이고, (C)는 roads-road를 반복했지만 어느 쪽 도로인지 불분명해 어색합니다.",
     "difficulty": "medium"
@@ -603,40 +675,42 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Is the orientation on Tuesday or Wednesday? (A) Both days, actually. (B) Yes, it is. (C) In the orientation packet.",
-    "options": ["Both days, actually.", "Yes, it is.", "In the orientation packet."],
+    "script": "Do you want to present first, or should I? (A) I'd rather go second. (B) The presentation slides. (C) A nice present.",
+    "options": [
+      "I'd rather go second.",
+      "The presentation slides.",
+      "A nice present."
+    ],
     "answer": 0,
-    "explanation": "오리엔테이션이 화요일인지 수요일인지 묻는 선택의문문에 '사실 양일 모두'라고 둘 다 선택하는 (A)가 정답입니다. 선택의문문에서는 both/either/neither형 응답이 자주 정답이 됩니다. (B)는 선택의문문에 Yes로 답해 오답이고, (C)는 orientation을 반복한 동어 반복 함정입니다.",
+    "explanation": "먼저 발표할지 자신이 할지 묻는 선택의문문에 '나는 두 번째가 낫겠다'며 상대가 먼저 하라는 뜻을 전하는 (A)가 정답입니다. (B)는 present-presentation의 파생어 함정이고, (C)는 present를 '선물'이라는 다른 의미로 쓴 다의어 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Do you want to present first, or should I? (A) The presentation slides. (B) I'd rather go second. (C) A nice present.",
-    "options": ["The presentation slides.", "I'd rather go second.", "A nice present."],
+    "script": "Are we flying to Osaka or taking the train? (A) Yes, next Tuesday. (B) The flight was smooth. (C) That depends on the budget.",
+    "options": [
+      "Yes, next Tuesday.",
+      "The flight was smooth.",
+      "That depends on the budget."
+    ],
+    "answer": 2,
+    "explanation": "비행기와 기차 중 어느 쪽으로 가는지 묻는 선택의문문에 '예산에 달려 있다'며 아직 미정임을 알리는 간접 응답 (C)가 정답입니다. (A)는 선택의문문에 Yes로 답해 오답이고, (B)는 flying-flight의 파생어 함정으로 과거 시제라 어색합니다.",
+    "difficulty": "medium"
+  },
+  {
+    "part": 2,
+    "type": "LC",
+    "question": "Listen to the audio and choose the best response.",
+    "script": "Would you prefer the morning shift or the evening one? (A) The store opens at nine. (B) I haven't seen the schedule yet. (C) Yes, I prefer it.",
+    "options": [
+      "The store opens at nine.",
+      "I haven't seen the schedule yet.",
+      "Yes, I prefer it."
+    ],
     "answer": 1,
-    "explanation": "먼저 발표할지 자신이 할지 묻는 선택의문문에 '나는 두 번째가 낫겠다'며 상대가 먼저 하라는 뜻을 전하는 (B)가 정답입니다. (A)는 present-presentation의 파생어 함정이고, (C)는 present를 '선물'이라는 다른 의미로 쓴 다의어 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Are we flying to Osaka or taking the train? (A) That depends on the budget. (B) Yes, next Tuesday. (C) The flight was smooth.",
-    "options": ["That depends on the budget.", "Yes, next Tuesday.", "The flight was smooth."],
-    "answer": 0,
-    "explanation": "비행기와 기차 중 어느 쪽으로 가는지 묻는 선택의문문에 '예산에 달려 있다'며 아직 미정임을 알리는 간접 응답 (A)가 정답입니다. (B)는 선택의문문에 Yes로 답해 오답이고, (C)는 flying-flight의 파생어 함정으로 과거 시제라 어색합니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Would you prefer the morning shift or the evening one? (A) I haven't seen the schedule yet. (B) The store opens at nine. (C) Yes, I prefer it.",
-    "options": ["I haven't seen the schedule yet.", "The store opens at nine.", "Yes, I prefer it."],
-    "answer": 0,
-    "explanation": "오전 근무와 저녁 근무 중 선호를 묻는 선택의문문에 '아직 근무표를 보지 못했다'며 선택을 보류하는 간접 응답 (A)가 정답입니다. (B)는 morning shift에서 연상되는 개점 시간 함정이고, (C)는 선택의문문에 Yes로 답하고 prefer를 반복한 이중 오답입니다.",
+    "explanation": "오전 근무와 저녁 근무 중 선호를 묻는 선택의문문에 '아직 근무표를 보지 못했다'며 선택을 보류하는 간접 응답 (B)가 정답입니다. (A)는 morning shift에서 연상되는 개점 시간 함정이고, (C)는 선택의문문에 Yes로 답하고 prefer를 반복한 이중 오답입니다.",
     "difficulty": "hard"
   },
   {
@@ -644,7 +718,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Should we order lunch in or eat at the bistro downstairs? (A) It's too rainy to go out. (B) The order number. (C) I ate breakfast.",
-    "options": ["It's too rainy to go out.", "The order number.", "I ate breakfast."],
+    "options": [
+      "It's too rainy to go out.",
+      "The order number.",
+      "I ate breakfast."
+    ],
     "answer": 0,
     "explanation": "점심을 시켜 먹을지 아래층 식당에서 먹을지 묻는 선택의문문에 '나가기엔 비가 너무 온다', 즉 시켜 먹자는 뜻을 내포한 간접 응답 (A)가 정답입니다. (B)는 order를 반복한 동어 반복 함정이고, (C)는 eat-ate의 파생어 함정으로 질문과 무관합니다.",
     "difficulty": "medium"
@@ -653,50 +731,56 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Is the workshop for new employees or for everyone? (A) Check the announcement e-mail. (B) He's a new employee. (C) Yes, at the workshop.",
-    "options": ["Check the announcement e-mail.", "He's a new employee.", "Yes, at the workshop."],
-    "answer": 0,
-    "explanation": "워크숍 대상이 신입인지 전 직원인지 묻는 선택의문문에 '공지 이메일을 확인해 보라'며 정보의 출처를 안내하는 간접 응답 (A)가 정답입니다. (B)는 new employees를 반복한 동어 반복 함정이고, (C)는 선택의문문에 Yes로 답하고 workshop을 반복한 이중 오답입니다.",
+    "script": "Is the workshop for new employees or for everyone? (A) He's a new employee. (B) Yes, at the workshop. (C) Check the announcement e-mail.",
+    "options": [
+      "He's a new employee.",
+      "Yes, at the workshop.",
+      "Check the announcement e-mail."
+    ],
+    "answer": 2,
+    "explanation": "워크숍 대상이 신입인지 전 직원인지 묻는 선택의문문에 '공지 이메일을 확인해 보라'며 정보의 출처를 안내하는 간접 응답 (C)가 정답입니다. (A)는 new employees를 반복한 동어 반복 함정이고, (B)는 선택의문문에 Yes로 답하고 workshop을 반복한 이중 오답입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "The copier on the third floor is out of order again. (A) I'll call the repair service. (B) In alphabetical order. (C) Three copies, please.",
-    "options": ["I'll call the repair service.", "In alphabetical order.", "Three copies, please."],
-    "answer": 0,
-    "explanation": "복사기가 또 고장 났다는 평서문(문제 보고)에 '수리 업체에 전화하겠다'고 해결 행동으로 반응하는 (A)가 정답입니다. (B)는 order를 '순서'라는 다른 의미로 반복한 다의어 함정이고, (C)는 third-three, copier-copies의 유사 발음 함정입니다.",
+    "script": "The copier on the third floor is out of order again. (A) In alphabetical order. (B) I'll call the repair service. (C) Three copies, please.",
+    "options": [
+      "In alphabetical order.",
+      "I'll call the repair service.",
+      "Three copies, please."
+    ],
+    "answer": 1,
+    "explanation": "복사기가 또 고장 났다는 평서문(문제 보고)에 '수리 업체에 전화하겠다'고 해결 행동으로 반응하는 (B)가 정답입니다. (A)는 order를 '순서'라는 다른 의미로 반복한 다의어 함정이고, (C)는 third-three, copier-copies의 유사 발음 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "I can't find the file for the Henderson account. (A) Nadia borrowed it this morning. (B) The nail file is in the drawer. (C) It's a large account.",
-    "options": ["Nadia borrowed it this morning.", "The nail file is in the drawer.", "It's a large account."],
-    "answer": 0,
-    "explanation": "파일을 찾을 수 없다는 평서문에 'Nadia가 오늘 아침에 빌려 갔다'며 파일의 행방을 알려주는 (A)가 정답입니다. (B)는 file을 '손톱 다듬는 줄'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 account를 반복했지만 문제 해결과 무관한 진술입니다.",
+    "script": "I can't find the file for the Henderson account. (A) The nail file is in the drawer. (B) It's a large account. (C) Nadia borrowed it this morning.",
+    "options": [
+      "The nail file is in the drawer.",
+      "It's a large account.",
+      "Nadia borrowed it this morning."
+    ],
+    "answer": 2,
+    "explanation": "파일을 찾을 수 없다는 평서문에 'Nadia가 오늘 아침에 빌려 갔다'며 파일의 행방을 알려주는 (C)가 정답입니다. (A)는 file을 '손톱 다듬는 줄'이라는 다른 의미로 반복한 다의어 함정이고, (B)는 account를 반복했지만 문제 해결과 무관한 진술입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Our flight to Denver has been delayed two hours. (A) Then let's get something to eat. (B) The fight was exciting. (C) Two tickets, please.",
-    "options": ["Then let's get something to eat.", "The fight was exciting.", "Two tickets, please."],
-    "answer": 0,
-    "explanation": "비행기가 2시간 지연됐다는 평서문에 '그럼 뭐 좀 먹으러 가자'고 상황에 맞는 제안으로 반응하는 (A)가 정답입니다. (B)는 flight-fight의 유사 발음 함정이고, (C)는 two를 반복한 숫자 함정입니다.",
-    "difficulty": "medium"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "The new intern seems to be learning quickly. (A) Yes, she's already handling client calls. (B) The internet is down. (C) Turn left at the light.",
-    "options": ["Yes, she's already handling client calls.", "The internet is down.", "Turn left at the light."],
-    "answer": 0,
-    "explanation": "신입 인턴이 빨리 배운다는 의견 제시형 평서문에 'Yes, 벌써 고객 전화를 처리하고 있다'며 동의하고 근거를 덧붙이는 (A)가 정답입니다. (B)는 intern-internet의 유사 발음 함정이고, (C)는 learning과 발음이 비슷한 turn/left를 이용한 무관한 응답입니다.",
+    "script": "Our flight to Denver has been delayed two hours. (A) The fight was exciting. (B) Then let's get something to eat. (C) Two tickets, please.",
+    "options": [
+      "The fight was exciting.",
+      "Then let's get something to eat.",
+      "Two tickets, please."
+    ],
+    "answer": 1,
+    "explanation": "비행기가 2시간 지연됐다는 평서문에 '그럼 뭐 좀 먹으러 가자'고 상황에 맞는 제안으로 반응하는 (B)가 정답입니다. (A)는 flight-fight의 유사 발음 함정이고, (C)는 two를 반복한 숫자 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -704,7 +788,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "I'm thinking about applying for the team leader position. (A) You'd be great at it. (B) The team lost the game. (C) Apply two coats of paint.",
-    "options": ["You'd be great at it.", "The team lost the game.", "Apply two coats of paint."],
+    "options": [
+      "You'd be great at it.",
+      "The team lost the game.",
+      "Apply two coats of paint."
+    ],
     "answer": 0,
     "explanation": "팀장 자리에 지원할까 생각 중이라는 평서문에 '당신이라면 잘할 것'이라고 격려로 반응하는 (A)가 정답입니다. (B)는 team을 반복한 연상 함정이고, (C)는 applying-apply를 '바르다'라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
@@ -713,70 +801,84 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "This invoice doesn't match the purchase order. (A) Accounting can sort that out. (B) I bought some matches. (C) Yes, a nice purchase.",
-    "options": ["Accounting can sort that out.", "I bought some matches.", "Yes, a nice purchase."],
-    "answer": 0,
-    "explanation": "송장이 구매 주문서와 일치하지 않는다는 문제 제기형 평서문에 '회계팀이 해결해 줄 수 있다'며 담당 부서를 안내하는 간접 응답 (A)가 정답입니다. (B)는 match를 '성냥'이라는 다른 의미로 쓴 다의어 함정이고, (C)는 purchase를 반복한 동어 반복 함정입니다.",
+    "script": "This invoice doesn't match the purchase order. (A) I bought some matches. (B) Yes, a nice purchase. (C) Accounting can sort that out.",
+    "options": [
+      "I bought some matches.",
+      "Yes, a nice purchase.",
+      "Accounting can sort that out."
+    ],
+    "answer": 2,
+    "explanation": "송장이 구매 주문서와 일치하지 않는다는 문제 제기형 평서문에 '회계팀이 해결해 줄 수 있다'며 담당 부서를 안내하는 간접 응답 (C)가 정답입니다. (A)는 match를 '성냥'이라는 다른 의미로 쓴 다의어 함정이고, (B)는 purchase를 반복한 동어 반복 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "The air conditioning in the meeting room is too cold. (A) The thermostat is behind the door. (B) I have a cold, too. (C) The meeting went well.",
-    "options": ["The thermostat is behind the door.", "I have a cold, too.", "The meeting went well."],
-    "answer": 0,
-    "explanation": "회의실이 너무 춥다는 불만형 평서문에 '온도 조절기가 문 뒤에 있다'며 스스로 해결할 방법을 알려주는 간접 응답 (A)가 정답입니다. (B)는 cold를 '감기'라는 다른 의미로 반복한 다의어 함정이고, (C)는 meeting을 반복한 동어 반복 함정입니다.",
+    "script": "The air conditioning in the meeting room is too cold. (A) I have a cold, too. (B) The meeting went well. (C) The thermostat is behind the door.",
+    "options": [
+      "I have a cold, too.",
+      "The meeting went well.",
+      "The thermostat is behind the door."
+    ],
+    "answer": 2,
+    "explanation": "회의실이 너무 춥다는 불만형 평서문에 '온도 조절기가 문 뒤에 있다'며 스스로 해결할 방법을 알려주는 간접 응답 (C)가 정답입니다. (A)는 cold를 '감기'라는 다른 의미로 반복한 다의어 함정이고, (B)는 meeting을 반복한 동어 반복 함정입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "We've sold out of the medium-sized gloves. (A) When will you get more in? (B) The medium is the message. (C) Yes, they're sold.",
-    "options": ["When will you get more in?", "The medium is the message.", "Yes, they're sold."],
-    "answer": 0,
-    "explanation": "중간 사이즈 장갑이 품절됐다는 평서문에 '언제 더 들어오나요?'라고 되묻는 반문형 간접 응답 (A)가 정답입니다. 평서문에 질문으로 반응하는 최신 출제 패턴입니다. (B)는 medium을 다른 의미로 반복한 함정이고, (C)는 sold를 반복했을 뿐 대화로 어색합니다.",
+    "script": "We've sold out of the medium-sized gloves. (A) The medium is the message. (B) When will you get more in? (C) Yes, they're sold.",
+    "options": [
+      "The medium is the message.",
+      "When will you get more in?",
+      "Yes, they're sold."
+    ],
+    "answer": 1,
+    "explanation": "중간 사이즈 장갑이 품절됐다는 평서문에 '언제 더 들어오나요?'라고 되묻는 반문형 간접 응답 (B)가 정답입니다. 평서문에 질문으로 반응하는 최신 출제 패턴입니다. (A)는 medium을 다른 의미로 반복한 함정이고, (C)는 sold를 반복했을 뿐 대화로 어색합니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Could you forward me the agenda for tomorrow's meeting? (A) Sure, as soon as it's finalized. (B) Four words. (C) Toward the entrance.",
-    "options": ["Sure, as soon as it's finalized.", "Four words.", "Toward the entrance."],
-    "answer": 0,
-    "explanation": "회의 안건을 전달해 달라는 요청문에 'Sure, 확정되는 대로 보내겠다'고 조건을 붙여 수락하는 (A)가 정답입니다. (B)는 forward-four words의 유사 발음 함정이고, (C)는 forward-toward의 유사 발음 함정입니다.",
+    "script": "Could you forward me the agenda for tomorrow's meeting? (A) Four words. (B) Toward the entrance. (C) Sure, as soon as it's finalized.",
+    "options": [
+      "Four words.",
+      "Toward the entrance.",
+      "Sure, as soon as it's finalized."
+    ],
+    "answer": 2,
+    "explanation": "회의 안건을 전달해 달라는 요청문에 'Sure, 확정되는 대로 보내겠다'고 조건을 붙여 수락하는 (C)가 정답입니다. (A)는 forward-four words의 유사 발음 함정이고, (B)는 forward-toward의 유사 발음 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Why don't we move the staff party to the rooftop terrace? (A) What if it rains? (B) Because it's on the roof. (C) The party was fun.",
-    "options": ["What if it rains?", "Because it's on the roof.", "The party was fun."],
-    "answer": 0,
-    "explanation": "'Why don't we ~?'는 이유를 묻는 것이 아니라 제안하는 표현입니다. 옥상으로 옮기자는 제안에 '비가 오면 어떡하죠?'라고 우려를 표하는 반문형 간접 응답 (A)가 정답입니다. (B)는 Why를 이유 의문문으로 착각하게 만드는 Because 함정이고, (C)는 party를 반복한 과거 시제 오답입니다.",
+    "script": "Why don't we move the staff party to the rooftop terrace? (A) Because it's on the roof. (B) What if it rains? (C) The party was fun.",
+    "options": [
+      "Because it's on the roof.",
+      "What if it rains?",
+      "The party was fun."
+    ],
+    "answer": 1,
+    "explanation": "'Why don't we ~?'는 이유를 묻는 것이 아니라 제안하는 표현입니다. 옥상으로 옮기자는 제안에 '비가 오면 어떡하죠?'라고 우려를 표하는 반문형 간접 응답 (B)가 정답입니다. (A)는 Why를 이유 의문문으로 착각하게 만드는 Because 함정이고, (C)는 party를 반복한 과거 시제 오답입니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Would you mind reviewing my presentation slides? (A) Not at all—send them over. (B) The view is amazing. (C) Yes, it slides easily.",
-    "options": ["Not at all—send them over.", "The view is amazing.", "Yes, it slides easily."],
-    "answer": 0,
-    "explanation": "'Would you mind ~?'는 'Not at all'이 수락의 표현입니다. 슬라이드 검토 요청에 '전혀요, 보내 주세요'라고 흔쾌히 수락하는 (A)가 정답입니다. (B)는 reviewing-view의 유사 발음 함정이고, (C)는 slides를 '미끄러지다'라는 다른 의미로 반복한 다의어 함정입니다.",
-    "difficulty": "easy"
-  },
-  {
-    "part": 2,
-    "type": "LC",
-    "question": "Listen to the audio and choose the best response.",
-    "script": "Let's invite the regional managers to the planning session. (A) How many would that be? (B) An invitation card. (C) The region is growing.",
-    "options": ["How many would that be?", "An invitation card.", "The region is growing."],
-    "answer": 0,
-    "explanation": "지역 관리자들을 기획 회의에 초대하자는 제안에 '그러면 몇 명이나 되죠?'라고 실무적인 사항을 되묻는 반문형 간접 응답 (A)가 정답입니다. (B)는 invite-invitation의 파생어 함정이고, (C)는 regional-region의 파생어 함정입니다.",
+    "script": "Let's invite the regional managers to the planning session. (A) An invitation card. (B) The region is growing. (C) How many would that be?",
+    "options": [
+      "An invitation card.",
+      "The region is growing.",
+      "How many would that be?"
+    ],
+    "answer": 2,
+    "explanation": "지역 관리자들을 기획 회의에 초대하자는 제안에 '그러면 몇 명이나 되죠?'라고 실무적인 사항을 되묻는 반문형 간접 응답 (C)가 정답입니다. (A)는 invite-invitation의 파생어 함정이고, (B)는 regional-region의 파생어 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -784,7 +886,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Can you cover the front desk while I'm at lunch? (A) Actually, I have a doctor's appointment at noon. (B) A desk cover. (C) The lunch special.",
-    "options": ["Actually, I have a doctor's appointment at noon.", "A desk cover.", "The lunch special."],
+    "options": [
+      "Actually, I have a doctor's appointment at noon.",
+      "A desk cover.",
+      "The lunch special."
+    ],
     "answer": 0,
     "explanation": "점심시간 동안 안내 데스크를 봐 달라는 요청에 '사실 정오에 병원 예약이 있다'며 거절 이유를 밝히는 간접 응답 (A)가 정답입니다. No라고 직접 말하지 않는 우회적 거절 패턴입니다. (B)는 cover와 desk를 반복한 동어 반복 함정이고, (C)는 lunch를 반복한 연상 함정입니다.",
     "difficulty": "medium"
@@ -793,10 +899,14 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "How about offering a discount to first-time customers? (A) Marketing tried that last year. (B) The customer is waiting. (C) At a discount store.",
-    "options": ["Marketing tried that last year.", "The customer is waiting.", "At a discount store."],
-    "answer": 0,
-    "explanation": "신규 고객 할인을 제안하는 'How about ~?' 제안문에 '마케팅팀이 작년에 시도해 봤다'며 이미 해 본 적이 있음을 알려주는 간접 응답 (A)가 정답입니다. 수락도 거절도 아닌 정보 제공형 응답입니다. (B)는 customers-customer의 반복 함정이고, (C)는 discount를 반복한 장소 함정입니다.",
+    "script": "How about offering a discount to first-time customers? (A) The customer is waiting. (B) At a discount store. (C) Marketing tried that last year.",
+    "options": [
+      "The customer is waiting.",
+      "At a discount store.",
+      "Marketing tried that last year."
+    ],
+    "answer": 2,
+    "explanation": "신규 고객 할인을 제안하는 'How about ~?' 제안문에 '마케팅팀이 작년에 시도해 봤다'며 이미 해 본 적이 있음을 알려주는 간접 응답 (C)가 정답입니다. 수락도 거절도 아닌 정보 제공형 응답입니다. (A)는 customers-customer의 반복 함정이고, (B)는 discount를 반복한 장소 함정입니다.",
     "difficulty": "hard"
   },
   {
@@ -804,7 +914,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Who's picking up the clients from the airport? (A) I thought you were. (B) Pick a card. (C) The airport is busy.",
-    "options": ["I thought you were.", "Pick a card.", "The airport is busy."],
+    "options": [
+      "I thought you were.",
+      "Pick a card.",
+      "The airport is busy."
+    ],
     "answer": 0,
     "explanation": "공항에서 고객을 누가 픽업하는지 묻는 Who 의문문에 '당신이 하는 줄 알았는데요'라고 되받는 반문형 간접 응답 (A)가 정답입니다. 서로 책임을 확인하는 자연스러운 대화 패턴입니다. (B)는 picking-pick의 파생어 함정이고, (C)는 airport를 반복한 동어 반복 함정입니다.",
     "difficulty": "hard"
@@ -813,30 +927,42 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "How much does it cost to rent the banquet hall? (A) The rates went up last month. (B) It's down the hall. (C) Five hours at most.",
-    "options": ["The rates went up last month.", "It's down the hall.", "Five hours at most."],
-    "answer": 0,
-    "explanation": "연회장 대여 비용을 묻는 How much 의문문에 정확한 금액 대신 '지난달에 요금이 올랐다'며 관련 정보를 주는 간접 응답 (A)가 정답입니다. (B)는 hall을 '복도'라는 다른 의미로 반복한 다의어 함정이고, (C)는 기간(How long) 응답으로 cost-most의 유사 발음 함정도 포함합니다.",
+    "script": "How much does it cost to rent the banquet hall? (A) It's down the hall. (B) The rates went up last month. (C) Five hours at most.",
+    "options": [
+      "It's down the hall.",
+      "The rates went up last month.",
+      "Five hours at most."
+    ],
+    "answer": 1,
+    "explanation": "연회장 대여 비용을 묻는 How much 의문문에 정확한 금액 대신 '지난달에 요금이 올랐다'며 관련 정보를 주는 간접 응답 (B)가 정답입니다. (A)는 hall을 '복도'라는 다른 의미로 반복한 다의어 함정이고, (C)는 기간(How long) 응답으로 cost-most의 유사 발음 함정도 포함합니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Has anyone replied to the job posting yet? (A) We've received over thirty applications. (B) Post it on the board. (C) Yes, he got the job.",
-    "options": ["We've received over thirty applications.", "Post it on the board.", "Yes, he got the job."],
-    "answer": 0,
-    "explanation": "채용 공고에 지원자가 있는지 묻는 질문에 '30건 이상의 지원서를 받았다'고 구체적인 현황으로 답하는 (A)가 정답입니다. (B)는 posting-post의 파생어 함정이고, (C)는 job을 반복했지만 아직 채용 전 단계이므로 문맥상 어색합니다.",
+    "script": "Has anyone replied to the job posting yet? (A) Post it on the board. (B) We've received over thirty applications. (C) Yes, he got the job.",
+    "options": [
+      "Post it on the board.",
+      "We've received over thirty applications.",
+      "Yes, he got the job."
+    ],
+    "answer": 1,
+    "explanation": "채용 공고에 지원자가 있는지 묻는 질문에 '30건 이상의 지원서를 받았다'고 구체적인 현황으로 답하는 (B)가 정답입니다. (A)는 posting-post의 파생어 함정이고, (C)는 job을 반복했지만 아직 채용 전 단계이므로 문맥상 어색합니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Should I book the conference room for two o'clock or three? (A) The meeting's been moved to next week. (B) I read the book. (C) Yes, room for three.",
-    "options": ["The meeting's been moved to next week.", "I read the book.", "Yes, room for three."],
-    "answer": 0,
-    "explanation": "회의실을 2시와 3시 중 언제로 예약할지 묻는 선택의문문에 '회의가 다음 주로 옮겨졌다'며 둘 다 필요 없다는 뜻을 전하는 간접 응답 (A)가 정답입니다. (B)는 book을 '책'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 선택의문문에 Yes로 답하고 three를 반복한 이중 오답입니다.",
+    "script": "Should I book the conference room for two o'clock or three? (A) I read the book. (B) Yes, room for three. (C) The meeting's been moved to next week.",
+    "options": [
+      "I read the book.",
+      "Yes, room for three.",
+      "The meeting's been moved to next week."
+    ],
+    "answer": 2,
+    "explanation": "회의실을 2시와 3시 중 언제로 예약할지 묻는 선택의문문에 '회의가 다음 주로 옮겨졌다'며 둘 다 필요 없다는 뜻을 전하는 간접 응답 (C)가 정답입니다. (A)는 book을 '책'이라는 다른 의미로 반복한 다의어 함정이고, (B)는 선택의문문에 Yes로 답하고 three를 반복한 이중 오답입니다.",
     "difficulty": "hard"
   },
   {
@@ -844,7 +970,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "The elevator inspection is scheduled for this afternoon. (A) I'd better take the stairs, then. (B) He inspected the stairs. (C) On the second floor.",
-    "options": ["I'd better take the stairs, then.", "He inspected the stairs.", "On the second floor."],
+    "options": [
+      "I'd better take the stairs, then.",
+      "He inspected the stairs.",
+      "On the second floor."
+    ],
     "answer": 0,
     "explanation": "엘리베이터 점검이 오후에 예정되어 있다는 안내형 평서문에 '그럼 계단을 이용해야겠다'고 상황에 맞게 반응하는 (A)가 정답입니다. (B)는 inspection-inspected의 파생어 함정이고, (C)는 elevator에서 연상되는 층수 함정입니다.",
     "difficulty": "easy"
@@ -854,7 +984,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Why hasn't the budget proposal been sent out yet? (A) We're waiting for the director's signature. (B) A generous budget. (C) Send it by courier.",
-    "options": ["We're waiting for the director's signature.", "A generous budget.", "Send it by courier."],
+    "options": [
+      "We're waiting for the director's signature.",
+      "A generous budget.",
+      "Send it by courier."
+    ],
     "answer": 0,
     "explanation": "예산안이 아직 발송되지 않은 이유를 묻는 Why 의문문에 '이사님 서명을 기다리는 중'이라고 이유를 설명하는 (A)가 정답입니다. (B)는 budget을 반복한 동어 반복 함정이고, (C)는 sent-send의 파생어 함정으로 발송 방법을 말해 질문과 어긋납니다.",
     "difficulty": "medium"
@@ -863,10 +997,14 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Would you like me to save you a seat at the seminar? (A) Thanks, but I'm watching it online. (B) The seat is comfortable. (C) Save your money.",
-    "options": ["Thanks, but I'm watching it online.", "The seat is comfortable.", "Save your money."],
-    "answer": 0,
-    "explanation": "세미나에서 자리를 맡아 주겠다는 제안에 '고맙지만 온라인으로 본다'며 정중히 거절하고 이유를 밝히는 간접 응답 (A)가 정답입니다. (B)는 seat을 반복한 동어 반복 함정이고, (C)는 save를 '아끼다'라는 다른 의미로 반복한 다의어 함정입니다.",
+    "script": "Would you like me to save you a seat at the seminar? (A) The seat is comfortable. (B) Thanks, but I'm watching it online. (C) Save your money.",
+    "options": [
+      "The seat is comfortable.",
+      "Thanks, but I'm watching it online.",
+      "Save your money."
+    ],
+    "answer": 1,
+    "explanation": "세미나에서 자리를 맡아 주겠다는 제안에 '고맙지만 온라인으로 본다'며 정중히 거절하고 이유를 밝히는 간접 응답 (B)가 정답입니다. (A)는 seat을 반복한 동어 반복 함정이고, (C)는 save를 '아끼다'라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "medium"
   },
   {
@@ -874,7 +1012,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "Where should I file these maintenance reports? (A) Hasn't everything gone digital? (B) The maintenance crew arrived. (C) On a daily basis.",
-    "options": ["Hasn't everything gone digital?", "The maintenance crew arrived.", "On a daily basis."],
+    "options": [
+      "Hasn't everything gone digital?",
+      "The maintenance crew arrived.",
+      "On a daily basis."
+    ],
     "answer": 0,
     "explanation": "정비 보고서를 어디에 보관할지 묻는 Where 의문문에 '모두 디지털화되지 않았나요?'라고 되묻는 반문형 간접 응답 (A)가 정답입니다. 종이 보관 자체가 불필요할 수 있음을 시사합니다. (B)는 maintenance를 반복한 동어 반복 함정이고, (C)는 빈도(How often) 응답으로 오답입니다.",
     "difficulty": "hard"
@@ -884,7 +1026,11 @@
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
     "script": "When can I expect the test results? (A) The lab will e-mail you within three days. (B) The rest of the team. (C) Yes, I expect so.",
-    "options": ["The lab will e-mail you within three days.", "The rest of the team.", "Yes, I expect so."],
+    "options": [
+      "The lab will e-mail you within three days.",
+      "The rest of the team.",
+      "Yes, I expect so."
+    ],
     "answer": 0,
     "explanation": "검사 결과를 언제 받을 수 있는지 묻는 When 의문문에 '3일 이내에 검사실에서 이메일을 보낼 것'이라고 시점 정보를 주는 (A)가 정답입니다. (B)는 results-rest의 유사 발음 함정이고, (C)는 의문사 의문문에 Yes로 답하고 expect를 반복한 이중 오답입니다.",
     "difficulty": "easy"
@@ -893,60 +1039,84 @@
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Whose laptop is this on the table? (A) It looks like Priya's. (B) A new tablet. (C) On the top shelf.",
-    "options": ["It looks like Priya's.", "A new tablet.", "On the top shelf."],
-    "answer": 0,
-    "explanation": "테이블 위 노트북의 주인을 묻는 Whose 의문문에 'Priya 것 같다'고 소유자를 추정해 답하는 (A)가 정답입니다. (B)는 table-tablet의 유사 발음 함정이고, (C)는 laptop-top의 유사 발음을 이용한 위치 응답 함정입니다.",
+    "script": "Whose laptop is this on the table? (A) A new tablet. (B) It looks like Priya's. (C) On the top shelf.",
+    "options": [
+      "A new tablet.",
+      "It looks like Priya's.",
+      "On the top shelf."
+    ],
+    "answer": 1,
+    "explanation": "테이블 위 노트북의 주인을 묻는 Whose 의문문에 'Priya 것 같다'고 소유자를 추정해 답하는 (B)가 정답입니다. (A)는 table-tablet의 유사 발음 함정이고, (C)는 laptop-top의 유사 발음을 이용한 위치 응답 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Which caterer did we use for last year's banquet? (A) That was before I joined the company. (B) Use the side entrance. (C) The food arrived late.",
-    "options": ["That was before I joined the company.", "Use the side entrance.", "The food arrived late."],
-    "answer": 0,
-    "explanation": "작년 연회에 이용한 케이터링 업체를 묻는 Which 의문문에 '그건 내가 입사하기 전 일'이라며 알 수 없는 이유를 밝히는 간접 응답 (A)가 정답입니다. (B)는 use를 반복한 동어 반복 함정이고, (C)는 caterer에서 연상되는 음식 관련 함정입니다.",
+    "script": "Which caterer did we use for last year's banquet? (A) Use the side entrance. (B) The food arrived late. (C) That was before I joined the company.",
+    "options": [
+      "Use the side entrance.",
+      "The food arrived late.",
+      "That was before I joined the company."
+    ],
+    "answer": 2,
+    "explanation": "작년 연회에 이용한 케이터링 업체를 묻는 Which 의문문에 '그건 내가 입사하기 전 일'이라며 알 수 없는 이유를 밝히는 간접 응답 (C)가 정답입니다. (A)는 use를 반복한 동어 반복 함정이고, (B)는 caterer에서 연상되는 음식 관련 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Don't forget to back up the database before the update. (A) I did it first thing this morning. (B) In the back of the room. (C) The date hasn't been set.",
-    "options": ["I did it first thing this morning.", "In the back of the room.", "The date hasn't been set."],
-    "answer": 0,
-    "explanation": "업데이트 전 데이터베이스 백업을 잊지 말라는 당부형 평서문에 '오늘 아침에 제일 먼저 했다'고 이미 완료했음을 알리는 (A)가 정답입니다. (B)는 back을 '뒤쪽'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 database-date의 유사 발음 함정입니다.",
+    "script": "Don't forget to back up the database before the update. (A) In the back of the room. (B) I did it first thing this morning. (C) The date hasn't been set.",
+    "options": [
+      "In the back of the room.",
+      "I did it first thing this morning.",
+      "The date hasn't been set."
+    ],
+    "answer": 1,
+    "explanation": "업데이트 전 데이터베이스 백업을 잊지 말라는 당부형 평서문에 '오늘 아침에 제일 먼저 했다'고 이미 완료했음을 알리는 (B)가 정답입니다. (A)는 back을 '뒤쪽'이라는 다른 의미로 반복한 다의어 함정이고, (C)는 database-date의 유사 발음 함정입니다.",
     "difficulty": "easy"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "Hasn't the marketing team finished the customer survey? (A) The results are being analyzed now. (B) A marked improvement. (C) Yes, the customers are here.",
-    "options": ["The results are being analyzed now.", "A marked improvement.", "Yes, the customers are here."],
-    "answer": 0,
-    "explanation": "마케팅팀이 고객 설문을 끝내지 않았냐는 부정의문문에 '지금 결과를 분석 중'이라며 설문은 끝났고 다음 단계 진행 중임을 알리는 간접 응답 (A)가 정답입니다. (B)는 marketing-marked의 유사 발음 함정이고, (C)는 customer를 반복했지만 문맥과 무관합니다.",
+    "script": "Hasn't the marketing team finished the customer survey? (A) A marked improvement. (B) Yes, the customers are here. (C) The results are being analyzed now.",
+    "options": [
+      "A marked improvement.",
+      "Yes, the customers are here.",
+      "The results are being analyzed now."
+    ],
+    "answer": 2,
+    "explanation": "마케팅팀이 고객 설문을 끝내지 않았냐는 부정의문문에 '지금 결과를 분석 중'이라며 설문은 끝났고 다음 단계 진행 중임을 알리는 간접 응답 (C)가 정답입니다. (A)는 marketing-marked의 유사 발음 함정이고, (B)는 customer를 반복했지만 문맥과 무관합니다.",
     "difficulty": "medium"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "You can park in the visitor lot today, can't you? (A) My permit expired last week. (B) The visitors are leaving. (C) A lot of traffic.",
-    "options": ["My permit expired last week.", "The visitors are leaving.", "A lot of traffic."],
-    "answer": 0,
-    "explanation": "오늘 방문객 주차장에 주차할 수 있지 않냐는 부가의문문에 '허가증이 지난주에 만료됐다', 즉 주차할 수 없다는 뜻을 내포한 간접 응답 (A)가 정답입니다. (B)는 visitor-visitors의 반복 함정이고, (C)는 lot을 '많은'이라는 다른 의미로 반복한 다의어 함정입니다.",
+    "script": "You can park in the visitor lot today, can't you? (A) The visitors are leaving. (B) My permit expired last week. (C) A lot of traffic.",
+    "options": [
+      "The visitors are leaving.",
+      "My permit expired last week.",
+      "A lot of traffic."
+    ],
+    "answer": 1,
+    "explanation": "오늘 방문객 주차장에 주차할 수 있지 않냐는 부가의문문에 '허가증이 지난주에 만료됐다', 즉 주차할 수 없다는 뜻을 내포한 간접 응답 (B)가 정답입니다. (A)는 visitor-visitors의 반복 함정이고, (C)는 lot을 '많은'이라는 다른 의미로 반복한 다의어 함정입니다.",
     "difficulty": "hard"
   },
   {
     "part": 2,
     "type": "LC",
     "question": "Listen to the audio and choose the best response.",
-    "script": "How did you hear about the job opening? (A) A former colleague told me about it. (B) The door is open. (C) I can't hear you well.",
-    "options": ["A former colleague told me about it.", "The door is open.", "I can't hear you well."],
-    "answer": 0,
-    "explanation": "채용 공고를 어떻게 알게 됐는지 경로를 묻는 How 의문문에 '예전 동료가 알려 줬다'고 경로로 답하는 (A)가 정답입니다. (B)는 opening-open의 파생어 함정이고, (C)는 hear를 '들리다'라는 의미로 반복한 동어 반복 함정입니다.",
+    "script": "How did you hear about the job opening? (A) The door is open. (B) A former colleague told me about it. (C) I can't hear you well.",
+    "options": [
+      "The door is open.",
+      "A former colleague told me about it.",
+      "I can't hear you well."
+    ],
+    "answer": 1,
+    "explanation": "채용 공고를 어떻게 알게 됐는지 경로를 묻는 How 의문문에 '예전 동료가 알려 줬다'고 경로로 답하는 (B)가 정답입니다. (A)는 opening-open의 파생어 함정이고, (C)는 hear를 '들리다'라는 의미로 반복한 동어 반복 함정입니다.",
     "difficulty": "easy"
   }
 ]

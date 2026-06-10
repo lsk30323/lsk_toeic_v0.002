@@ -1,0 +1,1190 @@
+[
+  {
+    "passageType": "double-passage",
+    "passage": "Brightline Marketing Summit — Workshop Schedule (Friday, July 14)\n\n9:00 A.M. — Digital Branding Essentials, Room A, led by Ms. Anita Patel\n10:30 A.M. — Social Media Analytics, Room B, led by Mr. Chidi Okafor\n1:00 P.M. — Effective Email Campaigns, Room A, led by Ms. Carol Devlin\n2:30 P.M. — Customer Retention Strategies, Room C, led by Mr. Jae-min Hong\n\nPlease note: Each attendee may register for a maximum of two workshops. Because of limited space, all sessions held in Room A are capped at 25 participants. To change your registration, contact the events office at least three days before the summit.\n\n--- Passage 2 ---\n\nTo: events@brightlinesummit.com\nFrom: Laura Kim <l.kim@parkermedia.com>\nDate: July 10\nSubject: Registration change request\n\nDear Events Office,\n\nI am currently registered for Digital Branding Essentials and Customer Retention Strategies on July 14. Unfortunately, my flight to the summit now arrives at 10:00 A.M. that day, so I will not be able to attend my first workshop as planned. I would like to replace it with the session on email marketing instead, if there is still space available. I understand that seating for that session may be limited, so please let me know as soon as possible whether I can be added. My registration number is BLS-2278.\n\nThank you,\nLaura Kim",
+    "questions": [
+      {
+        "question": "Why did Ms. Kim send the email?",
+        "options": [
+          "To cancel her attendance at the summit",
+          "To request a change to her workshop registration",
+          "To ask for a refund of her registration fee",
+          "To volunteer as a workshop leader"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 Ms. Kim은 비행기 도착 시간 때문에 첫 번째 워크숍에 참석할 수 없게 되어 'I would like to replace it with the session on email marketing instead'라고 등록 변경을 요청하고 있습니다. 취소나 환불, 자원봉사가 아니라 등록 변경 요청이 목적이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the schedule, which workshop will be held in Room C?",
+        "options": [
+          "Digital Branding Essentials",
+          "Social Media Analytics",
+          "Effective Email Campaigns",
+          "Customer Retention Strategies"
+        ],
+        "answer": 3,
+        "explanation": "일정표에서 'Customer Retention Strategies, Room C, led by Mr. Jae-min Hong'이라고 명시되어 있습니다. Room A에서는 Digital Branding Essentials와 Effective Email Campaigns가, Room B에서는 Social Media Analytics가 열리므로 (D)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which workshop will Ms. Kim most likely be unable to attend?",
+        "options": [
+          "The one led by Ms. Patel",
+          "The one led by Mr. Okafor",
+          "The one led by Ms. Devlin",
+          "The one led by Mr. Hong"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 이메일에서 Ms. Kim은 비행기가 오전 10시에 도착해 '첫 번째 워크숍'에 참석할 수 없다고 했는데, 그녀가 등록한 첫 워크숍은 Digital Branding Essentials(오전 9시)입니다. 일정표에 따르면 이 세션은 Ms. Anita Patel이 진행하므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the session Ms. Kim wants to join?",
+        "options": [
+          "It has been moved to a different room.",
+          "It is limited to 25 participants.",
+          "It starts at 2:30 P.M.",
+          "It requires an additional fee."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Ms. Kim이 새로 참여하고 싶어 하는 세션은 'the session on email marketing', 즉 Effective Email Campaigns이며, 일정표에 따르면 이 세션은 Room A에서 열립니다. 공지에서 'all sessions held in Room A are capped at 25 participants'라고 했으므로 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the schedule, what is the maximum number of workshops an attendee may register for?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "answer": 1,
+        "explanation": "일정표 공지 부분에 'Each attendee may register for a maximum of two workshops'라고 명시되어 있으므로 참석자는 최대 2개의 워크숍에 등록할 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "Maxwell Office Supplies — Summer Sale!\n\nFrom June 1 to June 30, enjoy big savings on the products your office uses most. All paper products are 20% off, and every desk chair in stock is 15% off. As always, orders totaling more than $100 ship for free anywhere in the country. As a special bonus, customers who place an order before June 15 will receive a complimentary desk organizer with their delivery. Quantities of some sale items are limited, so we encourage you to order early. Discounts are applied automatically at checkout and cannot be combined with other promotional offers. Visit www.maxwellsupplies.com or call 555-0142 to order today.\n\n--- Passage 2 ---\n\nMAXWELL OFFICE SUPPLIES — ORDER FORM\n\nCustomer: Daniel Reyes, Lakefront Accounting\nOrder date: June 10\nDelivery address: 418 Harbor Street, Chicago, IL\n\nItem / Quantity / Price\nCopy paper (10-ream box) / 5 / $60.00\nErgonomic desk chair (Model DC-7) / 1 / $180.00\nHeavy-duty stapler set / 1 / $25.00\n\nSubtotal (before discounts): $265.00\nPayment method: Corporate credit card\nSpecial instructions: Please deliver to the rear entrance of the building and leave packages with the receptionist on the second floor. A signature will be required upon delivery.",
+    "questions": [
+      {
+        "question": "What is the purpose of the first passage?",
+        "options": [
+          "To announce a store relocation",
+          "To advertise a limited-time sale",
+          "To explain a new return policy",
+          "To introduce a line of furniture"
+        ],
+        "answer": 1,
+        "explanation": "첫 번째 지문은 Maxwell Office Supplies가 6월 1일부터 30일까지 진행하는 여름 할인 행사를 알리는 광고입니다. 종이 제품 20% 할인, 의자 15% 할인 등 기간 한정 판촉 내용이 중심이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the advertisement, what discount is offered on desk chairs?",
+        "options": [
+          "10%",
+          "15%",
+          "20%",
+          "25%"
+        ],
+        "answer": 1,
+        "explanation": "광고에서 'every desk chair in stock is 15% off'라고 명시되어 있습니다. 20%는 종이 제품에 적용되는 할인율이므로 혼동하지 않도록 주의해야 합니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will Mr. Reyes receive a free desk organizer?",
+        "options": [
+          "He ordered before June 15.",
+          "He is a first-time customer.",
+          "He purchased a desk chair.",
+          "He paid with a corporate card."
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 광고에서 'customers who place an order before June 15 will receive a complimentary desk organizer'라고 했고, 주문서의 주문 날짜는 June 10으로 6월 15일 이전입니다. 따라서 무료 데스크 정리함을 받는 이유는 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which item on Mr. Reyes's order qualifies for a 20% discount?",
+        "options": [
+          "The copy paper",
+          "The desk chair",
+          "The stapler set",
+          "The desk organizer"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 광고에서 20% 할인은 'All paper products'에 적용된다고 했으며, 주문서에서 종이 제품에 해당하는 항목은 Copy paper입니다. 의자는 15% 할인 대상이고 스테이플러 세트는 할인 항목에 언급되지 않았으므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about Mr. Reyes's order?",
+        "options": [
+          "It will be delivered to the front entrance.",
+          "It will be shipped at no charge.",
+          "It must be paid for in cash.",
+          "It cannot be left with the receptionist."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 광고에서 'orders totaling more than $100 ship for free'라고 했고, 주문서의 소계는 $265.00로 $100을 초과합니다. 따라서 무료 배송 대상이므로 (B)가 정답입니다. 배송은 건물 뒤쪽 입구로 요청되었고 2층 접수원에게 맡기도록 했으므로 (A), (D)는 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NOTICE TO ALL RIVERSIDE APARTMENTS RESIDENTS\n\nOn Tuesday, March 3, the water supply to Buildings A and B will be shut off from 9:00 A.M. to 3:00 P.M. while contractors replace a section of aging pipe in the basement. Residents of Building C will not be affected. During the work, the shared laundry room will be closed for the entire day, and some drilling noise should be expected. Complimentary bottled water will be available at the front desk in the main lobby throughout the day. We apologize for the inconvenience. If you have questions, please contact the building manager, Olivia Cruz, at ocruz@riversideapts.com.\n\n--- Passage 2 ---\n\nTo: Olivia Cruz <ocruz@riversideapts.com>\nFrom: Mark Ellison <m.ellison@quickmail.com>\nDate: February 27\nSubject: Question about March 3 work\n\nDear Ms. Cruz,\n\nI live in Unit 4B in Building B, and I saw the notice about the upcoming pipe replacement. I work night shifts at the hospital, so I usually sleep between 8:00 A.M. and 4:00 P.M. Could you tell me roughly how loud the work is expected to be? If it will be very noisy, I may arrange to stay with a friend that day. Also, my cousin will be visiting me that week — may I pick up two bottles of water instead of one?\n\nThank you,\nMark Ellison",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce a temporary interruption of water service",
+          "To advertise newly renovated apartment units",
+          "To remind residents to pay maintenance fees",
+          "To introduce a new building manager"
+        ],
+        "answer": 0,
+        "explanation": "공지의 핵심 내용은 3월 3일 화요일 오전 9시부터 오후 3시까지 배관 교체 공사로 인해 A동과 B동의 수도 공급이 중단된다는 안내입니다. 따라서 일시적인 단수 안내가 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, what will be closed on March 3?",
+        "options": [
+          "The main lobby",
+          "The laundry room",
+          "The parking garage",
+          "The fitness center"
+        ],
+        "answer": 1,
+        "explanation": "공지에서 'the shared laundry room will be closed for the entire day'라고 명시되어 있으므로 3월 3일에 폐쇄되는 곳은 공용 세탁실입니다. 로비는 오히려 생수를 배부하는 장소이므로 (A)는 오답이고 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Mr. Ellison's apartment?",
+        "options": [
+          "It is located in Building C.",
+          "Its water supply will be affected by the work.",
+          "It has a private laundry machine.",
+          "It was recently renovated."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Mr. Ellison은 이메일에서 자신이 Building B의 Unit 4B에 산다고 밝혔고, 공지에서는 'the water supply to Buildings A and B will be shut off'라고 했습니다. 따라서 그의 집은 단수의 영향을 받게 되므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Where can Mr. Ellison pick up bottled water on March 3?",
+        "options": [
+          "In the basement",
+          "At the front desk in the lobby",
+          "In the laundry room",
+          "At the hospital"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Mr. Ellison은 이메일에서 생수를 받을 수 있는지 문의했는데, 공지에 따르면 'Complimentary bottled water will be available at the front desk in the main lobby'라고 안내되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why is Mr. Ellison concerned about the noise?",
+        "options": [
+          "He works from home during the day.",
+          "He sleeps during the daytime hours.",
+          "He records music in his apartment.",
+          "He has a newborn baby."
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 Mr. Ellison은 병원에서 야간 근무를 하기 때문에 보통 오전 8시부터 오후 4시까지 잠을 잔다고 설명하며 공사 소음 수준을 문의했습니다. 공사 시간(9 A.M.–3 P.M.)이 그의 수면 시간과 겹치기 때문이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "JOB OPENING — Senior Graphic Designer\nVela Studio, Austin, Texas\n\nVela Studio, an award-winning creative agency, is seeking a senior graphic designer to join our growing team. Requirements include at least five years of professional design experience, proficiency in industry-standard design software, and a strong portfolio of completed projects. Experience with product packaging design is preferred but not required. This is a full-time, on-site position based at our Austin office. To apply, send a cover letter and portfolio to careers@velastudio.com by April 20. Interviews will be conducted during the first week of May.\n\n--- Passage 2 ---\n\nTo: careers@velastudio.com\nFrom: Nina Sorel <nsorel@inboxnet.com>\nDate: April 18\nSubject: Application — Senior Graphic Designer\n\nDear Hiring Team,\n\nI am writing to apply for the senior graphic designer position posted on your Web site. I have spent the past seven years at Calloway Print Group, where I currently lead a team of three junior designers. Last year, I directed the complete packaging redesign for a national beverage brand, a project that increased the client's shelf visibility and was featured in a design magazine. My portfolio is attached, including samples from that campaign. I am excited about the possibility of relocating to Austin; however, I would like to ask whether occasional remote workdays are possible. I look forward to hearing from you.\n\nSincerely,\nNina Sorel",
+    "questions": [
+      {
+        "question": "Why did Ms. Sorel send the email?",
+        "options": [
+          "To request a deadline extension",
+          "To apply for an advertised position",
+          "To recommend a former colleague",
+          "To ask about an internship program"
+        ],
+        "answer": 1,
+        "explanation": "이메일 첫 문장에서 'I am writing to apply for the senior graphic designer position'이라고 밝히고 있으므로, 이메일의 목적은 채용 공고에 지원하는 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the job posting, when is the application deadline?",
+        "options": [
+          "April 18",
+          "April 20",
+          "May 1",
+          "May 7"
+        ],
+        "answer": 1,
+        "explanation": "공고에서 'send a cover letter and portfolio to careers@velastudio.com by April 20'이라고 명시되어 있으므로 지원 마감일은 4월 20일입니다. 4월 18일은 Ms. Sorel이 이메일을 보낸 날짜이므로 혼동하지 않아야 합니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What requirement does Ms. Sorel exceed?",
+        "options": [
+          "The minimum years of experience",
+          "The number of references",
+          "The required software certifications",
+          "The educational background"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 공고에서는 'at least five years of professional design experience'를 요구하는데, Ms. Sorel은 이메일에서 'I have spent the past seven years at Calloway Print Group'이라고 밝혔습니다. 7년의 경력은 최소 요건인 5년을 초과하므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why is Ms. Sorel likely to be considered a strong candidate?",
+        "options": [
+          "She has experience in a preferred area.",
+          "She already lives in Austin.",
+          "She previously worked at Vela Studio.",
+          "She is willing to accept a lower salary."
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 공고에서 'Experience with product packaging design is preferred'라고 했는데, Ms. Sorel은 음료 브랜드의 패키징 리디자인을 총괄한 경험이 있다고 이메일에 썼습니다. 우대 사항에 해당하는 경력을 갖추었으므로 (A)가 정답입니다. 그녀는 Austin으로 이주를 고려 중이므로 (B)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Sorel ask about in her email?",
+        "options": [
+          "The salary range for the position",
+          "The size of the design team",
+          "The possibility of working remotely at times",
+          "The date of the interview"
+        ],
+        "answer": 2,
+        "explanation": "이메일 후반부에서 Ms. Sorel은 'I would like to ask whether occasional remote workdays are possible'이라고 물었습니다. 즉, 가끔 재택근무가 가능한지를 문의한 것이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "HARBORVIEW HOTEL — GUEST INVOICE\n\nGuest: Thomas Liang\nRoom: 612 (Deluxe King)\nCheck-in: October 5 / Check-out: October 8\n\nCharges:\nRoom rate — $150.00 per night x 3 nights: $450.00\nValet parking — $20.00 per night x 3 nights: $60.00\nMinibar purchases: $35.00\nTotal due: $545.00\n\nPayment received: Credit card ending in 4417\nQuestions about your bill? Contact billing@harborviewhotel.com.\n\n--- Passage 2 ---\n\nTo: billing@harborviewhotel.com\nFrom: Thomas Liang <tliang@corvusconsulting.com>\nDate: October 9\nSubject: Invoice corrections — Room 612\n\nTo Whom It May Concern,\n\nI stayed at your hotel last week and received my invoice this morning. I believe it contains two errors. First, I was charged $35.00 for minibar purchases, but I did not open the minibar at any time during my stay. Second, when I booked my room by telephone in September, your reservations agent confirmed that I would receive the corporate rate of $135.00 per night through my company's agreement with your hotel. The invoice instead shows the standard nightly rate. Please send me a corrected invoice and refund the difference to my credit card. I have stayed at your property many times and trust this can be resolved quickly.\n\nRegards,\nThomas Liang",
+    "questions": [
+      {
+        "question": "Why did Mr. Liang write the email?",
+        "options": [
+          "To extend an upcoming reservation",
+          "To dispute charges on his bill",
+          "To compliment the hotel staff",
+          "To request a copy of a receipt"
+        ],
+        "answer": 1,
+        "explanation": "Mr. Liang은 청구서에 두 가지 오류가 있다고 지적하며('I believe it contains two errors') 수정된 청구서와 차액 환불을 요청하고 있습니다. 즉, 청구 내역에 이의를 제기하는 것이 목적이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the invoice, how many nights did Mr. Liang stay at the hotel?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": 1,
+        "explanation": "청구서에 '$150.00 per night x 3 nights'라고 표시되어 있고, 체크인 10월 5일부터 체크아웃 10월 8일까지는 3박에 해당합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which charge does Mr. Liang claim he should not have received at all?",
+        "options": [
+          "The room charge",
+          "The valet parking fee",
+          "The minibar charge",
+          "The booking fee"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. 청구서에는 'Minibar purchases: $35.00'가 포함되어 있는데, Mr. Liang은 이메일에서 'I did not open the minibar at any time during my stay'라고 하며 이 요금 자체가 잘못 부과되었다고 주장합니다. 객실 요금은 금액이 잘못되었다고 했을 뿐 부과 자체를 부정한 것은 아니므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By how much does Mr. Liang believe he was overcharged for each night's stay?",
+        "options": [
+          "$10.00",
+          "$15.00",
+          "$20.00",
+          "$35.00"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 청구서에는 1박당 $150.00가 부과되었지만, Mr. Liang은 전화 예약 시 1박당 $135.00의 기업 할인 요금을 확인받았다고 주장합니다. 따라서 1박당 과다 청구액은 $150.00 − $135.00 = $15.00이므로 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How did Mr. Liang make his reservation?",
+        "options": [
+          "Through the hotel's Web site",
+          "By telephone",
+          "Through a travel agency",
+          "In person at the front desk"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'when I booked my room by telephone in September'라고 언급했으므로 Mr. Liang은 전화로 예약했음을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "GARDEN GATE CATERING — EVENT PACKAGES\n\nBronze Package — $15 per person: assorted sandwiches, garden salad, and soft drinks\nSilver Package — $22 per person: hot buffet with two main dishes, seasonal sides, and a dessert table\nGold Package — $30 per person: three-course plated dinner with professional serving staff included\n\nAll orders must be placed at least ten days before your event. Events with more than 50 guests receive a 10% discount on the total order. Call 555-0179 or e-mail orders@gardengatecatering.com.\n\n--- Passage 2 ---\n\nTo: orders@gardengatecatering.com\nFrom: Priya Nair <pnair@delmonttech.com>\nDate: May 5\nSubject: Catering for retirement party\n\nHello,\n\nOur company is hosting a retirement party for our operations director on May 22, and we would like to hire your company to cater the event. We are expecting 60 guests in our headquarters' main conference hall. We would like the package that includes the hot buffet and the dessert table, as several attendees specifically requested your lemon tarts. Could you also let me know whether vegetarian versions of the main dishes are available? Please send a price quotation at your earliest convenience so I can get approval from our finance team.\n\nBest regards,\nPriya Nair\nOffice Manager, Delmont Technologies",
+    "questions": [
+      {
+        "question": "Why did Ms. Nair send the email?",
+        "options": [
+          "To cancel a catering order",
+          "To arrange catering for a company event",
+          "To apply for a job at a catering company",
+          "To complain about a recent meal"
+        ],
+        "answer": 1,
+        "explanation": "Ms. Nair는 5월 22일에 열리는 은퇴 기념 파티의 케이터링을 의뢰하고 싶다며 패키지 선택, 채식 옵션 문의, 견적 요청을 하고 있습니다. 회사 행사를 위한 케이터링을 준비하는 것이 목적이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the price list, what is included only in the Gold Package?",
+        "options": [
+          "A dessert table",
+          "Soft drinks",
+          "Professional serving staff",
+          "A garden salad"
+        ],
+        "answer": 2,
+        "explanation": "가격표에서 Gold Package에만 'professional serving staff included'라는 문구가 있습니다. 디저트 테이블은 Silver, 음료와 샐러드는 Bronze에 포함되므로 Gold에만 해당하는 항목은 전문 서빙 직원입니다. 정답은 (C)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which package does Ms. Nair most likely want to order?",
+        "options": [
+          "The Bronze Package",
+          "The Silver Package",
+          "The Gold Package",
+          "A customized package"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Ms. Nair는 'the package that includes the hot buffet and the dessert table'를 원한다고 했는데, 가격표에서 핫 뷔페와 디저트 테이블이 모두 포함된 것은 1인당 $22의 Silver Package입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What discount will Delmont Technologies most likely receive?",
+        "options": [
+          "5% off the total order",
+          "10% off the total order",
+          "15% off the total order",
+          "No discount"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 가격표에 'Events with more than 50 guests receive a 10% discount on the total order'라고 했고, 이메일에서 예상 인원이 60명이라고 했으므로 50명 초과 조건을 충족합니다. 따라서 총 주문 금액의 10% 할인을 받게 되므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Nair ask about in her email?",
+        "options": [
+          "Whether vegetarian dishes can be provided",
+          "Whether the event date can be changed",
+          "Whether delivery is available on weekends",
+          "Whether tables and chairs are included"
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 Ms. Nair는 'Could you also let me know whether vegetarian versions of the main dishes are available?'라고 물으며 채식 메뉴 제공 여부를 문의했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "FITCORE GYM — 10TH ANNIVERSARY SPECIALS (September only)\n\nTo celebrate ten years of helping our community stay healthy, FitCore Gym is offering the following promotions during the month of September:\n- New members who join in September receive their first month of membership free.\n- Existing members who refer a friend who joins will receive one month of membership free.\n- All personal training sessions are 25% off when booked in September.\n\nPlease note that the swimming pool is closed for renovation and will reopen on September 15. All other facilities remain open during regular hours.\n\n--- Passage 2 ---\n\nTo: frontdesk@fitcoregym.com\nFrom: Carlos Vega <cvega@mailpoint.com>\nDate: September 3\nSubject: Referral reward and pool question\n\nHello,\n\nI have been a FitCore member since 2024, and yesterday my colleague Dana Brooks signed up for a membership after I recommended the gym to her. Could you let me know what I need to do to claim the reward described in your anniversary flyer? Also, I usually swim three mornings a week, so please confirm when I will be able to use the pool again. Finally, I would like to book a personal training session for next Saturday at 10 A.M. with trainer Sam if he is available.\n\nThanks,\nCarlos Vega",
+    "questions": [
+      {
+        "question": "What is the purpose of the first passage?",
+        "options": [
+          "To announce the opening of a new gym location",
+          "To describe promotions for an anniversary",
+          "To explain changes to membership fees",
+          "To recruit new personal trainers"
+        ],
+        "answer": 1,
+        "explanation": "첫 번째 지문은 FitCore Gym이 개관 10주년을 기념하여 9월 한 달간 진행하는 판촉 행사(신규 회원 첫 달 무료, 추천 보상, PT 25% 할인)를 안내하는 글입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the flyer, what discount is offered on personal training sessions?",
+        "options": [
+          "10%",
+          "15%",
+          "20%",
+          "25%"
+        ],
+        "answer": 3,
+        "explanation": "전단에서 'All personal training sessions are 25% off when booked in September'라고 명시되어 있으므로 9월에 예약한 개인 트레이닝 세션은 25% 할인됩니다. 정답은 (D)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is Mr. Vega most likely entitled to receive?",
+        "options": [
+          "A free month of membership",
+          "A free personal training session",
+          "A discount on swimwear",
+          "A full refund of his September fee"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 전단에서 '기존 회원이 친구를 추천하여 그 친구가 가입하면 한 달 무료 멤버십을 받는다'고 했고, Mr. Vega는 2024년부터 회원이며 동료 Dana Brooks가 그의 추천으로 가입했다고 밝혔습니다. 따라서 그는 한 달 무료 멤버십 대상이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When will Mr. Vega most likely be able to swim at the gym again?",
+        "options": [
+          "On September 3",
+          "On September 10",
+          "On September 15",
+          "On October 1"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. Mr. Vega는 이메일에서 수영장을 다시 이용할 수 있는 시점을 문의했는데, 전단에 따르면 수영장은 보수 공사로 폐쇄 중이며 'will reopen on September 15'라고 안내되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What benefit will Ms. Brooks most likely receive?",
+        "options": [
+          "Her first month of membership at no cost",
+          "A complimentary swimming lesson",
+          "A 25% discount on her annual fee",
+          "A free gym bag"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. Ms. Brooks는 9월에 신규 가입한 회원이며, 전단에서 'New members who join in September receive their first month of membership free'라고 했습니다. 따라서 그녀는 첫 달 무료 혜택을 받게 되므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NORTHAIR — TRAVEL ITINERARY\n\nPassenger: Amelia Forte\nConfirmation code: QX7L29\n\nOutbound: Flight NA 482, Friday, June 12\nBoston (BOS) to Denver (DEN)\nDeparture: 8:15 A.M., Gate 22 — Seat 14C\n\nReturn: Flight NA 491, Tuesday, June 16\nDenver (DEN) to Boston (BOS)\nDeparture: 5:40 P.M. — Seat 9A\n\nFare includes one free checked bag per flight. Arrive at the airport at least 90 minutes before departure.\n\n--- Passage 2 ---\n\nTo: a.forte@bluepine.com\nFrom: notifications@northair.com\nDate: June 11\nSubject: Schedule change — Flight NA 482\n\nDear Ms. Forte,\n\nWe are writing to inform you that the departure of Flight NA 482 from Boston to Denver on June 12 has been delayed because of a crew scheduling issue. The flight will now depart at 11:05 A.M. from the same gate. We apologize for the inconvenience. Passengers who will miss a connecting flight as a result of this change may rebook on another NorthAir flight at no additional charge by calling 555-0114. In addition, affected passengers may present this e-mail at any restaurant in Terminal B to receive a $15 meal voucher. Your return flight is not affected by this change.\n\nSincerely,\nNorthAir Customer Care",
+    "questions": [
+      {
+        "question": "Why was the email sent to Ms. Forte?",
+        "options": [
+          "To confirm a seat upgrade",
+          "To notify her of a flight delay",
+          "To announce a gate change",
+          "To request payment for a checked bag"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 승무원 일정 문제로 NA 482편의 출발이 지연되었음을 알리기 위해 발송되었습니다. 게이트는 동일하다고 했으므로 (C)는 오답이며, 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the itinerary, when is Ms. Forte scheduled to return to Boston?",
+        "options": [
+          "On June 11",
+          "On June 12",
+          "On June 15",
+          "On June 16"
+        ],
+        "answer": 3,
+        "explanation": "여행 일정표에서 귀국편은 'Flight NA 491, Tuesday, June 16'으로 명시되어 있습니다. 6월 12일은 출국편 날짜이므로 정답은 (D)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which part of Ms. Forte's trip is affected by the schedule change?",
+        "options": [
+          "Her flight to Denver",
+          "Her flight to Boston",
+          "Both of her flights",
+          "Her hotel reservation"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 이메일에서 지연된 항공편은 NA 482편이며, 일정표에 따르면 NA 482는 보스턴에서 덴버로 가는 출국편입니다. 이메일 마지막에 귀국편은 영향이 없다고 명시했으므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much later than originally scheduled will Flight NA 482 depart?",
+        "options": [
+          "About one hour",
+          "About two hours",
+          "About three hours",
+          "About four hours"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. 일정표상 원래 출발 시각은 오전 8시 15분이고, 이메일에서 변경된 출발 시각은 오전 11시 5분입니다. 그 차이는 2시간 50분으로 약 3시간에 해당하므로 (C)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the email, what can affected passengers receive in Terminal B?",
+        "options": [
+          "A seat upgrade",
+          "A meal voucher",
+          "A travel pillow",
+          "A refund in cash"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'affected passengers may present this e-mail at any restaurant in Terminal B to receive a $15 meal voucher'라고 안내했습니다. 따라서 터미널 B에서 받을 수 있는 것은 $15 식사 쿠폰이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "IMPORTANT PRODUCT RECALL NOTICE — LUMINA HOME\n\nLumina Home is voluntarily recalling the Model LH-220 desk lamp sold at our retail stores between January and March of this year. Testing has shown that the lamp's power cord can overheat after extended use, posing a potential fire hazard. Customers who own this model should stop using it immediately. You may return the lamp to any Lumina Home store for a full refund, or you may request a free replacement cord through our Web site at www.luminahome.com/recall. The model and serial numbers are printed on the base of the lamp. No other Lumina Home products are affected by this recall. We sincerely apologize for the inconvenience.\n\n--- Passage 2 ---\n\nTo: support@luminahome.com\nFrom: Janet Wu <jwu@postbox.com>\nDate: April 14\nSubject: LH-220 recall question\n\nTo Whom It May Concern,\n\nI purchased an LH-220 desk lamp at your Westfield store in February, and I saw the recall notice in the newspaper this weekend. I checked the base of my lamp, and the serial number is LH220-0457. I would prefer to keep the lamp and simply replace the cord, but I would rather not place the request through the Web site. Could I pick up the replacement cord directly at the Westfield store instead? I visit that shopping center every week, so it would be much more convenient for me. Please let me know.\n\nSincerely,\nJanet Wu",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To announce a product recall",
+          "To advertise a new desk lamp",
+          "To explain a price increase",
+          "To introduce a store loyalty program"
+        ],
+        "answer": 0,
+        "explanation": "공지는 LH-220 모델 책상 램프의 전원 코드 과열 위험 때문에 자발적 리콜을 실시한다는 내용입니다. 따라서 제품 리콜을 알리는 것이 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, why is the lamp being recalled?",
+        "options": [
+          "Its bulb burns out too quickly.",
+          "Its power cord can overheat.",
+          "Its base is unstable.",
+          "Its switch breaks easily."
+        ],
+        "answer": 1,
+        "explanation": "공지에서 'the lamp's power cord can overheat after extended use, posing a potential fire hazard'라고 리콜 사유를 밝혔습니다. 전원 코드 과열로 인한 화재 위험 때문이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is most likely true about Ms. Wu's lamp?",
+        "options": [
+          "It is not included in the recall.",
+          "It is covered by the recall.",
+          "It was purchased online.",
+          "It has already been repaired."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 리콜 대상은 1월부터 3월 사이에 매장에서 판매된 LH-220 모델인데, Ms. Wu는 2월에 Westfield 매장에서 LH-220을 구입했다고 밝혔습니다. 구입 시기와 모델이 모두 리콜 조건에 해당하므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How does Ms. Wu's request differ from the procedure described in the notice?",
+        "options": [
+          "She wants a refund instead of a replacement.",
+          "She wants to receive the replacement cord at a store rather than ordering it online.",
+          "She wants to exchange her lamp for a different model.",
+          "She wants the company to repair the lamp at her home."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 공지에서는 교체용 코드를 웹사이트를 통해 신청하라고 안내했지만, Ms. Wu는 웹사이트 대신 Westfield 매장에서 직접 코드를 받고 싶다고 요청했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the notice, where can customers find the serial number?",
+        "options": [
+          "On the packaging box",
+          "On the base of the lamp",
+          "On the power cord",
+          "On the receipt"
+        ],
+        "answer": 1,
+        "explanation": "공지에서 'The model and serial numbers are printed on the base of the lamp'라고 명시했으므로 일련번호는 램프 받침대에서 확인할 수 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "BROCKTON INSTITUTE — PROJECT MANAGEMENT CERTIFICATE COURSE\n\nDevelop the skills employers want! Our popular certificate course covers project planning, budgeting, risk management, and team leadership. Classes are held online every Tuesday from 7:00 to 9:00 P.M. for eight weeks, beginning September 9. The course fee is $400; however, participants who register by August 15 pay the early registration price of $340. Course materials will be e-mailed to participants one week before the first class. To earn the certificate, participants must attend at least seven of the eight sessions and pass a final assessment. Register at www.brocktoninstitute.org.\n\n--- Passage 2 ---\n\nTo: h.ali@trentlogistics.com\nFrom: registration@brocktoninstitute.org\nDate: August 10\nSubject: Registration confirmed\n\nDear Mr. Ali,\n\nThank you for registering for the Project Management Certificate Course. Your payment of $340 has been processed, and your place in the course is confirmed. As stated on our Web site, your course materials will arrive by e-mail one week before the first session. You asked whether missing a single class in October because of a business trip would prevent you from earning the certificate. Please rest assured that it will not, as long as you attend all of the remaining sessions and pass the final assessment. We recommend asking a classmate for notes from any session you miss.\n\nBest regards,\nBrockton Institute Registration Team",
+    "questions": [
+      {
+        "question": "What is the purpose of the email?",
+        "options": [
+          "To confirm a course registration",
+          "To announce a schedule change",
+          "To request an outstanding payment",
+          "To advertise an advanced course"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 Mr. Ali의 수강 등록과 $340 결제가 완료되었음을 확인해 주는 내용으로 시작합니다. 따라서 등록 확인이 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the Web page, how long does the course last?",
+        "options": [
+          "Four weeks",
+          "Six weeks",
+          "Eight weeks",
+          "Ten weeks"
+        ],
+        "answer": 2,
+        "explanation": "웹페이지에서 'Classes are held online every Tuesday from 7:00 to 9:00 P.M. for eight weeks'라고 명시했으므로 과정 기간은 8주입니다. 정답은 (C)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why was Mr. Ali charged $340?",
+        "options": [
+          "He is a returning student.",
+          "He registered before August 15.",
+          "He works for a partner company.",
+          "He chose to skip the final assessment."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 웹페이지에서 8월 15일까지 등록하면 조기 등록 가격인 $340를 낸다고 했고, 이메일 날짜가 8월 10일이며 결제 금액이 $340입니다. 즉, 마감일 이전에 등록하여 조기 등록 할인가가 적용된 것이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By approximately what date will Mr. Ali receive his course materials?",
+        "options": [
+          "August 15",
+          "September 2",
+          "September 9",
+          "October 1"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 자료는 첫 수업 일주일 전에 이메일로 발송되는데, 웹페이지에 따르면 첫 수업은 9월 9일입니다. 따라서 자료는 약 9월 2일경에 도착할 것이므로 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about Mr. Ali's certificate?",
+        "options": [
+          "He can still earn it even if he misses one session.",
+          "He will receive it without taking the final assessment.",
+          "He must attend all eight sessions to earn it.",
+          "He will receive it by regular mail in August."
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 수료 조건은 8회 중 최소 7회 출석과 최종 평가 통과인데, 이메일에서 출장으로 한 번 결석해도 나머지 수업에 모두 출석하고 평가를 통과하면 수료에 지장이 없다고 답했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "DINING OUT — A Bright Spot on Lakeside Avenue\nBy Renata Voss, Lakeside Gazette food critic\n\nSolstice Bistro has quietly become one of the most interesting tables in town. The seasonal menu, rebuilt every few months around local produce, is full of pleasant surprises, and the dessert list is simply outstanding — the honey-lavender cake alone is worth the trip. Much of the credit belongs to chef Marco Bell, who joined the bistro this spring. Still, the experience is not perfect. On both of my Saturday visits, service was noticeably slow, with long waits between courses. Parking is also a challenge, as the restaurant's small lot fills up quickly. Even so, Solstice Bistro earns a solid four stars out of five.\n\n--- Passage 2 ---\n\nTo: All Staff\nFrom: Hana Sato, Owner\nDate: November 3\nSubject: This week's review in the Gazette\n\nTeam,\n\nBy now many of you have seen Renata Voss's review of our bistro. Four stars is something to be proud of, and I want to especially thank our pastry team, whose work the critic singled out for praise. At the same time, we need to take the criticisms seriously. Starting next month, I am hiring two additional servers for Friday and Saturday evenings. Also beginning December 1, we will validate customer parking at the Grant Street garage, one block away, so guests will no longer need to depend on our small lot. Keep up the great work.\n\nHana",
+    "questions": [
+      {
+        "question": "What is the purpose of the first passage?",
+        "options": [
+          "To review a local restaurant",
+          "To announce a restaurant's closing",
+          "To profile a new restaurant owner",
+          "To advertise a holiday menu"
+        ],
+        "answer": 0,
+        "explanation": "첫 번째 지문은 Lakeside Gazette의 음식 평론가 Renata Voss가 Solstice Bistro를 평가한 리뷰 기사로, 장점과 단점을 평가하고 별점 4개를 부여했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What problem does the critic mention about her visits?",
+        "options": [
+          "The menu had too few choices.",
+          "The food was served cold.",
+          "The service between courses was slow.",
+          "The prices were too high."
+        ],
+        "answer": 2,
+        "explanation": "리뷰에서 'On both of my Saturday visits, service was noticeably slow, with long waits between courses'라고 지적했습니다. 코스 사이 대기가 길었다는 서비스 문제이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How does Ms. Sato plan to address the critic's complaint about parking?",
+        "options": [
+          "By expanding the restaurant's own lot",
+          "By offering free delivery service",
+          "By validating parking at a nearby garage",
+          "By providing a shuttle bus for guests"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. 리뷰에서 작은 주차장이 금방 가득 찬다고 지적했는데, 사장 Ms. Sato는 메모에서 12월 1일부터 한 블록 떨어진 Grant Street 주차장의 주차를 인증(validate)해 주겠다고 했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Sato thank the pastry team?",
+        "options": [
+          "Their desserts were praised in the review.",
+          "They created a new seasonal menu.",
+          "They worked extra weekend shifts.",
+          "They won a national baking award."
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 리뷰에서 'the dessert list is simply outstanding'이라며 디저트를 극찬했고, Ms. Sato는 메모에서 평론가가 칭찬한 작업을 한 페이스트리 팀에게 특별히 감사를 표했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about chef Marco Bell?",
+        "options": [
+          "He began working at the bistro in the spring.",
+          "He is the owner of Solstice Bistro.",
+          "He previously worked as a food critic.",
+          "He will leave the restaurant in December."
+        ],
+        "answer": 0,
+        "explanation": "리뷰에서 'chef Marco Bell, who joined the bistro this spring'이라고 언급했으므로 그는 올봄에 합류했음을 알 수 있습니다. 식당의 소유주는 Hana Sato이므로 (B)는 오답이고 정답은 (A)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NORTHWIND OUTFITTERS — SHIPPING AND RETURNS\n\nShipping options:\n- Standard shipping (5–7 business days): $5.99\n- Express shipping (2 business days): $14.99\n- Orders of $75 or more qualify for free standard shipping.\n\nWe currently ship within the United States and to Canada only. International orders to Canada are sent by standard shipping and may take up to 10 business days.\n\nReturns: Items may be returned within 30 days of the purchase date for a full refund, provided they are unworn and accompanied by the original receipt. Sale items are final and may not be returned.\n\n--- Passage 2 ---\n\nTo: service@northwindoutfitters.com\nFrom: Sophie Tremblay <s.tremblay@mapleline.ca>\nDate: November 8\nSubject: Two questions about my orders\n\nHello,\n\nI live in Toronto and have two questions. First, I am planning to order the Cascade fleece jacket, which costs $89. Since I am in Canada, I would like to confirm whether my order qualifies for free shipping, or whether the free-shipping offer applies only to U.S. addresses. Second, I bought a pair of Ridgeline hiking boots at full price from your Web site on October 1, but I have hardly worn them and they no longer fit well. I still have my receipt. Could I send them back for a refund?\n\nThank you,\nSophie Tremblay",
+    "questions": [
+      {
+        "question": "Why did Ms. Tremblay write the email?",
+        "options": [
+          "To cancel a recent order",
+          "To ask about shipping and a possible return",
+          "To report a damaged delivery",
+          "To request a product catalog"
+        ],
+        "answer": 1,
+        "explanation": "Ms. Tremblay는 두 가지를 문의했습니다. 첫째는 캐나다 주소도 무료 배송 대상인지, 둘째는 10월 1일에 산 등산화를 환불받을 수 있는지입니다. 배송과 반품에 관한 문의이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the Web page, how much does express shipping cost?",
+        "options": [
+          "$5.99",
+          "$10.99",
+          "$14.99",
+          "$75.00"
+        ],
+        "answer": 2,
+        "explanation": "웹페이지에서 'Express shipping (2 business days): $14.99'라고 명시되어 있습니다. $5.99는 일반 배송 요금이므로 정답은 (C)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Ms. Tremblay's planned jacket order?",
+        "options": [
+          "It does not meet the free-shipping minimum.",
+          "It qualifies for free standard shipping.",
+          "It cannot be delivered to her country.",
+          "It must be shipped by express service."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 재킷 가격은 $89로 무료 배송 기준인 $75 이상이며, 웹페이지에 따르면 회사는 캐나다로도 배송하고 캐나다행 주문은 일반 배송으로 발송됩니다. 따라서 그녀의 주문은 무료 일반 배송 대상이므로 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why will Ms. Tremblay most likely be unable to return the hiking boots?",
+        "options": [
+          "She no longer has the receipt.",
+          "The boots were purchased on sale.",
+          "More than 30 days have passed since the purchase.",
+          "The boots show signs of heavy wear."
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. 반품 규정상 구매일로부터 30일 이내에만 환불이 가능한데, 부츠 구매일은 10월 1일이고 이메일 날짜는 11월 8일로 이미 30일이 지났습니다. 영수증도 있고 정가에 구입했으므로 (A), (B)는 오답이며 정답은 (C)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the Web page, which items may NOT be returned?",
+        "options": [
+          "Items purchased on sale",
+          "Items shipped to Canada",
+          "Items paid for by credit card",
+          "Items ordered with express shipping"
+        ],
+        "answer": 0,
+        "explanation": "웹페이지의 반품 규정에서 'Sale items are final and may not be returned'라고 명시했습니다. 할인 판매 품목은 반품이 불가능하므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "MAPLE GROVE FALL FESTIVAL — CALL FOR VENDORS\n\nThe annual Maple Grove Fall Festival will take place on Saturday, October 10, and Sunday, October 11, at Riverside Park. We are now accepting vendor applications. Booth fees are $75 for a single day or $120 for both days. Vendors selling food or beverages must include a copy of a valid county health permit with their application. Access to an electrical outlet is available for an additional $20. Completed applications and full payment must be received by September 1. Vendor setup begins at 7:00 A.M. each day, and all booths must be ready by 9:30 A.M. Questions? Write to vendors@maplegrovefest.org.\n\n--- Passage 2 ---\n\nTo: vendors@maplegrovefest.org\nFrom: Karen Doyle <kdoyle@willowcandles.com>\nDate: August 25\nSubject: Vendor application — Willow Handmade Candles\n\nHello,\n\nPlease find attached my completed vendor application for the upcoming festival. I make hand-poured scented candles, and I would like to sell at the festival on both days. I am also planning to give short candle-making demonstrations at my booth, and I will need to plug in a small wax-melting appliance, so please include outlet access with my booth. I have enclosed my payment of $140 to cover everything. This will be my third year at the festival, and I am looking forward to another wonderful weekend.\n\nWarm regards,\nKaren Doyle",
+    "questions": [
+      {
+        "question": "Why did Ms. Doyle send the email?",
+        "options": [
+          "To apply for a vendor booth",
+          "To volunteer at a festival information desk",
+          "To request a refund of a booth fee",
+          "To suggest a new festival location"
+        ],
+        "answer": 0,
+        "explanation": "Ms. Doyle은 작성한 벤더 신청서를 첨부하고 결제 금액을 동봉했다고 밝히며 축제 부스 참가를 신청하고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the announcement, when must applications be received?",
+        "options": [
+          "By August 25",
+          "By September 1",
+          "By October 10",
+          "By October 11"
+        ],
+        "answer": 1,
+        "explanation": "공고에서 'Completed applications and full payment must be received by September 1'이라고 명시했으므로 신청 마감일은 9월 1일입니다. 8월 25일은 Ms. Doyle이 이메일을 보낸 날짜이므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Ms. Doyle's payment of $140 most likely cover?",
+        "options": [
+          "A single-day booth and a health permit",
+          "A two-day booth and electrical outlet access",
+          "Two single-day booths at different locations",
+          "A two-day booth and festival parking"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 공고에 따르면 양일 부스는 $120이고 전기 콘센트 이용은 추가 $20입니다. Ms. Doyle은 양일 판매와 콘센트 이용을 요청했으므로 $120 + $20 = $140이 됩니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why does Ms. Doyle most likely NOT need to submit a health permit?",
+        "options": [
+          "She is a returning vendor.",
+          "She does not sell food or beverages.",
+          "She applied before the deadline.",
+          "She paid an additional fee."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 공고에서 보건 허가증은 음식이나 음료를 판매하는 벤더에게만 요구된다고 했는데, Ms. Doyle은 수제 향초를 판매하므로 해당되지 않습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the announcement, what time may vendors begin setting up?",
+        "options": [
+          "At 7:00 A.M.",
+          "At 8:00 A.M.",
+          "At 9:30 A.M.",
+          "At 10:00 A.M."
+        ],
+        "answer": 0,
+        "explanation": "공고에서 'Vendor setup begins at 7:00 A.M. each day'라고 명시했습니다. 9:30 A.M.은 부스 준비가 완료되어야 하는 시각이므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "TRAILSCOPE MAGAZINE — SUBSCRIPTION OFFER\n\nTrailScope, the country's leading magazine for hiking and outdoor adventure, is offering special subscription rates this spring:\n- One year (12 issues): $36\n- Two years (24 issues): $60\n\nEvery subscription includes unlimited access to our online digital archive of past issues. New subscribers who sign up before March 31 will also receive a free set of regional trail maps. Gift subscriptions are available at the same rates and include a personalized greeting card sent to the recipient. Subscribe at www.trailscope.com/subscribe or call 555-0193.\n\n--- Passage 2 ---\n\nTo: subscriptions@trailscope.com\nFrom: Greg Olsen <golsen@summitmail.com>\nDate: March 20\nSubject: New subscription and gift order\n\nHello,\n\nI have just signed up online for my first TrailScope subscription — I chose the two-year option — and I also ordered a one-year gift subscription for my sister, Marie, who is an avid hiker. I have two questions. First, approximately when should I expect my first issue to arrive? Second, will my sister also receive the free trail maps mentioned in your advertisement, or is that offer limited to the person placing the order? She lives in the mountains and would get far more use out of them than I would.\n\nThank you,\nGreg Olsen",
+    "questions": [
+      {
+        "question": "What is the purpose of the first passage?",
+        "options": [
+          "To promote magazine subscriptions",
+          "To announce a change in editorial staff",
+          "To invite readers to submit articles",
+          "To apologize for a delivery delay"
+        ],
+        "answer": 0,
+        "explanation": "첫 번째 지문은 TrailScope 잡지의 봄 특별 구독 요금과 혜택(디지털 아카이브, 무료 지도 세트, 선물 구독)을 홍보하는 구독 안내문입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much did Mr. Olsen most likely pay for his own subscription?",
+        "options": [
+          "$24",
+          "$36",
+          "$60",
+          "$96"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. Mr. Olsen은 이메일에서 자신을 위해 2년 구독을 선택했다고 했고, 광고에 따르면 2년(24호) 구독료는 $60입니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Mr. Olsen qualify for the free trail maps?",
+        "options": [
+          "He subscribed for two years.",
+          "He is a new subscriber who signed up before March 31.",
+          "He ordered a gift subscription.",
+          "He lives near a national park."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 광고에서 'New subscribers who sign up before March 31 will also receive a free set of regional trail maps'라고 했고, Mr. Olsen은 3월 20일에 첫 구독을 신청한 신규 구독자입니다. 마감일 이전에 가입한 신규 구독자 조건을 충족하므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the advertisement, what will Marie receive with her gift subscription?",
+        "options": [
+          "A personalized greeting card",
+          "A TrailScope backpack",
+          "A discount coupon for hiking gear",
+          "An invitation to a subscribers' event"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. Mr. Olsen은 여동생 Marie를 위해 선물 구독을 주문했는데, 광고에서 선물 구독에는 '수령인에게 발송되는 개인 맞춤 인사 카드'가 포함된다고 했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the advertisement, what is included with every subscription?",
+        "options": [
+          "A monthly newsletter by mail",
+          "Access to a digital archive of past issues",
+          "Free admission to outdoor events",
+          "A yearly wall calendar"
+        ],
+        "answer": 1,
+        "explanation": "광고에서 'Every subscription includes unlimited access to our online digital archive of past issues'라고 명시했습니다. 모든 구독에 포함되는 혜택은 과월호 디지털 아카이브 이용 권한이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "MEMO\nTo: All Hartwell Insurance employees\nFrom: Facilities Department\nDate: June 5\nRe: Headquarters relocation\n\nAs announced in April, our headquarters will move from Dale Street to Compton Tower over the weekend of June 27–28. All employees must pack the contents of their desks by the end of the day on Thursday, June 26. Boxes and labels may be picked up from the Facilities Department on the third floor. Do not pack your computer or monitors; the IT team will disconnect and reconnect all equipment. All staff will work remotely on Monday, June 29, and report to Compton Tower on Tuesday, June 30. The new building offers a fitness room and underground parking. Employees who wish to park on-site must apply for a permit by June 15.\n\n--- Passage 2 ---\n\nTo: facilities@hartwellins.com\nFrom: Rachel Imani <rimani@hartwellins.com>\nDate: June 10\nSubject: Moving questions\n\nHello,\n\nI have a few questions about the move. First, I stopped by the third floor yesterday afternoon to pick up labels, but the office was closed — could you tell me what hours someone will be there this week? Second, I would like to apply for an underground parking permit; please send me the application form. Finally, the memo says not to pack computers, but I also have a desk printer that belongs to my department. Should I pack it myself, or will the IT team handle it along with the computers?\n\nThank you,\nRachel Imani",
+    "questions": [
+      {
+        "question": "What is the main purpose of the memo?",
+        "options": [
+          "To give instructions for an office relocation",
+          "To announce the hiring of new IT staff",
+          "To describe changes to employee benefits",
+          "To explain a new vacation policy"
+        ],
+        "answer": 0,
+        "explanation": "메모는 본사 이전 일정과 직원들이 해야 할 일(짐 싸기, 박스 수령, 컴퓨터 관련 지침, 주차 허가 신청 등)을 안내하고 있습니다. 사무실 이전에 대한 지침 전달이 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the memo, what will employees do on June 29?",
+        "options": [
+          "Report to Compton Tower",
+          "Work remotely",
+          "Pack their desks",
+          "Attend a training session"
+        ],
+        "answer": 1,
+        "explanation": "메모에서 'all staff will work remotely on Monday, June 29, and report to Compton Tower on Tuesday, June 30'이라고 했습니다. 6월 29일에는 재택근무를 하므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Ms. Imani's parking permit request?",
+        "options": [
+          "It was submitted after the deadline.",
+          "It was made before the application deadline.",
+          "It was denied by the Facilities Department.",
+          "It requires approval from her manager."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 메모에서 주차 허가 신청 마감일은 6월 15일이라고 했는데, Ms. Imani는 6월 10일에 신청서를 요청했습니다. 마감일 이전에 신청 의사를 밝혔으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Where did Ms. Imani try to pick up packing labels?",
+        "options": [
+          "On the first floor",
+          "On the second floor",
+          "On the third floor",
+          "At Compton Tower"
+        ],
+        "answer": 2,
+        "explanation": "두 지문 연계 문제입니다. 메모에서 박스와 라벨은 3층 시설관리부에서 수령하라고 안내했고, Ms. Imani는 이메일에서 라벨을 받으러 3층에 들렀지만 사무실이 닫혀 있었다고 했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Imani ask about her department's printer?",
+        "options": [
+          "Whether she should pack it herself",
+          "Whether it will be replaced with a new model",
+          "Whether it can be donated to charity",
+          "Whether it needs a protective cover"
+        ],
+        "answer": 0,
+        "explanation": "이메일 마지막 부분에서 Ms. Imani는 부서 소유의 책상용 프린터를 직접 포장해야 하는지, 아니면 IT팀이 컴퓨터와 함께 처리하는지 물었습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "SUMMIT AV RENTALS — DAILY RATES\n\nProjector (4K, with screen): $40 per day\nPA system (two speakers, mixer, two microphones): $60 per day\nLED video wall (3m x 2m): $150 per day\n\nWeekend special: Rent any equipment from Friday through Sunday and pay for only two days. Delivery and pickup within the city limits is available for a flat fee of $25. A deposit of 20% of the total rental charge is required to confirm any reservation; the deposit is fully refundable up to 48 hours before the rental period begins. Reserve at 555-0168 or rentals@summitav.com.\n\n--- Passage 2 ---\n\nTo: rentals@summitav.com\nFrom: Marcus Webb <mwebb@stagelightplayers.org>\nDate: April 2\nSubject: Reservation for fundraiser\n\nHello,\n\nOur community theater group is holding its annual fundraising gala at the Downtown Assembly Hall, and I would like to reserve a PA system and a projector from Friday, April 24, through Sunday, April 26. We will need the equipment delivered to the hall on Friday morning and picked up on Monday — the hall is on Main Street, well within the city limits. Could you confirm the total cost and let me know the exact deposit amount I need to pay to hold the reservation? Also, do you provide cables long enough to reach a stage about 15 meters from the mixer?\n\nThank you,\nMarcus Webb",
+    "questions": [
+      {
+        "question": "Why did Mr. Webb send the email?",
+        "options": [
+          "To reserve equipment for an event",
+          "To cancel an existing reservation",
+          "To report a problem with a rented item",
+          "To ask for a job at a rental company"
+        ],
+        "answer": 0,
+        "explanation": "Mr. Webb은 극단의 기금 마련 행사를 위해 PA 시스템과 프로젝터를 금요일부터 일요일까지 대여하고 싶다며 예약을 요청하고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the price list, how much does the LED video wall cost per day?",
+        "options": [
+          "$40",
+          "$60",
+          "$100",
+          "$150"
+        ],
+        "answer": 3,
+        "explanation": "가격표에서 'LED video wall (3m x 2m): $150 per day'라고 명시되어 있으므로 LED 비디오 월의 일일 대여료는 $150입니다. 정답은 (D)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many days will Mr. Webb most likely be charged for the equipment rental?",
+        "options": [
+          "One day",
+          "Two days",
+          "Three days",
+          "Four days"
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Mr. Webb의 대여 기간은 금요일부터 일요일까지 3일이지만, 가격표의 주말 특가에 따르면 금~일 대여 시 2일 요금만 청구됩니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What additional fee will Mr. Webb most likely pay?",
+        "options": [
+          "A $25 delivery and pickup fee",
+          "A $40 weekend surcharge",
+          "A $60 insurance fee",
+          "A $150 setup fee"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. Mr. Webb은 시내에 있는 Downtown Assembly Hall로 배달과 수거를 요청했는데, 가격표에 따르면 시내 배달·수거는 정액 $25입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the price list, when can a deposit be refunded?",
+        "options": [
+          "Up to 24 hours before the rental period",
+          "Up to 48 hours before the rental period",
+          "Up to one week before the rental period",
+          "At any time before delivery"
+        ],
+        "answer": 1,
+        "explanation": "가격표에서 'the deposit is fully refundable up to 48 hours before the rental period begins'라고 명시했습니다. 대여 시작 48시간 전까지 보증금 전액 환불이 가능하므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "CRESTWOOD CAMERA CLUB — ANNUAL PHOTOGRAPHY CONTEST\n\nThis year's theme: \"City at Night\"\n\nRules:\n- The contest is open to amateur photographers only. Anyone who earns income from photography is not eligible.\n- Each entrant may submit up to three photographs.\n- Entries must be digital JPEG files submitted through our Web site.\n- Photographs taken with any device, including mobile phones, are welcome.\n- Submission deadline: December 1. Winners will be announced on December 20.\n\nFirst prize: a professional mirrorless camera, plus a one-month exhibition of the winning photograph at the Crestwood Gallery.\n\n--- Passage 2 ---\n\nTo: contest@crestwoodcameraclub.org\nFrom: Felix Maro <fmaro@nightowlmail.com>\nDate: November 28\nSubject: Eligibility question\n\nHello,\n\nI submitted two photographs through your Web site yesterday, and I am hoping to add one more before the deadline. However, after rereading the rules, I have a concern about my eligibility. Photography is strictly a hobby for me — I work full-time as an accountant — but a few times a year I sell a handful of my prints at a local craft fair. The amounts are small, usually less than a hundred dollars in total. Does this make me ineligible for the contest? If so, please withdraw my two entries. I would appreciate a quick reply, since the deadline is only a few days away.\n\nRegards,\nFelix Maro",
+    "questions": [
+      {
+        "question": "Why did Mr. Maro write the email?",
+        "options": [
+          "To ask whether he is eligible to enter a contest",
+          "To request an extension of a deadline",
+          "To volunteer as a contest judge",
+          "To complain about the contest theme"
+        ],
+        "answer": 0,
+        "explanation": "Mr. Maro는 가끔 공예 시장에서 사진 인화본을 판매하는 것이 참가 자격에 문제가 되는지 문의하고 있습니다('Does this make me ineligible for the contest?'). 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the rules, when is the submission deadline?",
+        "options": [
+          "November 27",
+          "November 28",
+          "December 1",
+          "December 20"
+        ],
+        "answer": 2,
+        "explanation": "규정에서 'Submission deadline: December 1'이라고 명시했습니다. 12월 20일은 수상자 발표일이므로 혼동하지 않아야 하며, 정답은 (C)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why might Mr. Maro be ineligible for the contest?",
+        "options": [
+          "He submitted his entries after the deadline.",
+          "He earns some money from his photography.",
+          "He used a mobile phone to take his photographs.",
+          "He is a member of the contest committee."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 규정에서 '사진으로 수입을 얻는 사람은 참가할 수 없다'고 했는데, Mr. Maro는 1년에 몇 번 공예 시장에서 인화본을 판매해 소액의 수입을 얻는다고 밝혔습니다. 이 점이 자격 규정에 저촉될 수 있으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "If Mr. Maro is eligible, how many more photographs may he submit?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 규정상 1인당 최대 3장까지 제출할 수 있는데, Mr. Maro는 이미 2장을 제출했다고 했습니다. 따라서 추가로 제출할 수 있는 사진은 1장뿐이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in the first prize?",
+        "options": [
+          "A cash award and a magazine feature",
+          "A camera and a gallery exhibition",
+          "A photography course and new lenses",
+          "A trip to a photography festival"
+        ],
+        "answer": 1,
+        "explanation": "규정에서 1등 상품은 'a professional mirrorless camera, plus a one-month exhibition of the winning photograph at the Crestwood Gallery'라고 명시했습니다. 카메라와 갤러리 전시가 포함되므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "GREENLEAF GROCERY — WEEKLY COUPON\n\nTake 15% off all organic produce!\nUse code FRESH15 at checkout.\n\nTerms and conditions:\n- Valid Monday through Thursday only.\n- Minimum purchase of $30 of organic produce required.\n- Limit one use per customer.\n- Cannot be combined with other offers or applied to items that are already discounted.\n- Valid at all GreenLeaf locations and on online orders.\n\n--- Passage 2 ---\n\nTo: customercare@greenleafgrocery.com\nFrom: Dana Holt <dholt@freshmail.com>\nDate: April 12\nSubject: Coupon code did not work\n\nTo Whom It May Concern,\n\nI shopped at your Elm Street location this past Saturday and bought $42 worth of organic fruits and vegetables, none of which were on sale. When I entered the code FRESH15 at the self-checkout, the 15% discount was not applied, and the machine displayed an error message. The clerk on duty was not sure why it failed. Could you explain why the code did not work and whether anything can be done about my purchase? Also, I would like to know whether I will still be able to use the code next Tuesday, when I plan to shop again.\n\nSincerely,\nDana Holt",
+    "questions": [
+      {
+        "question": "Why did Ms. Holt write the email?",
+        "options": [
+          "To ask why a discount code was not applied",
+          "To report a rude employee",
+          "To request a copy of a weekly flyer",
+          "To cancel an online grocery order"
+        ],
+        "answer": 0,
+        "explanation": "Ms. Holt는 셀프 계산대에서 쿠폰 코드 FRESH15를 입력했지만 15% 할인이 적용되지 않은 이유를 설명해 달라고 요청하고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the coupon, what discount does the code FRESH15 provide?",
+        "options": [
+          "10% off all purchases",
+          "15% off organic produce",
+          "15% off the entire store",
+          "30% off selected items"
+        ],
+        "answer": 1,
+        "explanation": "쿠폰에서 'Take 15% off all organic produce!'라고 명시했으므로 이 코드는 유기농 농산물에 한해 15% 할인을 제공합니다. 매장 전체 할인이 아니므로 (C)는 오답이고 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why most likely did the code fail to work for Ms. Holt?",
+        "options": [
+          "Her purchase did not reach the minimum amount.",
+          "She shopped on a day the coupon was not valid.",
+          "She had already used the code once.",
+          "Her items were already discounted."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. 쿠폰은 월요일부터 목요일까지만 유효한데, Ms. Holt는 토요일에 쇼핑했다고 밝혔습니다. 구매액 $42는 최소 기준 $30을 넘었고 할인 중인 상품도 아니었으므로 (A), (D)는 오답이며, 정답은 (B)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is true about Ms. Holt's purchase on Saturday?",
+        "options": [
+          "It met the coupon's minimum purchase requirement.",
+          "It included several sale items.",
+          "It was made through the store's Web site.",
+          "It totaled less than $30."
+        ],
+        "answer": 0,
+        "explanation": "두 지문 연계 문제입니다. 쿠폰의 최소 구매 조건은 유기농 농산물 $30 이상인데, Ms. Holt는 할인 중이 아닌 유기농 과일과 채소를 $42어치 구매했습니다. 최소 구매 조건을 충족했으므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Ms. Holt's planned shopping trip next Tuesday?",
+        "options": [
+          "The coupon will not be valid on that day.",
+          "Tuesday is within the coupon's valid days.",
+          "She must shop online to use the code.",
+          "She will need a new coupon code."
+        ],
+        "answer": 1,
+        "explanation": "두 지문 연계 문제입니다. Ms. Holt는 다음 주 화요일에 코드를 쓸 수 있는지 물었는데, 쿠폰은 월요일부터 목요일까지 유효하므로 화요일은 사용 가능한 요일에 해당합니다. 토요일 사용 실패로 아직 코드를 사용한 적이 없으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]
