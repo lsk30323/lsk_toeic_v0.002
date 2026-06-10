@@ -1,0 +1,1298 @@
+[
+  {
+    "passageType": "advertisement",
+    "passage": "Pamper Your Pup at Whisker & Wag Grooming Salon! Located in the Brookfield Shopping Plaza, Whisker & Wag offers full-service grooming for dogs and cats of all breeds. Our certified groomers provide breed-standard haircuts, de-shedding treatments, nail trimming, and aromatherapy baths. Through June 30, first-time customers receive 20 percent off any full grooming package. Please note that the discount applies to full packages only; individual services such as nail trimming are excluded. Appointments are required for all grooming services, and a valid proof of rabies vaccination must be presented at check-in. Pets over 40 kilograms are subject to a $15 handling surcharge. We are open Tuesday through Saturday, 9:00 A.M. to 6:00 P.M., and walk-in nail trims are accepted on Saturdays between 9:00 and 11:00 A.M. only. Book online at www.whiskerandwag.com or call 555-0182. Mention promotional code FRESHCUT when booking to claim your new-customer discount.",
+    "questions": [
+      {
+        "question": "What is the purpose of the advertisement?",
+        "options": [
+          "To announce the relocation of a salon",
+          "To promote a pet grooming business",
+          "To recruit certified groomers",
+          "To advertise a veterinary clinic's vaccination program"
+        ],
+        "answer": 1,
+        "explanation": "광고 전반에서 Whisker & Wag Grooming Salon의 반려동물 미용 서비스(breed-standard haircuts, de-shedding treatments, nail trimming 등)를 소개하고 신규 고객 할인을 홍보하고 있습니다. 따라서 정답은 (B) '반려동물 미용 업체를 홍보하기 위해'입니다. 이전(relocation)이나 구인(recruit), 동물병원 예방접종 프로그램에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the 20 percent discount?",
+        "options": [
+          "It is available to all returning customers.",
+          "It can be used for individual nail trimming services.",
+          "It expires at the end of June.",
+          "It requires a minimum purchase of two packages."
+        ],
+        "answer": 2,
+        "explanation": "지문에서 'Through June 30, first-time customers receive 20 percent off'라고 했으므로 할인은 6월 30일까지, 즉 6월 말에 종료됩니다. 정답은 (C)입니다. 할인은 신규 고객(first-time customers) 대상이므로 (A)는 오답이고, 'individual services such as nail trimming are excluded'라고 했으므로 (B)도 오답이며, 최소 구매 조건은 언급되지 않았으므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a requirement or condition at Whisker & Wag?",
+        "options": [
+          "Showing proof of a vaccination",
+          "Paying an extra fee for very large pets",
+          "Making an appointment for grooming services",
+          "Leaving a deposit when booking online"
+        ],
+        "answer": 3,
+        "explanation": "지문에는 광견병 예방접종 증명서 제시('a valid proof of rabies vaccination must be presented'), 40kg 초과 반려동물에 대한 $15 추가 요금('a $15 handling surcharge'), 미용 서비스 예약 필수('Appointments are required')가 모두 언급되어 있습니다. 그러나 온라인 예약 시 보증금(deposit)에 대한 내용은 없으므로 정답은 (D)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the advertisement, what can customers do on Saturday mornings?",
+        "options": [
+          "Receive a nail trim without an appointment",
+          "Tour the grooming facility for free",
+          "Attend a pet care workshop",
+          "Get a complimentary aromatherapy bath"
+        ],
+        "answer": 0,
+        "explanation": "'walk-in nail trims are accepted on Saturdays between 9:00 and 11:00 A.M. only'라는 문장에서 토요일 오전 9시부터 11시 사이에는 예약 없이(walk-in) 발톱 손질을 받을 수 있다고 했습니다. 따라서 정답은 (A)입니다. 시설 견학, 워크숍, 무료 아로마테라피 목욕은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.cozypawsretreat.com/boarding --- Cozy Paws Retreat: Overnight Boarding. Give your dog a vacation while you take yours! Cozy Paws Retreat offers climate-controlled private suites, three daily exercise sessions, and twice-daily photo updates sent to your phone. Standard boarding is $48 per night, and our Deluxe Suite, which includes a webcam and an orthopedic bed, is $69 per night. Stays of seven nights or longer qualify for a 10 percent discount on the total boarding fee. Holiday periods (December 20 through January 3 and the last week of July) carry a $12-per-night peak-season surcharge, and reservations for those dates must be made at least 30 days in advance. All guests must be at least four months old, spayed or neutered if over one year of age, and current on vaccinations. Dogs that have not stayed with us before must pass a complimentary temperament evaluation, available Monday through Friday by appointment. Cancellations made fewer than 48 hours before check-in are charged one night's fee.",
+    "questions": [
+      {
+        "question": "What is included with a Deluxe Suite but not with standard boarding?",
+        "options": [
+          "Daily exercise sessions",
+          "Photo updates",
+          "A webcam and an orthopedic bed",
+          "Climate-controlled accommodations"
+        ],
+        "answer": 2,
+        "explanation": "Deluxe Suite에 대해 'which includes a webcam and an orthopedic bed'라고 설명하고 있으므로, 웹캠과 정형외과용(관절 보호) 침대가 디럭스 스위트에만 포함된 항목입니다. 정답은 (C)입니다. 운동 세션, 사진 전송, 냉난방 시설은 모든 투숙견에게 제공되는 기본 서비스로 소개되어 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can a customer qualify for a 10 percent discount?",
+        "options": [
+          "By booking a stay of at least seven nights",
+          "By reserving 30 days in advance",
+          "By choosing a Deluxe Suite",
+          "By referring a new customer"
+        ],
+        "answer": 0,
+        "explanation": "'Stays of seven nights or longer qualify for a 10 percent discount on the total boarding fee'라고 명시되어 있으므로, 7박 이상 예약하면 총 요금의 10% 할인을 받을 수 있습니다. 정답은 (A)입니다. 30일 전 예약은 성수기 기간 예약의 필수 조건일 뿐 할인 조건이 아니며, 디럭스 스위트 선택이나 고객 추천에 따른 할인은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about dogs staying at Cozy Paws Retreat for the first time?",
+        "options": [
+          "They must pay an additional evaluation fee.",
+          "They must be assessed before their stay.",
+          "They can only stay in standard suites.",
+          "They are not accepted during holiday periods."
+        ],
+        "answer": 1,
+        "explanation": "'Dogs that have not stayed with us before must pass a complimentary temperament evaluation'이라고 했으므로, 처음 이용하는 개는 숙박 전에 기질 평가(temperament evaluation)를 통과해야 합니다. 정답은 (B)입니다. 평가는 complimentary(무료)이므로 (A)는 오답이고, 스위트 제한이나 성수기 이용 불가에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the webpage, when will a customer be charged a cancellation fee?",
+        "options": [
+          "When canceling a holiday reservation at any time",
+          "When canceling less than 48 hours before check-in",
+          "When canceling a stay of seven nights or longer",
+          "When canceling a temperament evaluation appointment"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장 'Cancellations made fewer than 48 hours before check-in are charged one night's fee'에서 체크인 48시간 미만 전에 취소하면 1박 요금이 부과된다고 했습니다. 따라서 정답은 (B)입니다. 성수기 예약, 장기 숙박, 기질 평가 예약 취소에 대한 별도 수수료 규정은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Brightline Tutoring Center — Helping Students Shine Since 2009. Is your child preparing for final exams or university entrance tests? Brightline's experienced instructors offer one-on-one and small-group tutoring in mathematics, science, English writing, and test preparation. All of our tutors hold university degrees in their subject areas and complete a 40-hour instructional training program before meeting their first student. This month only, enroll in any twelve-session package and receive two additional sessions at no charge. The offer ends May 31 and cannot be combined with our sibling discount. Sessions are available at our Maplewood Avenue location on weekdays from 3:00 to 9:00 P.M. and on Saturdays from 10:00 A.M. to 4:00 P.M. Online tutoring is also available for students in grades 9 through 12; however, our free diagnostic assessment, which identifies each student's strengths and weaknesses, is offered in person only. To schedule an assessment, call 555-0147 or visit www.brightlinetutoring.com.",
+    "questions": [
+      {
+        "question": "What is true about all Brightline tutors?",
+        "options": [
+          "They have taught at the center since 2009.",
+          "They completed a training program before tutoring.",
+          "They specialize in university entrance interviews.",
+          "They are available seven days a week."
+        ],
+        "answer": 1,
+        "explanation": "'All of our tutors ... complete a 40-hour instructional training program before meeting their first student'라고 했으므로, 모든 강사가 첫 수업 전에 40시간 교육 프로그램을 이수한다는 (B)가 정답입니다. 2009년은 센터 설립 연도일 뿐 모든 강사의 근속 기간이 아니며, 면접 전문이라는 언급도 없고, 수업은 평일과 토요일에만 제공되므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the special offer?",
+        "options": [
+          "It is valid only until the end of May.",
+          "It applies to any package of six sessions.",
+          "It can be combined with other discounts.",
+          "It is available exclusively to new students."
+        ],
+        "answer": 0,
+        "explanation": "'The offer ends May 31'이라고 명시되어 있으므로 특별 혜택은 5월 31일, 즉 5월 말까지만 유효합니다. 정답은 (A)입니다. 혜택은 12회 패키지(twelve-session package) 등록 시 적용되므로 (B)는 오답이고, 'cannot be combined with our sibling discount'라고 했으므로 (C)도 오답이며, 신규 학생 전용이라는 조건은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a subject offered at Brightline?",
+        "options": [
+          "Mathematics",
+          "English writing",
+          "Foreign languages",
+          "Science"
+        ],
+        "answer": 2,
+        "explanation": "지문에서 제공 과목으로 'mathematics, science, English writing, and test preparation'을 나열했습니다. 수학, 과학, 영작문은 모두 언급되었지만 외국어(foreign languages)는 언급되지 않았으므로 정답은 (C)입니다. NOT 문제는 지문에 언급된 항목을 하나씩 대조하여 소거하는 방식으로 풀어야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the diagnostic assessment?",
+        "options": [
+          "It costs a small fee for online students.",
+          "It cannot be completed remotely.",
+          "It takes 40 hours to complete.",
+          "It is required before enrolling in any package."
+        ],
+        "answer": 1,
+        "explanation": "'our free diagnostic assessment ... is offered in person only'라고 했으므로 진단 평가는 대면으로만 제공되며 원격(온라인)으로는 받을 수 없습니다. 정답은 (B)입니다. 평가는 무료(free)이므로 (A)는 오답이고, 40시간은 강사 교육 프로그램의 길이이며, 패키지 등록 전 필수라는 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.brightlinetutoring.com/careers --- Part-Time Mathematics Tutor (Maplewood Avenue Center). Brightline Tutoring Center is seeking two part-time mathematics tutors to join our growing team beginning in September. Responsibilities include leading one-on-one and small-group sessions for students in grades 7 through 12, preparing customized lesson materials, and writing brief monthly progress reports for parents. Applicants must hold a bachelor's degree in mathematics, education, or a related field and have at least one year of teaching or tutoring experience. Experience with standardized test preparation is preferred but not required. Tutors work 12 to 18 hours per week, primarily on weekday evenings and Saturdays, and are paid $28 to $34 per hour depending on experience. Note that all successful candidates must pass a background check and complete our paid in-house training before their first session. To apply, e-mail a résumé, a cover letter, and the contact information for two references to careers@brightlinetutoring.com by July 15. Interviews will be conducted during the first week of August. Phone inquiries about this position will not be accepted.",
+    "questions": [
+      {
+        "question": "What is one responsibility of the advertised position?",
+        "options": [
+          "Designing the center's annual budget",
+          "Writing monthly reports for parents",
+          "Supervising other tutors",
+          "Scheduling diagnostic assessments"
+        ],
+        "answer": 1,
+        "explanation": "직무 내용에 'writing brief monthly progress reports for parents'가 포함되어 있으므로, 학부모를 위한 월간 보고서 작성이 담당 업무 중 하나입니다. 정답은 (B)입니다. 예산 수립, 다른 강사 감독, 진단 평가 일정 관리는 직무 설명에 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What qualification is required for the position?",
+        "options": [
+          "A master's degree in mathematics",
+          "Three years of classroom teaching experience",
+          "At least one year of teaching or tutoring experience",
+          "Certification in standardized test preparation"
+        ],
+        "answer": 2,
+        "explanation": "'Applicants must ... have at least one year of teaching or tutoring experience'라고 명시했으므로 최소 1년의 교습 경력이 필수 요건입니다. 정답은 (C)입니다. 학위는 학사(bachelor's degree)면 되므로 (A)는 오답이고, 시험 대비 경력은 'preferred but not required'(우대 사항)이므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must successful candidates do before teaching their first session?",
+        "options": [
+          "Complete unpaid weekend training",
+          "Pass a background check and finish training",
+          "Submit a sample lesson video",
+          "Obtain a teaching license"
+        ],
+        "answer": 1,
+        "explanation": "'all successful candidates must pass a background check and complete our paid in-house training before their first session'이라고 했으므로 첫 수업 전에 신원 조회 통과와 사내 교육 이수가 필요합니다. 정답은 (B)입니다. 교육은 유급(paid)이므로 (A)는 오답이며, 샘플 영상 제출이나 교사 자격증 취득은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How should interested applicants apply?",
+        "options": [
+          "By calling the center's main office",
+          "By visiting the Maplewood Avenue location",
+          "By sending materials by e-mail",
+          "By completing an online application form"
+        ],
+        "answer": 2,
+        "explanation": "'To apply, e-mail a résumé, a cover letter, and the contact information for two references to careers@brightlinetutoring.com'이라고 안내했으므로 이메일로 지원 서류를 보내야 합니다. 정답은 (C)입니다. 'Phone inquiries about this position will not be accepted'라고 했으므로 (A)는 명백한 오답이고, 방문 지원이나 온라인 지원서 작성은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Spring Tune-Up Sale at Granger Cycle Works! From April 1 to April 21, Granger Cycle Works is offering its biggest savings of the year. All road and mountain bicycles from last season are marked down by up to 35 percent, and every helmet, light set, and lock in the store is 15 percent off. Purchase any bicycle priced over $500 during the sale and receive a free basic tune-up within the first year of ownership. Our certified mechanics can also upgrade your current ride: this month, labor charges for gear and brake adjustments are reduced to a flat $25. Please note that sale prices apply to in-stock items only and cannot be applied to special orders or previous purchases. Trade-ins are welcome — bring your old bicycle for an on-the-spot appraisal and put its value toward any new model. Granger Cycle Works, 312 Harbor Road, open daily 10:00 A.M. to 7:00 P.M. Find our full inventory at www.grangercycle.com.",
+    "questions": [
+      {
+        "question": "What is being advertised?",
+        "options": [
+          "A grand opening celebration",
+          "A seasonal sale at a bicycle shop",
+          "A cycling competition",
+          "A new line of electric bicycles"
+        ],
+        "answer": 1,
+        "explanation": "광고 첫머리의 'Spring Tune-Up Sale'과 'From April 1 to April 21 ... biggest savings of the year'라는 표현에서 자전거 매장의 봄 할인 행사를 홍보하고 있음을 알 수 있습니다. 정답은 (B)입니다. 개업 기념행사, 자전거 대회, 전기 자전거 신제품 출시에 대한 내용은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can a customer receive a free tune-up?",
+        "options": [
+          "By spending more than $500 on a bicycle",
+          "By trading in an old bicycle",
+          "By purchasing a helmet and a lock together",
+          "By signing up for the store's newsletter"
+        ],
+        "answer": 0,
+        "explanation": "'Purchase any bicycle priced over $500 during the sale and receive a free basic tune-up within the first year of ownership'라고 했으므로, 행사 기간에 $500가 넘는 자전거를 구매하면 무료 점검 서비스를 받을 수 있습니다. 정답은 (A)입니다. 보상 판매(trade-in)는 신차 구매 시 가격 차감 혜택일 뿐 무료 점검과는 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the sale prices?",
+        "options": [
+          "They apply to special orders.",
+          "They can be used on items bought in March.",
+          "They are limited to merchandise currently in stock.",
+          "They require a store membership."
+        ],
+        "answer": 2,
+        "explanation": "'sale prices apply to in-stock items only and cannot be applied to special orders or previous purchases'라는 조건에서 할인가는 재고 보유 상품에만 적용된다는 것을 알 수 있습니다. 정답은 (C)입니다. 특별 주문과 이전 구매(3월 구매 포함)에는 적용되지 않으므로 (A), (B)는 오답이고 멤버십 요건은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"flat\" in the advertisement is closest in meaning to",
+        "options": [
+          "level",
+          "fixed",
+          "deflated",
+          "smooth"
+        ],
+        "answer": 1,
+        "explanation": "'labor charges ... are reduced to a flat $25'에서 flat은 '고정된, 일률적인' 요금을 의미합니다. 즉 작업 내용에 관계없이 일률적으로 $25만 받는다는 뜻이므로 'fixed(고정된)'가 가장 가까운 의미입니다. 정답은 (B)입니다. level(평평한), deflated(공기가 빠진), smooth(매끄러운)는 요금을 수식하는 문맥에 맞지 않습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.grangercycle.com/service --- Repair and Maintenance Services. Keep your bicycle running smoothly with Granger Cycle Works' professional service department. We offer three service levels. The Basic Tune-Up ($45) includes gear and brake adjustments, tire inflation, and a safety inspection. The Standard Overhaul ($95) adds wheel truing, chain replacement, and a full drivetrain cleaning. The Premium Rebuild ($180) covers complete disassembly, bearing replacement, and cable rewiring. Most Basic Tune-Ups are completed within 24 hours; Standard and Premium services typically require three to five business days. During March and April, our busiest months, please allow up to seven business days for all service levels. Customers who purchased their bicycle from Granger receive 10 percent off any service level at any time. Walk-in repairs of flat tires are handled while you wait, no appointment needed. Please note that we service bicycles only; we are unable to work on scooters, mopeds, or electric skateboards. Parts are covered by a six-month warranty, while labor is guaranteed for 30 days.",
+    "questions": [
+      {
+        "question": "What is included in the Standard Overhaul but not the Basic Tune-Up?",
+        "options": [
+          "A safety inspection",
+          "Tire inflation",
+          "Chain replacement",
+          "Brake adjustments"
+        ],
+        "answer": 2,
+        "explanation": "Standard Overhaul은 Basic Tune-Up의 내용에 'wheel truing, chain replacement, and a full drivetrain cleaning'을 추가(adds)한다고 했으므로, 체인 교체는 Standard에만 포함됩니다. 정답은 (C)입니다. 안전 점검, 타이어 공기 주입, 브레이크 조정은 모두 Basic Tune-Up($45)에 포함된 항목입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the webpage, why might a repair take longer in April?",
+        "options": [
+          "The shop is closed for renovations.",
+          "It is one of the shop's busiest periods.",
+          "Replacement parts are difficult to obtain.",
+          "The shop operates with reduced staff."
+        ],
+        "answer": 1,
+        "explanation": "'During March and April, our busiest months, please allow up to seven business days for all service levels'라고 했으므로 3~4월은 가장 바쁜 시기여서 수리 기간이 길어질 수 있습니다. 정답은 (B)입니다. 매장 보수공사, 부품 수급 문제, 인력 부족은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT a service that Granger Cycle Works provides?",
+        "options": [
+          "Repairing electric skateboards",
+          "Fixing flat tires for walk-in customers",
+          "Replacing bearings",
+          "Cleaning drivetrains"
+        ],
+        "answer": 0,
+        "explanation": "'we are unable to work on scooters, mopeds, or electric skateboards'라고 명시했으므로 전동 스케이트보드 수리는 제공하지 않는 서비스입니다. 정답은 (A)입니다. 펑크 수리는 예약 없이 대기 중 처리되고(walk-in repairs of flat tires), 베어링 교체는 Premium Rebuild에, 구동계 세척은 Standard Overhaul에 포함되어 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the shop's warranty policy?",
+        "options": [
+          "Labor is guaranteed for six months.",
+          "Parts and labor have different coverage periods.",
+          "Warranties apply only to Premium Rebuilds.",
+          "Customers must register online to activate coverage."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장 'Parts are covered by a six-month warranty, while labor is guaranteed for 30 days'에서 부품은 6개월, 공임은 30일로 보증 기간이 서로 다르다는 것을 알 수 있습니다. 정답은 (B)입니다. 공임 보증은 30일이므로 (A)는 오답이고, 보증이 특정 서비스에만 적용된다거나 온라인 등록이 필요하다는 내용은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Crisp & Clean Dry Cleaners — Now Two Locations to Serve You! Visit us at 88 Telford Street downtown or at our brand-new branch inside the Eastgate Mall. Bring in this advertisement to receive $10 off any order of $40 or more. The coupon is valid through August 15 at both locations and is limited to one per customer per visit. Please note that the discount does not apply to leather garments, wedding gowns, or household items such as curtains and comforters, which are priced separately. We offer same-day service at no extra charge for garments dropped off before 9:00 A.M. on weekdays; items received after that time will be ready the following business day. Our free mobile app lets you schedule pickup and delivery within five kilometers of either location for orders of $25 or more. All cleaning is performed on-site using environmentally friendly, perchloroethylene-free solvents that are gentle on fabrics and safe for sensitive skin.",
+    "questions": [
+      {
+        "question": "What is suggested about Crisp & Clean Dry Cleaners?",
+        "options": [
+          "It recently opened a second location.",
+          "It has been in business for over a decade.",
+          "It is closed on weekends.",
+          "It sends garments to an off-site facility."
+        ],
+        "answer": 0,
+        "explanation": "'Now Two Locations to Serve You!'와 'our brand-new branch inside the Eastgate Mall'에서 최근에 두 번째 지점(이스트게이트 몰 내 신규 지점)을 열었음을 알 수 있습니다. 정답은 (A)입니다. 영업 연수나 주말 휴무에 대한 언급은 없고, 'All cleaning is performed on-site'라고 했으므로 (D)는 지문과 반대되는 내용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a requirement for using the $10 coupon?",
+        "options": [
+          "Ordering through the mobile app",
+          "Spending at least $40",
+          "Visiting the downtown location",
+          "Becoming a store member"
+        ],
+        "answer": 1,
+        "explanation": "'receive $10 off any order of $40 or more'라고 했으므로 쿠폰 사용을 위해서는 최소 $40 이상 주문해야 합니다. 정답은 (B)입니다. 쿠폰은 두 지점 모두에서('at both locations') 사용 가능하므로 (C)는 오답이고, 앱 주문이나 멤버십 가입 조건은 쿠폰과 관련이 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What items are NOT eligible for the discount?",
+        "options": [
+          "Business suits",
+          "Winter coats",
+          "Wedding gowns",
+          "Dress shirts"
+        ],
+        "answer": 2,
+        "explanation": "'the discount does not apply to leather garments, wedding gowns, or household items such as curtains and comforters'라고 명시되어 있으므로 웨딩드레스는 할인 제외 품목입니다. 정답은 (C)입니다. 정장, 겨울 코트, 와이셔츠는 제외 품목으로 언급되지 않았으므로 할인 대상에 포함됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can a customer receive same-day service at no additional cost?",
+        "options": [
+          "By paying a rush-processing fee",
+          "By dropping off garments before 9:00 A.M. on a weekday",
+          "By placing an order of $25 or more in the app",
+          "By bringing in the printed advertisement"
+        ],
+        "answer": 1,
+        "explanation": "'We offer same-day service at no extra charge for garments dropped off before 9:00 A.M. on weekdays'라고 했으므로 평일 오전 9시 이전에 옷을 맡기면 추가 비용 없이 당일 서비스를 받을 수 있습니다. 정답은 (B)입니다. (A)는 'no extra charge'와 모순되고, $25 이상 앱 주문은 수거·배달 서비스의 조건이며, 광고 지참은 $10 할인 쿠폰의 조건입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "Crisp & Clean Dry Cleaners — Garment Claim Form. Please complete this form for any item you believe was damaged or lost during cleaning. Customer name: Henrietta Okafor. Phone: 555-0173. Order number: TC-58213. Drop-off date: May 4. Item description: Navy wool blazer with silver buttons. Issue (check one): [X] Damage [ ] Loss [ ] Incorrect alteration. Details: One silver button is missing, and there is slight discoloration on the left cuff. Estimated purchase price of item: $220. Receipt attached: Yes. --- FOR OFFICE USE ONLY --- Claim received by: D. Mercado, May 9. Note: Per company policy, claims must be filed within ten days of garment pickup, and reimbursement may not exceed ten times the cleaning fee charged for the item or the documented value of the garment, whichever is lower. Claims are reviewed by the branch manager within five business days, and customers are notified of the decision by phone. Approved reimbursements are issued as a check or as store credit with an additional 15 percent bonus value.",
+    "questions": [
+      {
+        "question": "Why did Ms. Okafor complete the form?",
+        "options": [
+          "To request an alteration to a blazer",
+          "To report a damaged garment",
+          "To dispute a cleaning charge",
+          "To report a lost item"
+        ],
+        "answer": 1,
+        "explanation": "양식에서 Issue 항목에 [X] Damage가 표시되어 있고, Details에 단추 분실과 소매 변색('One silver button is missing, and there is slight discoloration')이 기재되어 있으므로, 손상된 의류를 신고하기 위해 작성한 것입니다. 정답은 (B)입니다. Loss(분실)나 Incorrect alteration(잘못된 수선) 항목에는 체크되어 있지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the company's claim policy?",
+        "options": [
+          "Claims must be submitted within ten days of pickup.",
+          "All claims are reviewed by the company president.",
+          "Reimbursement always equals the garment's purchase price.",
+          "Customers are notified of decisions by e-mail."
+        ],
+        "answer": 0,
+        "explanation": "'claims must be filed within ten days of garment pickup'이라고 명시되어 있으므로 정답은 (A)입니다. 심사는 지점 관리자(branch manager)가 하므로 (B)는 오답이고, 배상액은 세탁비의 10배 또는 의류의 증빙 가치 중 낮은 금액을 초과할 수 없으므로 (C)도 오답이며, 결과 통보는 전화(by phone)로 하므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen within five business days of May 9?",
+        "options": [
+          "Ms. Okafor will receive a replacement blazer.",
+          "The claim will be reviewed by a manager.",
+          "A check will be mailed automatically.",
+          "The garment will be re-cleaned for free."
+        ],
+        "answer": 1,
+        "explanation": "양식 하단에 'Claims are reviewed by the branch manager within five business days'라고 안내되어 있고, 접수일이 5월 9일이므로 그로부터 영업일 기준 5일 이내에 지점 관리자의 심사가 이루어집니다. 정답은 (B)입니다. 심사 후 승인되어야 배상이 진행되므로 수표가 자동 발송된다는 (C)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What advantage does store credit offer over a check?",
+        "options": [
+          "It is issued more quickly.",
+          "It includes 15 percent extra value.",
+          "It never expires.",
+          "It can be transferred to another person."
+        ],
+        "answer": 1,
+        "explanation": "'Approved reimbursements are issued as a check or as store credit with an additional 15 percent bonus value'에서 매장 적립금을 선택하면 15%의 보너스 금액이 추가된다는 것을 알 수 있습니다. 정답은 (B)입니다. 발급 속도, 유효기간, 양도 가능 여부에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "You're Invited: The Harmony House Music School Spring Showcase! Join us on Saturday, May 23, at 6:30 P.M. in the Linden Community Auditorium for an evening celebrating our students' progress. More than forty performers, from beginning pianists to our advanced jazz ensemble, will take the stage. Admission is free for family members of performers; general admission tickets are $8 for adults and $4 for children under twelve when purchased in advance, or $10 and $6 at the door. Advance tickets are available at the school's front desk until 5:00 P.M. on May 22. Doors open at 6:00 P.M., and seating is on a first-come, first-served basis. Light refreshments will be sold in the lobby during intermission, with all proceeds funding our instrument-lending program for students who cannot afford their own instruments. Please note that video recording is permitted from designated areas at the rear of the auditorium only. For accessibility accommodations, contact our office at 555-0166 at least three days before the event.",
+    "questions": [
+      {
+        "question": "What kind of event is being announced?",
+        "options": [
+          "A music competition with cash prizes",
+          "A student performance recital",
+          "A fund-raising auction",
+          "An open house for prospective students"
+        ],
+        "answer": 1,
+        "explanation": "'Spring Showcase'와 'an evening celebrating our students' progress', 'More than forty performers ... will take the stage'라는 표현에서 학생들의 연주 발표회임을 알 수 있습니다. 정답은 (B)입니다. 경연 대회, 경매, 입학 설명회에 대한 내용은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can attendees pay the lowest price for adult tickets?",
+        "options": [
+          "By buying tickets at the door",
+          "By purchasing tickets before the day of the event",
+          "By presenting a student identification card",
+          "By ordering tickets online"
+        ],
+        "answer": 1,
+        "explanation": "성인 입장권은 사전 구매(in advance) 시 $8, 현장 구매 시 $10입니다. 사전 판매는 5월 22일 오후 5시까지, 즉 행사 전날까지 학교 안내 데스크에서 이루어지므로 행사일 이전에 구매하면 가장 저렴합니다. 정답은 (B)입니다. 온라인 판매는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the flyer, what will the refreshment sales support?",
+        "options": [
+          "Renovations to the auditorium",
+          "Scholarships for advanced students",
+          "A program that lends instruments to students",
+          "The jazz ensemble's travel expenses"
+        ],
+        "answer": 2,
+        "explanation": "'all proceeds funding our instrument-lending program for students who cannot afford their own instruments'라고 했으므로, 다과 판매 수익금은 악기를 구입할 형편이 안 되는 학생들에게 악기를 빌려주는 프로그램에 사용됩니다. 정답은 (C)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are people who wish to record video required to do?",
+        "options": [
+          "Stay in specific areas at the back of the hall",
+          "Pay an additional recording fee",
+          "Obtain written permission from performers",
+          "Register at the front desk three days early"
+        ],
+        "answer": 0,
+        "explanation": "'video recording is permitted from designated areas at the rear of the auditorium only'라고 명시했으므로, 영상 촬영을 원하는 사람은 공연장 뒤쪽의 지정된 구역에서만 촬영해야 합니다. 정답은 (A)입니다. 3일 전 연락은 접근성 편의(accessibility accommodations)를 요청하는 경우에 해당하는 조건입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.harmonyhousemusic.com/enroll --- Enrollment Information. Harmony House Music School offers private lessons in piano, violin, guitar, voice, and drums, as well as group classes in music theory and ensemble performance. Private lessons are available in 30-, 45-, and 60-minute formats, billed monthly. New students may book a complimentary 20-minute trial lesson with any instructor before committing to a schedule. Enrollment is open year-round; however, students who register by August 20 are guaranteed their preferred weekly time slot for the entire fall term. A one-time registration fee of $35 applies to all new students and is waived for siblings of currently enrolled students. Group theory classes require a minimum of four participants; if fewer than four students register, the class will be merged with another section or postponed. Students under age six are accepted for piano and violin only, following a brief readiness interview with our program director. Monthly tuition is due on the first of each month, and a $10 late fee applies after the fifth. To withdraw, families must give written notice by the fifteenth of the preceding month.",
+    "questions": [
+      {
+        "question": "What is offered to prospective students at no charge?",
+        "options": [
+          "A full month of group classes",
+          "A 20-minute trial lesson",
+          "A music theory workbook",
+          "An instrument rental"
+        ],
+        "answer": 1,
+        "explanation": "'New students may book a complimentary 20-minute trial lesson with any instructor'에서 신규 학생에게 20분짜리 무료 체험 수업이 제공된다는 것을 알 수 있습니다. complimentary는 '무료의'라는 뜻입니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the benefit of registering by August 20?",
+        "options": [
+          "A waived registration fee",
+          "A discount on monthly tuition",
+          "A guaranteed weekly lesson time for the fall",
+          "A free ensemble class"
+        ],
+        "answer": 2,
+        "explanation": "'students who register by August 20 are guaranteed their preferred weekly time slot for the entire fall term'이라고 했으므로, 8월 20일까지 등록하면 가을 학기 동안 원하는 주간 수업 시간을 보장받습니다. 정답은 (C)입니다. 등록비 면제는 재학생의 형제자매에게 적용되는 별도의 조건입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about group theory classes?",
+        "options": [
+          "They may be postponed if enrollment is low.",
+          "They are limited to students over age six.",
+          "They meet twice a week.",
+          "They cost more than private lessons."
+        ],
+        "answer": 0,
+        "explanation": "'Group theory classes require a minimum of four participants; if fewer than four students register, the class will be merged with another section or postponed'라고 했으므로, 등록 인원이 4명 미만이면 다른 분반과 통합되거나 연기될 수 있습니다. 정답은 (A)입니다. 수업 횟수나 수강료 비교, 연령 제한(6세 제한은 피아노·바이올린 개인 수업 관련)은 언급과 다릅니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the webpage, when must families notify the school of a withdrawal?",
+        "options": [
+          "By the first of the month",
+          "By the fifth of the month",
+          "By the fifteenth of the month before leaving",
+          "At least one week before the final lesson"
+        ],
+        "answer": 2,
+        "explanation": "'To withdraw, families must give written notice by the fifteenth of the preceding month'라고 명시되어 있으므로, 그만두기 전달 15일까지 서면으로 통지해야 합니다. 정답은 (C)입니다. 1일은 수업료 납부일, 5일 이후는 연체료($10)가 부과되는 기준일입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Discover the Mediterranean with Solara Travel Agency! Our 10-day Coastal Treasures package departs September 14 and visits Barcelona, Nice, and the Amalfi Coast. The package price of $2,890 per person includes round-trip airfare from Hartfield International Airport, nine nights in four-star hotels, daily breakfast, and guided walking tours in each city. Book by July 1 and save $250 per traveler; in addition, groups of six or more receive a complimentary upgrade to sea-view rooms, subject to availability. Please be aware that the price is based on double occupancy; solo travelers must pay a single supplement of $480. Travel insurance, lunches, dinners, and gratuities for local guides are not included. A deposit of $400 per person is due at booking, with the balance payable no later than 45 days before departure. Reservations canceled after August 1 are subject to a fee equal to 50 percent of the package price. Spaces are limited to 28 travelers, so call Solara Travel at 555-0139 today or visit www.solaratravel.com/coastal.",
+    "questions": [
+      {
+        "question": "What is included in the package price?",
+        "options": [
+          "Daily breakfast and guided tours",
+          "Travel insurance",
+          "All lunches and dinners",
+          "Tips for local guides"
+        ],
+        "answer": 0,
+        "explanation": "패키지 가격에는 'round-trip airfare ..., nine nights in four-star hotels, daily breakfast, and guided walking tours'가 포함된다고 했으므로 정답은 (A)입니다. 반면 'Travel insurance, lunches, dinners, and gratuities for local guides are not included'라고 명시되어 있어 (B), (C), (D)는 모두 불포함 항목입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can travelers receive a room upgrade?",
+        "options": [
+          "By paying a single supplement",
+          "By booking as part of a group of at least six",
+          "By paying the full balance at booking",
+          "By reserving a 10-day package twice"
+        ],
+        "answer": 1,
+        "explanation": "'groups of six or more receive a complimentary upgrade to sea-view rooms, subject to availability'라고 했으므로 6인 이상 단체로 예약하면 바다 전망 객실로 무료 업그레이드를 받을 수 있습니다(객실 상황에 따라). 정답은 (B)입니다. 싱글 추가 요금은 1인 여행자가 내는 비용이지 업그레이드 조건이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT indicated about the Coastal Treasures package?",
+        "options": [
+          "It requires a deposit at the time of booking.",
+          "It is limited to a fixed number of participants.",
+          "It includes visits to three destinations.",
+          "It offers a discount for travelers under 25."
+        ],
+        "answer": 3,
+        "explanation": "보증금 $400 예약 시 납부('A deposit of $400 per person is due at booking'), 최대 28명 인원 제한('Spaces are limited to 28 travelers'), 바르셀로나·니스·아말피 해안 세 곳 방문은 모두 지문에 언급되어 있습니다. 그러나 25세 미만 여행자 할인은 언급되지 않았으므로 정답은 (D)입니다. 언급된 할인은 7월 1일까지 예약 시 $250 할인뿐입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if a traveler cancels on August 10?",
+        "options": [
+          "The deposit will be fully refunded.",
+          "A fee of half the package price will be charged.",
+          "The booking can be transferred to another tour.",
+          "Only the single supplement will be forfeited."
+        ],
+        "answer": 1,
+        "explanation": "'Reservations canceled after August 1 are subject to a fee equal to 50 percent of the package price'라고 했으므로, 8월 1일 이후인 8월 10일에 취소하면 패키지 가격의 50%에 해당하는 수수료가 부과됩니다. 정답은 (B)입니다. 전액 환불, 다른 여행으로의 변경, 싱글 추가 요금만 몰수된다는 내용은 지문에 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.solaratravel.com/terms --- Booking Terms and Conditions. Thank you for choosing Solara Travel Agency. Please review the following policies before confirming your reservation. All travelers must hold a passport valid for at least six months beyond the return date; Solara cannot be held responsible for boarding denials resulting from invalid documents. Payment plans are available for packages over $1,500: after the initial deposit, the remaining balance may be divided into up to four monthly installments at no additional cost, provided the final payment is received 45 days before departure. Changes to traveler names are free within 72 hours of booking; after that, a $75 administrative fee applies per change. If Solara cancels a tour because minimum enrollment is not met, customers may choose a full refund or a credit worth 110 percent of the amount paid, applicable to any tour departing within eighteen months. Loyalty program members earn one point per dollar spent, and 5,000 points can be redeemed for a $60 voucher. Note that points are awarded only on the base package price, not on supplements, taxes, or optional excursions.",
+    "questions": [
+      {
+        "question": "What is required of all travelers?",
+        "options": [
+          "Membership in the loyalty program",
+          "A passport valid for six months past the return date",
+          "Purchase of a travel insurance policy",
+          "Full payment at the time of booking"
+        ],
+        "answer": 1,
+        "explanation": "'All travelers must hold a passport valid for at least six months beyond the return date'라고 명시했으므로 귀국일 기준 6개월 이상 유효한 여권 소지가 필수입니다. 정답은 (B)입니다. 멤버십 가입과 여행자 보험은 의무 사항으로 언급되지 않았고, 분할 납부가 가능하므로 (D)도 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about the installment payment option?",
+        "options": [
+          "It is available for any package regardless of price.",
+          "It carries a small monthly service charge.",
+          "It requires the final payment 45 days before departure.",
+          "It is offered only to loyalty program members."
+        ],
+        "answer": 2,
+        "explanation": "분할 납부는 'provided the final payment is received 45 days before departure'라는 조건이 붙어 있으므로 출발 45일 전까지 최종 납부가 완료되어야 합니다. 정답은 (C)입니다. $1,500 초과 패키지에만 적용되므로 (A)는 오답이고, 'at no additional cost'라고 했으므로 (B)도 오답이며, 멤버십 요건은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can customers receive if Solara cancels a tour?",
+        "options": [
+          "A credit worth more than the amount they paid",
+          "A complimentary upgrade on a future tour",
+          "Double loyalty points on their next booking",
+          "A voucher for a partner airline"
+        ],
+        "answer": 0,
+        "explanation": "'customers may choose a full refund or a credit worth 110 percent of the amount paid'라고 했으므로, 회사 측 사유로 취소될 경우 지불 금액의 110%, 즉 지불액보다 많은 크레딧을 선택할 수 있습니다. 정답은 (A)입니다. 업그레이드, 포인트 2배 적립, 제휴 항공사 바우처는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about loyalty points?",
+        "options": [
+          "They expire after eighteen months.",
+          "They are not earned on taxes or supplements.",
+          "They can be transferred between members.",
+          "They are doubled for tours over $1,500."
+        ],
+        "answer": 1,
+        "explanation": "'points are awarded only on the base package price, not on supplements, taxes, or optional excursions'라고 했으므로 추가 요금, 세금, 선택 관광에는 포인트가 적립되지 않습니다. 정답은 (B)입니다. 18개월은 취소 시 받는 크레딧의 사용 기한이지 포인트의 유효 기간이 아니며, 양도나 2배 적립에 대한 언급은 없습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Workspace Warehouse Clearance Event — Three Days Only! To make room for next year's inventory, Workspace Warehouse is clearing out current-model office furniture at unbeatable prices. From Friday, November 6, through Sunday, November 8, take 40 percent off all floor-model desks, conference tables, and filing cabinets, and 25 percent off ergonomic chairs and monitor stands. Every floor-model purchase includes free delivery within the city limits for orders totaling $300 or more; a $45 delivery fee applies to smaller orders and to addresses outside the city. All clearance items are sold as-is and are not eligible for return or exchange, although our standard five-year manufacturer's warranty on chair mechanisms still applies. Quantities are limited, and items cannot be placed on hold, so arrive early for the best selection. Doors open at 8:00 A.M. on Friday, one hour earlier than usual. Business customers ordering ten or more chairs should speak with our corporate sales desk for additional volume pricing. Workspace Warehouse, 1450 Commerce Parkway. Questions? Call 555-0128.",
+    "questions": [
+      {
+        "question": "Why is Workspace Warehouse holding the event?",
+        "options": [
+          "To celebrate its anniversary",
+          "To create space for incoming merchandise",
+          "To close its Commerce Parkway location",
+          "To introduce a new furniture brand"
+        ],
+        "answer": 1,
+        "explanation": "'To make room for next year's inventory'라는 표현에서 내년도 재고를 들여놓을 공간을 마련하기 위해 정리 세일을 연다는 것을 알 수 있습니다. 정답은 (B)입니다. 기념일 행사, 폐점, 신규 브랜드 출시에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What condition applies to free delivery?",
+        "options": [
+          "The order must be placed on Friday.",
+          "The order must total at least $300 and be within the city.",
+          "The customer must buy at least ten chairs.",
+          "The customer must join the store's mailing list."
+        ],
+        "answer": 1,
+        "explanation": "'free delivery within the city limits for orders totaling $300 or more'라고 했으므로, 무료 배송은 시내 주소로 $300 이상 주문할 때만 적용됩니다. 그 미만 주문이나 시외 주소에는 $45의 배송비가 부과됩니다. 정답은 (B)입니다. 10개 이상 의자 구매는 법인 대량 구매 할인과 관련된 내용입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT stated about the clearance items?",
+        "options": [
+          "They cannot be returned or exchanged.",
+          "They cannot be reserved in advance.",
+          "They include desks and filing cabinets.",
+          "They come with extended delivery times."
+        ],
+        "answer": 3,
+        "explanation": "반품·교환 불가('not eligible for return or exchange'), 사전 예약 불가('items cannot be placed on hold'), 책상·서류 캐비닛 포함은 모두 지문에 명시되어 있습니다. 그러나 배송 기간이 길어진다는 내용은 없으므로 정답은 (D)입니다. NOT 문제는 보기 하나하나를 지문과 대조하여 언급되지 않은 것을 찾아야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the store's usual opening time?",
+        "options": [
+          "It is 7:00 A.M.",
+          "It is 8:00 A.M.",
+          "It is 9:00 A.M.",
+          "It varies by season."
+        ],
+        "answer": 2,
+        "explanation": "'Doors open at 8:00 A.M. on Friday, one hour earlier than usual'에서 행사 당일은 평소보다 한 시간 일찍 8시에 문을 연다고 했으므로, 평소 개장 시간은 9시임을 추론할 수 있습니다. 정답은 (C)입니다. 이는 지문의 단서를 바탕으로 계산하는 추론 유형의 문제입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.workspacewarehouse.com/products/aerolift-pro --- AeroLift Pro Sit-Stand Desk. Transform the way you work with the AeroLift Pro, our best-selling electric height-adjustable desk. Its dual motors raise the desktop from 62 to 128 centimeters in under twelve seconds, quietly enough for any shared office. The control panel stores four programmable height presets, and a built-in sensor stops the desk automatically if it detects an obstruction. The 140-by-70-centimeter desktop is available in oak, walnut, and matte white finishes and supports up to 110 kilograms. Price: $549, including a cable-management tray. An optional bamboo drawer can be added for $59. The AeroLift Pro ships flat-packed in two boxes; assembly takes approximately 40 minutes with the included tools, or you can add professional assembly at checkout for $79. Orders placed before 2:00 P.M. on business days are dispatched the same day. The frame carries a ten-year warranty, while the electronic components are covered for five years. Customer rating: 4.7 out of 5 stars based on 1,283 reviews. Note: The walnut finish is currently backordered and will ship in early March.",
+    "questions": [
+      {
+        "question": "What is a feature of the AeroLift Pro?",
+        "options": [
+          "A desktop that folds for storage",
+          "A sensor that detects obstructions",
+          "A built-in wireless phone charger",
+          "A desktop that supports 140 kilograms"
+        ],
+        "answer": 1,
+        "explanation": "'a built-in sensor stops the desk automatically if it detects an obstruction'이라고 했으므로 장애물을 감지하면 자동으로 멈추는 센서가 내장되어 있습니다. 정답은 (B)입니다. 접이식 상판이나 무선 충전기는 언급되지 않았고, 최대 하중은 110kg이므로 (D)는 수치가 틀렸습니다(140cm는 상판의 가로 길이).",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in the $549 price?",
+        "options": [
+          "A bamboo drawer",
+          "Professional assembly",
+          "A cable-management tray",
+          "A matching chair"
+        ],
+        "answer": 2,
+        "explanation": "'Price: $549, including a cable-management tray'라고 명시되어 있으므로 케이블 정리 트레이가 기본 가격에 포함됩니다. 정답은 (C)입니다. 대나무 서랍은 $59, 전문 조립 서비스는 $79의 추가 비용이 드는 선택 사항입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about orders placed at 1:00 P.M. on a Tuesday?",
+        "options": [
+          "They will be shipped the same day.",
+          "They will arrive within 40 minutes.",
+          "They qualify for free assembly.",
+          "They must be picked up in person."
+        ],
+        "answer": 0,
+        "explanation": "'Orders placed before 2:00 P.M. on business days are dispatched the same day'라고 했으므로, 평일(화요일) 오후 1시에 주문하면 오후 2시 이전이므로 당일 발송됩니다. 정답은 (A)입니다. 40분은 조립 소요 시간이며, 무료 조립이나 직접 수령에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the walnut finish?",
+        "options": [
+          "It is the most popular option.",
+          "It costs more than the oak finish.",
+          "It is temporarily out of stock.",
+          "It has been discontinued."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장 'The walnut finish is currently backordered and will ship in early March'에서 월넛 마감재는 현재 입고 대기(backordered) 상태로 일시 품절이며 3월 초에 발송된다는 것을 알 수 있습니다. 정답은 (C)입니다. 가장 인기 있다거나 더 비싸다는 언급은 없고, 단종(discontinued)이 아니라 재입고 예정입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Dinner, Solved: Try GreenCrate Meal Kits Today! Tired of deciding what to cook every night? GreenCrate delivers pre-portioned ingredients and step-by-step recipe cards right to your door. Choose from twelve new recipes each week across four menus: Classic Comfort, Veggie Forward, Quick & Light (ready in under 20 minutes), and Family Favorites. New subscribers get 50 percent off their first box and free shipping on their first month of deliveries when they sign up with code FIRSTBITE by October 31. A minimum order of three recipes per box applies, and each recipe serves either two or four people. Skip a week or cancel anytime through your online account — just make changes before 11:59 P.M. on the Wednesday prior to your scheduled delivery. Standard shipping is $9.99 per box, and deliveries to certain remote postal codes carry an additional $6 surcharge. All ingredients are sourced from certified suppliers, and our insulated packaging keeps food cold for up to twelve hours. GreenCrate is currently available in the greater Camden metropolitan area only, with new regions launching next year.",
+    "questions": [
+      {
+        "question": "What does the FIRSTBITE code provide?",
+        "options": [
+          "A free recipe card collection",
+          "Half off the first box and free initial shipping",
+          "Three free meals per week",
+          "A permanent discount on all orders"
+        ],
+        "answer": 1,
+        "explanation": "'New subscribers get 50 percent off their first box and free shipping on their first month of deliveries when they sign up with code FIRSTBITE'라고 했으므로, 코드 입력 시 첫 상자 50% 할인과 첫 달 무료 배송 혜택을 받습니다. 정답은 (B)입니다. 할인은 첫 상자와 첫 달에 한정되므로 (D)의 '영구 할인'은 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the minimum number of recipes per box?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Twelve"
+        ],
+        "answer": 1,
+        "explanation": "'A minimum order of three recipes per box applies'라고 명시되어 있으므로 한 상자당 최소 3개의 레시피를 주문해야 합니다. 정답은 (B)입니다. 2와 4는 각 레시피의 인분 수, 12는 매주 제공되는 새 레시피의 수이므로 혼동하지 않도록 주의해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By when must customers make changes to a scheduled delivery?",
+        "options": [
+          "By midnight on the day of delivery",
+          "By 11:59 P.M. on the Wednesday before delivery",
+          "By the end of the first month",
+          "By October 31"
+        ],
+        "answer": 1,
+        "explanation": "'just make changes before 11:59 P.M. on the Wednesday prior to your scheduled delivery'라고 했으므로 배송 예정일 전 수요일 밤 11시 59분까지 변경(건너뛰기·취소)을 완료해야 합니다. 정답은 (B)입니다. 10월 31일은 신규 가입 프로모션 코드의 마감일입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned about GreenCrate?",
+        "options": [
+          "It offers a menu with meals ready in under 20 minutes.",
+          "It charges extra for some remote delivery areas.",
+          "It operates in multiple metropolitan areas.",
+          "It uses packaging that keeps food cold."
+        ],
+        "answer": 2,
+        "explanation": "20분 이내 완성 메뉴(Quick & Light), 일부 외딴 지역 $6 추가 배송비, 12시간 보냉 포장은 모두 지문에 언급되어 있습니다. 그러나 서비스 지역은 'currently available in the greater Camden metropolitan area only'라고 했으므로 여러 대도시권에서 운영된다는 (C)는 지문 내용과 다릅니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.greencrate.com/faq --- Frequently Asked Questions. Q: Can I change my menu after subscribing? A: Yes. You may switch among our four menus at any time, and you can mix recipes from different menus within a single box. Q: What if I am not home when my box arrives? A: No signature is required. Our couriers will leave the box at your door, and the insulated liner keeps ingredients fresh for up to twelve hours. If your box arrives damaged or an ingredient is missing, report it through your account within 48 hours of delivery, and we will credit your next order. Q: Do you accommodate food allergies? A: Each recipe card lists all ingredients and highlights common allergens in bold. However, our kits are packed in a facility that handles nuts, dairy, and wheat, so we cannot guarantee that any kit is completely allergen-free. Q: How do I earn referral rewards? A: Share your personal referral link; when a friend completes a first order of $40 or more, you receive a $25 credit and your friend receives $15 off. Credits expire 90 days after they are issued and cannot be applied to shipping fees.",
+    "questions": [
+      {
+        "question": "What is one purpose of the webpage?",
+        "options": [
+          "To announce new recipe offerings",
+          "To answer common customer questions",
+          "To advertise a hiring event",
+          "To explain a recent price increase"
+        ],
+        "answer": 1,
+        "explanation": "페이지 제목이 'Frequently Asked Questions'이고 구독 메뉴 변경, 부재 시 배송, 알레르기, 추천 보상 등 고객들이 자주 묻는 질문에 답하는 형식으로 구성되어 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should a customer do if an ingredient is missing?",
+        "options": [
+          "Call the courier company directly",
+          "Report the problem within 48 hours",
+          "Return the entire box by mail",
+          "Visit a GreenCrate distribution center"
+        ],
+        "answer": 1,
+        "explanation": "'If your box arrives damaged or an ingredient is missing, report it through your account within 48 hours of delivery'라고 안내했으므로, 배송 후 48시간 이내에 계정을 통해 신고해야 다음 주문에 대한 크레딧을 받을 수 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does GreenCrate NOT guarantee allergen-free kits?",
+        "options": [
+          "Recipe cards do not list all ingredients.",
+          "Suppliers change from week to week.",
+          "Kits are packed in a facility that handles common allergens.",
+          "Couriers may repackage boxes during delivery."
+        ],
+        "answer": 2,
+        "explanation": "'our kits are packed in a facility that handles nuts, dairy, and wheat, so we cannot guarantee that any kit is completely allergen-free'라고 했으므로, 견과류·유제품·밀을 취급하는 시설에서 포장되기 때문에 완전한 무알레르겐을 보장할 수 없습니다. 정답은 (C)입니다. 레시피 카드에는 모든 재료가 표기되므로 (A)는 지문과 반대됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is true about referral credits?",
+        "options": [
+          "They can be used to pay shipping fees.",
+          "They are issued before the friend's first order.",
+          "They expire 90 days after being issued.",
+          "They are worth $15 for the referring customer."
+        ],
+        "answer": 2,
+        "explanation": "'Credits expire 90 days after they are issued and cannot be applied to shipping fees'라고 했으므로 추천 크레딧은 발급 후 90일이 지나면 만료됩니다. 정답은 (C)입니다. 배송비에는 사용할 수 없으므로 (A)는 오답이고, 크레딧은 친구가 $40 이상 첫 주문을 완료한 후 지급되며, 추천인은 $25, 친구는 $15 할인을 받으므로 (B), (D)도 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Running Out of Room? StoreSafe Self-Storage Has You Covered! Whether you are renovating, relocating, or simply decluttering, StoreSafe offers clean, secure storage units in six convenient sizes, from compact 2-by-2-meter lockers to spacious 5-by-8-meter garages. Every unit features 24-hour video monitoring, individually coded gate access, and on-site staff seven days a week. Climate-controlled units, ideal for furniture, electronics, and documents, are available for an additional $22 per month. Rent any unit by September 30 and pay just $1 for your first month, plus get a free moving-kit bundle containing ten boxes, tape, and bubble wrap. This introductory offer is for new customers only, requires a minimum three-month rental agreement, and applies to standard units; climate-controlled units are excluded. Month-to-month leases are available after the initial term, and you may upgrade to a larger unit at any time without penalty. Drive-up access is available at our Kellerman Road facility, and covered loading bays are offered at all three locations. Reserve online at www.storesafeunits.com — no credit card required to hold a unit for up to seven days.",
+    "questions": [
+      {
+        "question": "For whom is the advertisement most likely intended?",
+        "options": [
+          "People who need temporary space for belongings",
+          "Businesses seeking warehouse employees",
+          "Homeowners looking for renovation contractors",
+          "Companies that manufacture moving boxes"
+        ],
+        "answer": 0,
+        "explanation": "'Whether you are renovating, relocating, or simply decluttering'이라는 문구와 다양한 크기의 보관 유닛 소개에서, 이 광고는 짐을 보관할 공간이 필요한 사람들을 대상으로 한다는 것을 알 수 있습니다. 정답은 (A)입니다. 창고 직원 채용, 리모델링 업체, 박스 제조업체와는 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a condition of the $1 first-month offer?",
+        "options": [
+          "Renting a climate-controlled unit",
+          "Paying with a credit card",
+          "Signing a rental agreement of at least three months",
+          "Reserving a unit at the Kellerman Road facility"
+        ],
+        "answer": 2,
+        "explanation": "'requires a minimum three-month rental agreement'라고 명시되어 있으므로 첫 달 $1 혜택을 받으려면 최소 3개월 임대 계약을 체결해야 합니다. 정답은 (C)입니다. 'climate-controlled units are excluded'라고 했으므로 (A)는 오히려 제외 조건이고, 예약에는 신용카드가 필요 없으며('no credit card required'), 특정 지점 조건도 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a security feature at StoreSafe?",
+        "options": [
+          "Around-the-clock video monitoring",
+          "Individually coded gate access",
+          "On-site staff every day of the week",
+          "Alarm systems inside each unit"
+        ],
+        "answer": 3,
+        "explanation": "24시간 영상 감시('24-hour video monitoring'), 개별 코드 출입('individually coded gate access'), 주 7일 상주 직원('on-site staff seven days a week')은 모두 언급되어 있습니다. 그러나 각 유닛 내부의 경보 시스템은 언급되지 않았으므로 정답은 (D)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the advertisement, what can customers do without paying a penalty?",
+        "options": [
+          "Cancel during the first three months",
+          "Move to a bigger unit",
+          "Hold a unit for thirty days",
+          "Switch to a climate-controlled unit for free"
+        ],
+        "answer": 1,
+        "explanation": "'you may upgrade to a larger unit at any time without penalty'라고 했으므로 언제든지 위약금 없이 더 큰 유닛으로 옮길 수 있습니다. 정답은 (B)입니다. 예약 보류는 최대 7일이므로 (C)는 오답이고, 냉난방 유닛은 월 $22의 추가 요금이 있으므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "StoreSafe Self-Storage — Unit Rental Application. Applicant name: Marcus Leland. Phone: 555-0190. E-mail: m.leland@brixmail.com. Requested facility: Kellerman Road. Unit size: 3 m x 4 m, climate-controlled. Intended use (check all that apply): [X] Household furniture [ ] Business inventory [X] Documents [ ] Vehicle. Desired move-in date: October 12. Rental term: [ ] Month-to-month [X] Six months. Insurance: Tenants must either purchase StoreSafe's protection plan (starting at $12 per month) or provide proof of their own storage coverage before move-in. Selection: [X] I will provide my own policy; documentation attached. Prohibited items: Applicants acknowledge that flammable liquids, perishable food, live animals, and unregistered vehicles may not be stored in any unit. Initial here: M.L. Payment: First month's rent and a refundable $50 key-card deposit are due at signing. Automatic monthly billing is required for all terms longer than three months. Office use only — Application received: October 3. Approved by: T. Vance. Unit assigned: C-217. Gate code to be issued at move-in orientation, which all new tenants must attend.",
+    "questions": [
+      {
+        "question": "What does Mr. Leland plan to store?",
+        "options": [
+          "Business inventory and a vehicle",
+          "Furniture and documents",
+          "Perishable goods",
+          "Seasonal sporting equipment"
+        ],
+        "answer": 1,
+        "explanation": "Intended use 항목에서 [X] Household furniture와 [X] Documents에 체크되어 있으므로, Leland 씨는 가정용 가구와 문서를 보관할 계획입니다. 정답은 (B)입니다. Business inventory와 Vehicle에는 체크되어 있지 않고, 부패하기 쉬운 식품은 보관 금지 품목입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How did Mr. Leland satisfy the insurance requirement?",
+        "options": [
+          "By purchasing StoreSafe's protection plan",
+          "By submitting proof of his own coverage",
+          "By paying a higher security deposit",
+          "By waiving liability in writing"
+        ],
+        "answer": 1,
+        "explanation": "보험 요건에서 'I will provide my own policy; documentation attached'에 체크했으므로, Leland 씨는 본인이 가입한 보험의 증빙 서류를 제출하는 방식을 선택했습니다. 정답은 (B)입니다. StoreSafe의 월 $12 보호 플랜은 선택하지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will Mr. Leland be required to use automatic billing?",
+        "options": [
+          "His rental term is longer than three months.",
+          "He chose a climate-controlled unit.",
+          "He applied at the Kellerman Road facility.",
+          "He declined the protection plan."
+        ],
+        "answer": 0,
+        "explanation": "'Automatic monthly billing is required for all terms longer than three months'라고 했고, Leland 씨는 6개월(Six months) 약정에 체크했으므로 3개월을 초과하는 계약에 해당되어 자동 결제가 필수입니다. 정답은 (A)입니다. 이는 양식의 정보와 규정을 연결해야 하는 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What must Mr. Leland do to receive his gate code?",
+        "options": [
+          "Pay the $50 deposit in cash",
+          "Attend a move-in orientation",
+          "Sign a month-to-month lease",
+          "Call the office after October 3"
+        ],
+        "answer": 1,
+        "explanation": "양식 하단에 'Gate code to be issued at move-in orientation, which all new tenants must attend'라고 명시되어 있으므로, 모든 신규 입주자가 의무적으로 참석해야 하는 입주 오리엔테이션에서 출입 코드가 발급됩니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Grand Opening Celebration — PressPoint Print Shop! Join us Saturday, March 14, from 10:00 A.M. to 4:00 P.M. as we open our doors at 67 Quarry Lane, next to the Riverside Post Office. PressPoint offers full-color digital printing, large-format banners and posters, business cards, custom invitations, and same-day photocopying. During our grand opening event only, enjoy these specials: 100 free business cards with any order over $50, 30 percent off all banner printing, and free lamination on documents up to A3 size. The first 75 visitors will also receive a tote bag filled with samples and a coupon for 20 percent off a future order, redeemable through June 30. Enter our raffle for a chance to win a year of free monthly flyer printing for your small business — no purchase necessary, but you must be present at the 3:30 P.M. drawing to claim the prize. Light refreshments will be served throughout the day. Can't make it? Mention code OPENING14 online within one week of the event for 15 percent off your first web order at www.presspointprint.com.",
+    "questions": [
+      {
+        "question": "What is the purpose of the flyer?",
+        "options": [
+          "To announce a shop's relocation",
+          "To publicize the opening of a new business",
+          "To advertise discounted postal services",
+          "To invite customers to a design workshop"
+        ],
+        "answer": 1,
+        "explanation": "'Grand Opening Celebration'과 'as we open our doors at 67 Quarry Lane'이라는 표현에서 새로 문을 여는 인쇄소의 개업 행사를 홍보하는 전단임을 알 수 있습니다. 정답은 (B)입니다. Riverside Post Office는 위치를 설명하기 위해 언급된 것일 뿐 우편 서비스 광고가 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can a visitor receive free business cards?",
+        "options": [
+          "By being among the first 75 visitors",
+          "By placing an order of more than $50",
+          "By entering the raffle",
+          "By using the code OPENING14"
+        ],
+        "answer": 1,
+        "explanation": "'100 free business cards with any order over $50'라고 했으므로 $50를 초과하는 주문을 하면 명함 100장을 무료로 받을 수 있습니다. 정답은 (B)입니다. 선착순 75명에게는 토트백과 쿠폰이 제공되고, OPENING14 코드는 온라인 첫 주문 15% 할인용입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the raffle?",
+        "options": [
+          "Winners must be present at the drawing.",
+          "A minimum purchase is required to enter.",
+          "The prize is a free tote bag.",
+          "The drawing will be held at noon."
+        ],
+        "answer": 0,
+        "explanation": "'you must be present at the 3:30 P.M. drawing to claim the prize'라고 했으므로 당첨 상품을 받으려면 추첨 시간에 현장에 있어야 합니다. 정답은 (A)입니다. 'no purchase necessary'라고 했으므로 (B)는 오답이고, 상품은 1년간 매월 무료 전단 인쇄이며, 추첨은 오후 3시 30분에 진행됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can people who cannot attend the event do?",
+        "options": [
+          "Request that samples be mailed to them",
+          "Watch a live broadcast of the raffle",
+          "Use a code online within a week for a discount",
+          "Visit the shop the following Saturday for the same deals"
+        ],
+        "answer": 2,
+        "explanation": "'Can't make it? Mention code OPENING14 online within one week of the event for 15 percent off your first web order'라고 했으므로, 행사에 참석하지 못하는 사람은 행사 후 일주일 이내에 온라인에서 코드를 사용해 첫 웹 주문을 15% 할인받을 수 있습니다. 정답은 (C)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.presspointprint.com/jobs --- Now Hiring: Print Production Associate (Full-Time). PressPoint Print Shop is looking for a detail-oriented production associate to join our team at the Quarry Lane location. Duties include operating digital printing and finishing equipment, performing color checks against customer proofs, trimming and binding completed jobs, and assisting walk-in customers at the front counter during busy periods. The schedule is Tuesday through Saturday, 8:30 A.M. to 5:00 P.M. Candidates should have a high school diploma and the ability to lift up to 20 kilograms; previous print-industry experience is helpful but not necessary, as full training is provided during the first month. Familiarity with graphic design software is a plus and may qualify candidates for a higher starting wage. We offer $19 per hour to start, paid vacation after one year of employment, a uniform allowance, and a 40 percent employee discount on personal printing projects. Apply in person at 67 Quarry Lane between 10:00 A.M. and 3:00 P.M. on weekdays, or upload a résumé through this page. Applications submitted without a completed availability questionnaire will not be reviewed. The position remains open until filled.",
+    "questions": [
+      {
+        "question": "What is one duty of the advertised position?",
+        "options": [
+          "Designing marketing materials for clients",
+          "Comparing printed colors with customer proofs",
+          "Delivering completed orders to businesses",
+          "Managing the shop's social media accounts"
+        ],
+        "answer": 1,
+        "explanation": "직무 내용 중 'performing color checks against customer proofs'가 있으므로, 인쇄된 색상을 고객 시안과 대조 확인하는 일이 담당 업무입니다. 정답은 (B)입니다. 디자인 제작, 배달, 소셜 미디어 관리는 직무 설명에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT a stated requirement for the job?",
+        "options": [
+          "A high school diploma",
+          "The ability to lift up to 20 kilograms",
+          "Previous experience in the printing industry",
+          "Availability on Saturdays"
+        ],
+        "answer": 2,
+        "explanation": "고졸 학력과 20kg까지 들 수 있는 능력은 필수 요건으로 명시되어 있고, 근무 일정이 화요일~토요일이므로 토요일 근무 가능 여부도 사실상 요구됩니다. 그러나 인쇄업 경력은 'helpful but not necessary'(있으면 좋지만 필수는 아님)라고 했으므로 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the webpage, what might qualify a candidate for higher starting pay?",
+        "options": [
+          "A university degree",
+          "Knowledge of graphic design software",
+          "Five years of customer service experience",
+          "Willingness to work evening shifts"
+        ],
+        "answer": 1,
+        "explanation": "'Familiarity with graphic design software is a plus and may qualify candidates for a higher starting wage'라고 했으므로, 그래픽 디자인 소프트웨어를 다룰 줄 알면 더 높은 초봉을 받을 수 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the application process?",
+        "options": [
+          "Applications are accepted only in person.",
+          "Interviews will be held in the first week of April.",
+          "Incomplete applications will not be considered.",
+          "The position will close at the end of the month."
+        ],
+        "answer": 2,
+        "explanation": "'Applications submitted without a completed availability questionnaire will not be reviewed'라고 했으므로 근무 가능 시간 설문지를 작성하지 않은 지원서는 검토되지 않습니다. 정답은 (C)입니다. 지원은 방문 또는 온라인 업로드 모두 가능하므로 (A)는 오답이고, 'The position remains open until filled'라고 했으므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Protect What Matters with Irongate Security Services. For over fifteen years, Irongate has safeguarded homes and businesses across the Delmont region. Our residential packages start at just $29 per month and include door and window sensors, a smart control panel, and 24-hour professional monitoring from our local response center — never an overseas call center. Add high-definition outdoor cameras, smoke and carbon monoxide detection, or smart door locks at any time. For businesses, we design customized systems featuring access-control badges, motion-activated lighting, and after-hours patrol checks. This autumn, new residential customers who sign a 24-month monitoring agreement receive free standard installation, a savings of $199. The offer ends November 30 and cannot be combined with other promotions; a one-time activation fee of $49 still applies, and customers who cancel within the first year are responsible for 75 percent of the remaining contract balance. Renters welcome — our wireless equipment installs without drilling and moves with you. Schedule a free, no-obligation security assessment at www.irongatesecurity.com or call 555-0114 today.",
+    "questions": [
+      {
+        "question": "What is emphasized about Irongate's monitoring service?",
+        "options": [
+          "It is handled by a local response center.",
+          "It is free for the first two years.",
+          "It operates only during business hours.",
+          "It is available exclusively to homeowners."
+        ],
+        "answer": 0,
+        "explanation": "'24-hour professional monitoring from our local response center — never an overseas call center'라는 표현에서 해외 콜센터가 아닌 지역 대응 센터에서 관제한다는 점을 강조하고 있습니다. 정답은 (A)입니다. 24시간 운영되므로 (C)는 오답이고, 세입자도 환영한다고 했으므로 (D)도 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can new customers receive free installation?",
+        "options": [
+          "By paying the activation fee in advance",
+          "By signing a two-year monitoring agreement",
+          "By purchasing outdoor cameras",
+          "By referring another customer"
+        ],
+        "answer": 1,
+        "explanation": "'new residential customers who sign a 24-month monitoring agreement receive free standard installation'이라고 했으므로 24개월(2년) 관제 계약을 체결하면 $199 상당의 표준 설치가 무료입니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the autumn promotion?",
+        "options": [
+          "It waives the activation fee.",
+          "It can be combined with other offers.",
+          "It is available until the end of November.",
+          "It applies to business customers only."
+        ],
+        "answer": 2,
+        "explanation": "'The offer ends November 30'이라고 명시했으므로 프로모션은 11월 말까지 유효합니다. 정답은 (C)입니다. $49의 활성화 수수료는 여전히 부과되므로('a one-time activation fee of $49 still applies') (A)는 오답이고, 다른 프로모션과 중복 불가('cannot be combined')이므로 (B)도 오답이며, 신규 주거용(residential) 고객 대상이므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Irongate's wireless equipment?",
+        "options": [
+          "It is suitable for people who rent their homes.",
+          "It requires professional drilling to install.",
+          "It must be returned when a contract ends.",
+          "It is available for businesses only."
+        ],
+        "answer": 0,
+        "explanation": "'Renters welcome — our wireless equipment installs without drilling and moves with you'라고 했으므로, 무선 장비는 벽에 구멍을 뚫지 않고 설치할 수 있고 이사할 때 가져갈 수 있어 세입자에게 적합합니다. 정답은 (A)입니다. (B)는 지문과 정반대의 내용입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "webpage",
+    "passage": "www.irongatesecurity.com/careers --- Security Patrol Officer (Night Shift) — Delmont Area. Irongate Security Services is expanding its commercial patrol division and seeks three patrol officers for the night shift, 10:00 P.M. to 6:00 A.M., four nights per week on a rotating schedule. Officers drive marked company vehicles along assigned routes, conduct exterior and interior checks of client properties, respond to alarm activations, and write incident reports using a tablet-based system. Applicants must be at least 21 years old, hold a valid driver's license with a clean three-year record, and possess a current provincial security guard license. Candidates without the license may still apply: Irongate will sponsor qualified applicants through the 40-hour certification course, with the $300 course fee deducted in installments from their first six paychecks. Starting pay is $24.50 per hour, with a $1.50 night-shift premium and full dental coverage after the 90-day probationary period. Note that this position requires passing a physical fitness evaluation and a drug screening; offers are conditional until both are complete. Submit applications through this page by January 19. Only candidates selected for an interview will be contacted.",
+    "questions": [
+      {
+        "question": "What will the patrol officers be responsible for?",
+        "options": [
+          "Monitoring alarms from a call center",
+          "Installing security cameras at client sites",
+          "Inspecting client properties and writing reports",
+          "Training new security dispatchers"
+        ],
+        "answer": 2,
+        "explanation": "직무 설명에 'conduct exterior and interior checks of client properties ... and write incident reports'가 포함되어 있으므로, 고객 건물 내외부 점검과 사건 보고서 작성이 주요 업무입니다. 정답은 (C)입니다. 콜센터 관제, 카메라 설치, 신입 교육은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Irongate offer applicants who lack a security guard license?",
+        "options": [
+          "A reduced probationary period",
+          "Sponsorship through a certification course",
+          "A free 40-hour driving course",
+          "An exemption from the licensing requirement"
+        ],
+        "answer": 1,
+        "explanation": "'Irongate will sponsor qualified applicants through the 40-hour certification course, with the $300 course fee deducted in installments from their first six paychecks'라고 했으므로, 자격증이 없는 지원자에게는 40시간 인증 과정 수강을 지원하되 수강료 $300는 첫 6번의 급여에서 분할 공제합니다. 정답은 (B)입니다. 비용이 급여에서 공제되므로 완전 무료는 아니며, 요건 면제도 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT listed as a requirement for the position?",
+        "options": [
+          "Being at least 21 years of age",
+          "Having a clean driving record",
+          "Passing a physical fitness evaluation",
+          "Having two years of patrol experience"
+        ],
+        "answer": 3,
+        "explanation": "21세 이상, 3년간 무사고 운전 경력('a clean three-year record'), 체력 평가 통과는 모두 요건으로 명시되어 있습니다. 그러나 순찰 경력 2년은 언급되지 않았으므로 정답은 (D)입니다. 자격증이 없어도 지원 가능하다고 했듯이 경력 요건은 제시되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When do employees become eligible for dental coverage?",
+        "options": [
+          "Immediately upon hiring",
+          "After completing the 90-day probationary period",
+          "After six paychecks",
+          "After one full year of employment"
+        ],
+        "answer": 1,
+        "explanation": "'full dental coverage after the 90-day probationary period'라고 했으므로 90일의 수습 기간을 마친 후에 치과 보험 혜택을 받을 수 있습니다. 정답은 (B)입니다. 6번의 급여는 자격증 과정 수강료 분할 공제와 관련된 내용입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "Whisker & Wag Grooming Salon — New Client Registration & Appointment Request. Owner name: Priya Raman. Phone: 555-0158. E-mail: praman@coastmail.com. Pet's name: Biscuit. Species/Breed: Dog / Golden Retriever. Age: 3 years. Weight: 32 kg. Requested service: [X] Full grooming package [ ] Bath only [ ] Nail trim only. Preferred date and time: Thursday, June 18, morning. Has your pet been groomed professionally before? [X] Yes [ ] No. Any sensitivities or behavioral concerns? Biscuit is nervous around dryers; please use the low-speed setting. Vaccination records attached: [X] Yes [ ] No — Reminder: appointments cannot be confirmed until current rabies documentation is on file. Promotional code (if any): FRESHCUT. --- FOR SALON USE --- Received: June 10 by R. Ortega. Notes: New-client discount verified — 20 percent applied to full package. Requested Thursday morning slots are fully booked; offered Thursday 2:30 P.M. or Friday 9:30 A.M. instead. Left voice mail on June 10 asking client to confirm her preference within 48 hours; unconfirmed requests are released after that window. Stylist tentatively assigned: L. Chen.",
+    "questions": [
+      {
+        "question": "What service did Ms. Raman request?",
+        "options": [
+          "A nail trim only",
+          "A bath only",
+          "A full grooming package",
+          "A de-shedding treatment only"
+        ],
+        "answer": 2,
+        "explanation": "Requested service 항목에서 [X] Full grooming package에 체크되어 있으므로, Raman 씨는 전체 미용 패키지를 신청했습니다. 정답은 (C)입니다. 또한 프로모션 코드 FRESHCUT을 기입하여 신규 고객 20% 할인이 적용되었음이 살롱 기록에서 확인됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What special request did Ms. Raman make for her dog?",
+        "options": [
+          "Using a dryer on a low-speed setting",
+          "Assigning a specific stylist",
+          "Avoiding nail trimming entirely",
+          "Scheduling the appointment after business hours"
+        ],
+        "answer": 0,
+        "explanation": "민감 사항 기재란에 'Biscuit is nervous around dryers; please use the low-speed setting'이라고 적혀 있으므로, 드라이어를 무서워하는 반려견을 위해 저속 모드 사용을 요청했습니다. 정답은 (A)입니다. 스타일리스트 배정(L. Chen)은 살롱 측에서 임시로 정한 것입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did the salon contact Ms. Raman on June 10?",
+        "options": [
+          "To request updated vaccination records",
+          "To offer alternative appointment times",
+          "To inform her that the discount had expired",
+          "To recommend an additional service"
+        ],
+        "answer": 1,
+        "explanation": "살롱 기록에 'Requested Thursday morning slots are fully booked; offered Thursday 2:30 P.M. or Friday 9:30 A.M. instead. Left voice mail on June 10'이라고 되어 있으므로, 희망한 목요일 오전이 모두 예약되어 대체 시간을 제안하기 위해 연락한 것입니다. 정답은 (B)입니다. 예방접종 기록은 이미 첨부되어 있었습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if Ms. Raman does not respond within 48 hours?",
+        "options": [
+          "Her appointment request will be released.",
+          "Her discount will be reduced to 10 percent.",
+          "She will be charged a booking fee.",
+          "Her dog will be assigned a different stylist."
+        ],
+        "answer": 0,
+        "explanation": "'unconfirmed requests are released after that window'라고 했으므로, 48시간 이내에 회신하여 확정하지 않으면 예약 요청이 취소(해제)됩니다. 정답은 (A)입니다. 할인율 축소, 예약 수수료, 스타일리스트 변경에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "advertisement",
+    "passage": "Teach With Us! Harmony House Music School Is Hiring Instructors. Due to record enrollment, Harmony House Music School is seeking part-time instructors of guitar, voice, and drums for the upcoming fall term. Instructors teach private lessons of 30 to 60 minutes and may also lead one weekly group ensemble class. We are looking for musicians with a degree or diploma in music or at least three years of professional teaching or performance experience. Patience with young learners is essential, as most of our students are between the ages of six and sixteen. Compensation ranges from $32 to $45 per teaching hour based on credentials, and instructors keep 100 percent of fees from any private recital coaching they arrange with families. Teaching studios, instruments, and printed materials are all provided, so you bring only your expertise. Evening and Saturday availability is required; Sunday availability is a plus, as we are considering weekend expansion. Candidates invited to interview will be asked to give a 15-minute demonstration lesson with a current student. Send a résumé and a short video introduction to hiring@harmonyhousemusic.com by August 8. Incomplete submissions will not be considered.",
+    "questions": [
+      {
+        "question": "Why is the school hiring new instructors?",
+        "options": [
+          "Several teachers recently retired.",
+          "Student enrollment has reached a record level.",
+          "A second campus is opening downtown.",
+          "The school is adding orchestra classes."
+        ],
+        "answer": 1,
+        "explanation": "'Due to record enrollment'이라는 표현에서 등록 학생 수가 사상 최고치를 기록하여 강사를 충원한다는 것을 알 수 있습니다. 정답은 (B)입니다. 교사 은퇴, 분교 개설, 오케스트라 수업 신설은 언급되지 않았습니다(주말 확장은 '검토 중'일 뿐입니다).",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What qualification can substitute for a music degree?",
+        "options": [
+          "A teaching license from any subject area",
+          "Three years of professional teaching or performance experience",
+          "Completion of a 15-minute demonstration lesson",
+          "Previous employment at a music store"
+        ],
+        "answer": 1,
+        "explanation": "'a degree or diploma in music or at least three years of professional teaching or performance experience'라고 했으므로, 음악 학위가 없더라도 3년 이상의 전문 교습 또는 연주 경력이 있으면 지원 자격이 됩니다. 정답은 (B)입니다. 시범 수업은 면접 대상자에게 요구되는 절차이지 자격 요건이 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is provided to instructors by the school?",
+        "options": [
+          "Health insurance benefits",
+          "Paid vacation days",
+          "Studios, instruments, and printed materials",
+          "Transportation reimbursement"
+        ],
+        "answer": 2,
+        "explanation": "'Teaching studios, instruments, and printed materials are all provided'라고 명시되어 있으므로 교습실, 악기, 인쇄 교재가 학교에서 제공됩니다. 정답은 (C)입니다. 건강보험, 유급휴가, 교통비 지원은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must candidates include with their application?",
+        "options": [
+          "Two letters of recommendation",
+          "A list of references",
+          "A video introduction and a résumé",
+          "Copies of music diplomas"
+        ],
+        "answer": 2,
+        "explanation": "'Send a résumé and a short video introduction to hiring@harmonyhousemusic.com by August 8. Incomplete submissions will not be considered'라고 했으므로 이력서와 짧은 자기소개 영상을 함께 제출해야 하며, 빠진 것이 있으면 검토되지 않습니다. 정답은 (C)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  }
+]
