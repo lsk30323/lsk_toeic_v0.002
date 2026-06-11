@@ -56,7 +56,7 @@ function validate(part, item) {
   if (type === 'LC' && (typeof item.script !== 'string' || !item.script.trim())) errors.push('LC script 누락');
   if ((part === 6 || part === 7) && (typeof item.passage !== 'string' || !item.passage.trim())) errors.push('passage 누락');
   if (part === 5 && item.passage) errors.push('Part 5에 passage 존재');
-  // 빈칸 마커는 ___(3개)와 _______(7개) 표기가 혼재하므로 3개 이상 연속 언더스코어를 모두 허용한다
+  // 빈칸 마커 표준은 _______(7개)이지만, 검사 목적은 "빈칸 존재 여부"이므로 표기 변형에 견고하도록 3개 이상을 허용한다
   if (part === 6 && item.passage && !/_{3,}/.test(item.passage)) errors.push('Part 6 passage에 빈칸 없음');
   // Part 7의 클로즈 빈칸 컨벤션은 7개 언더스코어. 짧은 밑줄(____)은 양식 미기입 필드 재현이므로 허용한다
   if (part === 7 && item.passage && item.passage.includes('_______')) errors.push('Part 7 passage에 빈칸 존재');
