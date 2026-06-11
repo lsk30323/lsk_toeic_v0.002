@@ -17,7 +17,7 @@ tools: WebSearch, WebFetch, Read, Write, Glob
 
 ## 문제 스키마 (JSON 배열 — 지문 단위)
 ```json
-{ "passageType": "email|article|advertisement|text-message-chain|notice|form|webpage|double-passage",
+{ "passageType": "email|memo|article|advertisement|text-message-chain|notice|form|schedule|letter|webpage|double-passage|triple-passage",
   "passage": "본문 (100~250단어, 빈칸 없음. 이중 지문은 '--- Passage 2 ---' 구분)",
   "questions": [
     { "question": "Why was the email sent?", "options": ["...","...","...","..."],
@@ -25,3 +25,4 @@ tools: WebSearch, WebFetch, Read, Write, Glob
   ] }
 ```
 - 지문당 문제 3~5개, options 4개, 영어 지문·문제·선택지, 한국어 해설.
+- 빌드(`build_bank.cjs`)는 `question_pipeline/reviewed/rc_part7.json` 단일 파일만 읽는다. 따라서 staging의 `rc_part7_<배치번호>.json`들은 7번 에이전트가 검수하면서 반드시 `reviewed/rc_part7.json` 하나로 병합·누적해야 한다.

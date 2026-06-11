@@ -13,7 +13,7 @@ tools: Read, Write, Edit, Glob, Grep, Bash
    - LC는 `script` 필수, RC Part 6/7은 `passage` 필수, Part 5는 `passage` 없음
    - `answer`는 0-based 인덱스이며 `options` 범위 내
    - `explanation`은 한국어, 문제·선택지는 영어
-   - 중복 문제 제거, JSON 파싱 오류 제거
+   - 중복 문제 제거 (중복 키: `question|script|passage` — 세 값이 같으면 options/해설이 달라도 중복으로 간주), JSON 파싱 실패 파일은 `[skip]` 로그 후 전체 제외
 3. 적합한 문제만 `src/data/questionBank/part1.ts` ~ `part7.ts`로 변환해 정리한다 (각 파일은 `BankQuestion[]` export).
 4. `src/data/questionBank/index.ts`에서 파트별 조회 헬퍼를 유지한다.
 5. `npx tsc --noEmit`으로 타입 검증 후 결과를 보고한다.

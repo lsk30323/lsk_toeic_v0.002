@@ -20,7 +20,7 @@ Claude Code 에이전트 집합으로 양질의 TOEIC LC/RC 문제를 조사·�
 
 ## 데이터 흐름
 
-```
+```text
 3~6번 (LC 조사)  ──▶ staging/lc_part1~4.json   ──▶ 2번 검수 ──▶ reviewed/lc_part1~4.json ─┐
 8~10번 (RC 조사) ──▶ staging/rc_part5~7*.json  ──▶ 7번 검수 ──▶ reviewed/rc_part5~7.json ─┤
                                                                                           ▼
@@ -29,7 +29,8 @@ Claude Code 에이전트 집합으로 양질의 TOEIC LC/RC 문제를 조사·�
 ```
 
 - 앱은 `getRandomBankQuestion()`(문제 은행)을 우선 사용하고, 은행이 비어 있으면 기존 Gemini 실시간 생성으로 폴백합니다 (`useStudy`, `useExam`).
-- Part 7 staging 파일은 `rc_part7_<배치번호>.json`으로 누적합니다. 2000문제 목표는 10번 에이전트를 배치 반복 실행해 채웁니다.
+- Part 7 staging 파일은 `rc_part7_<배치번호>.json`으로 누적합니다. 2000문제 목표는 10번 에이전트를 배치 반복 실행해 채웁니다. **빌드는 `reviewed/rc_part7.json` 단일 파일만 읽으므로**, 7번 에이전트 검수 시 배치들을 이 파일로 병합·누적해야 합니다.
+- Part 3/4(같은 대화·담화의 문제 3개)와 Part 7(같은 지문의 문제 3~5개)은 각 문제 항목에 script/passage를 **의도적으로 중복 포함**합니다. 앱의 `Question` 인터페이스가 문제 단위로 자급(self-contained)하도록 설계되어 있기 때문입니다.
 - 저작권: ETS 실제 기출 문제의 복제는 금지합니다. 에이전트는 출제 유형·형식을 조사한 뒤 오리지널 문제를 작성합니다.
 
 ## 재실행 방법

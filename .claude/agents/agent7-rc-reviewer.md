@@ -17,4 +17,5 @@ tools: Read, Write, Glob, Grep, WebSearch
 
 ## 출력
 - 검수 통과분만 `question_pipeline/reviewed/rc_part5.json` ~ `rc_part7.json`에 저장.
+- **Part 7 병합 계약**: staging의 `rc_part7_<배치번호>.json` 배치 파일들은 검수 후 반드시 `reviewed/rc_part7.json` 단일 파일로 병합·누적한다 (기존 내용 보존). 빌드 스크립트는 이 파일 하나만 읽는다.
 - 파트별 채택/반려 수와 반려 사유를 요약 보고.

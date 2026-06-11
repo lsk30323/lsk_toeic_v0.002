@@ -84,7 +84,11 @@ for (const [partStr, file] of Object.entries(FILES)) {
       console.error(`[reject] part${part}: ${errors.join(', ')} — "${String(item.question).slice(0, 60)}"`);
       continue;
     }
-    if (seen.has(key)) { rejected++; continue; }
+    if (seen.has(key)) {
+      rejected++;
+      console.warn(`[duplicate] part${part}: "${String(item.question).slice(0, 60)}"`);
+      continue;
+    }
     seen.add(key);
     accepted.push({
       id: `p${part}-${String(accepted.length + 1).padStart(4, '0')}`,
