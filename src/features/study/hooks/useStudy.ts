@@ -1,5 +1,6 @@
 import { useStudyStore } from '../store';
 import { generateQuestion, generateTTS } from '../../../lib/gemini';
+import { getRandomBankQuestion } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
 import { useAuth } from '../../../contexts/AuthContext';
@@ -13,9 +14,10 @@ export function useStudy() {
     store.setAnswer(null);
     store.setShowExplanation(false);
     store.setAudioUrl(null);
-    
+
     try {
-      const q = await generateQuestion(type, subtype);
+      // 검수 완료된 로컬 문제 은행 우선 사용 (API 사용량 절약 + 품질 보장), 없으면 AI 생성 폴백
+      const q = getRandomBankQuestion(type, subtype) ?? await generateQuestion(type, subtype);
       store.setQuestion(q);
       
       // Release loading state after question is ready, even if audio follows

@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+question_pipeline/staging/.*.json
+
+# question pipeline agent scratch files
+question_pipeline/staging/_*.json
+question_pipeline/staging/rc_part7_*_[a-z].json

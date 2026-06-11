@@ -1,0 +1,1406 @@
+[
+  {
+    "passageType": "article",
+    "passage": "SAN MATEO (June 2) — Nimbra Technologies, a logistics startup founded just three years ago, announced on Monday that it has raised $40 million in Series B funding led by Crestpoint Ventures. [1] The company's software uses artificial intelligence to plan delivery routes for small and midsized retailers, cutting fuel costs by an average of 18 percent. [2] Nimbra currently serves about 600 clients across North America and plans to use the new capital to enter European markets early next year. [3] The company will also double its engineering staff, adding roughly 80 positions at its San Mateo headquarters and at a new office in Toronto. [4] Chief Executive Officer Dana Whitfield said the funding round was completed in just six weeks, which she described as a sign of strong investor confidence in the logistics software sector. Industry analysts expect demand for route-optimization tools to continue growing as fuel prices remain high and retailers look for ways to keep delivery promises without raising prices.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the article?",
+        "options": [
+          "To review a new software product for consumers",
+          "To report on a company's recent investment funding",
+          "To announce the merger of two logistics firms",
+          "To explain why fuel prices have increased"
+        ],
+        "answer": 1,
+        "explanation": "기사 첫 문장에서 Nimbra Technologies가 Crestpoint Ventures 주도로 4천만 달러 규모의 시리즈 B 투자를 유치했다고 발표한 내용을 전하고 있습니다. 기사 전체가 이 투자 유치와 자금의 활용 계획을 다루고 있으므로 (B)가 정답입니다. 합병(merger)이나 소비자용 제품 리뷰에 대한 내용은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what does Nimbra Technologies plan to do with the new funding?",
+        "options": [
+          "Acquire a competing startup",
+          "Lower its software subscription fees",
+          "Expand into markets in Europe",
+          "Build its own delivery vehicle fleet"
+        ],
+        "answer": 2,
+        "explanation": "지문 중반에 'plans to use the new capital to enter European markets early next year'라고 명시되어 있어, 새 자금으로 내년 초 유럽 시장에 진출할 계획임을 알 수 있습니다. 경쟁사 인수, 요금 인하, 자체 배송 차량 도입에 대한 언급은 없으므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Several clients have reported even larger savings during peak holiday periods.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 1,
+        "explanation": "삽입 문장은 '일부 고객들은 성수기에 훨씬 더 큰 절감 효과를 보고했다'는 내용으로, 'even larger savings'는 앞에 절감(savings)에 대한 언급이 있어야 자연스럽습니다. [2] 바로 앞 문장에서 연료비를 평균 18% 절감한다고 했으므로, 그 절감 효과를 보충 설명하는 위치인 [2]가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the Series B funding round?",
+        "options": [
+          "It was finalized relatively quickly.",
+          "It was smaller than the company expected.",
+          "It was led by a European investment firm.",
+          "It was Nimbra's first round of outside funding."
+        ],
+        "answer": 0,
+        "explanation": "CEO Dana Whitfield가 'the funding round was completed in just six weeks'라고 말하며 이를 투자자 신뢰의 신호로 표현했습니다. 즉, 투자 라운드가 단 6주 만에 비교적 빠르게 마무리되었음을 시사하므로 (A)가 정답입니다. 시리즈 B는 첫 외부 투자가 아니며, 주도 투자사가 유럽 회사라는 언급도 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "From Checkout Lines to Cooking Classes: Retail Reinvents Itself\n\nWalk into Hartwell & Finch, a department store in downtown Avondale, and you may find a pottery workshop in the homewares section or a wine-tasting event near the food hall. Stores that once relied solely on merchandise sales are increasingly using in-store experiences to draw customers who might otherwise shop online. According to a recent survey by the Avondale Retail Council, 64 percent of shoppers under 40 said they were more likely to visit a store that offered classes, demonstrations, or live events. Retail consultant Priya Raman says the strategy works because experiences cannot be downloaded or delivered. \"A scarf can be bought anywhere,\" she explained, \"but an afternoon learning to knit one is memorable.\" The shift requires investment, however. Hartwell & Finch spent nearly $2 million converting its third floor into an event space, and it now employs four full-time event coordinators. Store director Malcolm Reyes says the spending has paid off: foot traffic has risen 22 percent since the renovation, and sales in adjacent departments have grown as well.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A trend of stores offering activities to attract shoppers",
+          "The closure of traditional department stores",
+          "A rise in online shopping among older consumers",
+          "New government regulations affecting retailers"
+        ],
+        "answer": 0,
+        "explanation": "기사 전체가 매장 내에서 공방, 시음회, 강좌 같은 체험을 제공하여 고객을 끌어들이는 '체험형 소매(experiential retail)' 트렌드를 다루고 있습니다. 매장 폐업, 고령층의 온라인 쇼핑, 정부 규제는 언급되지 않으므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"draw\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "sketch",
+          "attract",
+          "select",
+          "remove"
+        ],
+        "answer": 1,
+        "explanation": "'using in-store experiences to draw customers'에서 draw는 '고객을 끌어들이다'라는 의미로 사용되었습니다. 따라서 '끌어당기다, 유인하다'라는 뜻의 attract가 가장 가깝습니다. sketch(그리다)는 draw의 다른 의미이지만 이 문맥에는 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What did Hartwell & Finch do recently?",
+        "options": [
+          "It opened a second location in Avondale.",
+          "It reduced the size of its food hall.",
+          "It remodeled a floor to host events.",
+          "It began selling products online for the first time."
+        ],
+        "answer": 2,
+        "explanation": "지문 후반에 'Hartwell & Finch spent nearly $2 million converting its third floor into an event space'라고 하여, 3층을 이벤트 공간으로 개조하는 데 약 200만 달러를 들였다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 2호점 개점이나 온라인 판매 개시에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Mr. Reyes, what has happened since the renovation?",
+        "options": [
+          "Event coordinators have been difficult to hire.",
+          "More customers have been visiting the store.",
+          "Online sales have declined sharply.",
+          "The store has extended its opening hours."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 매장 책임자 Malcolm Reyes는 'foot traffic has risen 22 percent since the renovation'이라고 말합니다. foot traffic(방문객 수)이 22% 증가했다는 것은 더 많은 고객이 매장을 방문하고 있다는 뜻이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Eastline Extension to Open Ahead of Schedule\n\nGRANVILLE (March 14) — The Granville Transit Authority (GTA) confirmed yesterday that the long-awaited Eastline light rail extension will open on May 3, nearly two months ahead of schedule. The 9-kilometer extension adds five stations and connects the Riverside business district with the university campus and the regional hospital. Trains will run every six minutes during peak hours and every twelve minutes at other times. GTA spokesperson Olivia Tran credited the early completion to mild winter weather and a decision to prefabricate track sections off-site, which reduced construction time by several months. The project, budgeted at $310 million, came in roughly $12 million under its original estimate. To mark the opening, the GTA will offer free rides on the entire Eastline during the first weekend of service. City officials predict the extension will remove up to 4,000 cars from downtown roads each weekday. Local business owners along the route, who endured two years of construction detours, say they are hopeful the new stations will bring back customers who had been avoiding the area.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To explain delays in a construction project",
+          "To announce the early opening of a rail line extension",
+          "To criticize a transit authority's spending",
+          "To describe a plan to widen downtown roads"
+        ],
+        "answer": 1,
+        "explanation": "기사 첫 문장에서 Eastline 경전철 연장 구간이 예정보다 약 두 달 빨리 5월 3일에 개통된다고 발표한 내용을 전하고 있습니다. 공사 지연이 아니라 조기 개통 소식이므로 (B)가 정답입니다. 예산도 초과가 아닌 절감으로 보도되어 (C)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"run\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "operate",
+          "compete",
+          "escape",
+          "manage"
+        ],
+        "answer": 0,
+        "explanation": "'Trains will run every six minutes'에서 run은 열차가 '운행되다'라는 의미입니다. 따라서 operate(운행하다)가 가장 가까운 뜻입니다. compete(경쟁하다), escape(달아나다), manage(운영하다, 사람이 주어일 때)는 이 문맥에 맞지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Ms. Tran, what helped the project finish early?",
+        "options": [
+          "Hiring additional construction crews",
+          "Reducing the number of planned stations",
+          "Assembling track sections away from the site",
+          "Receiving extra funding from the city"
+        ],
+        "answer": 2,
+        "explanation": "GTA 대변인 Olivia Tran은 조기 완공의 요인으로 온화한 겨울 날씨와 'a decision to prefabricate track sections off-site', 즉 선로 구간을 현장 밖에서 사전 제작한 결정을 꼽았습니다. 이로 인해 공사 기간이 수개월 단축되었다고 했으므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about business owners along the route?",
+        "options": [
+          "They opposed the construction of the extension.",
+          "They experienced disruptions during construction.",
+          "They will receive free advertising at the new stations.",
+          "They plan to relocate closer to the university."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 노선 주변 상인들이 'endured two years of construction detours', 즉 2년간의 공사 우회로 인한 불편을 겪었다고 언급됩니다. 이는 공사 기간 동안 영업에 지장이 있었음을 나타내므로 (B)가 정답입니다. 상인들은 공사에 반대했다기보다 새 역이 손님을 다시 데려오길 기대하고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Suburban Office Market Shows Signs of Recovery, Report Finds\n\nThe quarterly market report released Tuesday by Calloway Property Research paints a mixed picture of the Brackenford metropolitan area's commercial real estate sector. [1] Downtown office vacancy remained high at 21 percent, virtually unchanged from the previous quarter. [2] In contrast, suburban office parks recorded their strongest quarter in five years, with vacancy falling to 11 percent as companies sought smaller, more flexible spaces closer to where employees live. [3] Average asking rents in the suburbs rose 4.2 percent year over year, while downtown rents declined slightly. [4] The report attributes the shift to the continued popularity of hybrid work arrangements, which have reduced demand for large central headquarters. Lead analyst Marcus Obi cautioned, however, that downtown properties with modern amenities are still leasing well. \"Buildings with fitness centers, upgraded ventilation, and conference facilities are outperforming the market,\" he noted. \"It is the older, unrenovated towers that are struggling to find tenants.\" Calloway forecasts that overall vacancy will begin to decline by the middle of next year.",
+    "questions": [
+      {
+        "question": "What is the main topic of the article?",
+        "options": [
+          "Trends in a region's office rental market",
+          "The construction of a new suburban office park",
+          "A rise in residential housing prices",
+          "A proposal to renovate downtown towers"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Calloway Property Research의 분기 보고서를 인용하여 Brackenford 대도시권의 도심 및 교외 사무실 공실률과 임대료 동향을 분석하고 있습니다. 즉, 지역 사무실 임대 시장의 동향이 주제이므로 (A)가 정답입니다. 주거용 부동산이나 특정 건설 사업은 다루지 않습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the report, why have suburban offices become more popular?",
+        "options": [
+          "Suburban rents have fallen significantly.",
+          "Hybrid work has changed companies' space needs.",
+          "New highways have improved suburban access.",
+          "Downtown parking fees have increased."
+        ],
+        "answer": 1,
+        "explanation": "보고서는 이러한 변화를 'the continued popularity of hybrid work arrangements' 때문이라고 분석합니다. 하이브리드 근무로 대형 도심 본사에 대한 수요가 줄고, 기업들이 직원 거주지와 가까운 작고 유연한 공간을 찾게 되었다는 것이므로 (B)가 정답입니다. 교외 임대료는 오히려 4.2% 상승했습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Several large firms there have given up entire floors as their leases expired.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 1,
+        "explanation": "삽입 문장의 'there'는 특정 장소를 가리켜야 하며, 대형 회사들이 층 전체를 포기했다는 내용은 도심의 높은 공실률을 보충 설명합니다. [2] 바로 앞 문장이 도심 공실률이 21%로 높다는 내용이므로, 그 원인을 구체적으로 설명하는 [2]가 가장 자연스럽습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What does Mr. Obi indicate about downtown buildings?",
+        "options": [
+          "They will all be converted into apartments.",
+          "Those with modern features are still attracting tenants.",
+          "They are no longer profitable for any owners.",
+          "Their rents are rising faster than suburban rents."
+        ],
+        "answer": 1,
+        "explanation": "수석 애널리스트 Marcus Obi는 피트니스 센터, 개선된 환기 시설, 회의 시설을 갖춘 건물들은 시장 평균을 상회하는 성과를 내고 있으며, 임차인을 구하기 어려운 것은 오래되고 개보수되지 않은 건물들이라고 말합니다. 즉, 현대적 설비를 갖춘 도심 건물은 여전히 임차인을 끌어들이고 있으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "The Quiet Builder: A Profile of Renata Solis\n\nWhen Renata Solis founded GreenShell Packaging twelve years ago, she worked out of a rented garage with two employees and a single molding machine. Today, the company she leads produces compostable food containers for more than 2,000 restaurants and grocery chains, and it employs over 400 people at plants in Davenport and Kingsbury. Solis, who trained as a chemical engineer, spent her early career at a large plastics manufacturer, where she grew frustrated by the industry's slow response to environmental concerns. She left to develop a plant-fiber container that could break down in a home compost bin within eight weeks. The first two years were difficult; a modest loan from a regional development fund kept the company afloat while Solis refined her manufacturing process. Her persistence paid off when a national salad chain placed an order for five million containers. Despite GreenShell's growth, Solis still reviews product samples herself every Friday morning. \"The day I stop checking the details,\" she says, \"is the day we become ordinary.\" She is currently writing a book about sustainable manufacturing, due out next spring.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To describe the career of a company founder",
+          "To advertise a new line of food containers",
+          "To report on a factory closure in Davenport",
+          "To compare two packaging manufacturers"
+        ],
+        "answer": 0,
+        "explanation": "이 기사는 GreenShell Packaging의 창업자 Renata Solis의 창업 배경, 초기 어려움, 성공 과정과 경영 철학을 소개하는 인물 프로필 기사입니다. 따라서 창업자의 경력을 소개하는 것이 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did Ms. Solis leave her previous employer?",
+        "options": [
+          "She was offered a teaching position.",
+          "She was dissatisfied with the industry's environmental record.",
+          "She wanted to move closer to her family.",
+          "Her division was eliminated in a restructuring."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 Solis는 대형 플라스틱 제조업체에서 일하던 중 'grew frustrated by the industry's slow response to environmental concerns', 즉 업계가 환경 문제에 더디게 대응하는 것에 좌절감을 느껴 퇴사했다고 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"modest\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "humble in manner",
+          "relatively small",
+          "extremely risky",
+          "well publicized"
+        ],
+        "answer": 1,
+        "explanation": "'a modest loan from a regional development fund'에서 modest는 대출의 규모가 '크지 않은, 소박한'이라는 의미로 쓰였습니다. 따라서 relatively small(비교적 작은)이 가장 가깝습니다. humble in manner(겸손한)는 사람의 태도를 나타낼 때의 의미이므로 이 문맥에는 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is mentioned about Ms. Solis's current activities?",
+        "options": [
+          "She inspects product samples weekly.",
+          "She teaches chemical engineering part-time.",
+          "She is planning to sell the company.",
+          "She manages the Kingsbury plant directly."
+        ],
+        "answer": 0,
+        "explanation": "지문 후반에 'Solis still reviews product samples herself every Friday morning'이라고 하여, 회사가 성장한 지금도 매주 금요일 아침마다 직접 제품 샘플을 검토한다고 명시되어 있습니다. 따라서 (A)가 정답입니다. 책을 집필 중이지만 회사 매각이나 강의에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Delivery-Only Kitchens Transform the Restaurant Business\n\nOn a quiet industrial street in Pellworth, a single warehouse houses eleven different restaurants—at least according to the food delivery apps. Inside, cooks prepare burgers, noodle bowls, and breakfast sandwiches for brands that exist only online. These so-called ghost kitchens, which prepare food exclusively for delivery, have seen a surge in numbers over the past three years. Industry tracker MealMetrics estimates that the region now has more than 300 delivery-only brands, up from fewer than 70 in 2023. The appeal for operators is clear: without dining rooms, servers, or prime storefront locations, a new restaurant concept can launch for a fraction of the usual cost. Chef Antonio Reyes, who runs three delivery brands from one kitchen, says he can test a new menu in weeks rather than months. Critics, however, note that the model depends heavily on app commissions, which can consume up to 30 percent of each order. Some operators are responding by building their own ordering websites, hoping to keep more of the revenue and gather customer data themselves.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The growth of restaurants that serve only delivery orders",
+          "A new food safety regulation for warehouses",
+          "The rising cost of restaurant storefronts",
+          "A famous chef opening a fine-dining restaurant"
+        ],
+        "answer": 0,
+        "explanation": "기사는 배달 전용으로 음식을 조리하는 '고스트 키친'의 급증 현상과 그 장점 및 한계를 다루고 있습니다. 지역 내 배달 전용 브랜드가 70개 미만에서 300개 이상으로 늘어난 성장세가 핵심 내용이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"surge\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "rapid increase",
+          "sudden failure",
+          "minor change",
+          "strong objection"
+        ],
+        "answer": 0,
+        "explanation": "'have seen a surge in numbers'에서 surge는 수가 '급증'했다는 의미입니다. 바로 뒤 문장에서 70개 미만에서 300개 이상으로 늘었다는 수치가 이를 뒷받침합니다. 따라서 rapid increase(급격한 증가)가 가장 가까운 의미입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, why do operators find ghost kitchens appealing?",
+        "options": [
+          "They are exempt from local taxes.",
+          "They require less money to start.",
+          "They receive priority placement on delivery apps.",
+          "They can serve customers around the clock."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 식당 운영자들에게 매력적인 이유로 '식당 홀, 서빙 직원, 목 좋은 매장이 필요 없어 일반적인 비용의 일부만으로 새 식당 콘셉트를 시작할 수 있다'고 설명합니다. 즉, 창업 비용이 적게 들기 때문이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why are some operators creating their own ordering websites?",
+        "options": [
+          "To comply with new industry standards",
+          "To offer faster delivery times",
+          "To avoid paying high commissions to apps",
+          "To expand into dine-in service"
+        ],
+        "answer": 2,
+        "explanation": "마지막 부분에서 배달 앱 수수료가 주문당 최대 30%에 달한다는 비판이 언급된 후, 일부 운영자들이 'building their own ordering websites, hoping to keep more of the revenue'라고 설명합니다. 즉, 앱에 내는 높은 수수료를 피하고 수익을 더 많이 확보하기 위해서이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Construction Begins on Meridian Bay Wind Project\n\nPORT ELLISON (April 8) — Crews began installing the first foundations for the Meridian Bay Offshore Wind Project on Monday, marking a major milestone for the largest renewable energy development in the region's history. [1] The project, a joint venture between Helios Renewables and the state energy authority, will eventually include 64 turbines located 25 kilometers off the coast. [2] Once fully operational in 2029, the wind farm is expected to generate enough electricity to power approximately 450,000 homes. [3] The development has also brought economic benefits onshore. A former shipyard in Port Ellison has been converted into an assembly facility, creating about 320 jobs, and local colleges have launched training programs for turbine maintenance technicians. [4] Not everyone has welcomed the project. Some commercial fishing groups have raised concerns about access to traditional fishing grounds during construction. Helios has agreed to fund an independent monitoring program and to suspend certain construction activities during peak fishing seasons. Project director Lena Okafor said the first turbines should begin delivering power to the grid by late next year.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The start of construction on an offshore energy project",
+          "A dispute over electricity prices",
+          "The closure of a shipyard in Port Ellison",
+          "A new ferry route along the coast"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Meridian Bay 해상 풍력 프로젝트의 첫 기초 설치 작업이 시작되었다는 소식을 중심으로 사업 규모, 경제 효과, 우려 사항 등을 다루고 있습니다. 따라서 해상 에너지 프로젝트의 착공 소식을 전하는 (A)가 정답입니다. 조선소는 폐쇄된 것이 아니라 조립 시설로 전환되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what will happen in 2029?",
+        "options": [
+          "The shipyard will reopen for shipbuilding.",
+          "The wind farm will be completely operational.",
+          "A new training college will be built.",
+          "Helios Renewables will merge with the energy authority."
+        ],
+        "answer": 1,
+        "explanation": "지문에 'Once fully operational in 2029, the wind farm is expected to generate enough electricity to power approximately 450,000 homes'라고 명시되어 있습니다. 즉, 2029년에 풍력 발전 단지가 완전 가동될 예정이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"That output would make it the third-largest power source of any kind in the state.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장의 'That output'은 앞에서 언급된 발전량을 가리켜야 합니다. [3] 바로 앞 문장에서 약 45만 가구에 전력을 공급할 수 있는 발전량이 언급되므로, 그 발전량이 주에서 세 번째로 큰 전력원이 될 것이라는 보충 설명이 들어갈 위치는 [3]이 가장 자연스럽습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How has Helios Renewables responded to fishing groups' concerns?",
+        "options": [
+          "By relocating the turbines closer to shore",
+          "By offering the groups shares in the project",
+          "By agreeing to pause some work during busy fishing periods",
+          "By reducing the total number of turbines"
+        ],
+        "answer": 2,
+        "explanation": "지문 후반에 Helios가 독립적인 모니터링 프로그램에 자금을 지원하고 'to suspend certain construction activities during peak fishing seasons', 즉 어업 성수기에는 특정 공사 활동을 중단하기로 합의했다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Kestrel Harbor Unveils $850 Million Expansion Plan\n\nKESTREL HARBOR (May 20) — The Kestrel Harbor Port Authority announced Wednesday an $850 million expansion that will allow the port to handle the new generation of ultra-large container ships. The centerpiece of the plan is the deepening of the main shipping channel from 13 to 16 meters, a project expected to take three years. The port will also add four electric ship-to-shore cranes, extend its busiest berth by 350 meters, and build a rail yard connecting the terminal directly to the national freight network. Port director Samuel Adeyemi said the upgrades are essential to remain competitive. \"Vessels are getting larger every year,\" he said. \"Ports that cannot accommodate them will simply be bypassed.\" The port currently processes about 2.1 million containers annually, a figure the authority projects will rise to 3.4 million within a decade of the project's completion. Funding will come from a combination of federal infrastructure grants, port revenue bonds, and contributions from shipping lines that have signed long-term terminal leases. Construction of the rail yard is scheduled to begin this autumn, with channel dredging to follow next spring.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the article?",
+        "options": [
+          "To report on a port's plans for a major upgrade",
+          "To announce a delay in channel dredging",
+          "To describe a labor dispute at a shipping terminal",
+          "To explain new customs procedures for importers"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Kestrel Harbor 항만청이 발표한 8억 5천만 달러 규모의 확장 계획, 즉 수로 준설, 크레인 추가, 부두 연장, 철도 야적장 건설 등을 소개하고 있습니다. 항만의 대규모 개선 계획을 보도하는 것이 목적이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"handle\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "touch",
+          "accommodate",
+          "negotiate",
+          "repair"
+        ],
+        "answer": 1,
+        "explanation": "'allow the port to handle the new generation of ultra-large container ships'에서 handle은 초대형 컨테이너선을 '수용하다, 처리하다'라는 의미입니다. 뒤에서 Adeyemi 이사가 'Ports that cannot accommodate them'이라고 같은 의미로 표현한 것에서도 확인됩니다. 따라서 accommodate가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as part of the expansion plan?",
+        "options": [
+          "Making the shipping channel deeper",
+          "Building a connection to the rail network",
+          "Constructing a new passenger terminal",
+          "Installing electric cranes"
+        ],
+        "answer": 2,
+        "explanation": "확장 계획에는 수로를 13m에서 16m로 준설하는 것, 전기 크레인 4대 추가, 부두 350m 연장, 국가 화물 철도망과 연결되는 철도 야적장 건설이 포함됩니다. 여객 터미널 건설은 언급되지 않았으므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen first according to the schedule?",
+        "options": [
+          "The shipping channel will be dredged.",
+          "Work on the rail yard will begin.",
+          "The busiest berth will be extended.",
+          "New terminal leases will be signed."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 'Construction of the rail yard is scheduled to begin this autumn, with channel dredging to follow next spring'이라고 했습니다. 철도 야적장 공사가 올가을에 먼저 시작되고 수로 준설은 내년 봄에 뒤따르므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Against the Odds, Independent Bookstores Multiply\n\nA decade ago, many publishing analysts predicted the end of the neighborhood bookstore. Instead, the opposite has happened: the National Booksellers Alliance reports that its membership has grown for seven consecutive years, reaching 2,840 stores—the highest number since 2008. The new generation of shops looks different from the past. Most carry a smaller, carefully chosen selection of titles rather than attempting to stock everything, and many supplement book sales with cafés, stationery, and ticketed author events. Marguerite Allen, who opened Fernwood Books in Calder Heights last year, says her store survives on community connection. \"Customers can find any book online, often cheaper,\" she admitted. \"What they cannot find online is a person who remembers what they read last month and knows what they should read next.\" Publishers have taken notice of the revival. Several major houses now send authors on tours exclusively to independent stores, and one publisher recently introduced a program offering independents higher discounts on debut novels. Analysts caution that rising commercial rents remain the greatest threat to the trend, particularly in large cities.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The unexpected growth of small bookstores",
+          "A merger between two large publishers",
+          "The declining popularity of author events",
+          "New technology used in online book sales"
+        ],
+        "answer": 0,
+        "explanation": "기사는 동네 서점이 사라질 것이라는 예측과 달리 독립 서점 수가 7년 연속 증가하여 2008년 이후 최고치를 기록했다는 내용을 다루고 있습니다. 독립 서점의 예상 밖 성장이 주제이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"carry\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "transport",
+          "stock",
+          "support",
+          "lift"
+        ],
+        "answer": 1,
+        "explanation": "'Most carry a smaller, carefully chosen selection of titles'에서 carry는 상점이 상품을 '취급하다, 갖춰 놓다'라는 의미로 쓰였습니다. 같은 문장의 'rather than attempting to stock everything'에서 stock이 동일한 의미로 사용된 것이 단서입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Ms. Allen, what advantage do physical bookstores offer?",
+        "options": [
+          "Lower prices than online retailers",
+          "Faster delivery of rare titles",
+          "Personalized recommendations from staff",
+          "A wider selection of books"
+        ],
+        "answer": 2,
+        "explanation": "Allen은 온라인에서 책을 더 싸게 살 수 있다는 점을 인정하면서도, 온라인에서 찾을 수 없는 것은 '지난달에 무엇을 읽었는지 기억하고 다음에 무엇을 읽어야 할지 아는 사람'이라고 말합니다. 즉, 직원의 개인 맞춤형 추천이 서점의 강점이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What do analysts identify as the biggest risk to independent bookstores?",
+        "options": [
+          "Competition from secondhand book sales",
+          "Increasing rental costs",
+          "A shortage of new authors",
+          "Reduced discounts from publishers"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 'Analysts caution that rising commercial rents remain the greatest threat to the trend'라고 명시합니다. 즉, 상승하는 상업 임대료가 가장 큰 위협이므로 (B)가 정답입니다. 출판사들은 오히려 독립 서점에 더 높은 할인을 제공하는 프로그램을 도입했습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Silver Pine Studios Opens Its Doors in Marbury\n\nMARBURY (Feb. 27) — After eighteen months of construction, Silver Pine Studios officially opened on Friday, giving the region its first full-service film production facility. [1] The 14-hectare campus includes six soundstages, a water tank for marine filming, workshops for set construction, and post-production editing suites. [2] State officials have worked for years to attract film production, most notably by introducing a tax credit in 2024 that reimburses studios for up to 25 percent of qualified local spending. [3] The strategy appears to be working: two television series and a feature film have already booked space at Silver Pine through the end of next year. [4] Studio president Carmen Duval estimates that a single television production can employ 200 local workers, from carpenters and electricians to caterers and drivers. To prepare residents for these jobs, Marbury Community College has begun offering certificate courses in lighting, sound recording, and set design. Local hotel and restaurant owners are equally optimistic, recalling that a film crew that visited the area two years ago booked more than 3,000 room nights in a single summer.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To review a recently released feature film",
+          "To report the opening of a film production facility",
+          "To announce auditions for a television series",
+          "To describe changes to a college's admission policy"
+        ],
+        "answer": 1,
+        "explanation": "기사는 18개월의 공사 끝에 Silver Pine Studios가 공식 개관하여 지역 최초의 종합 영화 제작 시설이 생겼다는 소식을 전하고 있습니다. 따라서 영화 제작 시설의 개관 보도가 목적이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did the state government do in 2024?",
+        "options": [
+          "It purchased land for the studio campus.",
+          "It created a financial incentive for film productions.",
+          "It opened a film school in Marbury.",
+          "It hosted an international film festival."
+        ],
+        "answer": 1,
+        "explanation": "지문에 주 정부가 영화 제작 유치를 위해 'introducing a tax credit in 2024 that reimburses studios for up to 25 percent of qualified local spending'이라고 명시되어 있습니다. 즉, 2024년에 지역 지출의 최대 25%를 환급해 주는 세액 공제라는 재정적 인센티브를 도입했으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"It is the largest such complex within 500 kilometers.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 1,
+        "explanation": "삽입 문장의 'such complex'는 앞에서 묘사된 시설 단지를 가리킵니다. [2] 바로 앞 문장에서 6개의 사운드스테이지, 수중 촬영용 수조 등 14헥타르 규모의 캠퍼스 구성이 설명되므로, 이 단지가 500km 이내에서 가장 크다는 보충 설명이 들어갈 자리는 [2]가 가장 자연스럽습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why are local hotel owners optimistic?",
+        "options": [
+          "A previous film crew generated significant business.",
+          "The studio will reserve rooms for its staff year-round.",
+          "Tourists are expected to visit the soundstages.",
+          "The tax credit also applies to hotels."
+        ],
+        "answer": 0,
+        "explanation": "마지막 문장에서 호텔과 식당 주인들이 낙관하는 이유로, 2년 전 이 지역을 방문한 영화 촬영팀이 한 여름에만 3,000박 이상의 객실을 예약했던 일을 기억하기 때문이라고 설명합니다. 과거 촬영팀이 상당한 매출을 가져다준 경험이 있으므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE\n\nLumenPath Learning Reaches One Million Users, Adds Career Coaching Feature\n\nBRIDGEWATER (May 5) — LumenPath Learning, the workplace-skills training startup, announced today that its mobile application has surpassed one million registered users, doubling its user base in under a year. The company also unveiled LumenPath Compass, a new feature that pairs subscribers with certified career coaches for monthly video sessions. Founded four years ago by former corporate trainer Yusuf Demir, LumenPath offers short, interactive courses in subjects such as data analysis, public speaking, and project management. Courses are designed to be completed in sessions of fifteen minutes or less, a format the company says fits the schedules of working professionals. The basic course library remains complimentary for all users; the new coaching feature will be included in the premium plan, which costs $19 per month. To celebrate the milestone, LumenPath will offer current subscribers a complimentary coaching session during the month of June. \"Reaching one million users tells us that people want to keep learning throughout their careers,\" Demir said. \"Compass gives them a human guide for that journey.\" The company, which employs 75 people, plans to release Spanish and Korean versions of the app by December.",
+    "questions": [
+      {
+        "question": "What is the purpose of the press release?",
+        "options": [
+          "To recruit certified career coaches",
+          "To announce a user milestone and a new feature",
+          "To explain a price increase for all users",
+          "To introduce a new chief executive"
+        ],
+        "answer": 1,
+        "explanation": "보도자료는 LumenPath의 앱 등록 사용자가 100만 명을 돌파했다는 소식과 함께 경력 코칭 기능인 LumenPath Compass의 출시를 발표하고 있습니다. 사용자 수 기록 달성과 신기능 발표가 목적이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about LumenPath's courses?",
+        "options": [
+          "They are intended to be finished in short sessions.",
+          "They are available only to corporate clients.",
+          "They require an in-person examination.",
+          "They focus exclusively on data analysis."
+        ],
+        "answer": 0,
+        "explanation": "지문에서 강좌들이 'designed to be completed in sessions of fifteen minutes or less', 즉 15분 이내의 세션으로 끝낼 수 있도록 설계되어 직장인의 일정에 맞는 형식이라고 설명합니다. 따라서 (A)가 정답입니다. 데이터 분석은 여러 과목 중 하나일 뿐입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"complimentary\" in paragraph 2 is closest in meaning to",
+        "options": [
+          "flattering",
+          "free of charge",
+          "optional",
+          "additional"
+        ],
+        "answer": 1,
+        "explanation": "'The basic course library remains complimentary for all users'에서 complimentary는 '무료의'라는 의미입니다. 유료인 프리미엄 요금제($19/월)와 대비되는 문맥이 단서입니다. flattering(칭찬하는)은 complimentary의 다른 의미이지만 이 문맥에는 맞지 않으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does LumenPath plan to do by December?",
+        "options": [
+          "Open offices in Spain and Korea",
+          "Hire 75 additional employees",
+          "Make the app available in two more languages",
+          "Reduce the price of the premium plan"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 회사가 'plans to release Spanish and Korean versions of the app by December'라고 명시합니다. 12월까지 앱의 스페인어판과 한국어판, 즉 두 개 언어 버전을 추가로 출시할 계획이므로 (C)가 정답입니다. 해외 사무소 개설이 아니라 언어 버전 출시임에 유의해야 합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Grab and Go: Checkout-Free Stores Arrive in Welton\n\nShoppers at the new QuickShelf market on Danforth Avenue will notice something missing: cash registers. The store, which opened last week, uses ceiling-mounted cameras and weighted shelves to track which items each customer picks up. Shoppers scan a code on their phones when they enter, gather what they need, and simply walk out; a receipt arrives by e-mail minutes later. QuickShelf is the first checkout-free store in Welton, but it is unlikely to be the last. Its parent company, Arden Retail Group, plans to convert four more of its small-format stores to the technology by next summer. Company representatives say the system reduces waiting times and allows employees to spend more time restocking shelves and assisting customers. Not all shoppers are convinced. Some have expressed concern about how long the company keeps video data, while others simply prefer paying with cash, which the format does not accept. In response, Arden announced that one staffed counter will be added to each converted store for customers who want traditional service. The company says purchase records are deleted after ninety days and are never sold to outside firms.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A store that operates without traditional checkouts",
+          "A new e-mail marketing campaign",
+          "Rising grocery prices in Welton",
+          "A security camera company's expansion"
+        ],
+        "answer": 0,
+        "explanation": "기사는 계산대 없이 카메라와 무게 감지 선반으로 구매를 추적하는 무인 계산 매장 QuickShelf의 개점과 확대 계획, 소비자 반응을 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"track\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "chase",
+          "record",
+          "race",
+          "deliver"
+        ],
+        "answer": 1,
+        "explanation": "'to track which items each customer picks up'에서 track은 고객이 어떤 상품을 집었는지 '기록하고 파악하다'라는 의미입니다. 따라서 record(기록하다)가 가장 가깝습니다. chase(뒤쫓다)는 물리적으로 추격한다는 뜻이므로 문맥에 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the article, what will Arden Retail Group do by next summer?",
+        "options": [
+          "Close its Danforth Avenue location",
+          "Begin accepting cash at QuickShelf",
+          "Introduce the technology at four more stores",
+          "Sell its video data to technology firms"
+        ],
+        "answer": 2,
+        "explanation": "지문에서 모회사인 Arden Retail Group이 'plans to convert four more of its small-format stores to the technology by next summer'라고 명시합니다. 내년 여름까지 소형 매장 4곳을 추가로 무인 계산 방식으로 전환할 계획이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How has Arden responded to customer concerns?",
+        "options": [
+          "By installing more cameras in each store",
+          "By promising to add a staffed counter at converted stores",
+          "By offering discounts to frequent shoppers",
+          "By delaying the conversion of other stores"
+        ],
+        "answer": 1,
+        "explanation": "일부 고객이 영상 데이터 보관과 현금 결제 불가에 우려를 표하자, Arden은 'one staffed counter will be added to each converted store'라고 발표했습니다. 전통적인 서비스를 원하는 고객을 위해 직원이 있는 계산대를 추가하기로 했으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Dunmore to Replace Entire Bus Fleet with Electric Models\n\nDUNMORE (Jan. 22) — The Dunmore City Council voted unanimously on Tuesday to replace all 140 of the city's diesel buses with battery-electric models over the next six years. [1] The first 25 electric buses will arrive in September and will operate on downtown routes, where officials say the reduction in exhaust and noise will be most noticeable. [2] The transition will cost an estimated $190 million, with about 40 percent covered by a federal clean-transit grant awarded last fall. [3] To support the new fleet, the city will build charging stations at both bus depots and install fast chargers at three major terminals. [4] Transit director Howard Nakamura acknowledged that electric buses cost roughly twice as much as diesel models up front but said they are cheaper to operate. \"Fuel and maintenance savings add up to about $40,000 per bus each year,\" he explained. \"Over a twelve-year service life, the economics clearly favor electric.\" The council also approved funds to retrain the city's 60 bus mechanics, who will complete a certification course in high-voltage systems at Dunmore Technical Institute.",
+    "questions": [
+      {
+        "question": "What did the Dunmore City Council recently decide?",
+        "options": [
+          "To raise bus fares on downtown routes",
+          "To convert the city's bus fleet to electric vehicles",
+          "To reduce the number of bus routes",
+          "To privatize the city's transit system"
+        ],
+        "answer": 1,
+        "explanation": "기사 첫 문장에서 시의회가 시의 디젤 버스 140대 전부를 향후 6년에 걸쳐 배터리 전기 버스로 교체하기로 만장일치로 의결했다고 보도하고 있습니다. 따라서 (B)가 정답입니다. 요금 인상이나 노선 축소, 민영화는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The remaining cost will be financed through municipal bonds.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장은 '나머지 비용은 지방채로 조달될 것'이라는 내용으로, 'The remaining cost'는 앞에 전체 비용과 일부 재원에 대한 언급이 있어야 합니다. [3] 바로 앞 문장에서 총 1억 9천만 달러 중 약 40%가 연방 보조금으로 충당된다고 했으므로, 나머지 60%의 조달 방법을 설명하는 위치인 [3]이 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Mr. Nakamura, what is a disadvantage of electric buses?",
+        "options": [
+          "They have a shorter service life.",
+          "They require more frequent maintenance.",
+          "They have a higher purchase price.",
+          "They cannot operate in cold weather."
+        ],
+        "answer": 2,
+        "explanation": "Nakamura 교통국장은 전기 버스가 'cost roughly twice as much as diesel models up front', 즉 초기 구매 가격이 디젤 모델의 약 두 배라고 인정했습니다. 다만 운영비가 저렴해 장기적으로는 경제적이라고 설명합니다. 따라서 단점은 높은 구매 가격이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will the city's bus mechanics do?",
+        "options": [
+          "Transfer to the federal transit agency",
+          "Complete training on high-voltage systems",
+          "Build charging stations at the depots",
+          "Test the first electric buses in September"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 시의 정비사 60명이 Dunmore Technical Institute에서 'a certification course in high-voltage systems', 즉 고전압 시스템 자격 과정을 이수할 것이라고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Rental Market Cools After Two Years of Record Growth\n\nApartment hunters in the Sarsfield metropolitan area are finally getting some relief. According to the spring housing report from Tollman Analytics, the average monthly rent for a one-bedroom apartment fell 1.8 percent over the past quarter, the first decline in nearly three years. The change follows a steep rise in rents that began in 2024, when the average one-bedroom price climbed almost 22 percent in a single year. Analysts attribute the cooling primarily to a wave of new construction: more than 9,000 apartment units were completed in the metro area last year, the most in its history, and another 6,500 are scheduled for completion by December. \"When tenants have choices, landlords have to compete,\" said Tollman senior economist Farah Hadid. The report notes that many property managers are now offering incentives that were rare two years ago, such as one month of free rent or waived parking fees. Renters should not expect dramatic drops, however. Hadid predicts that prices will remain roughly flat through next year, since the region continues to add jobs and attract new residents. Suburban rents, the report adds, have been slower to decline than those in the city center.",
+    "questions": [
+      {
+        "question": "What is the main finding of the Tollman Analytics report?",
+        "options": [
+          "Apartment rents have started to decrease.",
+          "Home purchase prices reached a record high.",
+          "Construction of new apartments has stopped.",
+          "Suburban rents are falling faster than city rents."
+        ],
+        "answer": 0,
+        "explanation": "보고서의 핵심 내용은 원룸 아파트 평균 월세가 지난 분기에 1.8% 하락하여 거의 3년 만에 처음으로 떨어졌다는 것입니다. 따라서 (A)가 정답입니다. 교외 임대료는 도심보다 더디게 하락하고 있다고 했으므로 (D)는 반대 내용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"steep\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "sharp",
+          "sloped",
+          "expensive",
+          "gradual"
+        ],
+        "answer": 0,
+        "explanation": "'a steep rise in rents'에서 steep은 상승폭이 '가파른, 급격한'이라는 의미입니다. 한 해에 22% 가까이 올랐다는 뒤의 설명이 단서입니다. 따라서 sharp(급격한)가 가장 가깝습니다. gradual(점진적인)은 반대 의미이고, sloped는 물리적 경사를 뜻합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What do analysts say caused rents to cool?",
+        "options": [
+          "A decline in the local job market",
+          "A large number of newly built apartments",
+          "New government limits on rent increases",
+          "Rising interest in home ownership"
+        ],
+        "answer": 1,
+        "explanation": "분석가들은 임대료 안정의 주된 원인을 'a wave of new construction'으로 보고 있습니다. 지난해 9,000세대 이상이 완공되어 사상 최다를 기록했고 추가로 6,500세대가 12월까지 완공될 예정입니다. 공급 증가로 임대인 간 경쟁이 생겼다는 것이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Ms. Hadid predict for next year?",
+        "options": [
+          "Rents will rise sharply again.",
+          "Rents will stay about the same.",
+          "Many landlords will sell their buildings.",
+          "Construction will double in the suburbs."
+        ],
+        "answer": 1,
+        "explanation": "Hadid는 'prices will remain roughly flat through next year'라고 예측합니다. 지역에 일자리와 신규 주민이 계속 유입되고 있어 큰 폭의 하락은 없겠지만, 임대료가 내년까지 대체로 보합세를 유지할 것이라는 전망이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "From One Oven to Forty Shops: The Rise of Beatrice Okonkwo\n\nWhen customers line up outside any of the forty Honeywheat Bakery locations across the country, few know that the chain began with a single secondhand oven in a market stall. Beatrice Okonkwo, the company's founder and chief executive, started selling sourdough loaves at the Elmsworth weekend market fourteen years ago while working weekdays as an accountant. Her breads developed a loyal following, and within two years she had left her accounting job to open a permanent shop. Growth, she insists, was never the goal. \"I only opened a second location because the first one had a line out the door every morning,\" she recalled in a recent interview. Okonkwo is known for an unusual expansion rule: Honeywheat opens a new shop only after it has trained a head baker internally for at least eighteen months. The policy slows growth but, she argues, protects quality. The approach has attracted attention beyond the food world; last month, Okonkwo was invited to lecture on sustainable expansion at the Calder Business School. She is also piloting a program that donates unsold bread to community kitchens, now active in twelve cities.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The history of a popular weekend market",
+          "How a business owner built a bakery chain",
+          "A new accounting course at a business school",
+          "A national contest for bread bakers"
+        ],
+        "answer": 1,
+        "explanation": "기사는 시장 좌판의 중고 오븐 하나로 시작해 전국 40개 매장의 베이커리 체인을 일군 창업자 Beatrice Okonkwo의 성장 과정과 경영 원칙을 소개하는 인물 기사입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did Ms. Okonkwo do before opening her first shop?",
+        "options": [
+          "She taught baking classes.",
+          "She managed a community kitchen.",
+          "She worked as an accountant.",
+          "She supplied bread to restaurants."
+        ],
+        "answer": 2,
+        "explanation": "지문에서 Okonkwo는 14년 전 주말 시장에서 빵을 팔면서 'working weekdays as an accountant', 즉 평일에는 회계사로 일했다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is unusual about Honeywheat's expansion policy?",
+        "options": [
+          "New shops open only in cities with markets.",
+          "A new shop requires a baker trained within the company.",
+          "Each location must be approved by customers.",
+          "Shops are opened only during the summer."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 Honeywheat는 '내부에서 최소 18개월간 수석 제빵사를 훈련시킨 후에만 새 매장을 연다'는 독특한 확장 규칙으로 알려져 있다고 설명합니다. 성장은 느려지지만 품질을 지키는 정책이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"piloting\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "flying",
+          "testing",
+          "canceling",
+          "steering"
+        ],
+        "answer": 1,
+        "explanation": "'She is also piloting a program that donates unsold bread'에서 piloting은 프로그램을 '시범 운영하다'라는 의미입니다. 따라서 testing(시험하다)이 가장 가깝습니다. flying(비행하다)과 steering(조종하다)은 pilot의 다른 의미로 이 문맥에는 맞지 않습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Local Farms Find a Seat at the Table\n\nAt Juniper House, one of Glenbrook's most popular restaurants, the menu changes almost weekly. The reason hangs on the dining room wall: a chalkboard listing the seven nearby farms that supplied that day's ingredients. [1] Juniper House is part of a growing movement among area restaurants to buy directly from local growers rather than through national distributors. [2] The Glenbrook Restaurant Association estimates that 38 of its 110 member restaurants now source at least a quarter of their ingredients from farms within 80 kilometers, up from just nine restaurants five years ago. [3] Chefs say the approach delivers fresher food and stronger menus, though it requires flexibility. \"If the spinach crop fails, we rewrite the menu that morning,\" said Juniper House head chef Tomás Ferreira. [4] The arrangement benefits farmers as well. Hollis Creek Farm, which once sold exclusively at weekend markets, now earns 60 percent of its revenue from restaurant contracts, allowing it to hire two full-time employees. To strengthen these connections, the restaurant association will launch a monthly matchmaking event this fall where chefs and growers can meet and negotiate seasonal agreements.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "Restaurants buying ingredients from nearby farms",
+          "A cooking competition between local chefs",
+          "Rising food prices at weekend markets",
+          "A restaurant that is changing its name"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Glenbrook 지역 식당들이 전국 유통업체 대신 인근 농장에서 직접 식재료를 구매하는 움직임이 확산되고 있다는 내용을 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"That number is expected to keep climbing as more growers expand their delivery capacity.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장의 'That number'는 앞에 언급된 수치를 가리켜야 합니다. [3] 바로 앞 문장에서 110개 회원 식당 중 38곳이 지역 농산물을 사용한다는 수치(5년 전 9곳에서 증가)가 제시되므로, 그 수가 계속 늘어날 것이라는 전망이 들어갈 자리는 [3]이 가장 자연스럽습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Mr. Ferreira, what challenge does buying locally create?",
+        "options": [
+          "Higher ingredient costs",
+          "The need to change menus on short notice",
+          "Longer delivery times",
+          "Difficulty meeting safety standards"
+        ],
+        "answer": 1,
+        "explanation": "Ferreira 수석 셰프는 '시금치 작황이 나쁘면 그날 아침에 메뉴를 다시 쓴다'고 말하며, 지역 농산물 구매에는 유연성이 필요하다고 설명합니다. 즉, 갑작스럽게 메뉴를 바꿔야 하는 어려움이 있으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will the restaurant association do in the fall?",
+        "options": [
+          "Publish a directory of local farms",
+          "Offer cooking classes to farmers",
+          "Hold regular events connecting chefs with growers",
+          "Open a new restaurant in Glenbrook"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 식당 협회가 올가을에 'a monthly matchmaking event'를 시작하여 셰프와 재배 농가가 만나 계절 계약을 협상할 수 있게 할 것이라고 했습니다. 셰프와 농가를 연결하는 정기 행사를 연다는 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE\n\nHeliotek to Build Solar Panel Factory in Darrow County\n\nDARROW COUNTY (March 30) — Heliotek Industries announced today that it will construct a $620 million solar panel manufacturing plant on a 90-hectare site near the town of Lowfield, with production scheduled to begin in early 2028. The facility will produce next-generation thin-film panels and is expected to employ 1,100 workers at full capacity, making Heliotek the county's second-largest private employer. The company selected Darrow County after a two-year search that considered 14 locations in five states. County officials credited the area's existing rail connections, available workforce, and a recently approved property tax abatement for securing the project. As part of the agreement, Heliotek has committed to filling at least 70 percent of positions with county residents and will partner with Darrow Technical College to create a manufacturing certificate program beginning this autumn. Hiring for the first 200 positions, primarily in construction management and engineering, will begin in July. \"Demand for domestically produced panels has never been stronger,\" said Heliotek president Joanne Park. \"This plant lets us shorten delivery times for customers across the entire region.\" Site preparation is expected to begin within sixty days.",
+    "questions": [
+      {
+        "question": "What is the purpose of the press release?",
+        "options": [
+          "To announce plans for a new manufacturing facility",
+          "To report record sales of solar panels",
+          "To introduce a new line of thin-film panels",
+          "To explain a delay in a construction project"
+        ],
+        "answer": 0,
+        "explanation": "보도자료는 Heliotek Industries가 Darrow County에 6억 2천만 달러 규모의 태양광 패널 제조 공장을 건설한다는 계획을 발표하는 내용입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the press release, why did Heliotek choose Darrow County?",
+        "options": [
+          "It is close to the company's headquarters.",
+          "It offered tax benefits and good rail access.",
+          "It has the lowest wages in the region.",
+          "It already hosts several solar companies."
+        ],
+        "answer": 1,
+        "explanation": "카운티 관계자들은 프로젝트 유치 요인으로 '기존 철도 연결망, 가용 노동력, 최근 승인된 재산세 감면'을 꼽았습니다. 즉, 세제 혜택과 철도 접근성이 선정 이유에 포함되므로 (B)가 정답입니다. 낮은 임금이나 본사와의 거리는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What has Heliotek agreed to do?",
+        "options": [
+          "Donate solar panels to county schools",
+          "Hire most of its workers from the local area",
+          "Build a new rail line to the site",
+          "Complete construction within sixty days"
+        ],
+        "answer": 1,
+        "explanation": "협약의 일환으로 Heliotek는 'filling at least 70 percent of positions with county residents', 즉 일자리의 최소 70%를 카운티 주민으로 채우기로 약속했습니다. 따라서 (B)가 정답입니다. 60일 이내에 시작되는 것은 부지 정리 작업이지 공사 완료가 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen in July?",
+        "options": [
+          "The factory will begin producing panels.",
+          "The certificate program will start at the college.",
+          "Recruitment for the first jobs will begin.",
+          "The property tax abatement will expire."
+        ],
+        "answer": 2,
+        "explanation": "지문에 'Hiring for the first 200 positions ... will begin in July'라고 명시되어 있습니다. 7월에는 건설 관리 및 엔지니어링 분야를 중심으로 첫 200개 일자리에 대한 채용이 시작되므로 (C)가 정답입니다. 생산 시작은 2028년 초, 자격 과정은 올가을 시작 예정입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Carrowgate Airport Breaks Ground on Terminal C\n\nCARROWGATE (June 1) — With a ceremonial turn of a shovel on Friday, officials launched construction of Terminal C at Carrowgate Regional Airport, the facility's largest expansion since it opened in 1987. The $475 million terminal will add 16 gates, increasing the airport's capacity by roughly five million passengers per year. The project responds to a decade of steady growth: passenger numbers at Carrowgate have nearly doubled since 2016, and two international carriers began service there last year. Airport director Felicia Mwangi said the new terminal was designed with travelers' most common complaints in mind. Security screening lanes will be tripled, and the design places gates no more than an eight-minute walk from the checkpoint. The terminal will also feature a rooftop garden, locally owned restaurants rather than national chains, and a dedicated area for travelers with young children. During the three-year construction period, the airport will remain fully operational, though officials warn that the long-term parking lot nearest the site will close in August. A free shuttle will connect a newly opened overflow lot to all terminals every ten minutes. Terminal C is scheduled to welcome its first passengers in mid-2029.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The start of an airport expansion project",
+          "The arrival of a new international airline",
+          "Changes to airport security procedures",
+          "The renovation of an airport parking garage"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Carrowgate 지역 공항에서 1987년 개항 이래 최대 확장 사업인 터미널 C의 착공식이 열렸다는 소식을 전하고 있습니다. 따라서 (A)가 정답입니다. 보안 절차나 주차장 개보수가 핵심 주제가 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is the airport being expanded?",
+        "options": [
+          "Its passenger traffic has grown significantly.",
+          "Its original terminal is being demolished.",
+          "It is merging with another regional airport.",
+          "It lost a contract with a national restaurant chain."
+        ],
+        "answer": 0,
+        "explanation": "지문에서 이 프로젝트는 '10년간의 꾸준한 성장에 대응하는 것'으로, 2016년 이후 승객 수가 거의 두 배가 되었고 작년에 국제 항공사 두 곳이 취항했다고 설명합니다. 즉, 승객 수의 큰 증가가 확장의 이유이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a feature of Terminal C?",
+        "options": [
+          "A garden on the roof",
+          "Restaurants run by local owners",
+          "An area designed for families with children",
+          "A direct rail link to downtown"
+        ],
+        "answer": 3,
+        "explanation": "터미널 C의 특징으로 옥상 정원, 전국 체인이 아닌 지역 소유 식당, 어린 자녀 동반 여행객 전용 공간, 3배로 늘어난 보안 검색대 등이 언급됩니다. 도심과의 직통 철도 연결은 언급되지 않았으므로 (D)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen in August?",
+        "options": [
+          "Terminal C will open to passengers.",
+          "A parking lot near the construction site will close.",
+          "The free shuttle service will end.",
+          "Two international carriers will begin service."
+        ],
+        "answer": 1,
+        "explanation": "지문 후반에 'the long-term parking lot nearest the site will close in August'라고 명시되어 있습니다. 8월에는 공사 현장에서 가장 가까운 장기 주차장이 폐쇄되므로 (B)가 정답입니다. 터미널 C 개장은 2029년 중반 예정입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Listeners Drive Publishing's Fastest-Growing Format\n\nFor the eleventh consecutive year, audiobooks were the fastest-growing segment of the publishing industry, according to the annual report released Monday by the Publishers Data Consortium. [1] Audiobook revenue rose 14 percent last year, while print sales grew just 1 percent and e-book sales were flat. [2] The report links the growth to commuting and exercise habits; nearly half of surveyed listeners said they play audiobooks primarily while driving or working out. [3] The boom has changed how books are produced. Major publishers now record many titles in audio at the same time as the print edition, rather than months later, and some popular narrators have become selling points in their own right, with their names featured on covers. [4] The growth has also created opportunities for smaller players. Regional recording studios report full bookings, and several universities have added audiobook narration to their drama program curricula. Consortium analyst Devon Marsh cautioned that the format still represents only 11 percent of total industry revenue. \"Audio is the engine of growth,\" he said, \"but print remains the body of the business.\"",
+    "questions": [
+      {
+        "question": "What does the Publishers Data Consortium report indicate?",
+        "options": [
+          "E-book sales increased sharply last year.",
+          "Audiobooks grew faster than other formats.",
+          "Print books are no longer profitable.",
+          "Publishing revenue declined overall."
+        ],
+        "answer": 1,
+        "explanation": "보고서에 따르면 오디오북은 11년 연속 출판 산업에서 가장 빠르게 성장한 부문으로, 지난해 매출이 14% 증가한 반면 종이책은 1% 성장, 전자책은 보합이었습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"In those situations, holding a printed book is simply not practical.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장의 'In those situations'는 앞에 구체적인 상황 묘사가 있어야 합니다. [3] 바로 앞 문장에서 청취자의 절반 가까이가 운전이나 운동 중에 오디오북을 듣는다고 했으므로, 그런 상황에서는 종이책을 들고 있을 수 없다는 설명이 이어지는 [3]이 가장 자연스럽습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the article, how has book production changed?",
+        "options": [
+          "Audio versions are often recorded alongside print editions.",
+          "Most books are now released only in audio format.",
+          "Narrators are no longer credited on covers.",
+          "Publishers have stopped printing popular titles."
+        ],
+        "answer": 0,
+        "explanation": "지문에서 주요 출판사들이 이제 많은 책의 오디오판을 종이책 출간 몇 달 후가 아니라 'at the same time as the print edition', 즉 동시에 녹음한다고 설명합니다. 따라서 (A)가 정답입니다. 인기 내레이터의 이름은 오히려 표지에 실리고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Marsh suggest about the audiobook market?",
+        "options": [
+          "It will soon replace print entirely.",
+          "It is still a small share of total industry revenue.",
+          "Its growth has begun to slow down.",
+          "It is dominated by university studios."
+        ],
+        "answer": 1,
+        "explanation": "Marsh 애널리스트는 오디오북이 여전히 업계 전체 매출의 11%에 불과하다고 지적하며, '오디오는 성장의 엔진이지만 종이책이 사업의 본체'라고 말합니다. 즉, 오디오북은 아직 전체 매출에서 작은 비중이라는 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Streamline Secures Rights to Acclaimed Nature Series\n\nFRESHFORD (April 17) — Streaming service Veridia announced Tuesday that it has secured the exclusive global rights to Hidden Currents, the award-winning documentary series about deep-ocean ecosystems, beating several larger competitors in what industry observers describe as the most contested bidding war of the year. The four-part series, produced by independent studio Bluewater Films over six years, won the Meridian Prize for documentary filmmaking last autumn after its festival premiere. Under the agreement, reportedly worth $45 million, Veridia will release the series to subscribers in 60 countries this September and has ordered a second season, which Bluewater will begin filming in the Arctic next year. The deal continues Veridia's strategy of investing heavily in factual programming. The service, which has 38 million subscribers, devoted nearly a third of its content budget to documentaries last year—a far higher share than its rivals. Chief content officer Marcus Liang said internal data justifies the focus. \"Documentary viewers renew their subscriptions at higher rates than any other audience segment,\" he said. Bluewater founder Ines Castellanos said the partnership will fund equipment the small studio could never have afforded alone, including a deep-sea camera vehicle.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A streaming company acquiring rights to a documentary series",
+          "The opening of a new film festival in Freshford",
+          "A decline in subscriptions at a streaming service",
+          "The retirement of an award-winning filmmaker"
+        ],
+        "answer": 0,
+        "explanation": "기사는 스트리밍 서비스 Veridia가 치열한 입찰 경쟁 끝에 다큐멘터리 시리즈 Hidden Currents의 글로벌 독점 판권을 확보했다는 소식을 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"secured\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "protected",
+          "obtained",
+          "fastened",
+          "guarded"
+        ],
+        "answer": 1,
+        "explanation": "'it has secured the exclusive global rights'에서 secured는 판권을 '획득했다, 확보했다'라는 의미입니다. 따라서 obtained(얻었다)가 가장 가깝습니다. protected(보호했다)나 fastened(고정했다)는 secure의 다른 의미로 이 문맥에는 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about Veridia?",
+        "options": [
+          "It spends a larger share on documentaries than competitors.",
+          "It has more subscribers than any other service.",
+          "It produced Hidden Currents itself.",
+          "It plans to reduce its content budget."
+        ],
+        "answer": 0,
+        "explanation": "지문에서 Veridia는 지난해 콘텐츠 예산의 거의 3분의 1을 다큐멘터리에 투입했으며, 이는 'a far higher share than its rivals', 즉 경쟁사들보다 훨씬 높은 비중이라고 설명합니다. 따라서 (A)가 정답입니다. Hidden Currents는 독립 스튜디오 Bluewater Films가 제작했습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Ms. Castellanos, how will the deal help Bluewater Films?",
+        "options": [
+          "It will allow the studio to buy costly equipment.",
+          "It will move the studio to a larger office.",
+          "It will double the studio's staff.",
+          "It will fund a chain of movie theaters."
+        ],
+        "answer": 0,
+        "explanation": "Bluewater 창립자 Castellanos는 이번 파트너십이 심해 카메라 차량을 포함해 '작은 스튜디오 혼자서는 결코 마련할 수 없었을 장비'에 자금을 대줄 것이라고 말합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Foundry District Becomes a Magnet for Young Companies\n\nThree years ago, the old Foundry District on Halverton's east side was best known for its empty warehouses. Today it hosts 47 startup companies, a transformation driven largely by the Halverton Launch Collective, a nonprofit accelerator that opened there in 2024. The Collective offers young companies six months of free office space, weekly mentoring from experienced executives, and introductions to regional investors. In exchange, participating startups must commit to keeping their headquarters in Halverton for at least three years after completing the program. The model appears to be working. Of the 62 companies that have finished the program, 51 are still operating, and together they employ more than 900 people. Graduates include Saffron Analytics, a data firm that recently signed a lease for an entire warehouse floor, and Pellucid Health, which makes scheduling software for medical clinics. Collective director Amara Diallo says the program's strength is its selectivity; fewer than one in ten applicants is accepted, and preference goes to founders who already have a working product and at least one paying customer. Applications for the next group, which begins in January, are due by October 15.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A program that supports new businesses in a city district",
+          "The demolition of warehouses in Halverton",
+          "A dispute between startups and investors",
+          "A software product for medical clinics"
+        ],
+        "answer": 0,
+        "explanation": "기사는 비영리 액셀러레이터인 Halverton Launch Collective가 Foundry District에서 스타트업을 지원하여 지역을 변모시킨 과정을 다루고 있습니다. 신생 기업 지원 프로그램이 핵심 주제이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must startups agree to in order to participate?",
+        "options": [
+          "To hire only local residents",
+          "To remain based in Halverton for a period of time",
+          "To share profits with the Collective",
+          "To rent a warehouse after the program"
+        ],
+        "answer": 1,
+        "explanation": "지문에서 참여 스타트업은 프로그램 수료 후 '최소 3년간 본사를 Halverton에 유지'하기로 약속해야 한다고 명시합니다. 따라서 (B)가 정답입니다. 수익 공유나 현지 채용 의무는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the application process?",
+        "options": [
+          "It is highly competitive.",
+          "It requires a university degree.",
+          "It takes six months to complete.",
+          "It is open only to technology firms."
+        ],
+        "answer": 0,
+        "explanation": "Diallo 디렉터는 지원자 10명 중 1명 미만이 합격한다고 말하며 프로그램의 강점으로 선별성을 꼽습니다. 합격률이 10% 미만이라는 것은 경쟁이 매우 치열하다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What kind of applicants does the program prefer?",
+        "options": [
+          "Those with previous experience as mentors",
+          "Those who have already attracted customers",
+          "Those planning to relocate from other regions",
+          "Those seeking to acquire other companies"
+        ],
+        "answer": 1,
+        "explanation": "지문 후반에 '이미 작동하는 제품과 최소 한 명의 유료 고객이 있는 창업자'에게 우선권이 주어진다고 명시되어 있습니다. 즉, 이미 고객을 확보한 지원자를 선호하므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Here Today, Gone Next Month: The Pop-Up Economy\n\nThe storefront at 12 Cordova Lane has held a candle maker, a vintage clothing seller, and a hot sauce brand—all within the past year. [1] Each was a pop-up shop, a temporary store that operates for a few weeks before closing, and each was arranged by StoreFront Now, a local agency that matches short-term tenants with empty retail spaces. [2] Property owners, who once viewed temporary tenants as a last resort, have come to appreciate the model. A occupied storefront deters vandalism, generates some rent, and keeps a shopping street lively while owners search for permanent tenants. [3] For the businesses themselves, a pop-up offers a low-risk way to test a physical location. Marisol Vega, who sells handmade ceramics online, used a three-week pop-up in March to gauge in-person demand. The experiment exceeded her expectations, and she has since signed a two-year lease one block away. [4] The city has taken notice of the trend as well; last month, the licensing office introduced a simplified thirty-day retail permit that can be approved within five business days, replacing a process that previously took up to two months.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The growing use of temporary retail stores",
+          "A rise in vandalism on shopping streets",
+          "A new online marketplace for ceramics",
+          "The closure of a local licensing office"
+        ],
+        "answer": 0,
+        "explanation": "기사는 몇 주 동안만 운영되는 임시 매장인 팝업 숍의 확산과 그것이 건물주, 사업자, 시 행정에 미친 영향을 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The agency currently manages more than 30 such spaces across the city.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 1,
+        "explanation": "삽입 문장의 'The agency'는 특정 업체를 가리켜야 합니다. [2] 바로 앞 문장에서 임시 임차인과 빈 매장을 연결해 주는 업체 StoreFront Now가 소개되므로, 이 업체가 시 전역에서 30곳 이상의 공간을 관리한다는 보충 설명이 들어갈 자리는 [2]가 가장 자연스럽습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why do property owners now value pop-up tenants?",
+        "options": [
+          "They pay higher rent than permanent tenants.",
+          "They keep storefronts occupied and active.",
+          "They sign long-term lease agreements.",
+          "They renovate the buildings at their own expense."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 건물주들이 이 모델을 높이 평가하게 된 이유로, 매장이 차 있으면 기물 파손을 막고 일부 임대료가 들어오며 영구 임차인을 찾는 동안 상점가에 활기를 유지해 준다는 점을 듭니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What did Ms. Vega do after her pop-up shop closed?",
+        "options": [
+          "She returned to selling only online.",
+          "She opened a second pop-up in another city.",
+          "She signed a long-term lease nearby.",
+          "She joined the StoreFront Now agency."
+        ],
+        "answer": 2,
+        "explanation": "지문에서 Vega는 3월에 3주간의 팝업으로 오프라인 수요를 시험했고, 결과가 기대 이상이어서 'has since signed a two-year lease one block away', 즉 한 블록 떨어진 곳에 2년 임대 계약을 맺었다고 했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Harbor Ferries to Get First Major Upgrade in Twenty Years\n\nMORELAND BAY (Feb. 9) — The Moreland Bay Ferry Service will modernize its aging fleet and terminals under a $95 million plan approved by the regional transit board last week. The service, which carries about 18,000 passengers daily between five waterfront communities and the city center, has operated essentially unchanged since 2006, and several of its vessels are approaching the end of their service lives. Under the plan, four new hybrid-electric ferries will replace the six oldest diesel boats beginning in 2028. Although the new vessels are fewer in number, each carries nearly twice as many passengers, allowing the service to increase total capacity while cutting fuel consumption by an estimated 40 percent. Terminal improvements will include covered waiting areas, real-time arrival displays, and ramps that adjust automatically to tide levels, which will speed up boarding for passengers with bicycles, strollers, and wheelchairs. Commuter advocacy group Bay Riders United praised the investment but urged the board to also extend evening service hours, noting that the last ferry currently departs at 8:40 P.M. Board chair Vincent Osei said a study of expanded hours will be completed by the end of the year.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To describe planned improvements to a ferry system",
+          "To announce an increase in ferry fares",
+          "To report an accident involving a diesel ferry",
+          "To promote waterfront real estate developments"
+        ],
+        "answer": 0,
+        "explanation": "기사는 지역 교통위원회가 승인한 9,500만 달러 규모의 페리 선단 및 터미널 현대화 계획을 소개하고 있습니다. 따라서 (A)가 정답입니다. 요금 인상이나 사고에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the new ferries?",
+        "options": [
+          "They will each hold more passengers than the old boats.",
+          "They will be built at a local shipyard.",
+          "They will serve two additional communities.",
+          "They will operate only during rush hours."
+        ],
+        "answer": 0,
+        "explanation": "지문에서 새 하이브리드 전기 페리는 수는 더 적지만 'each carries nearly twice as many passengers', 즉 한 척당 기존 선박의 거의 두 배의 승객을 태울 수 있어 전체 수송 능력은 오히려 늘어난다고 설명합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the article, how will the new ramps help passengers?",
+        "options": [
+          "By providing shelter from bad weather",
+          "By displaying arrival times",
+          "By making boarding faster for those with wheels",
+          "By reducing ticket prices for frequent riders"
+        ],
+        "answer": 2,
+        "explanation": "조수 높이에 맞춰 자동으로 조절되는 경사로는 'will speed up boarding for passengers with bicycles, strollers, and wheelchairs', 즉 자전거, 유모차, 휠체어 이용 승객의 승선을 더 빠르게 해 줄 것이라고 했습니다. 따라서 (C)가 정답입니다. 비바람을 막아 주는 것은 지붕 있는 대기 공간입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What did Bay Riders United request?",
+        "options": [
+          "Lower fares for daily commuters",
+          "Ferry service later in the evening",
+          "More space for bicycles on board",
+          "A sixth waterfront terminal"
+        ],
+        "answer": 1,
+        "explanation": "통근자 단체 Bay Riders United는 투자를 환영하면서도 마지막 페리가 현재 오후 8시 40분에 출발한다는 점을 지적하며 '저녁 운항 시간 연장'을 촉구했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Building on Patience: Theodore Lam's Long Game\n\nIn an industry known for quick profits, commercial developer Theodore Lam has built his reputation on waiting. The founder of Lamwood Properties, now one of the region's most respected development firms, is famous for holding sites for years until the surrounding neighborhood matures. His best-known project, the Calloway Mills complex, illustrates the approach. Lam acquired the abandoned textile factory in 2014, when the riverfront district had little foot traffic and most investors avoided the area. Rather than building immediately, he spent five years leasing portions of the property at low rates to artists and small workshops, which gradually drew visitors to the district. Only then did Lamwood begin its full renovation, converting the mills into a mix of offices, shops, and apartments that is now fully leased with a waiting list. \"Everyone wants to be the last investor into a neighborhood,\" Lam said in a rare interview. \"I would rather be the first, and then be patient.\" Lam, who grew up above his parents' hardware store, says the experience taught him that districts thrive when small businesses can afford to stay. Accordingly, every Lamwood project reserves 15 percent of its commercial space for local independent businesses at below-market rents.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A developer known for a patient investment strategy",
+          "The closure of a historic textile factory",
+          "A government program for riverfront renewal",
+          "Rising rents in a popular arts district"
+        ],
+        "answer": 0,
+        "explanation": "기사는 부동산 개발업자 Theodore Lam이 부지를 수년간 보유하며 주변이 성숙할 때까지 기다리는 '인내' 전략으로 명성을 쌓은 과정을 소개하는 인물 기사입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"acquired\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "learned",
+          "purchased",
+          "rented",
+          "designed"
+        ],
+        "answer": 1,
+        "explanation": "'Lam acquired the abandoned textile factory in 2014'에서 acquired는 건물을 '매입했다'라는 의미입니다. 따라서 purchased(구입했다)가 가장 가깝습니다. learned(습득했다)는 기술이나 지식을 얻을 때 쓰이는 acquire의 다른 의미입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did Mr. Lam do before renovating the Calloway Mills?",
+        "options": [
+          "He sold part of the property to investors.",
+          "He rented spaces inexpensively to artists.",
+          "He demolished the original buildings.",
+          "He opened a hardware store on the site."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 Lam은 즉시 개발하는 대신 5년 동안 'leasing portions of the property at low rates to artists and small workshops', 즉 예술가와 소규모 공방에 저렴하게 공간을 임대하여 방문객을 끌어들였다고 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in every Lamwood project?",
+        "options": [
+          "A public riverfront park",
+          "Apartments reserved for artists",
+          "Discounted space for local independent businesses",
+          "A branch of his family's hardware store"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 모든 Lamwood 프로젝트는 상업 공간의 15%를 'local independent businesses at below-market rents', 즉 지역 독립 사업자들에게 시세보다 낮은 임대료로 제공하도록 남겨 둔다고 명시합니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Verdant Grid Raises Funds to Expand Battery Network\n\nCOLEFAX (May 28) — Energy storage startup Verdant Grid announced Thursday that it has raised $75 million to expand its network of neighborhood battery stations, which store surplus solar power during the day and release it to the local grid in the evening. The three-year-old company currently operates 40 battery sites across the Colefax Valley, each roughly the size of a shipping container. The stations are installed on land leased from schools, churches, and shopping centers, which receive a share of the revenue the batteries earn. The new funding will allow Verdant Grid to build 120 additional sites over the next two years and to open a second operations center in Brindale. The model has proven popular with utilities, which pay the company for helping balance electricity supply during peak hours. Last summer, during a record heat wave, Verdant Grid's network supplied enough stored power each evening to serve 30,000 homes, helping the region avoid the rolling outages that affected neighboring counties. Founder and CEO Elias Toro, a former utility engineer, said the company will also begin testing larger stations near two retired power plants, where existing transmission lines can carry far more electricity.",
+    "questions": [
+      {
+        "question": "What does Verdant Grid's technology do?",
+        "options": [
+          "It manufactures solar panels for homes.",
+          "It stores extra solar energy for later use.",
+          "It builds transmission lines between counties.",
+          "It converts retired power plants into offices."
+        ],
+        "answer": 1,
+        "explanation": "지문 첫 문장에서 Verdant Grid의 동네 배터리 스테이션은 '낮 동안 남는 태양광 전력을 저장했다가 저녁에 지역 전력망으로 방출'한다고 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How do landowners benefit from hosting battery stations?",
+        "options": [
+          "They receive free electricity at night.",
+          "They get a portion of the earnings.",
+          "They are exempted from energy taxes.",
+          "They receive new solar panels."
+        ],
+        "answer": 1,
+        "explanation": "지문에서 배터리 스테이션은 학교, 교회, 쇼핑센터에서 임차한 땅에 설치되며, 이들은 'receive a share of the revenue the batteries earn', 즉 배터리가 벌어들이는 수익의 일부를 받는다고 명시합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happened during last summer's heat wave?",
+        "options": [
+          "The company's network helped prevent power outages in the region.",
+          "Verdant Grid's batteries stopped functioning.",
+          "Neighboring counties supplied power to Colefax Valley.",
+          "The company opened its Brindale operations center."
+        ],
+        "answer": 0,
+        "explanation": "지난여름 기록적인 폭염 때 Verdant Grid의 네트워크는 매일 저녁 3만 가구에 공급할 전력을 제공하여 'helping the region avoid the rolling outages', 즉 인근 카운티들이 겪은 순환 정전을 이 지역이 피하도록 도왔습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why will Verdant Grid test stations near retired power plants?",
+        "options": [
+          "The land there is available at no cost.",
+          "The locations are close to the company's headquarters.",
+          "The existing power lines there have greater capacity.",
+          "Local utilities have offices at those sites."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 폐쇄된 발전소 두 곳 인근에서 더 큰 스테이션을 시험하는 이유로 'existing transmission lines can carry far more electricity', 즉 기존 송전선이 훨씬 많은 전력을 운반할 수 있기 때문이라고 설명합니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Translated Fiction Finds a Wider Audience\n\nFor decades, novels translated from other languages occupied a quiet corner of the book trade, accounting for barely 3 percent of fiction sales. That corner is getting crowded. New figures from the Bookscan Literary Index show that sales of translated fiction rose 28 percent last year, the fourth straight year of double-digit growth, with readers under 35 driving most of the increase. Booksellers point to several causes. Literary prizes have raised the visibility of translators, who now frequently appear on book covers alongside authors. Social media reading communities have championed novels from Korea, Japan, and Latin America, sometimes propelling decade-old titles onto bestseller lists. And a wave of small publishing houses devoted to translation has widened the selection available in bookstores. Dorothea Quint, who founded the translation-focused press Meridian Editions nine years ago, says the change is generational. \"Younger readers simply do not regard a translated book as foreign,\" she said. \"They follow stories, not borders.\" Major publishers are responding: at least three large houses have launched translation imprints in the past two years, and advances paid for translation rights have reportedly tripled for sought-after titles. Quint welcomes the competition, saying it benefits translators most of all.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The increasing popularity of fiction translated into English",
+          "A new literary prize for young authors",
+          "The decline of social media book clubs",
+          "A merger between two small publishing houses"
+        ],
+        "answer": 0,
+        "explanation": "기사는 번역 소설 판매가 지난해 28% 증가하는 등 4년 연속 두 자릿수 성장을 기록하며 더 넓은 독자층을 확보하고 있다는 출판계 동향을 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is mainly responsible for the sales growth?",
+        "options": [
+          "Readers older than 60",
+          "Readers younger than 35",
+          "University literature professors",
+          "Professional book reviewers"
+        ],
+        "answer": 1,
+        "explanation": "지문에서 'readers under 35 driving most of the increase'라고 명시하여, 35세 미만 독자들이 판매 증가의 대부분을 이끌고 있다고 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"championed\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "promoted",
+          "defeated",
+          "judged",
+          "translated"
+        ],
+        "answer": 0,
+        "explanation": "'Social media reading communities have championed novels'에서 championed는 작품을 '옹호하고 적극적으로 알렸다'는 의미입니다. 따라서 promoted(홍보했다)가 가장 가깝습니다. 그 결과 오래된 책들이 베스트셀러 목록에 오르기도 했다는 뒤의 내용이 단서입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What have major publishers done recently?",
+        "options": [
+          "They have created divisions devoted to translated books.",
+          "They have lowered the prices of translated novels.",
+          "They have stopped paying advances to translators.",
+          "They have acquired Meridian Editions."
+        ],
+        "answer": 0,
+        "explanation": "지문 후반에 '대형 출판사 최소 세 곳이 지난 2년 사이 번역 전문 임프린트를 출범시켰다'고 명시되어 있습니다. 번역서 전담 부문을 만들었다는 (A)가 정답입니다. 번역 판권 선인세는 오히려 세 배가 되었다고 보도됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

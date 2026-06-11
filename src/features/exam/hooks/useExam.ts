@@ -1,5 +1,6 @@
 import { useExamStore } from '../store';
 import { generateQuestion, getAICoachFeedback, generateTTS } from '../../../lib/gemini';
+import { getRandomBankQuestion } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
 import { useAuth } from '../../../contexts/AuthContext';
@@ -13,20 +14,32 @@ export function useExam() {
   const startExam = async () => {
     setLoading(true);
     try {
-      // Generate questions in parallel (2 LC, 3 RC)
+      // 검수 완료된 로컬 문제 은행 우선 사용, 없으면 AI 생성 폴백 (2 LC, 3 RC)
+      const fetchOne = (type: 'LC' | 'RC', subtype?: 'PART1') => {
+        const bankQ = getRandomBankQuestion(type, subtype);
+        // audioUrl 주입 시 은행 원본이 오염되지 않도록 복사본 사용
+        return bankQ ? { ...bankQ } : generateQuestion(type, subtype);
+      };
+
       const [q1, q2, q3, q4, q5] = await Promise.all([
-        generateQuestion('LC', 'PART1'),
-        generateQuestion('LC'),
-        generateQuestion('RC'),
-        generateQuestion('RC'),
-        generateQuestion('RC')
+        fetchOne('LC', 'PART1'),
+        fetchOne('LC'),
+        fetchOne('RC'),
+        fetchOne('RC'),
+        fetchOne('RC')
       ]);
       
-      // Generate audio in parallel for LC questions
-      await Promise.all([
-        (async () => { if (q1.script) q1.audioUrl = await generateTTS(q1.script); })(),
-        (async () => { if (q2.script) q2.audioUrl = await generateTTS(q2.script); })()
-      ]);
+      // Generate audio in parallel for LC questions.
+      // TTS 실패는 시험 시작을 막지 않도록 격리한다 (오디오 없이 진행 가능).
+      const safeTTS = async (q: { script?: string; audioUrl?: string }) => {
+        if (!q.script) return;
+        try {
+          q.audioUrl = await generateTTS(q.script);
+        } catch (e) {
+          console.warn("TTS generation skipped or failed", e);
+        }
+      };
+      await Promise.all([safeTTS(q1), safeTTS(q2)]);
 
       store.startExam([q1, q2, q3, q4, q5]);
     } catch (error: any) {

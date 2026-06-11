@@ -1,0 +1,2054 @@
+[
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Production Staff, Line 3\nFrom: Greta Lindqvist, Plant Operations Manager\nDate: March 4\nSubject: Scheduled maintenance shutdown\n\nPlease be advised that Line 3 will be shut down for scheduled maintenance from Monday, March 11, through Wednesday, March 13. During this period, our contracted technicians from Halverson Industrial Services will replace the conveyor belt motors and recalibrate the packaging sensors, which have caused several slowdowns over the past quarter.\n\nAll Line 3 operators will be temporarily reassigned to Line 5, where we are increasing output to meet a large order from Dexfield Appliances. Your shift supervisors will distribute updated schedules by Friday, March 8. Note that the morning shift on Line 5 will begin thirty minutes earlier than usual, at 6:30 A.M., for the duration of the reassignment.\n\nEmployees who have completed forklift certification are asked to contact me directly, as we need two additional certified drivers in the loading area during the shutdown. Overtime pay will apply to any hours worked beyond your regular schedule.\n\nThank you for your flexibility as we complete these necessary upgrades.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the memo?",
+        "options": [
+          "To announce the hiring of new technicians",
+          "To inform employees about a temporary line closure",
+          "To explain a change in overtime pay rates",
+          "To report a delay in a customer order"
+        ],
+        "answer": 1,
+        "explanation": "메모의 첫 문단에서 'Line 3 will be shut down for scheduled maintenance from Monday, March 11, through Wednesday, March 13'라고 하여 정기 유지보수를 위한 생산 라인의 임시 가동 중단을 알리는 것이 핵심 목적임을 알 수 있습니다. 기술자 채용, 초과근무 수당 변경, 주문 지연은 본문의 부수적 내용이거나 언급되지 않은 내용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to Line 3 operators during the shutdown?",
+        "options": [
+          "They will take three days of paid leave.",
+          "They will assist the maintenance technicians.",
+          "They will work on a different production line.",
+          "They will attend a safety training course."
+        ],
+        "answer": 2,
+        "explanation": "두 번째 문단에서 'All Line 3 operators will be temporarily reassigned to Line 5'라고 명시되어 있으므로, 가동 중단 기간 동안 Line 3 작업자들은 다른 생산 라인(Line 5)에서 근무하게 됩니다. 유급 휴가, 기술자 보조, 안전 교육은 본문에 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What can be inferred about Dexfield Appliances?",
+        "options": [
+          "It recently placed a sizable order with the plant.",
+          "It manufactures conveyor belt motors.",
+          "It will inspect the plant during the shutdown.",
+          "It is a competitor of Halverson Industrial Services."
+        ],
+        "answer": 0,
+        "explanation": "본문에 'we are increasing output to meet a large order from Dexfield Appliances'라고 되어 있어, Dexfield Appliances가 최근 이 공장에 대량 주문을 했음을 추론할 수 있습니다. Dexfield는 주문 고객이며, 모터 제조사나 점검 기관, 경쟁사라는 정보는 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why are some employees asked to contact Ms. Lindqvist?",
+        "options": [
+          "To sign up for a certification course",
+          "To volunteer as forklift drivers in the loading area",
+          "To request schedule changes on Line 5",
+          "To report problems with packaging sensors"
+        ],
+        "answer": 1,
+        "explanation": "마지막에서 두 번째 문단에 'Employees who have completed forklift certification are asked to contact me directly, as we need two additional certified drivers in the loading area'라고 되어 있습니다. 즉, 지게차 자격증을 보유한 직원이 적재 구역의 추가 운전자로 일할 수 있도록 연락을 요청한 것입니다. 자격증 과정 등록이 아니라 이미 자격증을 가진 사람을 찾는 것이므로 (A)는 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Marcus Bell <m.bell@torvilfasteners.com>\nFrom: Yuna Choi <y.choi@kestrelmotors.com>\nDate: April 17\nSubject: Quality concern — Order #KM-5582\n\nDear Mr. Bell,\n\nI am writing regarding the shipment of steel hinge brackets we received from Torvil Fasteners on April 14 (Order #KM-5582). During our routine incoming inspection, our quality team found that approximately 8 percent of the brackets in the batch fell outside the agreed thickness tolerance of 2.5 millimeters, plus or minus 0.1 millimeters. Under the terms of our supply agreement, the acceptable defect rate is no more than 2 percent.\n\nWe have set aside the nonconforming parts and can return them at your expense, or your technicians are welcome to examine them at our facility in Granton. Because these brackets are needed for an assembly run scheduled to start on April 28, we would ask that replacement parts be delivered no later than April 25.\n\nPlease also send a corrective action report describing how the issue occurred and what steps will be taken to prevent it. We value our four-year partnership with Torvil and trust this matter can be resolved quickly.\n\nSincerely,\nYuna Choi\nPurchasing Manager, Kestrel Motors",
+    "questions": [
+      {
+        "question": "Why did Ms. Choi send the email?",
+        "options": [
+          "To cancel a long-standing supply agreement",
+          "To report defective parts in a recent delivery",
+          "To request a price quote for steel brackets",
+          "To schedule a tour of a production facility"
+        ],
+        "answer": 1,
+        "explanation": "이메일 첫 문단에서 4월 14일에 받은 브래킷 중 약 8퍼센트가 합의된 두께 허용 오차를 벗어났다고 알리고 있으므로, 최근 납품된 부품의 불량을 보고하는 것이 발송 목적입니다. 계약 해지나 견적 요청, 시설 견학 일정은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the supply agreement between the two companies?",
+        "options": [
+          "It expires at the end of April.",
+          "It allows a defect rate of up to 2 percent.",
+          "It requires monthly quality audits.",
+          "It was signed eight years ago."
+        ],
+        "answer": 1,
+        "explanation": "본문에 'Under the terms of our supply agreement, the acceptable defect rate is no more than 2 percent'라고 명시되어 있어 공급 계약상 허용 불량률이 최대 2퍼센트임을 알 수 있습니다. 계약 만료 시점이나 월간 감사 의무는 언급되지 않았고, 파트너십 기간은 4년이라고 했으므로 8년은 틀린 정보입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is Mr. Bell NOT asked to do?",
+        "options": [
+          "Deliver replacement parts by a certain date",
+          "Provide a report explaining the cause of the problem",
+          "Refund the full cost of the order",
+          "Arrange for the handling of the defective parts"
+        ],
+        "answer": 2,
+        "explanation": "이메일에서는 4월 25일까지 교체 부품 납품, 시정 조치 보고서 제출, 불량 부품의 반품 또는 현장 확인 처리를 요청하고 있지만, 주문 금액 전액 환불은 요구하지 않았습니다. 따라서 (C)가 요청되지 않은 사항입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In paragraph 2, the word \"run\" is closest in meaning to",
+        "options": [
+          "race",
+          "attempt",
+          "operation",
+          "escape"
+        ],
+        "answer": 2,
+        "explanation": "'an assembly run scheduled to start on April 28'에서 run은 조립 '작업/가동'을 의미하므로 production operation의 의미인 'operation'이 가장 가깝습니다. race(경주), attempt(시도), escape(탈출)는 문맥에 맞지 않습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Assembly and Welding Personnel\nFrom: Dario Fontaine, Safety Compliance Officer\nDate: September 2\nSubject: Updated protective equipment requirements\n\nFollowing last month's safety audit, Brennan Metalworks is updating its personal protective equipment policy, effective September 15. The audit found that while compliance with hard hat and steel-toed boot requirements was excellent, eye protection practices were inconsistent, particularly in the welding bays.\n\nBeginning September 15, all personnel entering the welding bays—including visitors and office staff—must wear the new full-coverage safety goggles rather than standard safety glasses. The goggles will be distributed at the equipment counter starting September 8; please bring your employee badge to receive your pair. Prescription lens wearers should see Ms. Okada in Human Resources by September 5 so that fitted goggles can be ordered in time.\n\nIn addition, hearing protection will now be mandatory in the stamping area whenever the presses are in operation, not only during extended shifts as before. Disposable earplugs will remain available at all entrances, and reusable earmuffs may be requested from your supervisor.\n\nSupervisors will review the updated policy at next week's toolbox talks. Repeated noncompliance will be documented and may affect annual performance evaluations.",
+    "questions": [
+      {
+        "question": "What prompted the policy update?",
+        "options": [
+          "A workplace accident in the welding bays",
+          "The findings of a recent safety audit",
+          "A new government regulation",
+          "Complaints from office staff"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'Following last month's safety audit, Brennan Metalworks is updating its personal protective equipment policy'라고 하여 지난달 안전 점검 결과가 정책 변경의 계기임을 밝히고 있습니다. 사고, 정부 규제, 직원 불만은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the memo, what should employees who wear prescription lenses do?",
+        "options": [
+          "Purchase fitted goggles at the equipment counter",
+          "Wear standard safety glasses instead",
+          "Contact a Human Resources staff member by September 5",
+          "Submit a request to their supervisor"
+        ],
+        "answer": 2,
+        "explanation": "본문에 'Prescription lens wearers should see Ms. Okada in Human Resources by September 5 so that fitted goggles can be ordered'라고 되어 있으므로, 도수 렌즈 착용자는 9월 5일까지 인사부의 Okada 씨에게 연락해야 합니다. 장비 카운터 구매나 일반 보안경 착용, 상사에게 요청하는 것은 본문 내용과 다릅니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about hearing protection in the stamping area?",
+        "options": [
+          "It was previously required only during longer shifts.",
+          "It must be purchased by employees.",
+          "It will be optional after September 15.",
+          "It is provided only to press operators."
+        ],
+        "answer": 0,
+        "explanation": "'hearing protection will now be mandatory in the stamping area whenever the presses are in operation, not only during extended shifts as before'라는 문장에서 이전에는 연장 근무 시에만 청력 보호구가 의무였음을 알 수 있습니다. 귀마개는 무료로 비치되어 있고, 앞으로는 프레스 가동 시 항상 의무이므로 나머지 선택지는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is mentioned as a possible consequence of repeatedly ignoring the policy?",
+        "options": [
+          "Immediate dismissal from the company",
+          "A negative effect on performance reviews",
+          "Reassignment to another department",
+          "A reduction in overtime opportunities"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문단에서 'Repeated noncompliance will be documented and may affect annual performance evaluations'라고 하여 반복적인 미준수는 기록되며 연례 인사 평가에 영향을 줄 수 있다고 경고하고 있습니다. 즉시 해고, 부서 이동, 초과근무 기회 축소는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Production Supervisors <supervisors@aldermill.com>\nFrom: Priya Raghavan <p.raghavan@aldermill.com>\nDate: June 3\nSubject: Training for the new bottling equipment\n\nDear Supervisors,\n\nAs you know, the two new Veltrona bottling machines will be installed in Building C during the week of June 16. Representatives from the manufacturer will remain on site for two weeks afterward to train our operators and maintenance crew.\n\nEach training session lasts four hours and covers machine start-up, changeover between bottle sizes, routine cleaning, and basic troubleshooting. Sessions will be offered twice daily—at 7:00 A.M. and 1:00 P.M.—from June 23 to July 3. Every operator assigned to Building C must complete one session before working on the new machines; maintenance staff must complete two.\n\nPlease submit the names of your team members, along with their preferred dates, to me by Wednesday, June 11. Each session is limited to ten participants, so early submissions will receive priority. Anyone who cannot attend during the scheduled window should let me know, as the manufacturer has offered to provide one make-up session in late July for an additional fee, which the company will cover only if at least six people enroll.\n\nBest regards,\nPriya Raghavan\nTraining Coordinator, Aldermill Beverages",
+    "questions": [
+      {
+        "question": "What is the purpose of the email?",
+        "options": [
+          "To announce the purchase of a building",
+          "To explain arrangements for equipment training",
+          "To request bids from equipment manufacturers",
+          "To report a problem with bottling machines"
+        ],
+        "answer": 1,
+        "explanation": "이메일 전체가 새 보틀링 기계 설치 후 진행될 교육 일정, 세션 구성, 신청 방법을 안내하고 있으므로 장비 교육에 대한 준비 사항을 설명하는 것이 목적입니다. 건물 매입, 입찰 요청, 기계 결함 보고는 본문과 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How are the training requirements different for maintenance staff?",
+        "options": [
+          "They must attend sessions in the morning only.",
+          "They are required to complete more sessions than operators.",
+          "They will be trained at the manufacturer's facility.",
+          "They must pass a written examination."
+        ],
+        "answer": 1,
+        "explanation": "본문에 'Every operator assigned to Building C must complete one session... maintenance staff must complete two'라고 되어 있어, 정비 직원은 작업자보다 많은 두 개의 세션을 이수해야 합니다. 오전 전용, 제조사 시설 방문, 필기시험은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By when should supervisors send in participant names?",
+        "options": [
+          "June 3",
+          "June 11",
+          "June 16",
+          "June 23"
+        ],
+        "answer": 1,
+        "explanation": "'Please submit the names of your team members, along with their preferred dates, to me by Wednesday, June 11'이라고 명시되어 있으므로 제출 기한은 6월 11일입니다. 6월 3일은 이메일 발송일, 6월 16일은 설치 주, 6월 23일은 교육 시작일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is implied about the make-up session in July?",
+        "options": [
+          "It will be held at no cost to the manufacturer.",
+          "It might not take place if too few people sign up.",
+          "It will last longer than the regular sessions.",
+          "It is intended only for maintenance staff."
+        ],
+        "answer": 1,
+        "explanation": "회사가 추가 비용을 부담하는 조건이 'only if at least six people enroll'이므로, 최소 6명이 등록하지 않으면 보충 세션이 열리지 않을 수 있음을 추론할 수 있습니다. 보충 세션은 추가 요금이 발생하며, 세션 길이나 대상 제한에 대한 언급은 없습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Helena Vargas <h.vargas@castellanohome.com>\nFrom: Customer Care <care@bluharborfreight.com>\nDate: November 19\nSubject: Update on shipment BHF-77241\n\nDear Ms. Vargas,\n\nWe are writing to inform you that shipment BHF-77241, containing forty cartons of ceramic tableware bound for your distribution center in Pemberton, has been delayed. The container vessel carrying your goods was rerouted because of severe weather in the Camden Strait and is now expected to dock at Port Reyes on November 24, three days later than originally scheduled.\n\nOnce the container clears customs, our ground team will deliver it to Pemberton within 48 hours. Based on current processing times at Port Reyes, we estimate arrival at your facility on November 27.\n\nWe recognize that this shipment contains seasonal merchandise, so we have upgraded the ground portion of the journey to our priority service at no additional charge. In addition, under the terms of your Silver Plan, you are entitled to a 15 percent credit on the shipping fee for any delivery delayed by more than 72 hours; the credit will appear on your December invoice automatically.\n\nYou can track the shipment in real time at www.bluharborfreight.com/track. Should you have questions, please reply to this email or call our service line at 555-0182.\n\nSincerely,\nBlu Harbor Freight Customer Care",
+    "questions": [
+      {
+        "question": "Why was the shipment delayed?",
+        "options": [
+          "A vessel changed its route because of bad weather.",
+          "The cargo was held by customs officials.",
+          "The cartons were loaded onto the wrong ship.",
+          "A port workers' strike slowed operations."
+        ],
+        "answer": 0,
+        "explanation": "본문에 'The container vessel carrying your goods was rerouted because of severe weather in the Camden Strait'라고 명시되어 있어 악천후로 인한 선박 항로 변경이 지연 원인입니다. 세관 억류, 선적 오류, 항만 파업은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When is the shipment expected to reach the distribution center?",
+        "options": [
+          "November 19",
+          "November 24",
+          "November 27",
+          "December 1"
+        ],
+        "answer": 2,
+        "explanation": "'we estimate arrival at your facility on November 27'라고 명시되어 있으므로 유통 센터 도착 예정일은 11월 27일입니다. 11월 24일은 선박이 항구에 입항하는 날짜이고, 11월 19일은 이메일 발송일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What has Blu Harbor Freight done in response to the delay?",
+        "options": [
+          "Offered a full refund of the shipping fee",
+          "Arranged an air freight alternative",
+          "Provided a free upgrade to a faster ground service",
+          "Extended Ms. Vargas's Silver Plan membership"
+        ],
+        "answer": 2,
+        "explanation": "'we have upgraded the ground portion of the journey to our priority service at no additional charge'라고 하여 추가 비용 없이 육상 운송을 우선 서비스로 업그레이드했음을 알 수 있습니다. 환불은 전액이 아닌 15퍼센트 크레딧이며, 항공 운송이나 멤버십 연장은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the 15 percent credit?",
+        "options": [
+          "Ms. Vargas must submit a claim form to receive it.",
+          "It applies because the delay exceeds 72 hours.",
+          "It will be mailed as a paper check.",
+          "It is available only to Gold Plan members."
+        ],
+        "answer": 1,
+        "explanation": "Silver Plan 약관상 72시간을 초과하여 지연된 배송에 대해 15퍼센트 크레딧이 제공되는데, 이 배송은 3일(72시간 이상) 지연되었으므로 해당 조건이 충족되어 크레딧이 적용됩니다. 크레딧은 자동으로 12월 청구서에 반영되므로 별도 신청이 필요 없고, Silver Plan 혜택이므로 (A), (C), (D)는 오답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Warehouse Staff, Norvale Distribution Center\nFrom: Tomasz Krupa, Inventory Control Manager\nDate: January 8\nSubject: New cycle counting procedure\n\nStarting February 1, the Norvale Distribution Center will replace its annual full-facility inventory count with a cycle counting program. Instead of closing the warehouse for two days each December, small sections of inventory will be counted continuously throughout the year.\n\nUnder the new system, each aisle will be counted at least once per quarter. High-value items, such as electronics stored in the secured cage, will be counted monthly. Counts will take place during the first hour of the morning shift, before order picking begins, to minimize disruption.\n\nA team of six staff members will be designated as cycle counters on a rotating basis. Counters will use the handheld scanners already in use for receiving; a software update enabling the counting module will be installed on January 25. A mandatory forty-five-minute orientation will be held in the break room on January 28 at 8:00 A.M. and repeated at 2:30 P.M. for the afternoon shift.\n\nThis change should improve inventory accuracy, reduce year-end overtime costs, and help us identify discrepancies before they affect customer orders. Questions may be directed to me at extension 4471.",
+    "questions": [
+      {
+        "question": "What is the memo mainly about?",
+        "options": [
+          "A change in how inventory is counted",
+          "The installation of new security cameras",
+          "A reduction in warehouse operating hours",
+          "The hiring of seasonal warehouse workers"
+        ],
+        "answer": 0,
+        "explanation": "메모는 연 1회 전체 재고 조사를 연중 순환 실사(cycle counting) 방식으로 바꾼다는 내용을 중심으로 새 절차, 일정, 교육을 안내하고 있습니다. 보안 카메라, 운영 시간 단축, 계절 인력 채용은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How often will high-value items be counted?",
+        "options": [
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "Quarterly"
+        ],
+        "answer": 2,
+        "explanation": "'High-value items, such as electronics stored in the secured cage, will be counted monthly'라고 명시되어 있으므로 고가 품목은 매달 실사됩니다. 일반 통로는 분기마다 최소 1회 실사되므로 (D)와 혼동하지 않도록 주의해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen on January 25?",
+        "options": [
+          "The warehouse will close for two days.",
+          "An orientation session will be held.",
+          "Scanner software will be updated.",
+          "The first cycle count will begin."
+        ],
+        "answer": 2,
+        "explanation": "'a software update enabling the counting module will be installed on January 25'라고 되어 있으므로 1월 25일에는 휴대용 스캐너의 소프트웨어 업데이트가 설치됩니다. 오리엔테이션은 1월 28일, 새 제도 시작은 2월 1일입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as an expected benefit of the new program?",
+        "options": [
+          "Better inventory accuracy",
+          "Lower overtime expenses at year's end",
+          "Earlier detection of inventory discrepancies",
+          "Faster delivery times for customers"
+        ],
+        "answer": 3,
+        "explanation": "마지막 문단에서 재고 정확도 향상, 연말 초과근무 비용 절감, 고객 주문에 영향을 주기 전 불일치 발견이 기대 효과로 제시되어 있습니다. 고객 배송 속도 단축은 언급되지 않았으므로 (D)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Department Heads <dept-heads@meridianparts.com>\nFrom: Salome Diallo <s.diallo@meridianparts.com>\nDate: August 21\nSubject: New shipping carrier agreement\n\nDear Colleagues,\n\nAfter a three-month evaluation of bids from five carriers, Meridian Parts has signed a two-year agreement with Quickstone Logistics, effective October 1. Quickstone will handle all domestic ground shipments; international and overnight air shipments will continue to go through our current carrier, Aeroway Express.\n\nThe new agreement reduces our average domestic shipping cost by approximately 12 percent and includes guaranteed two-day delivery to customers within 800 kilometers of our warehouses. Quickstone will also provide a dedicated account representative and a daily pickup at 4:30 P.M., one hour later than our current cutoff, giving our order fulfillment team additional time to process late orders.\n\nTo prepare for the transition, the shipping department will hold brief demonstrations of Quickstone's online portal on September 24 and 26. Anyone who creates shipping labels or schedules pickups should attend one demonstration. Departments should also use up remaining preprinted forms from our former domestic carrier by September 30, as these cannot be used afterward.\n\nPlease share this information with your teams. A list of frequently asked questions will be posted on the company intranet next week.\n\nRegards,\nSalome Diallo\nDirector of Procurement",
+    "questions": [
+      {
+        "question": "What is the main purpose of the email?",
+        "options": [
+          "To announce a new agreement with a shipping company",
+          "To request bids for a logistics contract",
+          "To explain an increase in shipping costs",
+          "To introduce a new director of procurement"
+        ],
+        "answer": 0,
+        "explanation": "첫 문단에서 Quickstone Logistics와 2년 계약을 체결했음을 알리고 이후 계약 조건과 전환 준비 사항을 설명하고 있으므로, 새 운송업체 계약 발표가 이메일의 목적입니다. 입찰 요청은 이미 완료된 과정이며, 비용은 인상이 아니라 약 12퍼센트 절감됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about Aeroway Express?",
+        "options": [
+          "It lost all of Meridian's shipping business.",
+          "It will still handle certain types of shipments.",
+          "It raised its rates by 12 percent.",
+          "It was founded two years ago."
+        ],
+        "answer": 1,
+        "explanation": "'international and overnight air shipments will continue to go through our current carrier, Aeroway Express'라고 되어 있어, Aeroway Express는 국제 운송과 익일 항공 운송을 계속 담당합니다. 따라서 모든 물량을 잃은 것이 아니며, 요금 인상이나 설립 시기는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the email, what advantage does the later pickup time provide?",
+        "options": [
+          "Lower fuel surcharges on deliveries",
+          "More time to process orders placed late in the day",
+          "Reduced staffing needs in the warehouse",
+          "Earlier delivery to international customers"
+        ],
+        "answer": 1,
+        "explanation": "'a daily pickup at 4:30 P.M., one hour later than our current cutoff, giving our order fulfillment team additional time to process late orders'라고 하여, 늦어진 수거 시간 덕분에 주문 처리팀이 늦게 들어온 주문을 처리할 시간을 더 확보하게 됩니다. 나머지 선택지는 본문에 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why should the old preprinted forms be used by September 30?",
+        "options": [
+          "They will no longer be usable after that date.",
+          "The supplier will collect them in October.",
+          "New forms will be more expensive.",
+          "Quickstone requires handwritten labels."
+        ],
+        "answer": 0,
+        "explanation": "'use up remaining preprinted forms from our former domestic carrier by September 30, as these cannot be used afterward'라고 명시되어 있어, 9월 30일 이후에는 기존 양식을 사용할 수 없기 때문에 그 전에 소진해야 합니다. 수거, 비용, 수기 라벨에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Delivery Drivers and Dock Personnel\nFrom: Ingrid Solberg, Terminal Operations Manager\nDate: May 12\nSubject: Revised check-in procedure at Gate 4\n\nEffective Monday, May 19, all inbound trucks at the Harwick Terminal must check in at the new automated kiosk at Gate 4. The kiosk replaces the paper sign-in sheets previously kept in the dispatch office and is intended to shorten wait times during the morning rush, when as many as thirty trucks arrive between 6:00 and 8:00 A.M.\n\nTo check in, drivers should scan the QR code on their delivery manifest, enter their trailer number, and select an available dock door from the on-screen list. The kiosk will print a dock assignment slip, which must be displayed on the dashboard while the vehicle is on terminal property. Drivers without a printed manifest can enter their booking reference manually, though this takes slightly longer.\n\nDock personnel should note that door assignments will now appear automatically on the warehouse display boards; radio confirmation from dispatch is no longer required, except for oversized loads and refrigerated trailers, which still need manual assignment.\n\nDuring the first two weeks, a dispatcher will be stationed at Gate 4 from 5:30 A.M. to 9:00 A.M. to assist drivers unfamiliar with the system. Comments about the new procedure may be left in the suggestion box outside the drivers' lounge.",
+    "questions": [
+      {
+        "question": "Why was the automated kiosk installed?",
+        "options": [
+          "To reduce waiting times for arriving trucks",
+          "To monitor driver working hours",
+          "To replace the warehouse display boards",
+          "To collect terminal entrance fees"
+        ],
+        "answer": 0,
+        "explanation": "첫 문단에서 키오스크가 'intended to shorten wait times during the morning rush'라고 명시되어 있어, 아침 혼잡 시간대에 도착 트럭의 대기 시간을 줄이기 위해 설치되었음을 알 수 있습니다. 근무 시간 감시, 게시판 대체, 요금 징수는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must drivers display on their dashboard?",
+        "options": [
+          "A delivery manifest",
+          "A dock assignment slip",
+          "A trailer registration card",
+          "A booking confirmation email"
+        ],
+        "answer": 1,
+        "explanation": "'The kiosk will print a dock assignment slip, which must be displayed on the dashboard while the vehicle is on terminal property'라고 되어 있으므로, 터미널 내에서는 키오스크가 출력한 도크 배정표를 계기판에 비치해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the memo, which shipments still require manual dock assignment?",
+        "options": [
+          "Shipments arriving before 6:00 A.M.",
+          "Shipments without a QR code",
+          "Oversized and refrigerated loads",
+          "Loads bound for international destinations"
+        ],
+        "answer": 2,
+        "explanation": "'radio confirmation from dispatch is no longer required, except for oversized loads and refrigerated trailers, which still need manual assignment'라고 명시되어 있어, 규격 외 화물과 냉장 트레일러는 여전히 수동 배정이 필요합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can be inferred about drivers who arrive without a printed manifest?",
+        "options": [
+          "They will be turned away at the gate.",
+          "They can still check in, but less quickly.",
+          "They must wait until 9:00 A.M. for assistance.",
+          "They will be assigned to Gate 4 only."
+        ],
+        "answer": 1,
+        "explanation": "'Drivers without a printed manifest can enter their booking reference manually, though this takes slightly longer'라는 문장에서, 인쇄된 화물 목록이 없어도 예약 번호를 수동 입력해 체크인할 수 있지만 시간이 조금 더 걸린다는 점을 추론할 수 있습니다. 입장 거부나 대기 의무는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Registered Patients <patients@cedarbrookclinic.org>\nFrom: Cedarbrook Family Clinic <noreply@cedarbrookclinic.org>\nDate: February 10\nSubject: Changes to our appointment reminder service\n\nDear Patients,\n\nBeginning March 1, Cedarbrook Family Clinic will switch to a new appointment reminder system called CareNotify. The current system, which sends a single phone call two days before each visit, will be retired at the end of February.\n\nWith CareNotify, you will receive a text message one week before your appointment and a second reminder 24 hours in advance. Each message contains a link allowing you to confirm, reschedule, or cancel without calling our front desk. Patients who prefer voice calls or who do not use a mobile phone can keep receiving telephone reminders by calling 555-0147 and selecting option 3 before February 25.\n\nPlease note that our cancellation policy remains unchanged: appointments canceled less than 24 hours in advance may be subject to a $30 fee, except in cases of emergency. We encourage you to use the rescheduling link as soon as you know you cannot attend, since same-week openings fill quickly, especially with Dr. Mehta and Dr. Russo, whose schedules are typically booked three weeks ahead.\n\nIf your mobile number has changed in the past year, please update it through the patient portal or at your next visit.\n\nWarm regards,\nCedarbrook Family Clinic Administration",
+    "questions": [
+      {
+        "question": "Why was the email sent?",
+        "options": [
+          "To introduce two new physicians",
+          "To announce a new reminder system for appointments",
+          "To explain an increase in cancellation fees",
+          "To promote a new mobile clinic service"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 3월 1일부터 CareNotify라는 새 예약 알림 시스템으로 전환된다는 사실과 그 사용 방법을 안내하기 위해 발송되었습니다. 의사 소개나 수수료 인상($30 수수료는 기존과 동일), 이동 진료 서비스는 내용과 다릅니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should patients do if they want to keep receiving phone call reminders?",
+        "options": [
+          "Update their number on the patient portal",
+          "Send a written request to the clinic",
+          "Call the clinic and select an option by February 25",
+          "Speak to Dr. Mehta at their next visit"
+        ],
+        "answer": 2,
+        "explanation": "'Patients who prefer voice calls... can keep receiving telephone reminders by calling 555-0147 and selecting option 3 before February 25'라고 되어 있으므로, 2월 25일 전에 전화하여 옵션 3을 선택해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Dr. Mehta and Dr. Russo?",
+        "options": [
+          "They are in high demand among patients.",
+          "They joined the clinic in the past year.",
+          "They only see patients on weekends.",
+          "They designed the CareNotify system."
+        ],
+        "answer": 0,
+        "explanation": "'Dr. Mehta and Dr. Russo, whose schedules are typically booked three weeks ahead'라는 표현에서 두 의사의 일정이 보통 3주 전에 마감될 정도로 환자들에게 인기가 많다는 것을 추론할 수 있습니다. 입사 시기, 주말 진료, 시스템 개발 여부는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the email, what has NOT changed?",
+        "options": [
+          "The timing of reminder messages",
+          "The method of confirming appointments",
+          "The policy on late cancellations",
+          "The system used to contact patients"
+        ],
+        "answer": 2,
+        "explanation": "'our cancellation policy remains unchanged: appointments canceled less than 24 hours in advance may be subject to a $30 fee'라고 명시되어 있어 취소 정책은 그대로입니다. 알림 시점(2일 전 1회 → 1주 전과 24시간 전 2회), 확인 방법(전화 → 문자 링크), 연락 시스템(CareNotify 도입)은 모두 변경된 사항입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Clinical and Front-Desk Staff\nFrom: Dr. Felix Amankwah, Medical Director\nDate: October 6\nSubject: Transition to the Lumira records system\n\nAs announced at last month's staff meeting, Westgate Health Clinic will move from paper charts to the Lumira electronic records system on Monday, November 10. To ensure a smooth transition, please review the following schedule.\n\nTraining will be conducted in the second-floor conference room in three groups. Physicians and nurse practitioners will attend on October 20–21; nursing and laboratory staff on October 22–23; and reception and billing staff on October 27–28. Each group's training runs from 8:00 A.M. to noon, and patient appointments on those mornings have already been reduced accordingly. Staff unable to attend their assigned dates must notify Ms. Trinh in administration at least one week in advance to arrange an alternative.\n\nFrom November 3 to November 7, the clinic will operate in practice mode: staff will enter sample data into Lumira while continuing to use paper charts for actual patient care. Two consultants from Lumira will be on site that week and for the first ten days after the launch to answer questions.\n\nPlease note that paper charts for active patients will be scanned by an outside vendor between November and January. Charts must not be removed from the records room during this period without signing the tracking log.",
+    "questions": [
+      {
+        "question": "What is the purpose of the memo?",
+        "options": [
+          "To introduce a new medical director",
+          "To outline the schedule for adopting a records system",
+          "To announce the closure of the records room",
+          "To describe changes to patient billing procedures"
+        ],
+        "answer": 1,
+        "explanation": "메모는 11월 10일에 종이 차트에서 Lumira 전자 기록 시스템으로 전환하는 일정(그룹별 교육, 연습 기간, 스캔 작업)을 안내하고 있으므로 (B)가 목적입니다. 신임 원장 소개나 기록실 폐쇄, 청구 절차 변경은 핵심 내용이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When will reception staff receive their training?",
+        "options": [
+          "October 20–21",
+          "October 22–23",
+          "October 27–28",
+          "November 3–7"
+        ],
+        "answer": 2,
+        "explanation": "'reception and billing staff on October 27–28'라고 명시되어 있으므로 접수 직원의 교육일은 10월 27일과 28일입니다. 10월 20-21일은 의사와 전문 간호사, 10월 22-23일은 간호·검사 인력 대상이며, 11월 3-7일은 연습 운영 기간입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will staff do during the week of November 3?",
+        "options": [
+          "Use the new system exclusively for patient care",
+          "Practice with sample data while still using paper charts",
+          "Scan patient charts for an outside vendor",
+          "Attend a meeting with the medical director"
+        ],
+        "answer": 1,
+        "explanation": "'staff will enter sample data into Lumira while continuing to use paper charts for actual patient care'라고 되어 있어, 11월 3일 주간에는 연습용 데이터를 입력하면서 실제 진료에는 여전히 종이 차트를 사용합니다. 스캔 작업은 외부 업체가 담당합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why might staff need to sign a tracking log?",
+        "options": [
+          "To borrow equipment from the conference room",
+          "To request an alternative training date",
+          "To take a paper chart out of the records room",
+          "To report an error in the Lumira system"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문단에 'Charts must not be removed from the records room during this period without signing the tracking log'라고 명시되어 있으므로, 스캔 기간 중 기록실에서 차트를 반출하려면 추적 대장에 서명해야 합니다. 교육일 변경은 Trinh 씨에게 통보하는 방식입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Nadia Petrov <n.petrov@silvanmedicalsupply.com>\nFrom: Oliver Tan <o.tan@ridgeviewdental.org>\nDate: July 8\nSubject: Order #RD-3047 — partial backorder\n\nDear Ms. Petrov,\n\nThank you for the prompt delivery of most of order #RD-3047, which arrived at Ridgeview Dental Group this morning. However, the packing list indicates that two items—the ultrasonic cleaning solution (item #US-220, six bottles) and the sterilization pouches (item #SP-114, ten boxes)—are on backorder until July 29.\n\nUnfortunately, our current stock of sterilization pouches will last only until about July 18, and we cannot operate without them. Could you let me know whether a partial quantity, even two or three boxes, could be shipped sooner? Alternatively, if you can recommend a comparable product that is in stock, we would consider substituting it for this order only, provided the unit price does not exceed what we originally agreed to pay.\n\nThe cleaning solution is less urgent, as we have enough on hand for roughly five weeks, so the July 29 date poses no problem there.\n\nWe have been ordering from Silvan for over six years and appreciate the consistently reliable service. I would be grateful for a reply by Thursday so that we can contact another supplier if necessary.\n\nBest regards,\nOliver Tan\nOffice Manager, Ridgeview Dental Group",
+    "questions": [
+      {
+        "question": "Why did Mr. Tan write the email?",
+        "options": [
+          "To complain about damaged merchandise",
+          "To ask about receiving a backordered item sooner",
+          "To cancel an order placed six years ago",
+          "To negotiate a long-term supply contract"
+        ],
+        "answer": 1,
+        "explanation": "이메일의 핵심 요청은 7월 29일까지 입고 지연된 멸균 파우치를 일부 수량이라도 더 빨리 보내줄 수 있는지 문의하는 것입니다. 파손 제품 불만이나 주문 취소, 장기 계약 협상은 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the ultrasonic cleaning solution?",
+        "options": [
+          "It arrived damaged this morning.",
+          "It is needed before July 18.",
+          "The clinic has about five weeks' worth in stock.",
+          "It was substituted with a comparable product."
+        ],
+        "answer": 2,
+        "explanation": "'The cleaning solution is less urgent, as we have enough on hand for roughly five weeks'라고 되어 있어, 세척액 재고는 약 5주분이 남아 있어 급하지 않음을 알 수 있습니다. 7월 18일경 소진되는 것은 멸균 파우치입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Under what condition would Mr. Tan accept a substitute product?",
+        "options": [
+          "If it is delivered by July 29",
+          "If its price is no higher than the original item's",
+          "If it comes with a six-year warranty",
+          "If it is made by the same manufacturer"
+        ],
+        "answer": 1,
+        "explanation": "'we would consider substituting it... provided the unit price does not exceed what we originally agreed to pay'라고 명시되어 있으므로, 대체품의 단가가 원래 합의한 가격을 넘지 않아야 한다는 조건입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Tan suggest he will do if he does not hear back by Thursday?",
+        "options": [
+          "Visit Silvan's warehouse in person",
+          "Reduce future order quantities",
+          "Seek the products from a different vendor",
+          "File a formal complaint with management"
+        ],
+        "answer": 2,
+        "explanation": "'I would be grateful for a reply by Thursday so that we can contact another supplier if necessary'라는 마지막 문장에서, 목요일까지 답이 없으면 다른 공급업체에 연락할 수 있음을 시사하고 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Staff, Larkfield Community Clinic\nFrom: Renata Borges, Clinic Administrator\nDate: April 2\nSubject: Saturday hours beginning in May\n\nIn response to patient survey results showing strong demand for weekend availability, Larkfield Community Clinic will open on Saturdays from 9:00 A.M. to 1:00 P.M. beginning May 3. Saturday services will initially be limited to general consultations, vaccinations, and blood draws; specialist appointments and imaging will remain weekday-only for the time being.\n\nSaturday shifts will be staffed by two physicians, three nurses, and two front-desk employees on a rotating basis. Working one Saturday earns a half day of compensatory leave, which must be used within three months. The April rotation schedule will be posted in the staff lounge by April 11, and staff may swap assigned Saturdays with a colleague in the same role, provided both employees notify me by e-mail at least five days beforehand.\n\nThe pharmacy next door, Hartwell Drugs, has agreed to match our Saturday hours starting the same weekend, so patients can fill prescriptions immediately after their visits.\n\nWe will review appointment volumes at the end of July to decide whether to extend Saturday hours into the afternoon. Please direct questions to my office or raise them at the staff meeting on April 9.",
+    "questions": [
+      {
+        "question": "Why is the clinic adding Saturday hours?",
+        "options": [
+          "A nearby clinic recently closed.",
+          "Patient surveys showed demand for weekend services.",
+          "The clinic is required to do so by law.",
+          "Weekday appointment volumes have declined."
+        ],
+        "answer": 1,
+        "explanation": "첫 문장에서 'In response to patient survey results showing strong demand for weekend availability'라고 하여 환자 설문 조사에서 주말 진료 수요가 높게 나타난 것이 토요일 진료 도입의 이유임을 밝히고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which service will be available on Saturdays?",
+        "options": [
+          "Specialist appointments",
+          "Imaging services",
+          "Vaccinations",
+          "Physical therapy"
+        ],
+        "answer": 2,
+        "explanation": "'Saturday services will initially be limited to general consultations, vaccinations, and blood draws'라고 명시되어 있으므로 예방접종이 토요일에 제공되는 서비스입니다. 전문의 진료와 영상 검사는 당분간 평일에만 가능합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must employees do to exchange Saturday shifts?",
+        "options": [
+          "Obtain approval at the April 9 staff meeting",
+          "Email the administrator at least five days in advance",
+          "Find a replacement from a different department",
+          "Use compensatory leave within three months"
+        ],
+        "answer": 1,
+        "explanation": "'staff may swap assigned Saturdays with a colleague in the same role, provided both employees notify me by e-mail at least five days beforehand'라고 되어 있어, 같은 직무의 동료와 교대를 바꾸려면 두 직원 모두 최소 5일 전에 관리자에게 이메일로 알려야 합니다. 보상 휴가 사용 기한은 별개의 규정입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Hartwell Drugs?",
+        "options": [
+          "It is located close to the clinic.",
+          "It is owned by the clinic.",
+          "It will deliver prescriptions to patients' homes.",
+          "It opened on May 3."
+        ],
+        "answer": 0,
+        "explanation": "'The pharmacy next door, Hartwell Drugs'라는 표현에서 Hartwell Drugs가 클리닉 바로 옆에 있는 약국임을 알 수 있습니다. 소유 관계나 배달 서비스는 언급되지 않았고, 5월 3일은 토요일 영업시간을 맞추기 시작하는 날이지 개업일이 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Beatriz Camara <b.camara@arvelodevelopment.com>\nFrom: Donal McAleer <d.mcaleer@stonebridgebuilders.com>\nDate: March 27\nSubject: Riverside Plaza project — schedule revision\n\nDear Ms. Camara,\n\nI am writing to update you on the construction timeline for the Riverside Plaza office complex. As you know, our excavation work was scheduled to finish on March 21. However, two factors have pushed the completion of the foundation phase back by approximately three weeks.\n\nFirst, the city's utilities department took eleven business days—rather than the usual five—to approve the relocation of a water main running beneath the northeast corner of the site. Second, the heavy rainfall earlier this month left the excavation area too saturated for concrete pouring, which our engineers will not authorize until soil moisture returns to acceptable levels.\n\nWe now expect to pour the foundation during the week of April 14, with structural steel erection beginning May 5. I want to assure you that the overall completion date of next February remains achievable. We plan to recover the lost time by adding a second crew during the framing phase and by overlapping interior rough-in work with the facade installation, an approach we used successfully on the Welland Tower project.\n\nMy team will present a revised master schedule at our monthly progress meeting on April 3. Please let me know if you would like to discuss anything before then.\n\nKind regards,\nDonal McAleer\nProject Director, Stonebridge Builders",
+    "questions": [
+      {
+        "question": "What is the main purpose of the email?",
+        "options": [
+          "To request payment for completed work",
+          "To explain a delay and present a recovery plan",
+          "To propose a new office complex design",
+          "To announce the cancellation of a meeting"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 기초 공사 단계가 약 3주 지연된 두 가지 원인을 설명하고, 전체 완공일을 지키기 위한 만회 계획(추가 인력 투입, 공정 중첩)을 제시하고 있으므로 (B)가 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is one reason the project fell behind schedule?",
+        "options": [
+          "A shortage of structural steel",
+          "A delayed permit approval from the city",
+          "A labor dispute with the excavation crew",
+          "A design change requested by the client"
+        ],
+        "answer": 1,
+        "explanation": "'the city's utilities department took eleven business days—rather than the usual five—to approve the relocation of a water main'이라고 하여, 시 당국의 승인 지연이 일정 차질의 한 원인임을 밝히고 있습니다. 다른 원인은 폭우로 인한 토양 과습입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. McAleer say about the Welland Tower project?",
+        "options": [
+          "It was completed three weeks late.",
+          "It was designed by Ms. Camara's firm.",
+          "A similar scheduling method worked well there.",
+          "It is located next to Riverside Plaza."
+        ],
+        "answer": 2,
+        "explanation": "'overlapping interior rough-in work with the facade installation, an approach we used successfully on the Welland Tower project'라고 하여, 공정을 중첩시키는 방식을 Welland Tower 프로젝트에서 성공적으로 사용한 적이 있음을 언급합니다. 이는 이번 만회 계획의 실현 가능성을 뒷받침하는 근거입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will most likely happen on April 3?",
+        "options": [
+          "The foundation will be poured.",
+          "An updated project schedule will be shared.",
+          "Structural steel erection will begin.",
+          "The water main will be relocated."
+        ],
+        "answer": 1,
+        "explanation": "'My team will present a revised master schedule at our monthly progress meeting on April 3'라고 되어 있으므로 4월 3일 월례 회의에서 수정된 전체 일정표가 공유될 것입니다. 기초 타설은 4월 14일 주간, 철골 공사는 5월 5일 시작 예정입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Site Personnel, Calder Avenue Project\nFrom: Roisin Gallagher, Site Safety Manager\nDate: August 14\nSubject: Results of the quarterly safety inspection\n\nThe quarterly safety inspection of the Calder Avenue site was completed on August 11 by inspectors from Halpern Risk Associates. Overall, the site received a rating of \"satisfactory,\" an improvement over the previous quarter. The inspectors specifically praised the condition of our scaffolding and the consistent use of fall-arrest harnesses on the upper levels.\n\nHowever, the report identified three areas requiring corrective action. First, several extension cords in the basement work zone were found running through standing water; all electrical lines in that area must be rerouted along the overhead cable trays by August 18. Second, the emergency assembly point sign at the south gate was obscured by stacked lumber, which has already been moved. Third, four workers were observed without high-visibility vests in the crane operating radius; supervisors must review the vest requirement with their crews at Monday's briefing.\n\nA follow-up visit is scheduled for August 25 to verify that the electrical issue has been resolved. Failure to pass the follow-up could result in a stop-work order for the basement zone, which would jeopardize our September 30 deadline for the concrete substructure.\n\nCopies of the full report are available in the site office. Please sign the acknowledgment sheet attached to this memo by Friday.",
+    "questions": [
+      {
+        "question": "What did the inspectors compliment?",
+        "options": [
+          "The organization of the site office",
+          "The condition of the scaffolding",
+          "The labeling of electrical lines",
+          "The placement of warning signs"
+        ],
+        "answer": 1,
+        "explanation": "'The inspectors specifically praised the condition of our scaffolding and the consistent use of fall-arrest harnesses'라고 되어 있어, 검사관들이 비계 상태와 추락 방지 안전벨트 착용을 칭찬했음을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which problem has already been corrected?",
+        "options": [
+          "The extension cords in standing water",
+          "The blocked emergency assembly sign",
+          "The missing high-visibility vests",
+          "The damaged cable trays"
+        ],
+        "answer": 1,
+        "explanation": "'the emergency assembly point sign at the south gate was obscured by stacked lumber, which has already been moved'라고 하여, 적재된 목재는 이미 옮겨졌으므로 비상 집결지 표지판 문제는 해결되었습니다. 전기 배선은 8월 18일까지 조치해야 하는 미해결 사항입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What could happen if the site fails the follow-up inspection?",
+        "options": [
+          "The entire project could be canceled.",
+          "Work in the basement zone could be halted.",
+          "The safety manager could be replaced.",
+          "Workers could lose their certifications."
+        ],
+        "answer": 1,
+        "explanation": "'Failure to pass the follow-up could result in a stop-work order for the basement zone'이라고 명시되어 있어, 재검사를 통과하지 못하면 지하 작업 구역에 작업 중지 명령이 내려질 수 있습니다. 프로젝트 전체 취소가 아니라 해당 구역에 한정된 조치입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What are recipients of the memo asked to do by Friday?",
+        "options": [
+          "Attend a safety briefing",
+          "Reroute electrical lines",
+          "Sign an acknowledgment sheet",
+          "Pick up a copy of the full report"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장 'Please sign the acknowledgment sheet attached to this memo by Friday'에서 금요일까지 메모에 첨부된 확인서에 서명하라고 요청하고 있습니다. 안전 브리핑은 월요일이며, 전기 배선 조치 기한은 8월 18일입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Estimating Department <estimating@voltcraftelectric.com>\nFrom: Hana Lindgren <h.lindgren@pinnaclebuildgroup.com>\nDate: January 22\nSubject: Invitation to bid — Maplewood Library renovation\n\nDear Voltcraft Electric,\n\nPinnacle Build Group has been selected as the general contractor for the renovation of the Maplewood Public Library, and we are inviting qualified subcontractors to submit bids for the electrical work. The scope includes replacing the main distribution panel, installing energy-efficient lighting throughout the 2,400-square-meter building, and wiring twelve new public computer stations on the second floor.\n\nBid documents, including drawings and specifications, can be downloaded from our contractor portal at www.pinnaclebuild.com/bids using access code MPL-2291. Sealed bids must be received at our Granview office no later than 3:00 P.M. on February 19. Bids arriving after this time will be returned unopened, without exception.\n\nA non-mandatory site walkthrough will be held on February 4 at 10:00 A.M.; while attendance is optional, contractors who have visited the site in past projects tell us it is helpful for estimating the conduit routing in the older wing. Please confirm attendance with our office by February 2 if you plan to join.\n\nNote that the library will remain open during construction, so the successful bidder must be able to schedule disruptive work outside public hours. Questions about the bid documents should be submitted in writing by February 12.\n\nSincerely,\nHana Lindgren\nProcurement Manager, Pinnacle Build Group",
+    "questions": [
+      {
+        "question": "Why was the email sent to Voltcraft Electric?",
+        "options": [
+          "To award them a renovation contract",
+          "To invite them to bid on electrical work",
+          "To request repairs at the Granview office",
+          "To confirm their attendance at a walkthrough"
+        ],
+        "answer": 1,
+        "explanation": "'we are inviting qualified subcontractors to submit bids for the electrical work'라고 명시되어 있어, 도서관 개보수 공사의 전기 작업에 대한 입찰 참여를 요청하는 이메일입니다. 계약 낙찰 통보가 아니라 입찰 초대 단계입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to bids submitted after the deadline?",
+        "options": [
+          "They will be considered with a penalty.",
+          "They will be sent back without being opened.",
+          "They will be reviewed in a second round.",
+          "They will be kept on file for future projects."
+        ],
+        "answer": 1,
+        "explanation": "'Bids arriving after this time will be returned unopened, without exception'이라고 명시되어 있으므로, 마감 시간 이후 도착한 입찰서는 예외 없이 개봉되지 않은 채 반송됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the site walkthrough?",
+        "options": [
+          "It is required for all bidders.",
+          "It may help bidders prepare more accurate estimates.",
+          "It will be led by the library director.",
+          "It will take place after the bid deadline."
+        ],
+        "answer": 1,
+        "explanation": "현장 답사는 의무가 아니지만 'contractors who have visited the site in past projects tell us it is helpful for estimating the conduit routing in the older wing'이라고 하여, 구관의 배관 경로 견적에 도움이 된다는 점에서 더 정확한 견적 작성에 유용할 수 있음을 시사합니다. 답사일(2월 4일)은 입찰 마감(2월 19일) 전입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What requirement is mentioned for the winning bidder?",
+        "options": [
+          "Performing noisy work when the library is closed",
+          "Hiring workers from the Maplewood area",
+          "Completing the project within twelve weeks",
+          "Providing their own computer stations"
+        ],
+        "answer": 0,
+        "explanation": "'the library will remain open during construction, so the successful bidder must be able to schedule disruptive work outside public hours'라고 되어 있어, 낙찰자는 소음 등 지장을 주는 작업을 도서관 운영 시간 외에 수행할 수 있어야 합니다. 지역 인력 고용, 공사 기간, 컴퓨터 제공은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Tenants and Site Crews, Orchard Lane Development\nFrom: Mateo Quintana, Construction Liaison\nDate: June 25\nSubject: Crane operations and temporary street closure, July 7–9\n\nPlease be advised that a 200-ton mobile crane will be on site from Monday, July 7, through Wednesday, July 9, to lift rooftop mechanical units onto Building B. To accommodate the crane and delivery trucks, the section of Orchard Lane between Vine Street and Cooper Road will be fully closed to vehicles from 7:00 A.M. to 6:00 P.M. on those three days. Pedestrian access along the east sidewalk will remain open at all times, with flaggers stationed at both ends of the closure.\n\nResidents of the adjacent Orchard Court apartments may park in the visitor lot at 48 Cooper Road free of charge during the closure; permits are available from the rental office until July 3. Business deliveries for the bakery and pharmacy on Vine Street should be redirected to the rear loading alley.\n\nLifting operations will pause if sustained winds exceed 38 kilometers per hour, in which case work will continue on the next suitable day, potentially extending the closure into Thursday. Updates will be posted each evening at www.orchardlanedev.com/traffic and on the notice board at the site entrance.\n\nWe appreciate your patience and apologize for any inconvenience. Direct questions to my office at 555-0166, extension 12.",
+    "questions": [
+      {
+        "question": "Why will Orchard Lane be closed?",
+        "options": [
+          "To repave the road surface",
+          "To allow a crane to lift equipment onto a roof",
+          "To hold a neighborhood street festival",
+          "To install new traffic signals"
+        ],
+        "answer": 1,
+        "explanation": "'a 200-ton mobile crane will be on site... to lift rooftop mechanical units onto Building B. To accommodate the crane... Orchard Lane... will be fully closed'라고 되어 있어, 크레인이 옥상 기계 설비를 들어 올리는 작업을 위해 도로가 폐쇄됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about pedestrian access?",
+        "options": [
+          "It will be limited to the morning hours.",
+          "It will be rerouted through the loading alley.",
+          "It will remain available on the east sidewalk.",
+          "It will require a permit from the rental office."
+        ],
+        "answer": 2,
+        "explanation": "'Pedestrian access along the east sidewalk will remain open at all times, with flaggers stationed at both ends'라고 명시되어 있어 동쪽 보도를 통한 보행자 통행은 항상 가능합니다. 허가증은 보행이 아니라 주차용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should apartment residents do by July 3?",
+        "options": [
+          "Move their vehicles to Vine Street",
+          "Obtain a parking permit from the rental office",
+          "Register their visitors at the site entrance",
+          "Submit complaints to the construction liaison"
+        ],
+        "answer": 1,
+        "explanation": "'Residents... may park in the visitor lot at 48 Cooper Road free of charge during the closure; permits are available from the rental office until July 3'라고 되어 있으므로, 무료 주차를 위해서는 7월 3일까지 임대 사무소에서 허가증을 받아야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the memo, what could cause the closure to last longer than planned?",
+        "options": [
+          "Late delivery of the mechanical units",
+          "Strong winds interrupting the lifting work",
+          "A shortage of certified crane operators",
+          "Complaints from nearby businesses"
+        ],
+        "answer": 1,
+        "explanation": "'Lifting operations will pause if sustained winds exceed 38 kilometers per hour... potentially extending the closure into Thursday'라고 하여, 풍속이 시속 38킬로미터를 넘으면 작업이 중단되어 폐쇄가 목요일까지 연장될 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Department Leads <leads@goldenvalefoods.com>\nFrom: Imogen Hartley <i.hartley@goldenvalefoods.com>\nDate: September 30\nSubject: Organic certification audit — October 21\n\nDear Department Leads,\n\nOur annual organic certification audit will take place on Tuesday, October 21. An inspector from the Verdant Standards Council will spend the full day at our Brockton processing facility, reviewing documentation in the morning and touring the production floor, storage areas, and receiving dock in the afternoon.\n\nTo prepare, please complete the following by October 14. Receiving must verify that supplier organic certificates on file are current; last year, two expired certificates resulted in a minor noncompliance note, and a repeat finding this year could trigger a follow-up inspection at our expense. Production should confirm that the equipment cleaning logs for the past twelve months are complete and signed. Storage must ensure that organic and conventional ingredients remain clearly separated and labeled, with the colored shelf tags replaced wherever they have faded.\n\nI will hold a one-hour preparation meeting in the cafeteria on October 9 at 2:00 P.M. to walk through the inspector's checklist. Department leads unable to attend should send a deputy.\n\nPlease remember that the inspector may interview any employee about our organic handling procedures, so encourage your teams to review the quick-reference cards distributed in June. Maintaining this certification allows us to keep supplying our three largest retail customers, so your thorough preparation matters.\n\nThank you,\nImogen Hartley\nQuality Assurance Manager",
+    "questions": [
+      {
+        "question": "What is the purpose of the email?",
+        "options": [
+          "To announce the results of an inspection",
+          "To help departments get ready for an upcoming audit",
+          "To introduce a new line of organic products",
+          "To explain a change in cleaning procedures"
+        ],
+        "answer": 1,
+        "explanation": "이메일은 10월 21일 유기농 인증 심사를 앞두고 각 부서가 10월 14일까지 완료해야 할 준비 사항과 준비 회의 일정을 안내하고 있으므로 (B)가 목적입니다. 심사 결과 발표가 아니라 사전 준비 단계입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happened during last year's audit?",
+        "options": [
+          "The facility lost its certification.",
+          "Two supplier certificates were found to be expired.",
+          "The cleaning logs were missing signatures.",
+          "An employee failed an interview."
+        ],
+        "answer": 1,
+        "explanation": "'last year, two expired certificates resulted in a minor noncompliance note'라고 되어 있어, 작년 심사에서 만료된 공급업체 인증서 두 건으로 경미한 부적합 지적을 받았음을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the storage department asked to do?",
+        "options": [
+          "Replace faded shelf tags",
+          "Sign twelve months of cleaning logs",
+          "Update supplier certificates",
+          "Reorganize the receiving dock"
+        ],
+        "answer": 0,
+        "explanation": "'Storage must ensure that organic and conventional ingredients remain clearly separated and labeled, with the colored shelf tags replaced wherever they have faded'라고 명시되어 있어, 저장 부서는 색이 바랜 선반 태그를 교체해야 합니다. 청소 기록은 생산 부서, 인증서 확인은 입고 부서의 업무입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Hartley say the certification is important?",
+        "options": [
+          "It exempts the facility from government inspections.",
+          "It allows the company to keep its major retail customers.",
+          "It qualifies employees for a yearly bonus.",
+          "It reduces the cost of organic ingredients."
+        ],
+        "answer": 1,
+        "explanation": "마지막 문단에서 'Maintaining this certification allows us to keep supplying our three largest retail customers'라고 하여, 인증 유지가 3대 소매 고객사에 계속 납품하기 위한 조건임을 밝히고 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Permanent Staff, Sunhaven Orchards Packing House\nFrom: Lucia Mendel, Operations Director\nDate: August 5\nSubject: Harvest season arrangements, September 1 – November 15\n\nWith the apple and pear harvest expected to begin around September 1, this memo outlines our seasonal arrangements for the packing house.\n\nApproximately sixty temporary workers will join us for the season, recruited through the Fieldbridge Agency as in previous years. Permanent staff who are willing to serve as line mentors—training newcomers on grading standards and sorting equipment—should sign up with their shift leader by August 15. Mentors receive an hourly premium of $1.50 for the duration of the season.\n\nFrom September 8, the packing house will move from one shift to two: 6:00 A.M. to 2:30 P.M. and 2:30 P.M. to 11:00 P.M. Permanent staff may state a shift preference on the form attached to this memo; preferences will be honored by seniority where possible. The maintenance team will remain on the day shift only, with an on-call rotation covering evening breakdowns.\n\nPlease also note that the staff parking area nearest the cold storage building will be reserved for refrigerated trucks from late September, when shipping volume peaks. Employees should use the gravel lot across Route 9, where a crossing guard will be on duty at shift changes.\n\nQuestions about seasonal pay codes should go to Payroll; all other questions to my office.",
+    "questions": [
+      {
+        "question": "What is the memo mainly about?",
+        "options": [
+          "Preparations for the busy harvest period",
+          "The purchase of new sorting equipment",
+          "Changes to the company's hiring agency",
+          "The construction of a cold storage building"
+        ],
+        "answer": 0,
+        "explanation": "메모는 수확기를 앞두고 임시 인력 투입, 멘토 모집, 2교대 전환, 주차장 변경 등 성수기 운영 준비 사항 전반을 안내하고 있으므로 (A)가 주제입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What incentive is offered to line mentors?",
+        "options": [
+          "An extra paid vacation day",
+          "A higher hourly wage during the season",
+          "First choice of parking spaces",
+          "A guaranteed day-shift assignment"
+        ],
+        "answer": 1,
+        "explanation": "'Mentors receive an hourly premium of $1.50 for the duration of the season'이라고 명시되어 있어, 멘토에게는 시즌 동안 시간당 1.50달러의 추가 수당이 지급됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will shift preferences be decided when there are conflicts?",
+        "options": [
+          "By a random drawing",
+          "By length of service",
+          "By job performance ratings",
+          "By the order forms are received"
+        ],
+        "answer": 1,
+        "explanation": "'preferences will be honored by seniority where possible'라고 되어 있으므로, 교대 근무 선호가 겹칠 경우 근속 연수(seniority)에 따라 우선권이 주어집니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why will employees need to park across Route 9 starting in late September?",
+        "options": [
+          "The current lot will be repaved.",
+          "The nearest lot will be reserved for refrigerated trucks.",
+          "The gravel lot offers more security.",
+          "A new building will occupy the staff lot."
+        ],
+        "answer": 1,
+        "explanation": "'the staff parking area nearest the cold storage building will be reserved for refrigerated trucks from late September, when shipping volume peaks'라고 하여, 출하량이 정점에 이르는 시기에 냉장 트럭용으로 기존 직원 주차장이 지정되기 때문에 직원들은 Route 9 건너편 자갈 주차장을 이용해야 합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Plant Management Team <management@nordcrestdairy.com>\nFrom: Stefan Ovesen <s.ovesen@nordcrestdairy.com>\nDate: July 14, 6:42 A.M.\nSubject: Cold storage unit 2 — compressor failure\n\nDear Management Team,\n\nAt approximately 4:30 this morning, the night supervisor reported that the compressor in cold storage unit 2 had failed and that the internal temperature had risen from 3°C to 7°C over roughly two hours. Our refrigeration contractor, Polar Mechanical, was called immediately; a technician is expected on site by 8:00 A.M. with a replacement condenser fan motor, which they believe is the likely cause.\n\nFollowing our food safety plan, all yogurt and soft cheese stored in unit 2 was transferred to units 1 and 3 by 6:00 A.M. Temperature data loggers confirm that no product exceeded 7°C, which is within the safe threshold of 8°C established by our quality team, so no product disposal is anticipated. However, the affected batches have been placed on hold pending review and approval by Quality Assurance, which should be completed by noon. Customer shipments scheduled for this morning will go out as planned using inventory from unit 3.\n\nUnits 1 and 3 are now operating near capacity, so this afternoon's production run of drinkable yogurt will be reduced by half until unit 2 is back in service. Polar Mechanical estimates repairs will be completed by tomorrow morning. I will send an update by 1:00 P.M. today.\n\nRegards,\nStefan Ovesen\nFacility Engineering Manager",
+    "questions": [
+      {
+        "question": "Why did Mr. Ovesen send the email?",
+        "options": [
+          "To report an equipment failure and the response to it",
+          "To request approval for purchasing a new storage unit",
+          "To announce a recall of dairy products",
+          "To criticize the night supervisor's performance"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 냉장고 2호기 압축기 고장 사실과 이에 대한 대응 조치(제품 이동, 품질 검토, 수리 일정)를 경영진에게 보고하는 내용이므로 (A)가 목적입니다. 제품 리콜이나 신규 구매 요청은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the products that were in unit 2?",
+        "options": [
+          "They were thrown away as a precaution.",
+          "They never exceeded the safe temperature limit.",
+          "They were shipped to customers this morning.",
+          "They were returned to the production line."
+        ],
+        "answer": 1,
+        "explanation": "'Temperature data loggers confirm that no product exceeded 7°C, which is within the safe threshold of 8°C'라고 되어 있어, 제품 온도가 안전 한계인 8도를 넘지 않았음을 데이터로 확인했습니다. 따라서 폐기는 예상되지 않으며, 해당 배치는 출하가 아니라 품질 검토를 위해 보류 중입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How will this afternoon's operations be affected?",
+        "options": [
+          "All production will stop until tomorrow.",
+          "Customer shipments will be canceled.",
+          "Output of one product will be cut in half.",
+          "Workers will be sent home early."
+        ],
+        "answer": 2,
+        "explanation": "'this afternoon's production run of drinkable yogurt will be reduced by half until unit 2 is back in service'라고 명시되어 있어, 마시는 요구르트 생산량이 절반으로 줄어듭니다. 고객 출하는 3호기 재고로 예정대로 진행됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will Quality Assurance most likely do by noon?",
+        "options": [
+          "Repair the compressor in unit 2",
+          "Decide whether the held batches can be released",
+          "Install new temperature data loggers",
+          "Negotiate a contract with Polar Mechanical"
+        ],
+        "answer": 1,
+        "explanation": "'the affected batches have been placed on hold pending review and approval by Quality Assurance, which should be completed by noon'이라고 되어 있어, 품질보증팀은 정오까지 보류된 배치의 검토와 승인 여부 결정을 완료할 것으로 추론할 수 있습니다. 수리는 Polar Mechanical의 업무입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Bram Visser <b.visser@terhulstmachine.com>\nFrom: Adaeze Nwosu <a.nwosu@brightpathtraining.com>\nDate: May 6\nSubject: Rescheduling your leadership workshop series\n\nDear Mr. Visser,\n\nThank you for your patience regarding the Foundations of Team Leadership series booked for your supervisors at Ter Hulst Machine Works. As I mentioned by phone, our lead facilitator, Dr. Carmen Ibarra, has been asked to deliver a keynote address abroad during the week of June 9, when your first two sessions were scheduled.\n\nWe would like to offer two options. Option one: keep all six sessions with Dr. Ibarra by shifting the series back two weeks, so it would run from June 23 to July 28, still on Monday afternoons at your facility. Option two: begin on the original date of June 9 with our senior facilitator Mr. Theo Brandt leading the first two sessions, after which Dr. Ibarra would lead the remaining four. Mr. Brandt co-developed the course materials and has taught the program at three manufacturing firms, most recently at Quayside Metals, whose training manager is happy to serve as a reference.\n\nBecause the disruption is on our side, we will apply a 10 percent discount to your final invoice whichever option you choose. We will also extend your team's access to the online learning portal from six months to a full year at no charge.\n\nPlease let me know your preference by May 13 so we can confirm facilitator schedules.\n\nWith apologies for the inconvenience,\nAdaeze Nwosu\nClient Services Manager, Brightpath Training Ltd.",
+    "questions": [
+      {
+        "question": "Why is the workshop series being rescheduled?",
+        "options": [
+          "The training facility will be under renovation.",
+          "The lead facilitator has a speaking engagement overseas.",
+          "Ter Hulst Machine Works requested a later start.",
+          "The course materials are not yet ready."
+        ],
+        "answer": 1,
+        "explanation": "'our lead facilitator, Dr. Carmen Ibarra, has been asked to deliver a keynote address abroad during the week of June 9'라고 되어 있어, 수석 강사가 해외 기조연설을 맡게 된 것이 일정 변경의 이유입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about option two?",
+        "options": [
+          "The series would start later than planned.",
+          "All sessions would be led by Mr. Brandt.",
+          "The first two sessions would have a different instructor.",
+          "The sessions would move to a new location."
+        ],
+        "answer": 2,
+        "explanation": "옵션 2는 원래 날짜인 6월 9일에 시작하되 'Mr. Theo Brandt leading the first two sessions, after which Dr. Ibarra would lead the remaining four'라고 하여 처음 두 세션만 다른 강사가 진행합니다. 시작일이 늦어지는 것은 옵션 1입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is mentioned about Mr. Brandt?",
+        "options": [
+          "He helped create the course materials.",
+          "He is the training manager at Quayside Metals.",
+          "He will deliver a keynote address in June.",
+          "He recently joined Brightpath Training."
+        ],
+        "answer": 0,
+        "explanation": "'Mr. Brandt co-developed the course materials and has taught the program at three manufacturing firms'라고 명시되어 있어, 그가 교육 자료를 공동 개발했음을 알 수 있습니다. Quayside Metals의 교육 담당자는 추천인 역할을 하겠다는 별개의 인물입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What compensation will Ter Hulst Machine Works receive regardless of the option chosen?",
+        "options": [
+          "A free additional training session",
+          "A discount and extended portal access",
+          "A full refund of the deposit",
+          "Complimentary travel to a keynote event"
+        ],
+        "answer": 1,
+        "explanation": "'we will apply a 10 percent discount to your final invoice whichever option you choose. We will also extend your team's access to the online learning portal from six months to a full year at no charge'라고 하여, 어떤 옵션을 택하든 10퍼센트 할인과 온라인 포털 이용 기간 연장(6개월→1년)이 제공됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Instructors and Curriculum Staff\nFrom: Devraj Banerjee, Director of Learning Technology\nDate: November 3\nSubject: Rollout of the Skylark teaching platform\n\nStarting with the January term, Crestfield Professional Institute will deliver all course materials, assignments, and grades through the Skylark platform, replacing the three separate systems we currently use. Skylark was selected after a six-month pilot in the Business English department, where instructor feedback highlighted its simple grade entry and its mobile app, which most students in the pilot used daily.\n\nMigration of existing course content will be handled centrally by my team; instructors do not need to transfer their own files. However, each instructor must complete two steps before December 12: first, attend one ninety-minute hands-on workshop (offered every Tuesday and Thursday in November, both in person and online); second, log in to Skylark and verify that the migrated content of at least one current course is accurate. Any errors should be reported through the orange \"Flag content\" button rather than by email, as flagged items are routed directly to the migration team with all the necessary technical details attached.\n\nInstructors teaching evening classes may request a recorded version of the workshop, though the live sessions are strongly recommended because they include practice with the gradebook. Department coordinators will receive weekly completion reports throughout November.\n\nA student-facing introduction video will be sent to all enrolled learners during the first week of December.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the memo?",
+        "options": [
+          "To request feedback on a pilot program",
+          "To explain steps for adopting a new teaching platform",
+          "To announce the cancellation of evening classes",
+          "To introduce a new director of learning technology"
+        ],
+        "answer": 1,
+        "explanation": "메모는 1월 학기부터 Skylark 플랫폼으로 전환됨을 알리고, 강사들이 12월 12일까지 완료해야 할 두 가지 절차(워크숍 참석, 콘텐츠 확인)를 설명하고 있으므로 (B)가 목적입니다. 파일럿은 이미 완료된 과정입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was a result of the pilot program?",
+        "options": [
+          "Most participating students used the mobile app every day.",
+          "The Business English department hired more instructors.",
+          "Grade entry was found to be too complicated.",
+          "Three separate systems were purchased."
+        ],
+        "answer": 0,
+        "explanation": "'its mobile app, which most students in the pilot used daily'라고 되어 있어, 파일럿에 참여한 학생 대부분이 모바일 앱을 매일 사용했음을 알 수 있습니다. 성적 입력은 오히려 간단하다는 긍정적 평가를 받았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How should instructors report errors in migrated content?",
+        "options": [
+          "By emailing the migration team",
+          "By using a button within the platform",
+          "By telling their department coordinator",
+          "By calling the learning technology office"
+        ],
+        "answer": 1,
+        "explanation": "'Any errors should be reported through the orange \"Flag content\" button rather than by email'이라고 명시되어 있어, 이메일이 아닌 플랫폼 내의 주황색 버튼으로 오류를 신고해야 합니다. 이 방식은 기술 정보가 자동으로 첨부되어 이관팀에 바로 전달되기 때문입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are live workshop sessions recommended over the recorded version?",
+        "options": [
+          "They are shorter than the recording.",
+          "They include hands-on practice with the gradebook.",
+          "They count toward annual training hours.",
+          "They are the only way to receive login credentials."
+        ],
+        "answer": 1,
+        "explanation": "'the live sessions are strongly recommended because they include practice with the gradebook'라고 되어 있어, 실시간 세션에는 성적부 실습이 포함되기 때문에 권장됩니다. 길이, 연수 시간 인정, 로그인 정보는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Course Participants, Cohort 14 <cohort14@apexcert.com>\nFrom: Margit Halonen <m.halonen@apexcert.com>\nDate: December 2\nSubject: Examination results and next steps\n\nDear Participants,\n\nCongratulations on completing the Certified Logistics Analyst examination on November 21. Individual score reports were uploaded to your candidate accounts this morning; please sign in at www.apexcert.com/portal to view yours. For security reasons, results cannot be given over the phone or by email.\n\nOf the thirty-eight candidates in Cohort 14, thirty-one earned a passing score of 70 or above—the highest pass rate we have recorded in the program's nine years. Successful candidates will receive a printed certificate and a digital badge within three weeks. The digital badge can be added to professional networking profiles and verified by employers through our website.\n\nCandidates who did not pass may retake the examination once at half the standard fee, provided the retake occurs within six months of the original test date. A focused review course covering the two most challenging sections—customs documentation and freight cost analysis—will be offered online each Saturday in January. Enrollment is optional but strongly encouraged, as 85 percent of last year's retake candidates who completed the review course passed on their second attempt.\n\nFinally, please note that the certification is valid for three years. Renewal requires twenty hours of approved continuing education, which can be logged through the candidate portal at any time.\n\nBest regards,\nMargit Halonen\nCertification Programs Director, Apex Professional Certification",
+    "questions": [
+      {
+        "question": "Why can results NOT be provided by phone?",
+        "options": [
+          "The scoring process is not yet complete.",
+          "Phone lines are reserved for enrollment questions.",
+          "Security policies prevent it.",
+          "Candidates must first pay an access fee."
+        ],
+        "answer": 2,
+        "explanation": "'For security reasons, results cannot be given over the phone or by email'이라고 명시되어 있어, 보안상의 이유로 전화나 이메일로는 성적을 알려줄 수 없습니다. 성적표는 이미 후보자 계정에 업로드되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about Cohort 14?",
+        "options": [
+          "It achieved the program's best pass rate to date.",
+          "It was the largest cohort in nine years.",
+          "All of its members passed the examination.",
+          "It completed the course entirely online."
+        ],
+        "answer": 0,
+        "explanation": "'thirty-one earned a passing score of 70 or above—the highest pass rate we have recorded in the program's nine years'라고 하여, 14기는 프로그램 9년 역사상 최고 합격률을 기록했습니다. 38명 중 31명이 합격했으므로 전원 합격은 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about the retake policy?",
+        "options": [
+          "Retakes are free for all candidates.",
+          "The retake must be taken within six months.",
+          "Candidates may retake the exam an unlimited number of times.",
+          "The review course is required before retaking."
+        ],
+        "answer": 1,
+        "explanation": "'may retake the examination once at half the standard fee, provided the retake occurs within six months of the original test date'라고 되어 있어, 재시험은 원래 시험일로부터 6개월 이내에 1회, 표준 응시료의 절반 가격으로 가능합니다. 복습 과정은 선택 사항입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the email, what must certificate holders do to renew?",
+        "options": [
+          "Pass the examination again every three years",
+          "Complete twenty hours of approved continuing education",
+          "Attend the January review course",
+          "Pay an annual membership fee"
+        ],
+        "answer": 1,
+        "explanation": "'Renewal requires twenty hours of approved continuing education, which can be logged through the candidate portal'이라고 명시되어 있어, 자격 갱신을 위해서는 승인된 보수 교육 20시간을 이수해야 합니다. 시험 재응시나 연회비는 갱신 요건으로 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Machine Operators, Carverton Plant\nFrom: Henrik Dahl, Continuous Improvement Lead\nDate: February 17\nSubject: Suggestion program results and next round\n\nThank you to everyone who took part in the first round of the Bright Ideas suggestion program. Between October and January, operators submitted forty-seven improvement ideas, of which nine have been approved for implementation.\n\nThe top suggestion came from Ms. Paulina Reyes of the stamping department, who proposed storing die-change tools on shadow boards beside each press rather than in the central tool crib. Since the change was tested in January, average die changeover time has fallen from fifty-two minutes to thirty-four, and the layout will be extended to all presses by the end of March. Ms. Reyes will receive the $500 quarterly award, and her idea will be entered into the company-wide competition in June.\n\nOther approved suggestions include relocating the scrap bins to reduce forklift traffic in aisle 7 and adding a second label printer at packaging station 4, which often caused bottlenecks during peak runs.\n\nThe next submission round is open now through May 31. Ideas should be entered on the terminals in the break areas; handwritten forms are no longer accepted, as several were lost or illegible last round. Operators whose ideas are approved receive a $50 gift card in addition to eligibility for the quarterly award. Joint submissions from teams of up to four people are now welcome.\n\nKeep the ideas coming.",
+    "questions": [
+      {
+        "question": "What was the result of Ms. Reyes's suggestion?",
+        "options": [
+          "Forklift traffic in aisle 7 decreased.",
+          "Tool changeover time was significantly reduced.",
+          "A second label printer was installed.",
+          "The central tool crib was expanded."
+        ],
+        "answer": 1,
+        "explanation": "'average die changeover time has fallen from fifty-two minutes to thirty-four'라고 되어 있어, Reyes 씨의 제안(금형 교체 공구를 각 프레스 옆 섀도 보드에 보관)으로 교체 시간이 52분에서 34분으로 크게 줄었습니다. 지게차 동선과 라벨 프린터는 다른 직원들의 제안입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen in June?",
+        "options": [
+          "The shadow board layout will be extended to all presses.",
+          "A company-wide competition will take place.",
+          "The next submission round will close.",
+          "Quarterly awards will be doubled."
+        ],
+        "answer": 1,
+        "explanation": "'her idea will be entered into the company-wide competition in June'이라고 명시되어 있어, 6월에는 전사 차원의 경진대회가 열립니다. 섀도 보드 확대는 3월 말까지, 제출 마감은 5월 31일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are handwritten forms no longer accepted?",
+        "options": [
+          "Some were misplaced or could not be read.",
+          "The break areas no longer stock paper forms.",
+          "Operators requested a digital option.",
+          "Processing them took too long."
+        ],
+        "answer": 0,
+        "explanation": "'handwritten forms are no longer accepted, as several were lost or illegible last round'라고 되어 있어, 지난 라운드에서 여러 건이 분실되거나 읽을 수 없었기 때문에 수기 양식 접수를 중단했습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a feature of the suggestion program?",
+        "options": [
+          "A $500 quarterly award",
+          "Gift cards for approved ideas",
+          "Team submissions of up to four people",
+          "Extra vacation days for winners"
+        ],
+        "answer": 3,
+        "explanation": "분기별 500달러 상금, 승인된 아이디어에 대한 50달러 상품권, 최대 4인 팀 제출 허용은 모두 본문에 언급되어 있지만, 추가 휴가는 언급되지 않았으므로 (D)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Warehouse Team Leads <wh-leads@cobaltline.com>\nFrom: Farida El-Sayed <f.elsayed@cobaltline.com>\nDate: October 14\nSubject: Peak season staffing and overtime guidelines\n\nDear Team Leads,\n\nWith the holiday shipping peak approaching, I want to outline our staffing plan for November 17 through December 24 at the Eastport fulfillment center.\n\nWe have hired ninety seasonal associates, who begin orientation in two groups on November 3 and November 10. Each group will spend its first week paired with experienced staff in the picking and packing zones before working independently. Team leads should identify their strongest packers by October 24 to serve as trainers; trainers receive a $2 hourly premium during the training weeks.\n\nOvertime during the peak will follow new guidelines this year. Voluntary overtime sign-up sheets will be posted each Wednesday for the following week, and shifts will be awarded in the order names are received. Mandatory overtime will be used only if voluntary coverage falls below 85 percent of forecast need, and employees will be notified at least 48 hours in advance—a change from last year's 24-hour notice, which generated considerable negative feedback in the post-season survey.\n\nFinally, the cafeteria will extend its hours to cover all three shifts from November 17, and free hot drinks will be available during weekend shifts. Please share these details at your team huddles this week and send any staffing concerns to me by Friday.\n\nThank you,\nFarida El-Sayed\nSite Director, Cobaltline Fulfillment",
+    "questions": [
+      {
+        "question": "What will the seasonal associates do during their first week?",
+        "options": [
+          "Attend classroom sessions only",
+          "Work alongside experienced employees",
+          "Rotate through every department",
+          "Shadow the site director"
+        ],
+        "answer": 1,
+        "explanation": "'Each group will spend its first week paired with experienced staff in the picking and packing zones before working independently'라고 되어 있어, 계절 인력은 첫 주에 숙련 직원과 짝을 이루어 일한 뒤 독립적으로 근무하게 됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will voluntary overtime shifts be assigned?",
+        "options": [
+          "By seniority within each team",
+          "By performance evaluation scores",
+          "In the order in which names are submitted",
+          "By a weekly random drawing"
+        ],
+        "answer": 2,
+        "explanation": "'shifts will be awarded in the order names are received'라고 명시되어 있으므로, 자발적 초과근무는 명단에 이름을 올린 순서대로 배정됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why was the notice period for mandatory overtime changed?",
+        "options": [
+          "Employees responded negatively to the shorter notice last year.",
+          "A new labor regulation requires longer notice.",
+          "The cafeteria could not adjust its hours quickly.",
+          "Trainers requested more preparation time."
+        ],
+        "answer": 0,
+        "explanation": "'a change from last year's 24-hour notice, which generated considerable negative feedback in the post-season survey'라고 되어 있어, 작년의 24시간 전 통보 방식이 시즌 후 설문에서 상당한 불만을 샀기 때문에 올해는 최소 48시간 전 통보로 변경되었습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about mandatory overtime?",
+        "options": [
+          "It will be required every weekend during the peak.",
+          "It may not be needed if enough employees volunteer.",
+          "It will be compensated with gift cards.",
+          "It applies only to seasonal associates."
+        ],
+        "answer": 1,
+        "explanation": "'Mandatory overtime will be used only if voluntary coverage falls below 85 percent of forecast need'라고 하여, 자발적 신청이 예측 수요의 85퍼센트 이상을 채우면 의무 초과근무는 시행되지 않을 수 있음을 추론할 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Lena Korhonen <l.korhonen@valleymed.org>\nFrom: Pascal Duval <p.duval@medequiprent.com>\nDate: March 18\nSubject: RE: Rental extension for ultrasound unit\n\nDear Ms. Korhonen,\n\nThank you for your message of March 16 asking to extend the rental of the portable ultrasound unit (model SonoView 8) currently at Valley Medical Clinic's Northside location. I am happy to confirm that the unit is available through June 30, as no other reservation has been placed for it.\n\nPlease note two points regarding the extension. First, your current rate of $740 per month was part of a winter promotion that ended February 28. The extension will be billed at our standard rate of $820 per month; however, because Valley Medical has rented from us continuously for more than twelve months, you qualify for our loyalty rate of $780 instead. Second, the unit is due for its semiannual calibration in April. Our technician can perform this at your clinic on April 8 or April 15—the visit takes about two hours, during which the unit cannot be used. There is no charge for calibration under your rental agreement.\n\nIf you wish to proceed, simply reply to this email by March 25 indicating your preferred calibration date, and I will issue an updated rental confirmation. Should your clinic be considering a purchase instead, rental payments from the past six months could be credited toward the price of a new or refurbished unit; I would be glad to prepare a quotation.\n\nBest regards,\nPascal Duval\nAccount Manager, MedEquip Rentals",
+    "questions": [
+      {
+        "question": "What is the purpose of the email?",
+        "options": [
+          "To respond to a request to keep rented equipment longer",
+          "To announce a new model of ultrasound unit",
+          "To schedule emergency repairs at a clinic",
+          "To cancel a rental agreement"
+        ],
+        "answer": 0,
+        "explanation": "이메일은 3월 16일에 받은 휴대용 초음파 기기 대여 연장 요청에 대한 회신으로, 연장 가능 여부와 요금, 교정 일정 등의 조건을 안내하고 있으므로 (A)가 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much will the clinic most likely pay per month for the extension?",
+        "options": [
+          "$740",
+          "$780",
+          "$820",
+          "$880"
+        ],
+        "answer": 1,
+        "explanation": "기존 요금 740달러는 종료된 겨울 프로모션 가격이고 표준 요금은 820달러지만, 'because Valley Medical has rented from us continuously for more than twelve months, you qualify for our loyalty rate of $780'라고 하여 12개월 이상 연속 대여 고객 우대 요금인 780달러가 적용됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the calibration?",
+        "options": [
+          "It must be performed at MedEquip's facility.",
+          "It will cost the clinic an additional fee.",
+          "The unit will be unavailable while it is done.",
+          "It is required every month."
+        ],
+        "answer": 2,
+        "explanation": "'the visit takes about two hours, during which the unit cannot be used'라고 되어 있어, 약 2시간의 교정 작업 동안에는 기기를 사용할 수 없습니다. 교정은 클리닉에서 진행되고 무료이며, 주기는 반년(semiannual)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Duval offer to do?",
+        "options": [
+          "Deliver a replacement unit in April",
+          "Prepare a price quote for buying a unit",
+          "Waive the rental fee for March",
+          "Train clinic staff on the equipment"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문단에서 'Should your clinic be considering a purchase instead... I would be glad to prepare a quotation'이라고 하여, 구매를 고려할 경우 견적서를 준비해 주겠다고 제안하고 있습니다. 지난 6개월 대여료를 구매가에서 공제받을 수 있다는 조건도 함께 안내합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Field Crews, Tallis Brothers Construction\nFrom: Wendell Okafor, Equipment Manager\nDate: February 9\nSubject: New procedure for reserving heavy equipment\n\nEffective March 1, all requests for shared heavy equipment—excavators, skid steers, compactors, and the two boom lifts—must be made through the EquipTrack online system instead of by calling the yard office. Crew foremen received login credentials by email last week; anyone who has not received theirs should contact the IT help desk.\n\nUnder the new procedure, requests must be entered at least 48 hours before the equipment is needed. The system shows real-time availability, so foremen can immediately see open dates and avoid the double bookings that caused delays on at least four projects last year. Once a request is approved, EquipTrack sends a confirmation with the delivery window, and our yard drivers receive the haul schedule automatically.\n\nEmergency same-day requests will still be handled by phone, but please reserve this channel for genuine emergencies such as equipment breakdowns. Last-minute requests for poor planning reasons will be flagged, and repeat occurrences will be discussed at the monthly foremen's meeting.\n\nReturning equipment late affects other crews, so EquipTrack will also send a reminder the day before a scheduled return. If your project needs the machine longer, request an extension in the system; extensions are granted automatically unless another crew has reserved the unit.\n\nA fifteen-minute tutorial video is posted on the company intranet under \"Equipment.\"",
+    "questions": [
+      {
+        "question": "What problem is the new system intended to solve?",
+        "options": [
+          "Frequent equipment breakdowns",
+          "Double bookings that delayed projects",
+          "Rising fuel costs for haul trucks",
+          "A shortage of qualified operators"
+        ],
+        "answer": 1,
+        "explanation": "'foremen can immediately see open dates and avoid the double bookings that caused delays on at least four projects last year'라고 되어 있어, 작년에 최소 4개 프로젝트를 지연시킨 중복 예약 문제를 해결하기 위해 새 시스템을 도입했음을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How far in advance must standard equipment requests be made?",
+        "options": [
+          "24 hours",
+          "48 hours",
+          "One week",
+          "One month"
+        ],
+        "answer": 1,
+        "explanation": "'requests must be entered at least 48 hours before the equipment is needed'라고 명시되어 있으므로 일반 요청은 최소 48시간 전에 시스템에 입력해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the memo, when is it still acceptable to call the yard office?",
+        "options": [
+          "When requesting an extension",
+          "When equipment breaks down unexpectedly",
+          "When a foreman forgets his login credentials",
+          "When confirming a delivery window"
+        ],
+        "answer": 1,
+        "explanation": "'Emergency same-day requests will still be handled by phone, but please reserve this channel for genuine emergencies such as equipment breakdowns'라고 하여, 장비 고장 같은 진짜 비상시에만 전화 요청이 허용됩니다. 로그인 문제는 IT 헬프데스크, 연장 요청은 시스템을 통해야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about extension requests?",
+        "options": [
+          "They require approval at the monthly meeting.",
+          "They are approved automatically unless the unit is already reserved.",
+          "They must be submitted by the yard drivers.",
+          "They incur an additional daily charge."
+        ],
+        "answer": 1,
+        "explanation": "'extensions are granted automatically unless another crew has reserved the unit'이라고 되어 있어, 다른 작업팀이 해당 장비를 예약하지 않은 한 연장은 자동으로 승인됩니다. 회의 승인이나 추가 요금은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Growers' Network Members <members@harvestlink.coop>\nFrom: Sofia Almeida <s.almeida@harvestlink.coop>\nDate: April 28\nSubject: Changes to produce delivery and grading at the Welton facility\n\nDear Members,\n\nAs deliveries increase ahead of the summer season, please note two changes at the Harvestlink receiving facility in Welton, both effective May 12.\n\nFirst, delivery hours will be expanded. The receiving dock will operate from 5:00 A.M. to 9:00 P.M. on weekdays, four hours longer than at present. Saturday receiving, from 6:00 A.M. to noon, will be added for berry growers only, since berries deteriorate quickly in warm weather. We ask all other members to continue delivering on weekdays. Members must book a delivery slot through the cooperative's app at least the evening before; walk-in deliveries will be accepted only if dock space allows, and waiting times for unscheduled trucks averaged over an hour last June.\n\nSecond, produce grading will move from the central hall to three new stations beside the dock, allowing samples to be assessed within minutes of arrival. Grading results will appear in your member account immediately, along with photographs of any produce that is downgraded, a feature many of you requested at the winter assembly so that quality disputes can be resolved with evidence rather than recollection.\n\nA reminder: crates must carry the new green member labels. Old white labels will not be scanned after May 12, and unlabeled crates will be set aside, delaying payment.\n\nQuestions may be raised at the May 6 members' call.\n\nKind regards,\nSofia Almeida\nOperations Coordinator, Harvestlink Cooperative",
+    "questions": [
+      {
+        "question": "Who will be allowed to deliver on Saturdays?",
+        "options": [
+          "All cooperative members",
+          "Members who book through the app",
+          "Growers delivering berries",
+          "Members with green labels only"
+        ],
+        "answer": 2,
+        "explanation": "'Saturday receiving, from 6:00 A.M. to noon, will be added for berry growers only, since berries deteriorate quickly in warm weather'라고 명시되어 있어, 토요일 입고는 부패가 빠른 베리류 재배 회원에게만 허용됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are members encouraged to book delivery slots in advance?",
+        "options": [
+          "Unscheduled trucks experienced long waits in the past.",
+          "The app offers a discount for early bookings.",
+          "The dock will no longer accept any walk-in deliveries.",
+          "Booking is required to receive green labels."
+        ],
+        "answer": 0,
+        "explanation": "'walk-in deliveries will be accepted only if dock space allows, and waiting times for unscheduled trucks averaged over an hour last June'이라고 하여, 예약 없이 온 트럭은 작년 6월 평균 1시간 이상 대기했으므로 사전 예약이 권장됩니다. 무예약 입고가 전면 금지된 것은 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What feature was requested at the winter assembly?",
+        "options": [
+          "Longer weekday receiving hours",
+          "Photographic evidence for downgraded produce",
+          "A mobile app for booking deliveries",
+          "Additional grading stations in the central hall"
+        ],
+        "answer": 1,
+        "explanation": "'along with photographs of any produce that is downgraded, a feature many of you requested at the winter assembly'라고 되어 있어, 등급이 하향된 농산물의 사진 제공 기능이 겨울 총회에서 회원들이 요청한 사항입니다. 이를 통해 품질 분쟁을 증거로 해결할 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen to crates with old white labels after May 12?",
+        "options": [
+          "They will be charged a relabeling fee.",
+          "They will be returned to the grower unopened.",
+          "They will be set aside, and payment will be delayed.",
+          "They will be graded at the central hall instead."
+        ],
+        "answer": 2,
+        "explanation": "'Old white labels will not be scanned after May 12, and unlabeled crates will be set aside, delaying payment'이라고 명시되어 있어, 5월 12일 이후 구형 흰색 라벨은 스캔되지 않으며 라벨 미부착 상자는 따로 보관되어 대금 지급이 지연됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Office Staff <staff@kindercroft.com>\nFrom: Ji-ho Park <j.park@kindercroft.com>\nDate: August 8\nSubject: Author visit and curriculum workshop, August 26\n\nDear Colleagues,\n\nI am pleased to announce that Dr. Eleanor Whitfield, author of \"Teaching Beyond the Textbook,\" will visit Kindercroft Learning Systems on Tuesday, August 26. Dr. Whitfield's framework for activity-based instruction forms the basis of the revised curriculum we are preparing for our corporate language clients, so her visit is timely.\n\nThe day will have two parts. In the morning (9:30–11:30), Dr. Whitfield will give a talk in the main hall on adapting classroom activities for adult learners, open to all staff. Seating is limited to eighty, and the development team's forty seats are already reserved, so remaining seats will go to whoever registers first on the intranet events page. The talk will also be streamed live for our regional offices and recorded.\n\nIn the afternoon (1:00–4:30), Dr. Whitfield will lead a hands-on workshop limited to the twelve members of the curriculum revision team. The team will test draft units from the new business English series and revise them based on her feedback. Because of the small-group format, this session will not be recorded.\n\nDr. Whitfield has also kindly agreed to sign books during the lunch break. Copies of her latest title will be sold at a 20 percent discount in the lobby; payment by staff card only.\n\nPlease register for the morning talk by August 20.\n\nWarm regards,\nJi-ho Park\nProfessional Development Manager",
+    "questions": [
+      {
+        "question": "Why is Dr. Whitfield's visit described as timely?",
+        "options": [
+          "Her book was published this month.",
+          "Her ideas underpin a curriculum the company is revising.",
+          "She is moving to the area permanently.",
+          "The company is hiring new instructors."
+        ],
+        "answer": 1,
+        "explanation": "'Dr. Whitfield's framework for activity-based instruction forms the basis of the revised curriculum we are preparing... so her visit is timely'라고 하여, 그녀의 이론이 회사가 준비 중인 개정 커리큘럼의 기반이기 때문에 방문 시기가 적절하다고 설명합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How will the remaining morning seats be allocated?",
+        "options": [
+          "By department seniority",
+          "By a lottery on August 20",
+          "On a first-come, first-served basis",
+          "By invitation from the development team"
+        ],
+        "answer": 2,
+        "explanation": "'remaining seats will go to whoever registers first on the intranet events page'라고 되어 있어, 나머지 좌석은 인트라넷에서 먼저 등록하는 순서대로 배정됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about the afternoon workshop?",
+        "options": [
+          "It will be streamed to regional offices.",
+          "It is open to up to eighty participants.",
+          "It will not be recorded.",
+          "It will be held in the main hall."
+        ],
+        "answer": 2,
+        "explanation": "'Because of the small-group format, this session will not be recorded'라고 명시되어 있어 오후 워크숍은 녹화되지 않습니다. 스트리밍과 녹화는 오전 강연에 해당하며, 워크숍 인원은 12명으로 제한됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will the curriculum revision team do during the workshop?",
+        "options": [
+          "Try out and improve draft course units",
+          "Interview Dr. Whitfield for a publication",
+          "Grade assignments from corporate clients",
+          "Plan the next author visit"
+        ],
+        "answer": 0,
+        "explanation": "'The team will test draft units from the new business English series and revise them based on her feedback'라고 되어 있어, 팀은 새 비즈니스 영어 시리즈의 초안 단원을 시험해 보고 피드백을 반영해 수정하는 작업을 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Staff, Glenrowan Mills\nFrom: Beatrice Kamau, Human Resources Director\nDate: May 20\nSubject: Apprenticeship program — call for mentors and applicants\n\nGlenrowan Mills will launch its first machinist apprenticeship program this September in partnership with Harlow Technical College. The two-year program combines paid work at our Dunmore plant with one day of classroom instruction per week at the college, leading to a nationally recognized machinist certificate.\n\nWe are recruiting in two directions. Externally, the college will advertise eight apprentice positions beginning June 2. Internally, current production employees with at least one year of service may also apply for these positions; internal applicants do not need the technical entrance test required of outside candidates, as their plant experience is considered equivalent. Anyone interested should submit the internal application form to Human Resources by June 27. Apprentices keep their current hourly wage during the program and move to the certified machinist scale upon completion.\n\nWe also need six experienced machinists to serve as workplace mentors. Mentors guide apprentices on the shop floor, complete brief monthly progress reports, and meet college instructors once per term. Mentors receive a monthly stipend of $200 and eight hours of paid mentor training in August. Interested machinists should speak with Mr. Albrecht in Machining by June 13.\n\nThe program reflects our long-term need: nearly a third of our certified machinists will reach retirement age within eight years. Building our own pipeline of skilled workers is more dependable than competing for scarce outside hires.\n\nQuestions are welcome at the information session on June 5 in the canteen.",
+    "questions": [
+      {
+        "question": "What advantage do internal applicants have?",
+        "options": [
+          "They receive a higher wage during the program.",
+          "They are exempt from the entrance test.",
+          "They attend classes only once per month.",
+          "They are guaranteed one of the eight positions."
+        ],
+        "answer": 1,
+        "explanation": "'internal applicants do not need the technical entrance test required of outside candidates, as their plant experience is considered equivalent'라고 되어 있어, 내부 지원자는 공장 경력이 인정되어 외부 지원자에게 요구되는 기술 입학시험이 면제됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a responsibility of mentors?",
+        "options": [
+          "Guiding apprentices in the workplace",
+          "Writing monthly progress reports",
+          "Meeting with college instructors",
+          "Teaching weekly classes at the college"
+        ],
+        "answer": 3,
+        "explanation": "멘토의 역할로 작업 현장 지도, 월간 경과 보고서 작성, 학기마다 대학 강사와의 면담이 언급되어 있습니다. 대학에서 주 1회 수업을 가르치는 것은 멘토의 업무가 아니므로 (D)가 정답입니다. 주 1회 수업은 견습생이 듣는 것입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why is Glenrowan Mills starting the program?",
+        "options": [
+          "A large share of its machinists will retire within several years.",
+          "The government requires apprenticeships at all mills.",
+          "Harlow Technical College requested a partnership.",
+          "Production volume has doubled this year."
+        ],
+        "answer": 0,
+        "explanation": "'nearly a third of our certified machinists will reach retirement age within eight years. Building our own pipeline of skilled workers is more dependable'라고 하여, 8년 내 기능공의 약 3분의 1이 정년에 도달하므로 자체 인력 양성이 필요하다는 것이 프로그램 도입 이유입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In paragraph 4, the word \"scarce\" is closest in meaning to",
+        "options": [
+          "frightening",
+          "limited",
+          "expensive",
+          "distant"
+        ],
+        "answer": 1,
+        "explanation": "'competing for scarce outside hires'에서 scarce는 구하기 힘든, 즉 '부족한/한정된'이라는 의미이므로 limited가 가장 가깝습니다. frightening(무서운), expensive(비싼), distant(먼)는 문맥상 적절하지 않습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Theo Lindholm <t.lindholm@summitptclinic.com>\nFrom: Carmen Reyes-Ortega <c.reyes@flexcoreequip.com>\nDate: September 9\nSubject: RE: Treadmill service contract renewal\n\nDear Mr. Lindholm,\n\nThank you for your inquiry about renewing the service contract for the four rehabilitation treadmills at Summit Physical Therapy Clinic. Your current agreement expires on September 30, and I am pleased to outline the renewal options.\n\nThe Standard Plan ($1,450 per year) includes two preventive maintenance visits, all replacement parts except belts and motors, and repair visits within three business days of a service call. The Premier Plan ($2,100 per year) covers all parts including belts and motors, provides next-business-day repair visits, and gives access to our weekend emergency line. Given that your clinic schedules patients six days a week, and that two of your treadmills are now beyond their five-year warranty, I would respectfully suggest the Premier Plan; out-of-warranty motor replacement alone runs to $900 per unit if billed separately.\n\nIf you renew either plan before September 20, we will include a complimentary staff refresher on the treadmills' incline calibration, a session that normally costs $250. I should also mention that contract prices will rise by approximately 5 percent in January, but customers who renew now lock in current pricing for the full term.\n\nI am available this week for a call if you would like to discuss the options. Either way, may I ask that you confirm your decision by September 23 so we can schedule the October maintenance visit without interruption to your coverage?\n\nSincerely,\nCarmen Reyes-Ortega\nClient Accounts, FlexCore Equipment Services",
+    "questions": [
+      {
+        "question": "Why does Ms. Reyes-Ortega recommend the Premier Plan?",
+        "options": [
+          "It is the only plan that includes maintenance visits.",
+          "The clinic operates six days a week and has aging machines.",
+          "The Standard Plan will be discontinued in January.",
+          "The clinic recently purchased new treadmills."
+        ],
+        "answer": 1,
+        "explanation": "'Given that your clinic schedules patients six days a week, and that two of your treadmills are now beyond their five-year warranty, I would respectfully suggest the Premier Plan'이라고 하여, 주 6일 운영과 보증 기간이 지난 두 대의 장비를 근거로 프리미어 플랜을 추천하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in the Premier Plan but NOT in the Standard Plan?",
+        "options": [
+          "Two preventive maintenance visits",
+          "Coverage of belts and motors",
+          "Replacement of display screens",
+          "A discount on new equipment"
+        ],
+        "answer": 1,
+        "explanation": "표준 플랜은 'all replacement parts except belts and motors'를 포함하는 반면, 프리미어 플랜은 'covers all parts including belts and motors'라고 되어 있어 벨트와 모터 보장이 프리미어 플랜만의 혜택입니다. 익일 수리와 주말 비상 라인도 프리미어 전용입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What benefit is offered for renewing before September 20?",
+        "options": [
+          "A free training session on calibration",
+          "A 5 percent discount on the contract",
+          "A complimentary treadmill belt",
+          "An extended warranty on motors"
+        ],
+        "answer": 0,
+        "explanation": "'If you renew either plan before September 20, we will include a complimentary staff refresher on the treadmills' incline calibration, a session that normally costs $250'라고 하여, 9월 20일 전에 갱신하면 평소 250달러인 교육 세션이 무료로 제공됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about contract prices?",
+        "options": [
+          "They will go up at the start of next year.",
+          "They are negotiable for long-term clients.",
+          "They include the cost of patient scheduling software.",
+          "They were reduced earlier this year."
+        ],
+        "answer": 0,
+        "explanation": "'contract prices will rise by approximately 5 percent in January, but customers who renew now lock in current pricing'라고 명시되어 있어, 계약 가격이 내년 1월에 약 5퍼센트 인상될 예정이며 지금 갱신하면 현재 가격이 유지됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Drivers, Meridian Regional Haulage\nFrom: Gustavo Ferreira, Fleet Manager\nDate: March 3\nSubject: Fuel card replacement and idling policy\n\nTwo updates take effect this month.\n\nFuel cards. Our agreement with PetroPass ends March 31, and all company vehicles will switch to RoadFuel cards from April 1. New cards will be distributed with March pay statements; sign for your card at the dispatch window. RoadFuel is accepted at about 40 percent more stations than PetroPass, including the truck stops along Route 81 that many of you have asked about. Note that RoadFuel cards require a driver identification number at the pump—yours is printed on the card carrier, and you should memorize it and then destroy the carrier. PetroPass cards will be deactivated on April 1; please cut up and discard old cards after your last March fuel purchase.\n\nIdling. Telematics data shows our fleet averaged sixty-three minutes of engine idling per vehicle per day last quarter, costing an estimated $34,000 in fuel annually. Beginning April 1, drivers should shut off engines during any stop expected to last more than five minutes, except when running the refrigeration unit, during required warm-up in freezing weather, or while in active loading queues where movement is imminent. Monthly idling summaries by vehicle will be shared with drivers individually—not posted publicly—and the three drivers with the lowest idling rates each quarter will receive a $100 fuel-station gift card.\n\nQuestions about either change can be raised at Friday's safety briefing.",
+    "questions": [
+      {
+        "question": "What is one advantage of the new fuel cards?",
+        "options": [
+          "They offer a discount on every purchase.",
+          "They are accepted at more locations.",
+          "They do not require identification numbers.",
+          "They can be used for vehicle repairs."
+        ],
+        "answer": 1,
+        "explanation": "'RoadFuel is accepted at about 40 percent more stations than PetroPass'라고 되어 있어, 새 카드는 약 40퍼센트 더 많은 주유소에서 사용 가능합니다. 오히려 운전자 식별 번호 입력이 필요하므로 (C)는 반대 내용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should drivers do with the card carrier?",
+        "options": [
+          "Return it to the dispatch window",
+          "Keep it in the vehicle at all times",
+          "Destroy it after memorizing the number on it",
+          "Mail it back to PetroPass"
+        ],
+        "answer": 2,
+        "explanation": "'yours is printed on the card carrier, and you should memorize it and then destroy the carrier'라고 명시되어 있어, 운전자 식별 번호를 외운 뒤 카드 대지를 폐기해야 합니다. 이는 보안을 위한 조치입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When are drivers permitted to leave engines idling for more than five minutes?",
+        "options": [
+          "While waiting in a moving loading queue",
+          "While taking a meal break",
+          "While completing paperwork at dispatch",
+          "While parked overnight at a truck stop"
+        ],
+        "answer": 0,
+        "explanation": "공회전 예외 사항으로 냉장 장치 가동, 혹한기 예열, 그리고 'while in active loading queues where movement is imminent'(곧 이동할 적재 대기열)가 명시되어 있습니다. 식사, 서류 작업, 야간 주차는 예외에 해당하지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How will individual idling data be handled?",
+        "options": [
+          "It will be posted on the depot notice board.",
+          "It will be shared privately with each driver.",
+          "It will be sent to RoadFuel for analysis.",
+          "It will be reviewed only at year's end."
+        ],
+        "answer": 1,
+        "explanation": "'Monthly idling summaries by vehicle will be shared with drivers individually—not posted publicly'라고 되어 있어, 월별 공회전 데이터는 공개 게시 없이 각 운전자에게 개별적으로 전달됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Anneke Visscher <a.visscher@dovetailgrains.com>\nFrom: Rashid Karimov <r.karimov@dovetailgrains.com>\nDate: June 16\nSubject: Flour mill audit findings and silo repairs\n\nDear Anneke,\n\nFollowing last week's internal audit of the Carlow Mill, I want to summarize the key findings ahead of Thursday's management call.\n\nThe positive news first: the milling and sifting lines passed all hygiene checks, and the pest-control documentation was complete for the eighteenth consecutive month. The auditors also noted that the new dust-extraction filters installed in February have kept airborne flour dust well below the regulatory threshold, addressing the main concern from last year's audit.\n\nTwo items require action. First, the ladder cage on silo 4 shows corrosion at three anchor points and must be repaired before the silo's scheduled cleaning in August; Decker Steelworks has quoted $4,800 with a three-week lead time, so I recommend approving the work this week. Second, the calibration certificates for two of the six weighbridge sensors expired in May. The sensors are reading accurately according to our own checks, but shipments weighed on them since June 1 technically lack certified documentation. Veritas Calibration can recertify both sensors on June 24 for $640. Until then, I have directed outbound loads to weighbridge 2, which adds roughly ten minutes per truck but keeps all paperwork valid.\n\nIf you approve both expenditures by Wednesday, repairs and recertification will be complete before the August cleaning and well before the customer audit expected in September.\n\nBest regards,\nRashid Karimov\nSite Manager, Carlow Mill",
+    "questions": [
+      {
+        "question": "What problem from last year's audit has been resolved?",
+        "options": [
+          "Incomplete pest-control records",
+          "Excessive airborne flour dust",
+          "Corrosion on a silo ladder cage",
+          "Expired sensor certificates"
+        ],
+        "answer": 1,
+        "explanation": "'the new dust-extraction filters installed in February have kept airborne flour dust well below the regulatory threshold, addressing the main concern from last year's audit'라고 되어 있어, 작년 감사의 주요 지적 사항이었던 공기 중 밀가루 분진 문제가 새 집진 필터로 해결되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Mr. Karimov want the silo repair approved this week?",
+        "options": [
+          "The repair company is raising its prices.",
+          "The work must be finished before an August cleaning.",
+          "The silo is currently leaking grain.",
+          "Auditors will return at the end of June."
+        ],
+        "answer": 1,
+        "explanation": "'must be repaired before the silo's scheduled cleaning in August; Decker Steelworks has quoted $4,800 with a three-week lead time, so I recommend approving the work this week'라고 하여, 3주의 준비 기간을 감안하면 8월 청소 전에 수리를 마치기 위해 이번 주 승인이 필요합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What temporary measure has Mr. Karimov put in place?",
+        "options": [
+          "Closing silo 4 until further notice",
+          "Routing outgoing trucks to a different weighbridge",
+          "Suspending all shipments until June 24",
+          "Hiring an additional calibration technician"
+        ],
+        "answer": 1,
+        "explanation": "'I have directed outbound loads to weighbridge 2, which adds roughly ten minutes per truck but keeps all paperwork valid'라고 되어 있어, 인증서가 만료된 센서 대신 2번 계량대로 출하 트럭을 우회시키는 임시 조치를 취했습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is expected to happen in September?",
+        "options": [
+          "A customer will conduct an audit.",
+          "Silo 4 will be cleaned.",
+          "New dust filters will be installed.",
+          "The management call will take place."
+        ],
+        "answer": 0,
+        "explanation": "마지막 문단의 'well before the customer audit expected in September'에서 9월에 고객사의 감사가 예정되어 있음을 알 수 있습니다. 사일로 청소는 8월, 경영진 통화는 이번 주 목요일입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: All Site Supervisors <supervisors@crestlinebuilders.com>\nFrom: Olivia Marchetti <o.marchetti@crestlinebuilders.com>\nDate: November 12\nSubject: Winter weather protocols, effective December 1\n\nDear Supervisors,\n\nWith cold weather approaching, please review the winter protocols below, which apply to all Crestline sites from December 1 through March 15.\n\nConcrete work. Pouring is prohibited when the air temperature is below minus five degrees Celsius or expected to fall below that level within twenty-four hours of the pour, unless heated enclosures and insulating blankets are used. Supervisors must record the temperature at the time of each pour in the daily log; last winter, missing temperature records complicated a warranty claim on the Ashfield garage project and delayed its resolution by four months.\n\nWorker safety. When the wind chill drops below minus fifteen, outdoor crews must be offered a ten-minute warming break every hour in the heated site trailer. Sites without a trailer should contact facilities by November 21 to arrange one. Insulated gloves and thermal liners for hard hats will be shipped to each site by the end of next week at no cost to employees.\n\nSnow removal. Each site must designate a snow contractor by November 28 and post the contractor's emergency number in the site office. Access roads, scaffold platforms, and walkways must be cleared and salted before crews begin work, and any delay caused by snow clearing should be coded as weather time, not productive hours, in the timesheet system.\n\nThe full protocol document is on the company portal under Safety > Seasonal. Confirm by reply that your site is prepared.\n\nRegards,\nOlivia Marchetti\nRegional Operations Manager",
+    "questions": [
+      {
+        "question": "Why are temperature records at concrete pours important, according to the email?",
+        "options": [
+          "Missing records once slowed down a warranty claim.",
+          "They are required for workers' overtime pay.",
+          "Inspectors collect them every December.",
+          "They determine the price of concrete."
+        ],
+        "answer": 0,
+        "explanation": "'last winter, missing temperature records complicated a warranty claim on the Ashfield garage project and delayed its resolution by four months'라고 하여, 작년에 온도 기록 누락으로 하자보증 처리에 4개월의 지연이 발생했기 때문에 기록이 중요함을 강조하고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must happen when the wind chill falls below minus fifteen?",
+        "options": [
+          "All outdoor work must stop immediately.",
+          "Crews must be offered hourly warming breaks.",
+          "Workers must purchase insulated gloves.",
+          "Sites must close for the day."
+        ],
+        "answer": 1,
+        "explanation": "'When the wind chill drops below minus fifteen, outdoor crews must be offered a ten-minute warming break every hour in the heated site trailer'라고 되어 있어, 매시간 10분의 온열 휴식을 제공해야 합니다. 작업 전면 중단이나 현장 폐쇄는 언급되지 않았고, 보온 장갑은 무상 지급됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should sites without a heated trailer do?",
+        "options": [
+          "Reduce outdoor shifts to four hours",
+          "Share a trailer with a neighboring site",
+          "Contact the facilities department by November 21",
+          "Apply for an exemption from the protocol"
+        ],
+        "answer": 2,
+        "explanation": "'Sites without a trailer should contact facilities by November 21 to arrange one'이라고 명시되어 있으므로, 난방 트레일러가 없는 현장은 11월 21일까지 시설팀에 연락해 마련해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How should time spent on snow clearing delays be recorded?",
+        "options": [
+          "As productive hours",
+          "As weather time",
+          "As unpaid leave",
+          "As overtime"
+        ],
+        "answer": 1,
+        "explanation": "'any delay caused by snow clearing should be coded as weather time, not productive hours, in the timesheet system'이라고 되어 있어, 제설로 인한 지연 시간은 생산 시간이 아닌 기상 시간으로 입력해야 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Nursing Staff\nFrom: Imelda Reyes, Director of Nursing, Pinewood Walk-In Clinic\nDate: January 15\nSubject: Vaccine storage and documentation reminders\n\nDuring December's internal review, we found several gaps in our vaccine handling records. While no vaccine doses were compromised, the gaps could cause problems during the state inspection expected this spring. Please review the following reminders, which restate existing policy rather than introduce new rules.\n\nTemperature logs. The refrigerator and freezer temperatures in the medication room must be recorded twice daily—once at opening and once before 4:00 P.M. In December, eleven afternoon entries were missing. The digital monitoring system does record continuously, but state regulations still require manual checks as a backup, and inspectors will ask to see both records side by side.\n\nDose documentation. Each administered dose must be entered in the patient record before the end of the shift, including lot number and expiration date. Copying this information later from the prep-room whiteboard is error-prone; two December entries showed lot numbers that did not match any vaccine in our inventory.\n\nSpoilage reporting. Any dose drawn but not administered—for example, when a patient declines at the last moment—must be logged on the wastage form within one hour, not at the end of the week as some staff believed. Accurate wastage data affects our vaccine allocation from the county for next season.\n\nMs. Okonkwo will hold two fifteen-minute refresher huddles on January 22, at 7:45 A.M. and 3:15 P.M.; attendance at one is required. Thank you for your attention to these details.",
+    "questions": [
+      {
+        "question": "What prompted this memo?",
+        "options": [
+          "The arrival of a new vaccine shipment",
+          "Gaps found in records during an internal review",
+          "A failed state inspection last month",
+          "Complaints from clinic patients"
+        ],
+        "answer": 1,
+        "explanation": "'During December's internal review, we found several gaps in our vaccine handling records'라고 하여, 12월 내부 점검에서 백신 취급 기록의 누락이 발견된 것이 메모 발송의 계기입니다. 주 정부 검사는 아직 실시되지 않았고 올봄에 예상되는 것입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are manual temperature checks still required?",
+        "options": [
+          "The digital system frequently malfunctions.",
+          "State rules require them as a backup to digital records.",
+          "The medication room has no digital monitoring.",
+          "Staff requested the manual procedure."
+        ],
+        "answer": 1,
+        "explanation": "'The digital monitoring system does record continuously, but state regulations still require manual checks as a backup'이라고 명시되어 있어, 디지털 시스템이 있더라도 주 규정상 수기 점검이 백업으로 요구됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What problem was found with two December dose entries?",
+        "options": [
+          "They were entered after the end of the shift.",
+          "They listed lot numbers not found in the inventory.",
+          "They were recorded on the wrong patients' charts.",
+          "They omitted the expiration dates."
+        ],
+        "answer": 1,
+        "explanation": "'two December entries showed lot numbers that did not match any vaccine in our inventory'라고 되어 있어, 12월의 두 건은 재고에 존재하지 않는 로트 번호가 기재되어 있었습니다. 이는 화이트보드에서 나중에 옮겨 적는 방식의 오류 가능성을 보여주는 사례입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the memo, why is accurate wastage data important?",
+        "options": [
+          "It determines staff performance bonuses.",
+          "It influences the clinic's future vaccine allocation.",
+          "It is published in the clinic's annual report.",
+          "It affects patient billing amounts."
+        ],
+        "answer": 1,
+        "explanation": "'Accurate wastage data affects our vaccine allocation from the county for next season'이라고 하여, 정확한 폐기 데이터가 다음 시즌 카운티로부터 받는 백신 배정량에 영향을 주기 때문에 중요합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Customer Distribution List <clients@vantageskills.com>\nFrom: Niamh Brennan <n.brennan@vantageskills.com>\nDate: April 21\nSubject: New half-day course format and summer catalog\n\nDear Valued Clients,\n\nThank you for the feedback many of you provided in our March client survey. Two findings stood out: 68 percent of respondents said full-day workshops were difficult to schedule around production shifts, and the most requested topic was communication skills for newly promoted supervisors.\n\nIn response, our summer catalog—attached to this email—introduces a half-day format for our eight most popular courses. Each half-day course covers the same core content as the full-day version, with the optional afternoon practice activities converted into a self-paced online module that participants complete within two weeks. Companies booking the half-day format receive the online module at no extra charge through August 31; from September it will be priced at $40 per participant.\n\nWe are also launching First-Line Leader, a new course designed specifically for technicians and operators moving into supervisory roles. The pilot session, delivered at Marwick Assembly in February, received an average rating of 4.7 out of 5, and Marwick has since booked the course for all three of its plants. First-Line Leader is available in both full-day and half-day formats.\n\nAs always, courses can be delivered at your site or in our training center in Dunhill, and any course can be adapted to reference your company's own procedures—an option chosen by about half our clients last year.\n\nTo discuss dates or request a quotation, simply reply to this email or call 555-0139.\n\nWith best wishes,\nNiamh Brennan\nClient Relations Manager, Vantage Skills Training",
+    "questions": [
+      {
+        "question": "Why did Vantage Skills create a half-day format?",
+        "options": [
+          "Clients found full-day workshops hard to fit around shifts.",
+          "Its training center is too small for full-day groups.",
+          "Trainers were unavailable for full days.",
+          "A competitor introduced a similar format."
+        ],
+        "answer": 0,
+        "explanation": "설문 결과 '68 percent of respondents said full-day workshops were difficult to schedule around production shifts'라고 하여, 종일 워크숍이 생산 교대 일정과 맞추기 어렵다는 고객 의견에 대응해 반일 과정을 도입했습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen after August 31?",
+        "options": [
+          "The half-day courses will be discontinued.",
+          "The online module will cost $40 per person.",
+          "The summer catalog will be reissued.",
+          "The Dunhill training center will close."
+        ],
+        "answer": 1,
+        "explanation": "'Companies booking the half-day format receive the online module at no extra charge through August 31; from September it will be priced at $40 per participant'라고 되어 있어, 8월 31일까지는 온라인 모듈이 무료지만 9월부터는 참가자당 40달러가 부과됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the First-Line Leader course?",
+        "options": [
+          "It is offered only in the full-day format.",
+          "It received a high rating at its pilot session.",
+          "It was developed by Marwick Assembly.",
+          "It is free for survey respondents."
+        ],
+        "answer": 1,
+        "explanation": "'The pilot session, delivered at Marwick Assembly in February, received an average rating of 4.7 out of 5'라고 하여 파일럿 세션에서 5점 만점에 4.7점의 높은 평가를 받았습니다. 이 과정은 종일과 반일 두 형식 모두 제공됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What customization option does Vantage Skills offer?",
+        "options": [
+          "Translating materials into other languages",
+          "Adapting courses to reference a client's own procedures",
+          "Providing one-on-one coaching after each course",
+          "Designing entirely new courses on request"
+        ],
+        "answer": 1,
+        "explanation": "'any course can be adapted to reference your company's own procedures—an option chosen by about half our clients last year'라고 명시되어 있어, 고객사의 자체 절차를 반영하도록 과정을 조정하는 옵션이 제공되며 작년에 고객의 약 절반이 이를 선택했습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "memo",
+    "passage": "MEMO\n\nTo: All Greenhouse and Field Staff, Solara Growers\nFrom: Pieter Janssen, Irrigation Systems Manager\nDate: July 21\nSubject: Water restrictions and revised irrigation schedule\n\nThe Brackenfield Water Authority has placed our district under Stage 2 drought restrictions effective July 28. For agricultural users, this means a 20 percent reduction in metered water use compared with last July, with penalties of up to $5,000 for exceeding the allowance. The following measures will keep us within our limit while protecting the crops that matter most.\n\nThe drip lines in tomato houses 1 through 4 will switch to night operation, running from 10:00 P.M. to 4:00 A.M., when evaporation is lowest. Overhead sprinklers in the outdoor lettuce beds will run on alternating days only; field staff should check soil moisture probes each morning and report readings below 30 percent to their team lead rather than watering by hand, since hand watering is hard to meter and counts against our allowance.\n\nThe seedling nursery is exempt from the reductions, as young plants cannot tolerate water stress; its usage will be offset by deeper cuts elsewhere, primarily by pausing irrigation of the ornamental beds near the visitor entrance for the duration of the restrictions.\n\nMaintenance staff will inspect all drip lines for leaks this week; last summer, a single cracked junction wasted an estimated 9,000 liters before it was found. Anyone noticing wet patches, hissing sounds, or unusually low line pressure should report them to me immediately at extension 240.\n\nThese measures will be reviewed if the Authority changes the restriction level.",
+    "questions": [
+      {
+        "question": "Why is the irrigation schedule changing?",
+        "options": [
+          "New equipment is being installed.",
+          "The water authority has imposed drought restrictions.",
+          "The company is reducing its utility budget.",
+          "Several drip lines are being replaced."
+        ],
+        "answer": 1,
+        "explanation": "'The Brackenfield Water Authority has placed our district under Stage 2 drought restrictions effective July 28'이라고 하여, 수자원 당국의 2단계 가뭄 제한 조치로 인해 물 사용량을 20퍼센트 줄여야 하기 때문에 관개 일정이 변경됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will the tomato houses be watered at night?",
+        "options": [
+          "Evaporation is lowest during those hours.",
+          "Electricity rates are cheaper at night.",
+          "Day crews are needed in the lettuce beds.",
+          "The water authority requires night watering."
+        ],
+        "answer": 0,
+        "explanation": "'running from 10:00 P.M. to 4:00 A.M., when evaporation is lowest'라고 명시되어 있어, 증발량이 가장 적은 야간에 물을 주어 물 손실을 줄이기 위함입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why are field staff told NOT to water by hand?",
+        "options": [
+          "Hand watering damages the soil moisture probes.",
+          "Hand watering is difficult to measure and reduces the allowance.",
+          "Hoses are being inspected for leaks this week.",
+          "Only maintenance staff are licensed to water crops."
+        ],
+        "answer": 1,
+        "explanation": "'hand watering is hard to meter and counts against our allowance'라고 되어 있어, 손으로 주는 물은 계량이 어려운데도 허용량에서 차감되기 때문에 금지됩니다. 대신 토양 수분 30퍼센트 미만이면 팀장에게 보고해야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How will the nursery's exemption be balanced?",
+        "options": [
+          "By purchasing additional water credits",
+          "By stopping irrigation of the ornamental beds",
+          "By harvesting the lettuce beds early",
+          "By collecting rainwater in storage tanks"
+        ],
+        "answer": 1,
+        "explanation": "'its usage will be offset by deeper cuts elsewhere, primarily by pausing irrigation of the ornamental beds near the visitor entrance'라고 하여, 묘목장의 면제분은 방문객 입구 근처 관상용 화단의 관개를 중단하는 방식으로 상쇄됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Quality Team <quality@bravurapack.com>\nFrom: Linnea Sandberg <l.sandberg@bravurapack.com>\nDate: October 2\nSubject: Customer complaint follow-up — Order #BP-8841\n\nDear Team,\n\nYesterday we received a complaint from Caldera Coffee Roasters regarding order #BP-8841, a run of 50,000 printed coffee bags delivered on September 26. According to their packaging line supervisor, roughly one bag in two hundred has a misaligned rear seam, causing the bags to jam their automatic filling machine. They have paused use of the batch and are filling orders from their remaining stock of our previous delivery, which they say will last about ten days.\n\nI examined the retained samples from this run this morning and confirmed the defect appears in samples drawn after the shift change on September 18, suggesting the seam-folding unit drifted out of alignment during the evening shift. Maintenance records show the unit's alignment was last verified on September 4, within our normal thirty-day cycle, so our current checks did not catch this. I propose we shorten the verification interval to fourteen days for the next quarter and add a quick visual seam check to the operators' hourly sampling routine.\n\nFor the customer, I recommend the following: replace the defective portion of the run—Caldera estimates about 14,000 unusable bags—at no charge, with production prioritized so replacements ship by October 10, and offer to cover the two hours of machine downtime they documented. Carlos will visit their plant on Friday to apologize in person and collect a pallet of the affected bags for our engineering review.\n\nPlease send any objections to this plan by Thursday noon; otherwise I will confirm the arrangements with Caldera on Friday morning.\n\nBest,\nLinnea Sandberg\nQuality Manager, Bravura Packaging",
+    "questions": [
+      {
+        "question": "What problem did Caldera Coffee Roasters report?",
+        "options": [
+          "Bags arrived later than promised.",
+          "Printing colors did not match the approved design.",
+          "Defective seams caused jams in their filling machine.",
+          "The order contained fewer bags than invoiced."
+        ],
+        "answer": 2,
+        "explanation": "'roughly one bag in two hundred has a misaligned rear seam, causing the bags to jam their automatic filling machine'라고 되어 있어, 뒷면 접합부 불량으로 자동 충전기에 봉투가 걸리는 문제가 보고되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did Ms. Sandberg conclude from the retained samples?",
+        "options": [
+          "The defect began after a shift change on September 18.",
+          "The entire production run is unusable.",
+          "The samples were stored incorrectly.",
+          "The customer caused the damage during filling."
+        ],
+        "answer": 0,
+        "explanation": "'the defect appears in samples drawn after the shift change on September 18, suggesting the seam-folding unit drifted out of alignment during the evening shift'라고 하여, 9월 18일 교대 이후 샘플부터 결함이 나타났음을 확인했습니다. 전량이 아니라 약 14,000장이 사용 불가로 추정됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What change does Ms. Sandberg propose to prevent recurrence?",
+        "options": [
+          "Replacing the seam-folding unit entirely",
+          "Checking alignment more often and adding hourly visual checks",
+          "Eliminating the evening shift",
+          "Outsourcing seam folding to another company"
+        ],
+        "answer": 1,
+        "explanation": "'I propose we shorten the verification interval to fourteen days... and add a quick visual seam check to the operators' hourly sampling routine'이라고 하여, 정렬 점검 주기를 30일에서 14일로 단축하고 작업자의 시간별 샘플링에 육안 접합부 검사를 추가할 것을 제안합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why will Carlos visit Caldera's plant on Friday?",
+        "options": [
+          "To repair their automatic filling machine",
+          "To deliver the replacement bags personally",
+          "To apologize and pick up defective bags for review",
+          "To negotiate a new long-term contract"
+        ],
+        "answer": 2,
+        "explanation": "'Carlos will visit their plant on Friday to apologize in person and collect a pallet of the affected bags for our engineering review'라고 명시되어 있어, 직접 사과하고 엔지니어링 검토용으로 불량 봉투 한 팔레트를 수거하기 위해 방문합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "email",
+    "passage": "To: Hollis Park Project Team <hollispark@dunmorecivil.com>\nFrom: Tobias Reinholt <t.reinholt@dunmorecivil.com>\nDate: May 30\nSubject: Material substitution approval — retaining wall blocks\n\nDear Team,\n\nThis email confirms the outcome of yesterday's discussion with the client and the structural engineer regarding the retaining wall along the eastern edge of the Hollis Park site.\n\nAs you know, our specified supplier, Keystone Precast, notified us on May 22 that the approved W-40 wall blocks are backordered until mid-August because of a kiln failure at their plant. Waiting would push the wall completion past the July 31 milestone, which carries a contractual penalty of $1,200 per day. We therefore requested approval to substitute the V-38 block from Borchert Concrete Products, which is available for delivery within two weeks.\n\nThe structural engineer has now reviewed Borchert's test certificates and confirmed the V-38 meets or exceeds the specified compressive strength and freeze-thaw durability ratings. The client signed the substitution form this morning, with one condition: because the V-38 has a slightly different surface texture, a sample panel of at least two square meters must be built and photographed for the client's records before full installation begins. Mr. Castellanos, please schedule this panel for the week of June 9 and invite the client's representative to view it in person.\n\nThe substitution saves us from the delay penalty, and Borchert's unit price is actually 3 percent lower, though increased delivery distance will absorb most of that difference. Please update the procurement log and the as-built drawings accordingly.\n\nRegards,\nTobias Reinholt\nProject Manager, Dunmore Civil Engineering",
+    "questions": [
+      {
+        "question": "Why is a different wall block being used?",
+        "options": [
+          "The original blocks failed strength testing.",
+          "The specified blocks are unavailable until mid-August.",
+          "The client preferred a different surface texture.",
+          "The original supplier raised its prices."
+        ],
+        "answer": 1,
+        "explanation": "'the approved W-40 wall blocks are backordered until mid-August because of a kiln failure at their plant'이라고 하여, 원래 지정된 블록이 공급사의 가마 고장으로 8월 중순까지 입고가 불가능하기 때문에 대체품을 사용하게 되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What would happen if the wall were completed after July 31?",
+        "options": [
+          "The company would pay a daily penalty.",
+          "The client would cancel the entire project.",
+          "The structural engineer would resign.",
+          "The warranty period would be shortened."
+        ],
+        "answer": 0,
+        "explanation": "'Waiting would push the wall completion past the July 31 milestone, which carries a contractual penalty of $1,200 per day'라고 명시되어 있어, 7월 31일 기한을 넘기면 하루 1,200달러의 계약상 지연 배상금이 발생합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What condition did the client attach to the approval?",
+        "options": [
+          "A discount on the final invoice",
+          "Weekly progress photographs of the wall",
+          "Construction of a sample panel before full installation",
+          "An extended warranty on the substituted blocks"
+        ],
+        "answer": 2,
+        "explanation": "'a sample panel of at least two square meters must be built and photographed for the client's records before full installation begins'라고 하여, 표면 질감이 다소 다르기 때문에 본격 시공 전에 최소 2제곱미터의 샘플 패널을 제작해 기록으로 남기는 조건이 붙었습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the cost of the substitute blocks?",
+        "options": [
+          "The savings will mostly be offset by delivery costs.",
+          "They are significantly more expensive than the originals.",
+          "The client will pay the price difference.",
+          "Borchert is offering them free of charge."
+        ],
+        "answer": 0,
+        "explanation": "'Borchert's unit price is actually 3 percent lower, though increased delivery distance will absorb most of that difference'라고 되어 있어, 단가는 3퍼센트 저렴하지만 늘어난 운송 거리 비용이 그 절감분의 대부분을 상쇄할 것임을 알 수 있습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

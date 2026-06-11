@@ -1,0 +1,1460 @@
+[
+  {
+    "passageType": "notice",
+    "passage": "NOTICE TO VISITORS\nHargrove Museum of Natural History\n\nBeginning Monday, May 4, the museum's East Wing, which houses the Mineral and Gemstone Gallery, will be closed for a major renovation expected to last four months. During this time, approximately thirty of the collection's most popular specimens, including the celebrated Calder Sapphire, will be displayed in a temporary exhibit on the ground floor of the West Wing.\n\nBecause the East Wing entrance will be blocked by construction equipment, all visitors must enter through the main doors on Whitfield Avenue. Visitors with mobility needs may use the accessible entrance on Porter Street, where staff will be available to assist.\n\nTo apologize for the inconvenience, the museum is reducing general admission from $14 to $10 for the entire renovation period. Members, as always, enter free of charge. Guided tours of the West Wing temporary exhibit will run daily at 11:00 A.M. and 2:00 P.M. at no extra cost.\n\nWe thank you for your patience and look forward to unveiling the redesigned gallery in September.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce the acquisition of a new gemstone",
+          "To inform visitors about a temporary closure and related changes",
+          "To advertise a new membership program",
+          "To request donations for a renovation project"
+        ],
+        "answer": 1,
+        "explanation": "공지의 핵심은 5월 4일부터 동관(East Wing)이 보수 공사로 폐쇄된다는 것과 그에 따른 입장 동선, 임시 전시, 할인 등의 변경 사항을 알리는 것입니다. 새 보석 구입, 멤버십 광고, 기부 요청은 언급되지 않았으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the Calder Sapphire?",
+        "options": [
+          "It will be loaned to another museum.",
+          "It will be kept in storage until September.",
+          "It will be shown in a temporary exhibit.",
+          "It was recently donated by a member."
+        ],
+        "answer": 2,
+        "explanation": "지문에서 인기 표본 약 30점이 서관(West Wing) 1층 임시 전시에 진열되며, 그 예시로 'the celebrated Calder Sapphire'가 명시되어 있습니다. 따라서 임시 전시에서 볼 수 있다는 (C)가 정답입니다. 대여, 보관, 기증에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much will a nonmember adult pay for admission in June?",
+        "options": [
+          "$0",
+          "$4",
+          "$10",
+          "$14"
+        ],
+        "answer": 2,
+        "explanation": "공사 기간(5월 초부터 약 4개월간) 동안 일반 입장료가 $14에서 $10로 인하된다고 했습니다. 6월은 공사 기간에 포함되므로 비회원 성인은 $10를 내게 됩니다. 무료 입장은 회원에게만 해당하므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the notice, what should visitors with mobility needs do?",
+        "options": [
+          "Use the entrance on Porter Street",
+          "Reserve a guided tour in advance",
+          "Enter through the East Wing doors",
+          "Contact the museum before visiting"
+        ],
+        "answer": 0,
+        "explanation": "지문 중반에 거동이 불편한 방문객은 Porter Street의 장애인 출입구를 이용할 수 있으며 직원이 도와줄 것이라고 안내되어 있습니다. 따라서 (A)가 정답입니다. 동관 출입구는 공사 장비로 막혀 있고, 투어 예약이나 사전 연락 요청은 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "SKYRIDGE AIRLINES — CHECKED BAGGAGE POLICY\nEffective for travel on or after July 1\n\nEconomy fares include one checked bag weighing up to 23 kg. A second checked bag may be added for $35 if paid online at least 24 hours before departure, or $50 if paid at the airport counter. Each bag exceeding 23 kg but not more than 32 kg is subject to a $60 overweight charge. Bags heavier than 32 kg will not be accepted as checked baggage and must be sent through Skyridge Cargo Services.\n\nBusiness-class fares include two checked bags of up to 32 kg each at no additional cost. Skyridge Plus members traveling in any cabin receive one extra bag allowance beyond their fare's standard limit.\n\nSporting equipment, including golf bags and skis, counts toward the standard allowance but must be declared during booking. Musical instruments smaller than 100 cm may be carried into the cabin instead of a personal item.\n\nFor full details, visit skyridgeair.com/baggage or call our service line at 555-0188.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To announce a change in flight schedules",
+          "To explain rules and fees for checked baggage",
+          "To promote a new frequent-flyer program",
+          "To describe cabin seating options"
+        ],
+        "answer": 1,
+        "explanation": "이 공지는 7월 1일부 위탁 수하물 규정, 즉 무료 허용량과 추가·초과 요금, 특수 수하물 규정을 설명하는 안내문입니다. 운항 일정 변경, 마일리지 프로그램 홍보, 좌석 안내는 다루지 않으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would an economy passenger pay to add a second 25 kg bag at the airport counter?",
+        "options": [
+          "$60",
+          "$85",
+          "$95",
+          "$110"
+        ],
+        "answer": 3,
+        "explanation": "공항 카운터에서 두 번째 가방을 추가하면 $50이고, 그 가방이 23kg를 초과하고 32kg 이하(25kg)이므로 초과 중량 요금 $60가 추가됩니다. 따라서 합계는 $50 + $60 = $110로 (D)가 정답입니다. 온라인 사전 결제($35)가 아니라 공항 결제라는 조건에 주의해야 합니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is suggested about Skyridge Plus members?",
+        "options": [
+          "They can check one more bag than other passengers on the same fare.",
+          "They are exempt from all overweight charges.",
+          "They must travel in business class to receive benefits.",
+          "They receive a discount on cargo services."
+        ],
+        "answer": 0,
+        "explanation": "지문에 Skyridge Plus 회원은 어떤 좌석 등급이든 해당 운임의 기본 허용량보다 가방 1개를 더 부칠 수 있다고 명시되어 있습니다. 초과 중량 요금 면제나 화물 서비스 할인은 언급되지 않았고, 비즈니스석 탑승이 조건도 아니므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the notice, what must passengers do with golf bags?",
+        "options": [
+          "Send them through Skyridge Cargo Services",
+          "Pay a flat $60 handling fee",
+          "Declare them when booking their flight",
+          "Carry them into the cabin"
+        ],
+        "answer": 2,
+        "explanation": "스포츠 장비(골프백, 스키 포함)는 기본 허용량에 포함되지만 예약 시 반드시 신고해야 한다고 했습니다. 따라서 (C)가 정답입니다. 화물 서비스는 32kg 초과 가방에만 해당하고, 기내 반입은 100cm 미만 악기에 대한 규정입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "12th ANNUAL NORTHGATE LOGISTICS CONFERENCE\nDay One Agenda — Thursday, October 8\nGrand Pines Convention Center, Hall B\n\n8:30 A.M. – Registration and welcome coffee (Lobby)\n9:15 A.M. – Opening address: \"Supply Chains in a Changing Climate\" — Dr. Imani Walsh, Keynote Speaker\n10:30 A.M. – Panel discussion: \"Last-Mile Delivery Innovations\" — moderated by Carlos Vega, Freightline Weekly\n12:00 P.M. – Networking lunch (Terrace Room; included in registration)\n1:30 P.M. – Workshop A: \"Reducing Warehouse Energy Costs\" (Room 204, limit 40 participants) OR Workshop B: \"Negotiating Carrier Contracts\" (Room 206)\n3:00 P.M. – Refreshment break\n3:30 P.M. – Case study presentation: \"How Delmar Foods Cut Shipping Times by 30 Percent\" — Yuna Park, Delmar Foods\n5:00 P.M. – Day One closing remarks\n\nNote: Workshop A requires advance sign-up at the registration desk. Attendees who registered before September 1 may collect a complimentary copy of Dr. Walsh's latest book at the lobby information table. The Day Two agenda will be distributed at closing remarks.",
+    "questions": [
+      {
+        "question": "For whom is the schedule most likely intended?",
+        "options": [
+          "Convention center employees",
+          "Conference attendees",
+          "Keynote speakers",
+          "Catering staff"
+        ],
+        "answer": 1,
+        "explanation": "이 일정표는 등록, 강연, 워크숍, 점심 등 참가자가 하루 동안 참여할 행사 순서를 안내하고 있으며, 참가자에게 워크숍 신청과 책 수령 방법까지 알려 주고 있습니다. 따라서 컨퍼런스 참가자를 위한 자료인 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen at 10:30 A.M.?",
+        "options": [
+          "A panel discussion will begin.",
+          "Lunch will be served.",
+          "Dr. Walsh will give a speech.",
+          "A case study will be presented."
+        ],
+        "answer": 0,
+        "explanation": "일정표에 따르면 오전 10시 30분에는 Carlos Vega가 진행하는 'Last-Mile Delivery Innovations' 패널 토론이 시작됩니다. Dr. Walsh의 기조연설은 9시 15분, 점심은 12시, 사례 발표는 오후 3시 30분이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about Workshop A?",
+        "options": [
+          "It will be led by Yuna Park.",
+          "It takes place in Room 206.",
+          "Participation is limited to forty people.",
+          "It is scheduled for the morning."
+        ],
+        "answer": 2,
+        "explanation": "워크숍 A는 Room 204에서 열리며 참가 인원이 40명으로 제한되고 등록 데스크에서 사전 신청이 필요하다고 명시되어 있습니다. 따라서 (C)가 정답입니다. Room 206은 워크숍 B의 장소이고, 워크숍은 오후 1시 30분에 진행됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is eligible to receive a free book?",
+        "options": [
+          "Attendees who sign up for Workshop B",
+          "Attendees who registered before September 1",
+          "Attendees who stay for closing remarks",
+          "Attendees who ask a question during the panel"
+        ],
+        "answer": 1,
+        "explanation": "비고(Note)에 9월 1일 이전에 등록한 참가자는 로비 안내 테이블에서 Dr. Walsh의 신간을 무료로 받을 수 있다고 안내되어 있습니다. 따라서 (B)가 정답입니다. 워크숍 신청이나 폐회사 참석은 책 증정 조건과 무관합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "ASSEMBLY INSTRUCTIONS\nVerano Adjustable Standing Desk — Model VD-220\n\nBefore you begin: Confirm that the carton contains the desktop panel, two leg columns, the crossbar, a control keypad, fourteen bolts, and an Allen wrench. Assembly requires two people and takes approximately 45 minutes. Do not use a power drill, as overtightening may strip the frame threads.\n\nStep 1: Place the desktop panel facedown on a soft surface to prevent scratches.\nStep 2: Attach each leg column to the underside of the panel using four bolts per column. Tighten only halfway.\nStep 3: Connect the crossbar between the two columns with the remaining six bolts, then fully tighten all fourteen bolts.\nStep 4: Mount the control keypad on the right front edge, or the left edge if preferred, and plug its cable into the port on the crossbar.\nStep 5: With your partner, turn the desk upright and plug the power cord into a grounded outlet.\n\nImportant: Before first use, press and hold the DOWN button for ten seconds to calibrate the motor. Failure to calibrate may cause uneven lifting and will void the warranty.",
+    "questions": [
+      {
+        "question": "What is suggested about the assembly process?",
+        "options": [
+          "It should not be done alone.",
+          "It requires a power drill.",
+          "It takes about two hours.",
+          "It must be performed by a technician."
+        ],
+        "answer": 0,
+        "explanation": "지문 도입부에 조립에는 두 사람이 필요하며 약 45분이 소요된다고 명시되어 있습니다. 따라서 혼자 해서는 안 된다는 (A)가 정답입니다. 전동 드릴은 나사산 손상 우려로 사용하지 말라고 했고, 기술자 의무 조립 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which step is the desk turned upright?",
+        "options": [
+          "Step 2",
+          "Step 3",
+          "Step 4",
+          "Step 5"
+        ],
+        "answer": 3,
+        "explanation": "Step 5에서 파트너와 함께 책상을 똑바로 세운 뒤 접지된 콘센트에 전원 코드를 꽂으라고 안내합니다. 따라서 (D)가 정답입니다. Step 2~4는 모두 상판이 뒤집힌 상태에서 다리, 크로스바, 키패드를 부착하는 과정입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many bolts are used to attach the crossbar?",
+        "options": [
+          "Four",
+          "Six",
+          "Eight",
+          "Fourteen"
+        ],
+        "answer": 1,
+        "explanation": "전체 볼트는 14개이며, Step 2에서 다리 기둥 하나당 4개씩 총 8개를 사용하고, Step 3에서 '남은 6개의 볼트'로 크로스바를 연결한다고 했습니다. 따라서 크로스바에는 6개가 사용되므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the instructions, what could void the warranty?",
+        "options": [
+          "Mounting the keypad on the left edge",
+          "Using the desk before calibrating the motor",
+          "Assembling the desk without a partner",
+          "Plugging the desk into a power strip"
+        ],
+        "answer": 1,
+        "explanation": "마지막 단락에서 첫 사용 전 DOWN 버튼을 10초간 눌러 모터를 보정해야 하며, 보정하지 않으면 들림이 고르지 않게 되고 보증이 무효가 된다고 경고합니다. 따라서 (B)가 정답입니다. 키패드는 왼쪽 부착도 허용되므로 (A)는 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "BRIDGEWATER MUNICIPAL UTILITIES\nMonthly Statement — Account No. 88-4172\nCustomer: Daniela Reyes, 64 Linden Court\nBilling Period: April 1 – April 30 | Statement Date: May 5\n\nElectricity: 412 kWh @ $0.15 per kWh — $61.80\nWater: 9 units @ $3.20 per unit — $28.80\nWastewater service (flat fee) — $18.00\nStreetlight maintenance (flat fee) — $4.40\nSubtotal — $113.00\nEarly-payment discount (5% if paid by May 15) — –$5.65\nAmount due by May 15 — $107.35\nAmount due after May 15 — $113.00\n\nPlease note: Payments received after May 31 are subject to a $12.00 late fee. Customers enrolled in autopay automatically receive the early-payment discount each month. To report a suspected meter error, call 555-0142 within ten days of the statement date; a technician will inspect the meter at no charge, and any confirmed overbilling will be credited to your next statement.",
+    "questions": [
+      {
+        "question": "What is the purpose of the form?",
+        "options": [
+          "To confirm enrollment in autopay",
+          "To show charges for utility services",
+          "To announce an increase in water rates",
+          "To schedule a meter inspection"
+        ],
+        "answer": 1,
+        "explanation": "이 양식은 4월 한 달간의 전기, 수도, 하수도 등 공공요금 청구 내역과 납부 기한을 안내하는 월별 청구서입니다. 자동이체 확인, 요금 인상 공지, 점검 예약이 목적이 아니므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much will Ms. Reyes owe if she pays on May 20?",
+        "options": [
+          "$107.35",
+          "$113.00",
+          "$118.65",
+          "$125.00"
+        ],
+        "answer": 1,
+        "explanation": "5월 15일까지 납부하면 5% 할인된 $107.35지만, 5월 15일 이후에는 할인 없이 $113.00를 내야 합니다. 5월 20일은 15일 이후이지만 연체료($12)가 붙는 5월 31일 이전이므로 (B) $113.00가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about autopay customers?",
+        "options": [
+          "They are exempt from the wastewater fee.",
+          "They receive their statements by e-mail only.",
+          "They always get the early-payment discount.",
+          "They must pay a small enrollment fee."
+        ],
+        "answer": 2,
+        "explanation": "안내문에 자동이체에 가입한 고객은 매달 조기 납부 할인을 자동으로 받는다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 하수도 요금 면제, 이메일 전용 청구서, 가입비에 대한 내용은 지문에 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when should a customer report a possible meter error?",
+        "options": [
+          "By May 10",
+          "By May 15",
+          "By May 31",
+          "By June 5"
+        ],
+        "answer": 1,
+        "explanation": "계량기 오류가 의심되면 명세서 발행일(Statement Date)인 5월 5일로부터 10일 이내에 전화하라고 했으므로 기한은 5월 15일입니다. 따라서 (B)가 정답입니다. 납부 기한이 아니라 발행일 기준 10일이라는 점을 계산해야 합니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "MEMO TO ALL EMPLOYEES\nFrom: Human Resources, Caldwell & Brink Accounting\nSubject: Launch of the StrideWell Wellness Program\n\nWe are pleased to introduce StrideWell, a voluntary wellness program beginning August 1. Participating employees earn points for healthy activities: 10 points for each fitness class attended at our partner gym, FlexCity; 5 points for each day a step goal of 8,000 steps is logged through the StrideWell app; and 50 points for completing an annual health screening at the second-floor clinic.\n\nPoints can be redeemed quarterly. Employees who earn 300 points in a quarter receive a $75 credit toward their health insurance premium, while those who earn 500 points receive a $150 credit and one additional paid day off.\n\nTo enroll, complete the consent form on the HR intranet page by July 24. Department managers cannot view individual activity data; only total quarterly points are reported, and only to the payroll team. Questions may be directed to Priya Nathan at extension 4452. A lunchtime information session will be held in Conference Room C on July 15.",
+    "questions": [
+      {
+        "question": "Why was the memo written?",
+        "options": [
+          "To announce a new employee benefit program",
+          "To explain changes to health insurance providers",
+          "To require employees to attend fitness classes",
+          "To report the results of a wellness survey"
+        ],
+        "answer": 0,
+        "explanation": "이 회람은 8월 1일부터 시작되는 자율 참여 건강 증진 프로그램 StrideWell의 도입을 알리고 포인트 적립·보상 방식과 등록 방법을 안내합니다. 보험사 변경, 의무 참여, 설문 결과 보고는 아니므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many points does a health screening earn?",
+        "options": [
+          "5 points",
+          "10 points",
+          "50 points",
+          "300 points"
+        ],
+        "answer": 2,
+        "explanation": "포인트 적립 기준에서 연례 건강 검진을 2층 클리닉에서 완료하면 50포인트를 받는다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 5포인트는 일일 걸음 목표, 10포인트는 제휴 헬스장 수업 참석에 해당합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What do employees who earn 500 points in a quarter receive?",
+        "options": [
+          "A $75 insurance credit only",
+          "A gym membership at FlexCity",
+          "A $150 credit and an extra paid day off",
+          "A bonus added to their salary"
+        ],
+        "answer": 2,
+        "explanation": "분기당 500포인트를 적립한 직원은 보험료 $150 크레딧과 함께 유급 휴가 1일을 추가로 받는다고 안내되어 있습니다. 따라서 (C)가 정답입니다. $75 크레딧은 300포인트 적립 시의 보상입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is stated about employees' activity data?",
+        "options": [
+          "It is shared with department managers monthly.",
+          "Managers cannot see individual activity details.",
+          "It is deleted at the end of each quarter.",
+          "It must be submitted on paper forms."
+        ],
+        "answer": 1,
+        "explanation": "지문 후반부에 부서 관리자는 개인 활동 데이터를 볼 수 없으며, 분기별 총 포인트만 급여팀에 보고된다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 데이터 삭제나 서면 제출에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "CITY OF ELMSWORTH — UPDATED RECYCLING GUIDELINES\nEffective September 1\n\nTo improve sorting efficiency at the new Brookmere processing facility, residents must follow these updated rules.\n\nBlue bins (collected every Tuesday): rinsed glass bottles, metal cans, and rigid plastics marked with recycling codes 1, 2, or 5. Plastic bags and film must NOT be placed in blue bins, as they jam the sorting machinery; instead, take them to the drop-off barrels at participating grocery stores.\n\nGreen bins (collected every other Friday): flattened cardboard, newspapers, office paper, and magazines. Pizza boxes are accepted only if grease-stained sections are torn off and discarded with regular trash.\n\nItems such as electronics, batteries, and paint cans are considered hazardous and may be brought to the Transfer Station on Colby Road, open Saturdays from 8:00 A.M. to 1:00 P.M. Proof of residency is required.\n\nHouseholds that need an additional blue bin may request one free of charge through the city's Web site. Missed collections should be reported within 48 hours by calling 555-0119.",
+    "questions": [
+      {
+        "question": "Why were the guidelines updated?",
+        "options": [
+          "To reduce the cost of garbage collection",
+          "To support sorting at a new processing facility",
+          "To comply with a national recycling law",
+          "To encourage residents to compost food waste"
+        ],
+        "answer": 1,
+        "explanation": "공지 첫 문장에서 새 Brookmere 처리 시설의 분류 효율을 높이기 위해 규정을 개정했다고 밝히고 있습니다. 따라서 (B)가 정답입니다. 비용 절감, 법규 준수, 음식물 퇴비화는 지문에 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should residents do with plastic bags?",
+        "options": [
+          "Place them in green bins",
+          "Take them to drop-off barrels at grocery stores",
+          "Bring them to the Transfer Station",
+          "Put them in blue bins on Tuesdays"
+        ],
+        "answer": 1,
+        "explanation": "비닐봉지와 필름류는 분류 기계를 막히게 하므로 파란 통에 넣지 말고 참여 식료품점에 비치된 수거통(drop-off barrels)에 가져가라고 안내합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about pizza boxes?",
+        "options": [
+          "They are never accepted for recycling.",
+          "They must be rinsed before collection.",
+          "Greasy parts must be removed first.",
+          "They belong in blue bins."
+        ],
+        "answer": 2,
+        "explanation": "초록 통 항목에서 피자 상자는 기름이 묻은 부분을 찢어 일반 쓰레기로 버린 경우에만 수거된다고 했습니다. 따라서 기름진 부분을 먼저 제거해야 한다는 (C)가 정답입니다. 전면 금지가 아니므로 (A)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a service provided by the city?",
+        "options": [
+          "Free additional blue bins",
+          "A Saturday hazardous-waste drop-off",
+          "A phone line for missed collections",
+          "Curbside pickup of old electronics"
+        ],
+        "answer": 3,
+        "explanation": "추가 파란 통 무료 제공(웹사이트 신청), 토요일 Colby Road 위험 폐기물 반입, 수거 누락 신고 전화(555-0119)는 모두 언급되었습니다. 그러나 전자제품은 직접 Transfer Station에 가져가야 하며 가정 앞 수거(curbside pickup)는 제공되지 않으므로 (D)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "THE LANTERN BAY RESORT — DAILY AMENITY SCHEDULE\nValid June 1 through August 31\n\nMain Pool: 7:00 A.M. – 9:00 P.M. (adults-only swim 7:00–9:00 A.M.)\nFitness Center: open 24 hours; room key required after 10:00 P.M.\nSerenity Spa: 10:00 A.M. – 8:00 P.M.; reservations required and may be made up to 14 days in advance at the front desk or through the resort app\nKids' Cove (ages 4–12): 9:00 A.M. – 5:00 P.M.; supervised activities included in resort fee\nSunset Kayak Tour: departs daily at 6:30 P.M. from the boathouse; $25 per guest; canceled in case of high winds, with full refunds issued automatically\nRooftop Cinema: Fridays and Saturdays only, 9:30 P.M.; complimentary popcorn provided\n\nPlease note that the Serenity Spa will be closed July 6–10 for the installation of two additional treatment rooms. During this period, spa guests may book treatments at our sister property, Harbor Pines Resort, at a 20 percent discount, with free shuttle service every hour.",
+    "questions": [
+      {
+        "question": "What is indicated about the Fitness Center?",
+        "options": [
+          "It closes at 9:00 P.M.",
+          "It can be accessed at any time of day.",
+          "It requires a reservation through the app.",
+          "It is reserved for adults in the morning."
+        ],
+        "answer": 1,
+        "explanation": "일정표에 피트니스 센터는 24시간 운영되며 밤 10시 이후에는 객실 키가 필요하다고 안내되어 있습니다. 즉 언제든 이용 가능하므로 (B)가 정답입니다. 성인 전용 시간은 수영장의 오전 규정입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen between July 6 and July 10?",
+        "options": [
+          "The kayak tour will be suspended.",
+          "The spa will be temporarily closed.",
+          "The main pool will open late.",
+          "The rooftop cinema will show extra films."
+        ],
+        "answer": 1,
+        "explanation": "하단 안내에 따르면 Serenity Spa는 트리트먼트 룸 2개 추가 설치를 위해 7월 6일부터 10일까지 휴업합니다. 따라서 (B)가 정답입니다. 그 기간에는 자매 리조트에서 20% 할인된 가격으로 이용할 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about the Sunset Kayak Tour?",
+        "options": [
+          "It is included in the resort fee.",
+          "It is offered only on weekends.",
+          "Refunds are given automatically if it is canceled.",
+          "It departs from the front desk."
+        ],
+        "answer": 2,
+        "explanation": "카약 투어는 매일 오후 6시 30분에 보트하우스에서 출발하며 1인당 $25입니다. 강풍 시 취소되면 전액이 자동으로 환불된다고 했으므로 (C)가 정답입니다. 리조트 요금에 포함된 것은 Kids' Cove 활동입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How far in advance can spa reservations be made?",
+        "options": [
+          "Up to 7 days",
+          "Up to 10 days",
+          "Up to 14 days",
+          "Up to 30 days"
+        ],
+        "answer": 2,
+        "explanation": "Serenity Spa 항목에 예약은 필수이며 프런트 데스크나 리조트 앱을 통해 최대 14일 전부터 가능하다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "TRUNORTH APPLIANCES — WARRANTY CLAIMS PROCEDURE\n\nAll TruNorth refrigerators, dishwashers, and ovens are covered by a two-year limited warranty from the date of purchase. To file a claim, follow the steps below.\n\n1. Locate your proof of purchase. A store receipt or online order confirmation is acceptable. Claims cannot be processed without one.\n2. Find the product's serial number, printed on a silver label inside the appliance door.\n3. Visit trunorth.com/claims and complete the online claim form, attaching a photo of the defect if visible. Customers without Internet access may call 555-0173 between 8:00 A.M. and 6:00 P.M., Monday through Saturday.\n4. Within three business days, a service coordinator will contact you to schedule a technician visit. Repairs performed by unauthorized technicians will void the remaining warranty.\n\nIf a product cannot be repaired after two service visits, TruNorth will replace it with the same or a comparable model at no cost. Please note that the warranty does not cover damage caused by improper installation, power surges, or commercial use of residential models.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To advertise a new line of appliances",
+          "To explain how to request warranty service",
+          "To announce an extension of warranty periods",
+          "To recall a defective refrigerator model"
+        ],
+        "answer": 1,
+        "explanation": "이 안내문은 TruNorth 제품에 문제가 생겼을 때 보증 서비스를 신청하는 절차(구매 증빙 준비, 일련번호 확인, 온라인 양식 제출, 기사 방문 일정)를 단계별로 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, what is required to process a claim?",
+        "options": [
+          "Proof of purchase",
+          "The original packaging",
+          "A copy of the user manual",
+          "A monthly service subscription"
+        ],
+        "answer": 0,
+        "explanation": "1단계에서 매장 영수증이나 온라인 주문 확인서 같은 구매 증빙이 있어야 하며, 이것이 없으면 청구를 처리할 수 없다고 명시했습니다. 따라서 (A)가 정답입니다. 포장재, 설명서, 구독 서비스는 요구 사항이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen if a product still does not work after two service visits?",
+        "options": [
+          "The customer will receive a full cash refund.",
+          "The warranty will be extended by one year.",
+          "The product will be replaced for free.",
+          "A third technician will be dispatched."
+        ],
+        "answer": 2,
+        "explanation": "지문 후반부에 두 차례 수리 방문 후에도 제품을 고칠 수 없는 경우 동일 모델 또는 동급 모델로 무상 교체해 준다고 안내되어 있습니다. 따라서 (C)가 정답입니다. 현금 환불이나 보증 연장은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT covered by the warranty?",
+        "options": [
+          "Defects visible in a photograph",
+          "Damage from power surges",
+          "Faulty appliance doors",
+          "Products purchased online"
+        ],
+        "answer": 1,
+        "explanation": "마지막 문장에서 잘못된 설치, 전력 서지(power surges), 가정용 모델의 상업적 사용으로 인한 손상은 보증 대상이 아니라고 명시했습니다. 따라서 (B)가 정답입니다. 온라인 구매 제품도 주문 확인서로 증빙하면 보증이 적용됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "MERIDIAN GRAND HOTEL — GUEST SATISFACTION SURVEY RESULTS\nFirst Quarter Summary | Responses collected: 642\n\nOverall satisfaction: 84% rated their stay \"excellent\" or \"good,\" up from 78% in the previous quarter.\n\nHighest-rated categories:\n- Front desk friendliness: 91% positive\n- Room cleanliness: 89% positive\n- Restaurant breakfast quality: 87% positive\n\nLowest-rated categories:\n- Wi-Fi reliability: 58% positive (down 9 points from last quarter)\n- Checkout speed: 66% positive\n- Parking availability: 70% positive\n\nMost frequent written comment: slow Internet connections on the upper floors, mentioned in 112 responses.\n\nActions planned: The IT department will replace all wireless routers on floors 8 through 12 by June 30. To address checkout delays, two self-service kiosks will be installed in the lobby in July, and express checkout via the hotel app will be promoted with a sign at the front desk. Survey participants were entered into a drawing for a complimentary weekend stay; the winner, Ms. Anneke Visser of Rotterdam, has been notified by e-mail.",
+    "questions": [
+      {
+        "question": "What does the summary indicate about overall satisfaction?",
+        "options": [
+          "It declined compared with the previous quarter.",
+          "It improved by six percentage points.",
+          "It was the lowest in the hotel's history.",
+          "It was measured for the first time."
+        ],
+        "answer": 1,
+        "explanation": "전체 만족도는 '우수' 또는 '좋음' 평가가 84%로, 전 분기의 78%에서 상승했습니다. 84 - 78 = 6%포인트 상승이므로 (B)가 정답입니다. 하락했다는 (A)는 Wi-Fi 항목에만 해당하는 내용입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which category received the lowest rating?",
+        "options": [
+          "Checkout speed",
+          "Parking availability",
+          "Wi-Fi reliability",
+          "Room cleanliness"
+        ],
+        "answer": 2,
+        "explanation": "최저 평가 항목 중 Wi-Fi 신뢰성이 58%로 가장 낮으며, 전 분기 대비 9포인트 하락했다고 명시되어 있습니다. 체크아웃 속도는 66%, 주차는 70%이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will the hotel do to speed up checkout?",
+        "options": [
+          "Hire additional front desk clerks",
+          "Install self-service kiosks in the lobby",
+          "Extend checkout time to noon",
+          "Offer discounts for early departures"
+        ],
+        "answer": 1,
+        "explanation": "체크아웃 지연 문제 해결을 위해 7월에 로비에 셀프서비스 키오스크 2대를 설치하고 앱을 통한 익스프레스 체크아웃을 홍보할 계획이라고 했습니다. 따라서 (B)가 정답입니다. 직원 추가 채용은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Ms. Visser?",
+        "options": [
+          "She complained about the Wi-Fi service.",
+          "She stayed on the twelfth floor.",
+          "She won a free weekend stay.",
+          "She works for the hotel's IT department."
+        ],
+        "answer": 2,
+        "explanation": "설문 참여자를 대상으로 한 무료 주말 숙박권 추첨에서 로테르담의 Anneke Visser가 당첨되어 이메일로 통보받았다고 했습니다. 따라서 (C)가 정답입니다. 그녀가 어떤 의견을 남겼는지는 지문에 나오지 않습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "INVOICE\nGoldleaf Catering Company\n17 Aster Boulevard, Suite 3 | Invoice No. 2287\nBill to: Ms. Harriet Onu, Office Manager, Pellman Designs\nEvent: Client appreciation luncheon, Friday, November 14\nInvoice date: November 17 | Payment due: December 17\n\nMediterranean buffet, 35 guests @ $22.00 per guest — $770.00\nSparkling beverage station — $95.00\nDessert platter upgrade — $60.00\nDelivery and on-site setup — $45.00\nSubtotal — $970.00\nReturning-customer discount (10% of subtotal) — –$97.00\nTotal due — $873.00\n\nA deposit of $200.00 was received on October 30 and will be deducted upon final payment, leaving a balance of $673.00. Payments may be made by bank transfer or corporate check. A 2% monthly interest charge applies to balances unpaid after the due date. Please report any billing discrepancies to accounts@goldleafcatering.com within seven days of the invoice date. We thank Pellman Designs for choosing us for a third consecutive year.",
+    "questions": [
+      {
+        "question": "What kind of event did Goldleaf Catering provide services for?",
+        "options": [
+          "A retirement dinner",
+          "A client appreciation luncheon",
+          "A product launch reception",
+          "An employee training session"
+        ],
+        "answer": 1,
+        "explanation": "송장 상단의 행사 항목에 11월 14일 금요일에 열린 'Client appreciation luncheon(고객 감사 오찬)'이라고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much does Pellman Designs still need to pay?",
+        "options": [
+          "$200.00",
+          "$673.00",
+          "$873.00",
+          "$970.00"
+        ],
+        "answer": 1,
+        "explanation": "할인 적용 후 총액은 $873.00이지만, 10월 30일에 받은 보증금 $200.00가 차감되어 남은 잔액은 $873.00 - $200.00 = $673.00입니다. 따라서 (B)가 정답입니다. $970.00는 할인 전 소계입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is suggested about Pellman Designs?",
+        "options": [
+          "It has used Goldleaf Catering before.",
+          "It is located on Aster Boulevard.",
+          "It requested a vegetarian menu.",
+          "It paid the invoice late."
+        ],
+        "answer": 0,
+        "explanation": "10% 'returning-customer discount(재이용 고객 할인)'가 적용되었고, 마지막 문장에서 3년 연속 이용에 감사한다고 했으므로 Pellman Designs는 이전에도 이 업체를 이용했음을 알 수 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if payment is not made by December 17?",
+        "options": [
+          "The deposit will be forfeited.",
+          "A 2% monthly interest charge will apply.",
+          "The discount will be canceled.",
+          "Future orders will require full prepayment."
+        ],
+        "answer": 1,
+        "explanation": "송장 하단에 만기일 이후 미납 잔액에는 월 2%의 이자가 부과된다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 보증금 몰수, 할인 취소, 선결제 요구에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "HARBORTON AIRPORT EXPRESS — SHUTTLE TIMETABLE\nDowntown Terminal (Cassidy Street) to Harborton International Airport\nEffective March 1\n\nDeparture / Arrival\n5:00 A.M. / 5:50 A.M.\n6:30 A.M. / 7:20 A.M.\n8:00 A.M. / 8:55 A.M.*\n10:00 A.M. / 10:50 A.M.\n1:00 P.M. / 1:50 P.M.\n4:00 P.M. / 4:55 P.M.*\n7:30 P.M. / 8:20 P.M.\n\n*Trips marked with an asterisk make an additional stop at the Riverside Hotel district, adding five minutes to the journey.\n\nFares: one-way $18; round-trip $30; children under 12 ride free with a paying adult. Tickets purchased on board cost $3 more than tickets bought online at harborexpress.com. Each passenger may bring two suitcases; additional luggage is charged at $5 per item.\n\nPassengers connecting to international flights are advised to take a shuttle arriving at least three hours before their scheduled departure time. The 5:00 A.M. and 7:30 P.M. trips do not operate on public holidays.",
+    "questions": [
+      {
+        "question": "What is indicated about trips marked with an asterisk?",
+        "options": [
+          "They operate only on weekends.",
+          "They stop at a hotel district.",
+          "They cost an additional $5.",
+          "They are reserved for hotel guests."
+        ],
+        "answer": 1,
+        "explanation": "별표(*)가 붙은 8:00 A.M.과 4:00 P.M. 편은 Riverside Hotel 지구에 추가로 정차하며 이동 시간이 5분 늘어난다고 안내되어 있습니다. 따라서 (B)가 정답입니다. 추가 요금이나 이용 제한은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a traveler pay for a round-trip ticket bought on board?",
+        "options": [
+          "$18",
+          "$30",
+          "$33",
+          "$36"
+        ],
+        "answer": 2,
+        "explanation": "왕복 요금은 온라인 구매 시 $30이지만, 차내에서 구매하는 표는 온라인 가격보다 $3 비쌉니다. 따라서 $30 + $3 = $33이므로 (C)가 정답입니다. $36은 편도 2장($18×2)으로 잘못 계산한 값입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which shuttle should a passenger take for a 1:00 P.M. international flight?",
+        "options": [
+          "The 8:00 A.M. shuttle",
+          "The 10:00 A.M. shuttle",
+          "The 1:00 P.M. shuttle",
+          "The 6:30 A.M. shuttle"
+        ],
+        "answer": 0,
+        "explanation": "국제선 승객은 출발 시각보다 최소 3시간 전에 도착하는 셔틀을 타라고 권고합니다. 오후 1시 출발 항공편이면 오전 10시까지는 공항에 도착해야 하므로, 8시 55분에 도착하는 8:00 A.M. 셔틀이 적합합니다. 10:00 A.M. 셔틀은 10시 50분 도착이라 3시간 기준을 충족하지 못하므로 (A)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is mentioned about luggage?",
+        "options": [
+          "All luggage must be checked in online.",
+          "Two suitcases per passenger are allowed.",
+          "Luggage storage is available at the terminal.",
+          "Oversized bags are not accepted."
+        ],
+        "answer": 1,
+        "explanation": "요금 안내에 승객 1인당 여행 가방 2개를 가져갈 수 있으며, 추가 수하물은 개당 $5가 부과된다고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "WESTBROOK PUBLIC LIBRARY — POLICY UPDATE\nPosted: January 5\n\nDear Patrons,\n\nThe following policy changes take effect on February 1.\n\nLoan periods: Books may now be borrowed for 28 days, up from 21. DVDs and video games remain limited to 7 days. Each item may be renewed twice unless another patron has placed a hold on it.\n\nLate fees: Overdue books will be charged $0.25 per day, with a maximum charge of $8.00 per book. Overdue DVDs and games will be charged $1.00 per day. Patrons whose total unpaid fees exceed $15.00 will be unable to borrow additional items until the balance is reduced.\n\nFee forgiveness: During National Library Week in April, patrons may have up to $10.00 in fees waived by donating a canned food item at the circulation desk. Donations will be delivered to the Westbrook Food Pantry.\n\nStudy rooms: Reservations may now be made online up to one week in advance. Walk-in use is still permitted when rooms are unoccupied.\n\nQuestions may be directed to circulation@westbrooklibrary.org.",
+    "questions": [
+      {
+        "question": "What change is being made to book loans?",
+        "options": [
+          "Books may be borrowed for a longer period.",
+          "Fewer books may be checked out at once.",
+          "Renewals will no longer be allowed.",
+          "Books must be returned to the front desk."
+        ],
+        "answer": 0,
+        "explanation": "대출 기간 항목에서 도서 대출 기간이 21일에서 28일로 늘어난다고 명시했습니다. 따라서 (A)가 정답입니다. DVD와 게임은 기존대로 7일이며, 예약이 걸리지 않은 경우 2회 갱신도 가능합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a patron owe for a book returned 40 days late?",
+        "options": [
+          "$8.00",
+          "$10.00",
+          "$15.00",
+          "$0.25"
+        ],
+        "answer": 0,
+        "explanation": "연체된 도서는 하루 $0.25씩 부과되므로 40일이면 $10.00이지만, 책 한 권당 최대 부과액이 $8.00로 제한되어 있습니다. 따라서 실제 청구액은 (A) $8.00입니다. 상한선 규정을 적용해야 하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How can patrons have fees waived in April?",
+        "options": [
+          "By volunteering at the food pantry",
+          "By donating a canned food item",
+          "By renewing their library card",
+          "By attending a library event"
+        ],
+        "answer": 1,
+        "explanation": "4월 전국 도서관 주간에 대출 데스크에서 통조림 식품 한 개를 기부하면 최대 $10.00의 연체료를 면제받을 수 있다고 안내되어 있습니다. 기부 식품은 Westbrook Food Pantry에 전달됩니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is stated about study rooms?",
+        "options": [
+          "They can be reserved online ahead of time.",
+          "They require a fee for use.",
+          "They are closed during renovations.",
+          "They may be used only by students."
+        ],
+        "answer": 0,
+        "explanation": "스터디 룸은 이제 최대 일주일 전부터 온라인으로 예약할 수 있으며, 비어 있을 때는 예약 없이도 이용할 수 있다고 명시되어 있습니다. 따라서 (A)가 정답입니다. 이용료나 이용 자격 제한은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "DELTAFORM SOFTWARE — NEW EMPLOYEE TRAINING WEEK\nOrientation Schedule for Hires Starting Monday, April 6\nAll sessions held in Training Lab 2 unless otherwise noted.\n\nMonday, 9:00 A.M. – 12:00 P.M.: Company overview and security badge photos (Auditorium)\nMonday, 1:30 P.M. – 4:00 P.M.: Workstation setup and account activation\nTuesday, 9:00 A.M. – 12:00 P.M.: Introduction to the Deltaform product suite\nTuesday, 1:30 P.M. – 4:00 P.M.: Customer data privacy certification (required; must be completed before accessing client files)\nWednesday, 9:00 A.M. – 12:00 P.M.: Department-specific training with assigned mentors (various locations)\nThursday, 9:00 A.M. – 12:00 P.M.: Internal tools workshop\nThursday, 2:00 P.M. – 3:00 P.M.: Question-and-answer session with senior management\nFriday, 10:00 A.M. – 11:30 A.M.: Benefits enrollment seminar with the HR team\n\nNote: Employees unable to attend the privacy certification on Tuesday must complete the online version by Friday at 5:00 P.M. Lunch vouchers for the staff cafeteria will be distributed each morning. Direct scheduling questions to Lena Brandt, Training Coordinator, at extension 2280.",
+    "questions": [
+      {
+        "question": "Where will the company overview take place?",
+        "options": [
+          "In Training Lab 2",
+          "In the Auditorium",
+          "In the staff cafeteria",
+          "In the HR office"
+        ],
+        "answer": 1,
+        "explanation": "모든 세션은 별도 표기가 없으면 Training Lab 2에서 열리지만, 월요일 오전의 회사 소개 및 사원증 사진 촬영은 '(Auditorium)'이라고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What must employees do before accessing client files?",
+        "options": [
+          "Meet with senior management",
+          "Complete the privacy certification",
+          "Enroll in a benefits plan",
+          "Attend the internal tools workshop"
+        ],
+        "answer": 1,
+        "explanation": "화요일 오후의 고객 데이터 프라이버시 인증은 필수이며, 고객 파일에 접근하기 전에 반드시 이수해야 한다고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is implied about Wednesday's training?",
+        "options": [
+          "It will not be held in a single location.",
+          "It is optional for some departments.",
+          "It will be led by Ms. Brandt.",
+          "It lasts the entire day."
+        ],
+        "answer": 0,
+        "explanation": "수요일 오전 부서별 교육은 배정된 멘토와 함께 '(various locations)' 즉 여러 장소에서 진행된다고 표기되어 있습니다. 한 장소에서 열리지 않는다는 (A)가 정답입니다. 선택 사항이라는 언급이나 Brandt가 진행한다는 내용은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when must the online privacy course be finished by those who miss Tuesday's session?",
+        "options": [
+          "By Wednesday morning",
+          "By Thursday at 3:00 P.M.",
+          "By Friday at 5:00 P.M.",
+          "By the following Monday"
+        ],
+        "answer": 2,
+        "explanation": "비고에 화요일 인증 세션에 참석하지 못한 직원은 금요일 오후 5시까지 온라인 과정을 이수해야 한다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "NOTICE TO ALL TENANTS — CRESTVIEW OFFICE TOWER\nParking Garage Policy Revision\nPosted by Building Management, March 18\n\nEffective April 1, the following parking rules will apply to the underground garage.\n\nMonthly permits: The fee for a reserved space will increase from $140 to $155 per month. Unreserved permits remain $95. Current permit holders may renew at the old rate one final time if they renew before March 31.\n\nVisitor parking: Levels 1 and 2 are now designated for visitors, who must obtain a validation code from the tenant they are visiting. Unvalidated vehicles will be charged $4 per hour with a daily maximum of $28.\n\nElectric vehicle charging: Six new charging stations have been installed on Level 3. Charging is free for permit holders for the first ninety minutes; after that, a fee of $2 per hour applies to discourage all-day occupancy.\n\nOvernight parking is prohibited except by written arrangement with the management office. Vehicles left overnight without authorization more than twice in one month will lose garage privileges.\n\nQuestions? Contact parking@crestviewtower.com.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce changes to parking rules",
+          "To advertise spaces in a new garage",
+          "To explain a building security upgrade",
+          "To report the completion of repairs"
+        ],
+        "answer": 0,
+        "explanation": "이 공지는 4월 1일부터 적용되는 주차장 규정 변경(월 주차권 요금 인상, 방문객 주차 구역, 전기차 충전, 야간 주차 금지)을 입주사에 알리는 것입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can current permit holders avoid the fee increase one more time?",
+        "options": [
+          "By switching to an unreserved space",
+          "By renewing before March 31",
+          "By signing a two-year contract",
+          "By parking on Level 3"
+        ],
+        "answer": 1,
+        "explanation": "현재 주차권 소지자는 3월 31일 이전에 갱신하면 마지막 한 번에 한해 기존 요금($140)으로 갱신할 수 있다고 안내되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much would an unvalidated visitor pay for parking ten hours?",
+        "options": [
+          "$4",
+          "$28",
+          "$40",
+          "$55"
+        ],
+        "answer": 1,
+        "explanation": "승인 코드를 받지 않은 차량은 시간당 $4가 부과되므로 10시간이면 $40이지만, 1일 최대 요금이 $28로 제한되어 있습니다. 따라서 실제 지불액은 (B) $28입니다. 상한 규정을 적용해야 하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about the charging stations?",
+        "options": [
+          "They are located on Level 1.",
+          "They are free for the first ninety minutes for permit holders.",
+          "They are reserved for visitors only.",
+          "They may be used overnight."
+        ],
+        "answer": 1,
+        "explanation": "3층에 설치된 충전소 6곳은 주차권 소지자에게 처음 90분간 무료이며, 이후에는 장시간 점유를 막기 위해 시간당 $2가 부과됩니다. 따라서 (B)가 정답입니다. 야간 주차는 서면 협의 없이는 금지됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "PAGE & SPINE BOOKSELLERS\n221 Mercer Lane | Receipt No. 58213\nDate: August 22, 2:14 P.M. | Cashier: D. Whitcombe\n\n1 x \"Gardens of the Coast\" (hardcover) — $34.00\n2 x \"The Quiet Harbor\" (paperback) @ $15.00 — $30.00\n1 x Canvas tote bag — $12.00\nSubtotal — $76.00\nReader Rewards member discount (15% off books only) — –$9.60\nAdjusted subtotal — $66.40\nSales tax (5%) — $3.32\nTotal — $69.72\nPaid by credit card ending in 4408\n\nYou earned 66 Reader Rewards points with this purchase. Your new balance is 412 points. Redeem 500 points for a $25 gift card at any register.\n\nReturns accepted within 30 days with this receipt; books must be unmarked and in resalable condition. Tote bags and other gift items are final sale. Join our author event on September 5, when novelist Camille Duret will sign copies of \"The Quiet Harbor\" at 6:00 P.M.",
+    "questions": [
+      {
+        "question": "What is suggested about the customer?",
+        "options": [
+          "The customer paid in cash.",
+          "The customer is a Reader Rewards member.",
+          "The customer bought three tote bags.",
+          "The customer returned a damaged book."
+        ],
+        "answer": 1,
+        "explanation": "영수증에 'Reader Rewards member discount(회원 할인)' 15%가 적용되었고 포인트 적립 내역(66포인트, 잔액 412포인트)도 기재되어 있으므로 고객은 멤버십 회원임을 알 수 있습니다. 결제는 카드로 했으므로 (A)는 오답이며, (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why was the discount amount $9.60?",
+        "options": [
+          "It was 15% of the total purchase.",
+          "It applied only to the price of the books.",
+          "It included a coupon for the tote bag.",
+          "It was a one-time anniversary offer."
+        ],
+        "answer": 1,
+        "explanation": "할인 항목에 'books only'라고 명시되어 있습니다. 도서 금액은 $34.00 + $30.00 = $64.00이고 그 15%는 $9.60입니다. 토트백($12.00)은 할인 대상이 아니므로 전체 금액($76.00)의 15%인 $11.40이 아닌 $9.60이 할인된 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How many more points does the customer need for a gift card?",
+        "options": [
+          "66 points",
+          "88 points",
+          "412 points",
+          "500 points"
+        ],
+        "answer": 1,
+        "explanation": "기프트 카드($25)는 500포인트로 교환할 수 있으며, 고객의 현재 잔액은 412포인트입니다. 따라서 500 - 412 = 88포인트가 더 필요하므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the tote bag?",
+        "options": [
+          "It cannot be returned.",
+          "It was given away free.",
+          "It can be exchanged within 30 days.",
+          "It was discounted by 15%."
+        ],
+        "answer": 0,
+        "explanation": "반품 규정에서 도서는 영수증 지참 시 30일 이내 반품이 가능하지만, 토트백 등 선물용 상품은 'final sale(반품 불가)'이라고 명시되어 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "NOTICE OF SCHEDULED WATER SERVICE INTERRUPTION\nGlenfield Water Authority\n\nAttention residents of the Maplewood Heights neighborhood:\n\nWater service will be temporarily shut off on Wednesday, October 21, from 9:00 A.M. to approximately 4:00 P.M. while crews replace a sixty-year-old main valve at the intersection of Drummond Road and Pine Street. This replacement is part of a five-year infrastructure improvement plan approved by the city council last spring.\n\nResidents are advised to store enough water in advance for drinking and cooking. When service resumes, tap water may appear cloudy or discolored for a few hours; this is caused by harmless air and mineral particles. Run the cold tap for several minutes until the water is clear before using it. Do not run hot water first, as sediment may enter your water heater.\n\nIf water is still discolored after twenty-four hours, call our hotline at 555-0156. A water tanker will be stationed in the Maplewood Community Center parking lot from 10:00 A.M. to 6:00 P.M. on the day of the work for residents who need water. Please bring your own containers.\n\nWe regret the inconvenience and thank you for your cooperation.",
+    "questions": [
+      {
+        "question": "Why will water service be interrupted?",
+        "options": [
+          "A water main burst unexpectedly.",
+          "An old valve is being replaced.",
+          "The water supply is contaminated.",
+          "A new neighborhood is being connected."
+        ],
+        "answer": 1,
+        "explanation": "공지에 따르면 10월 21일 수요일에 Drummond Road와 Pine Street 교차로의 60년 된 주 밸브를 교체하는 작업 때문에 단수가 예정되어 있습니다. 이는 계획된 공사이지 돌발 사고나 오염 때문이 아니므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What are residents told to do before October 21?",
+        "options": [
+          "Turn off their water heaters",
+          "Store water for drinking and cooking",
+          "Move their vehicles from Drummond Road",
+          "Register for text alerts"
+        ],
+        "answer": 1,
+        "explanation": "주민들에게 식수와 조리에 쓸 물을 미리 충분히 받아 두라고 권고하고 있습니다. 따라서 (B)가 정답입니다. 온수기를 끄라는 지시는 없으며, 작업 후 찬물을 먼저 틀라는 안내만 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, why might tap water look cloudy afterward?",
+        "options": [
+          "Because of air and mineral particles",
+          "Because of chemical disinfectants",
+          "Because of rust from the new valve",
+          "Because of low water pressure"
+        ],
+        "answer": 0,
+        "explanation": "급수 재개 후 수돗물이 몇 시간 동안 뿌옇거나 변색될 수 있는데, 이는 무해한 공기와 미네랄 입자 때문이라고 설명합니다. 따라서 (A)가 정답입니다. 찬물을 몇 분간 틀어 맑아진 후 사용하라고 안내합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will be available at the community center?",
+        "options": [
+          "Free water containers",
+          "A temporary water supply",
+          "An information session about the project",
+          "Discount coupons for bottled water"
+        ],
+        "answer": 1,
+        "explanation": "공사 당일 오전 10시부터 오후 6시까지 Maplewood Community Center 주차장에 급수차(water tanker)가 배치되어 물이 필요한 주민에게 제공됩니다. 단, 용기는 직접 가져와야 하므로 (A)는 오답이고 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "OAKDALE COMMUNITY CENTER — AUTUMN FITNESS CLASS SCHEDULE\nSession runs September 9 through November 27 (12 weeks)\n\nMonday: Beginner Yoga, 6:00 P.M. – 7:00 P.M., Studio 1, Instructor: Mira Solano\nTuesday: Aqua Aerobics, 10:00 A.M. – 11:00 A.M., Indoor Pool, Instructor: Glen Harper\nWednesday: Strength Circuit, 7:00 P.M. – 8:00 P.M., Gymnasium, Instructor: Dana Okoye\nThursday: Senior Stretch (ages 60+), 9:30 A.M. – 10:15 A.M., Studio 2, Instructor: Mira Solano\nSaturday: Family Zumba, 10:00 A.M. – 11:00 A.M., Gymnasium, Instructor: Tomás Ruiz\n\nFees: Residents pay $60 per class for the full twelve-week session; nonresidents pay $75. Participants registering for two or more classes receive $10 off each class. Drop-in attendance, where space allows, costs $8 per visit.\n\nNote: The Indoor Pool will be closed October 13–17 for filter maintenance. The Aqua Aerobics class for the week of October 14 will be replaced by a low-impact session in Studio 1 at the usual time. All classes require registration at the front desk or at oakdalecc.org. Towels are not provided.",
+    "questions": [
+      {
+        "question": "Who teaches two different classes?",
+        "options": [
+          "Glen Harper",
+          "Dana Okoye",
+          "Mira Solano",
+          "Tomás Ruiz"
+        ],
+        "answer": 2,
+        "explanation": "Mira Solano는 월요일 초급 요가와 목요일 시니어 스트레칭 두 개의 수업을 맡고 있습니다. 나머지 강사들은 각각 한 수업만 담당하므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would a resident pay to take both Beginner Yoga and Strength Circuit?",
+        "options": [
+          "$100",
+          "$110",
+          "$120",
+          "$130"
+        ],
+        "answer": 0,
+        "explanation": "주민 요금은 수업당 $60이며, 두 개 이상 등록하면 수업당 $10씩 할인됩니다. 따라서 ($60 - $10) × 2 = $100이므로 (A)가 정답입니다. 할인을 적용하지 않으면 $120으로 잘못 계산하게 됩니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What will happen during the week of October 14?",
+        "options": [
+          "Aqua Aerobics will be canceled without replacement.",
+          "A substitute class will be held in Studio 1.",
+          "The gymnasium will be closed for repairs.",
+          "All classes will move to the pool area."
+        ],
+        "answer": 1,
+        "explanation": "실내 수영장이 10월 13~17일 필터 정비로 폐쇄되므로, 10월 14일 주의 아쿠아 에어로빅 수업은 같은 시간에 Studio 1에서 저강도 수업으로 대체됩니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about class participation?",
+        "options": [
+          "Towels are available for rent.",
+          "Registration is required for all classes.",
+          "Drop-in visits are free for residents.",
+          "Classes are limited to fifteen people."
+        ],
+        "answer": 1,
+        "explanation": "비고에 모든 수업은 프런트 데스크 또는 웹사이트에서 등록해야 한다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 드롭인은 자리가 있을 때 회당 $8이며, 수건은 제공되지 않습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "OPERATING INSTRUCTIONS — BREVA PRO ESPRESSO MACHINE\nBreak Room, 4th Floor\n\nAll staff are welcome to use the new espresso machine. To keep it working properly, please follow these instructions.\n\n1. Fill the water tank only with filtered water from the dispenser beside the sink. Tap water causes mineral buildup and shortens the life of the heating element.\n2. Use the beans provided in the labeled container. Do not use pre-ground coffee, flavored beans, or oily dark roasts, which can clog the grinder.\n3. After frothing milk, wipe the steam wand immediately with the damp cloth hanging on the hook, then purge the wand for two seconds.\n4. Place used coffee grounds in the green compost pail, not in the regular trash.\n5. At the end of each day, the last user should empty the drip tray and run the automatic rinse cycle by holding the MENU button for five seconds.\n\nThe machine is descaled by the facilities team on the first Monday of every month; please do not attempt this yourselves. If an error code appears on the display, do not continue using the machine. Instead, report the code to facilities@hellman-co.com so a technician can be scheduled.",
+    "questions": [
+      {
+        "question": "For whom are the instructions intended?",
+        "options": [
+          "Café customers",
+          "Employees of a company",
+          "Repair technicians",
+          "Kitchen appliance vendors"
+        ],
+        "answer": 1,
+        "explanation": "이 안내문은 4층 휴게실에 설치된 에스프레소 머신을 '모든 직원(All staff)'이 올바르게 사용하도록 작성된 사내 공지입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why should tap water NOT be used?",
+        "options": [
+          "It causes mineral deposits to form.",
+          "It makes the coffee taste bitter.",
+          "It overflows the drip tray.",
+          "It triggers an error code."
+        ],
+        "answer": 0,
+        "explanation": "1번 지침에서 수돗물은 미네랄 침착(mineral buildup)을 일으켜 가열 장치의 수명을 단축시키므로 싱크대 옆 정수기의 필터 물만 사용하라고 했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should the last user of the day do?",
+        "options": [
+          "Refill the bean container",
+          "Descale the machine",
+          "Empty the drip tray and run a rinse cycle",
+          "Unplug the machine from the wall"
+        ],
+        "answer": 2,
+        "explanation": "5번 지침에 매일 마지막 사용자는 드립 트레이를 비우고 MENU 버튼을 5초간 눌러 자동 세척 사이클을 실행해야 한다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 석회질 제거는 매월 첫째 월요일에 시설팀이 수행합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should staff do if an error code appears?",
+        "options": [
+          "Restart the machine by unplugging it",
+          "Hold the MENU button for five seconds",
+          "E-mail the facilities department",
+          "Consult the printed user manual"
+        ],
+        "answer": 2,
+        "explanation": "마지막 단락에서 오류 코드가 표시되면 기계 사용을 멈추고 facilities@hellman-co.com으로 코드를 알려 기술자가 배정되도록 하라고 안내합니다. 따라서 (C)가 정답입니다. MENU 버튼 5초는 세척 사이클 실행 방법입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "VANTAGE TELECOM — EMPLOYEE COMMUTE SURVEY RESULTS\nConducted March 2–13 | Distributed to 480 employees; 384 responses received (80% response rate)\n\nPrimary mode of commuting:\n- Driving alone: 52%\n- Public transit: 24%\n- Carpooling: 11%\n- Cycling or walking: 9%\n- Other: 4%\n\nKey findings: Sixty-one percent of drivers said they would consider switching to public transit if the company subsidized monthly passes. Among cyclists, the most requested improvement was secure indoor bicycle storage, cited by 27 of 35 respondents. Employees commuting more than 45 minutes each way reported the lowest satisfaction with their commute.\n\nRecommendations: The facilities committee recommends (1) negotiating a 30 percent transit pass subsidy with Metro Area Transport beginning in the next fiscal year, (2) converting the unused storage room beside the loading dock into a bicycle room with twenty racks, and (3) expanding the work-from-home option to two days per week for employees with commutes over 45 minutes. The executive board will vote on these recommendations at its May 14 meeting, and results will be announced in the June staff newsletter.",
+    "questions": [
+      {
+        "question": "What was the most common way of getting to work?",
+        "options": [
+          "Taking public transit",
+          "Driving alone",
+          "Carpooling",
+          "Cycling or walking"
+        ],
+        "answer": 1,
+        "explanation": "통근 수단 분포에서 '혼자 운전(Driving alone)'이 52%로 가장 높은 비율을 차지했습니다. 대중교통은 24%, 카풀은 11%, 자전거·도보는 9%이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many employees responded to the survey?",
+        "options": [
+          "27",
+          "35",
+          "384",
+          "480"
+        ],
+        "answer": 2,
+        "explanation": "설문은 480명에게 배포되었고 그중 384명이 응답하여 응답률은 80%였습니다. 따라서 (C)가 정답입니다. 480은 배포 인원, 35는 자전거 통근 응답자 수입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did most cyclists ask for?",
+        "options": [
+          "Shower facilities at the office",
+          "A protected indoor place to keep bicycles",
+          "Reimbursement for bicycle repairs",
+          "More flexible start times"
+        ],
+        "answer": 1,
+        "explanation": "주요 결과에서 자전거 통근자 35명 중 27명이 가장 많이 요청한 개선 사항은 안전한 실내 자전거 보관소(secure indoor bicycle storage)였다고 했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen on May 14?",
+        "options": [
+          "A second survey will be distributed.",
+          "The bicycle room will open.",
+          "The board will vote on the recommendations.",
+          "Transit subsidies will take effect."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 경영진 이사회가 5월 14일 회의에서 권고안에 대해 표결하며, 결과는 6월 사보를 통해 공지된다고 했습니다. 따라서 (C)가 정답입니다. 보조금과 자전거실은 아직 권고 단계일 뿐입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "NORDLUND HOME & KITCHEN — RETURN AND EXCHANGE POLICY\n\nWe want you to be satisfied with every purchase. Most items may be returned within 30 days of the purchase date shown on your receipt for a full refund to the original payment method. Returns made between 31 and 60 days after purchase are eligible for store credit only. No returns are accepted after 60 days.\n\nThe following conditions apply:\n- Items must be unused and in their original packaging. Opened small electric appliances, such as blenders and kettles, may be returned within 14 days only if defective.\n- Clearance items marked with a yellow tag are final sale.\n- Custom-cut window blinds and personalized items cannot be returned unless they arrive damaged.\n- Refunds for purchases made by check are issued after a 10-day waiting period.\n\nOnline orders may be returned by mail or at any Nordlund store. Mail returns require a prepaid label, which can be printed from your account page; a $6.50 processing fee is deducted from mail-in refunds but waived for defective merchandise. Exchanges of the same item in a different color or size are always free of charge.",
+    "questions": [
+      {
+        "question": "What does the policy mainly explain?",
+        "options": [
+          "How to return or exchange purchases",
+          "How to order custom window blinds",
+          "How to open a store credit account",
+          "How to track an online order"
+        ],
+        "answer": 0,
+        "explanation": "이 안내문은 구매 후 기간별 반품 조건(30일 이내 전액 환불, 31~60일 매장 크레딧, 60일 이후 불가)과 품목별 예외, 우편 반품 절차 등 반품·교환 규정을 설명합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What can a customer receive for an item returned 45 days after purchase?",
+        "options": [
+          "A full cash refund",
+          "Store credit",
+          "A replacement product only",
+          "Nothing; returns are not accepted"
+        ],
+        "answer": 1,
+        "explanation": "구매일로부터 31~60일 사이의 반품은 매장 크레딧(store credit)으로만 보상됩니다. 45일은 이 구간에 해당하므로 (B)가 정답입니다. 전액 환불은 30일 이내, 반품 불가는 60일 이후입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is true about clearance items?",
+        "options": [
+          "They can be exchanged for store credit.",
+          "They may be returned within 14 days.",
+          "They cannot be returned.",
+          "They require the original receipt."
+        ],
+        "answer": 2,
+        "explanation": "노란색 태그가 붙은 클리어런스(재고 정리) 상품은 'final sale' 즉 반품이 불가능하다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When is the $6.50 processing fee NOT charged?",
+        "options": [
+          "When the item is defective",
+          "When the return is made within 7 days",
+          "When the customer pays by check",
+          "When the item is exchanged in a store"
+        ],
+        "answer": 0,
+        "explanation": "우편 반품 시 환불액에서 $6.50의 처리 수수료가 공제되지만, 결함이 있는 상품(defective merchandise)의 경우에는 면제된다고 명시되어 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "KESTREL BUSINESS PARK — QUARTERLY MAINTENANCE SCHEDULE\nBuildings A, B, and C | Issued by Property Services, June 1\n\nWeek of June 8: Exterior window washing, Building A (Monday–Tuesday) and Building B (Wednesday–Thursday). Please keep window blinds lowered while crews are on lift platforms.\n\nWeek of June 15: Fire alarm testing in all buildings, Tuesday 10:00 A.M. – 12:00 P.M. Alarms will sound intermittently; no evacuation is required. Tenants expecting clients that morning may reserve the quiet conference suite in Building C at no charge.\n\nWeek of June 22: Parking lot resurfacing, north lot. The lot will be closed Monday through Friday. Permit holders may park in the overflow lot on Brennan Avenue; a shuttle will run every fifteen minutes between 7:00 A.M. and 7:00 P.M.\n\nWeek of June 29: Air-conditioning filter replacement throughout Building C. Technicians will need access to all suites; building management will accompany them, and 48 hours' notice will be given by e-mail before entry.\n\nQuestions about the schedule should be sent to services@kestrelpark.com. Urgent maintenance issues should be reported through the tenant portal as usual.",
+    "questions": [
+      {
+        "question": "What are tenants asked to do during window washing?",
+        "options": [
+          "Keep their blinds lowered",
+          "Park in the overflow lot",
+          "Vacate their offices",
+          "Close all interior doors"
+        ],
+        "answer": 0,
+        "explanation": "6월 8일 주의 외부 창문 청소 안내에서 작업자가 리프트 위에 있는 동안 블라인드를 내려 두라고 요청하고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the fire alarm testing?",
+        "options": [
+          "Tenants must evacuate the buildings.",
+          "It will take place over two days.",
+          "Evacuation will not be necessary.",
+          "It is limited to Building C."
+        ],
+        "answer": 2,
+        "explanation": "6월 15일 주 화요일 오전의 화재경보 테스트 중 경보가 간헐적으로 울리지만 대피는 필요 없다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 테스트는 전체 건물에서 화요일 하루 동안 진행됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can permit holders reach their offices during the week of June 22?",
+        "options": [
+          "By parking in the Building C garage",
+          "By taking a shuttle from another lot",
+          "By using a temporary entrance",
+          "By working remotely all week"
+        ],
+        "answer": 1,
+        "explanation": "북쪽 주차장 재포장으로 주차장이 닫히는 동안 주차권 소지자는 Brennan Avenue의 보조 주차장을 이용할 수 있고, 오전 7시부터 오후 7시까지 15분 간격으로 셔틀이 운행됩니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen before technicians enter suites in Building C?",
+        "options": [
+          "Tenants will receive 48 hours' notice.",
+          "Tenants must sign a consent form.",
+          "Suites will be inspected by the fire department.",
+          "Keys will be collected by property services."
+        ],
+        "answer": 0,
+        "explanation": "6월 29일 주의 에어컨 필터 교체 시 기술자들이 모든 사무실에 출입해야 하며, 출입 48시간 전에 이메일로 통지하고 건물 관리자가 동행한다고 안내되어 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "GRAND OPENING WEEK — VELLORE FARMERS MARKET PAVILION\nNotice to Vendors | Posted by the Market Association, April 10\n\nThe new covered pavilion at Vellore Farmers Market opens Saturday, May 2. Vendors should review the following information before opening day.\n\nStall assignments: Assignments were e-mailed on April 8. Vendors who did not receive theirs should contact the association office. Corner stalls, which receive the most foot traffic, were allocated by seniority; a waiting list for future seasons is available.\n\nSetup and parking: The pavilion opens to vendors at 6:00 A.M. Vehicles must be unloaded and moved to the gravel lot behind the grain barn by 7:30 A.M. Vehicles remaining in the loading zone after that time will delay the 8:00 A.M. public opening and may result in a $40 fine.\n\nFees: The weekly stall fee is $35 for a standard stall and $50 for a corner stall, payable through the vendor portal by Thursday evening each week. Vendors who pay for the entire eight-week spring season in advance receive one week free.\n\nElectricity is available at stalls 1–12 only; vendors requiring refrigeration should request these stalls in writing. A vendor meeting will be held April 24 at 7:00 P.M. in the Grange Hall.",
+    "questions": [
+      {
+        "question": "Why was the notice posted?",
+        "options": [
+          "To prepare vendors for a new facility's opening",
+          "To announce an increase in stall fees",
+          "To recruit new vendors for the market",
+          "To explain a change in market ownership"
+        ],
+        "answer": 0,
+        "explanation": "이 공지는 5월 2일에 문을 여는 새 파빌리온 개장에 앞서 판매자들이 알아야 할 자리 배정, 준비·주차 규정, 요금 등을 안내하기 위한 것입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How were corner stalls assigned?",
+        "options": [
+          "By a random drawing",
+          "By how long vendors have participated",
+          "By the size of each vendor's products",
+          "By the order of fee payment"
+        ],
+        "answer": 1,
+        "explanation": "유동 인구가 가장 많은 코너 자리는 연공(seniority), 즉 참여 기간이 긴 판매자 순으로 배정되었다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 향후 시즌을 위한 대기자 명단도 운영됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much would a standard-stall vendor pay for the spring season by paying in advance?",
+        "options": [
+          "$210",
+          "$245",
+          "$280",
+          "$350"
+        ],
+        "answer": 1,
+        "explanation": "봄 시즌은 8주이고 일반 자리 주당 요금은 $35입니다. 시즌 전체를 선납하면 1주가 무료이므로 7주분만 내면 됩니다. $35 × 7 = $245이므로 (B)가 정답입니다. $280은 할인 없이 8주를 계산한 값입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What should vendors needing refrigeration do?",
+        "options": [
+          "Bring their own generators",
+          "Request stalls 1 through 12 in writing",
+          "Pay an additional electricity fee",
+          "Attend the April 24 meeting"
+        ],
+        "answer": 1,
+        "explanation": "전기는 1~12번 자리에서만 사용할 수 있으므로 냉장 설비가 필요한 판매자는 해당 자리를 서면으로 신청해야 한다고 안내합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "SERVICE RECEIPT — RAPID ROAD AUTO CARE\n88 Telford Avenue | Receipt No. M-7741\nCustomer: Mr. Felix Aguda | Vehicle: 2019 sedan, license TRX-2210\nDate of service: February 9 | Service advisor: Ines Kovac\n\nFull synthetic oil change — $74.00\nTire rotation — $25.00\nCabin air filter replacement — $32.00\nMulti-point inspection — no charge\nSubtotal — $131.00\nWinter maintenance package discount (combining all three services) — –$20.00\nTotal before tax — $111.00\nTax (6%) — $6.66\nAmount charged — $117.66\n\nTechnician's notes: Front brake pads are at approximately 30 percent and should be replaced within the next 5,000 kilometers. An estimate of $180 for parts and labor was provided; the customer declined the repair today and asked to be contacted in April. Next recommended oil change: August 9 or 8,000 kilometers, whichever comes first.\n\nAll parts installed carry a 12-month warranty. Present this receipt to receive 10 percent off your next visit if you return within six months.",
+    "questions": [
+      {
+        "question": "Why did Mr. Aguda receive a $20 discount?",
+        "options": [
+          "He was a first-time customer.",
+          "He combined three services in one visit.",
+          "He presented a previous receipt.",
+          "He paid in cash."
+        ],
+        "answer": 1,
+        "explanation": "할인 항목에 'Winter maintenance package discount (combining all three services)'라고 적혀 있어, 오일 교환·타이어 로테이션·필터 교체 세 가지 서비스를 함께 받아 패키지 할인 $20가 적용되었음을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What did Mr. Aguda decide about the brake pads?",
+        "options": [
+          "To have them replaced immediately",
+          "To get a second opinion elsewhere",
+          "To postpone the repair for now",
+          "To order the parts himself"
+        ],
+        "answer": 2,
+        "explanation": "기술자 메모에 앞 브레이크 패드 잔량이 약 30%여서 교체 견적($180)을 제시했으나 고객이 당일 수리를 거절하고 4월에 연락해 달라고 요청했다고 기록되어 있습니다. 따라서 수리를 미루기로 한 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By when should Mr. Aguda return to get a discount on his next visit?",
+        "options": [
+          "By April 9",
+          "By August 9",
+          "By February 9 of next year",
+          "By the end of February"
+        ],
+        "answer": 1,
+        "explanation": "영수증 하단에 6개월 이내에 재방문하면서 이 영수증을 제시하면 다음 방문 시 10% 할인을 받을 수 있다고 했습니다. 서비스 날짜가 2월 9일이므로 6개월 후인 8월 9일까지 방문해야 합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about the multi-point inspection?",
+        "options": [
+          "It was performed for free.",
+          "It cost $25.00.",
+          "It must be scheduled separately.",
+          "It is covered by a warranty."
+        ],
+        "answer": 0,
+        "explanation": "명세 항목에서 다점검(multi-point inspection)은 'no charge', 즉 무료로 제공되었다고 표기되어 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "STAFF NOTICE — HOLIDAY SHIPPING DEADLINES\nFrom: Operations Department, Calloway Gift Baskets\nPosted: November 20\n\nTo guarantee delivery before December 25, customer orders must be placed by the dates below. Please share these deadlines with customers when taking phone orders.\n\nStandard ground shipping: order by December 12\nExpedited two-day shipping: order by December 19, 3:00 P.M.\nOvernight shipping: order by December 22, noon (not available for rural routes)\nLocal courier delivery (within 25 km of the workshop): order by December 23\n\nOrders received after these cutoffs will still be processed but cannot be guaranteed for holiday arrival, and customers must be told this clearly at the time of purchase. Note that expedited and overnight orders placed after December 15 incur a $7 peak-season surcharge, which is waived for orders over $100.\n\nThe packing team will work extended hours from December 8, and temporary staff will join the workshop on December 10. Department leads should submit holiday staffing rosters to Marta Iglesias by November 28. The workshop will close at 2:00 P.M. on December 24 and reopen January 2.",
+    "questions": [
+      {
+        "question": "What is the latest date to order with standard shipping for holiday delivery?",
+        "options": [
+          "December 12",
+          "December 19",
+          "December 22",
+          "December 23"
+        ],
+        "answer": 0,
+        "explanation": "표준 지상 배송으로 12월 25일 전 도착을 보장받으려면 12월 12일까지 주문해야 한다고 명시되어 있습니다. 따라서 (A)가 정답입니다. 12월 19일은 2일 배송, 22일은 익일 배송, 23일은 지역 택배의 마감일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When would a customer NOT pay the $7 surcharge on an expedited order?",
+        "options": [
+          "When the order is placed by phone",
+          "When the order totals more than $100",
+          "When the order is shipped to a rural route",
+          "When the order is placed before noon"
+        ],
+        "answer": 1,
+        "explanation": "12월 15일 이후의 특급·익일 배송 주문에는 성수기 추가 요금 $7가 부과되지만, 주문 금액이 $100를 초과하면 면제된다고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What are employees asked to tell customers about late orders?",
+        "options": [
+          "That they will be canceled automatically",
+          "That holiday arrival cannot be guaranteed",
+          "That they qualify for free shipping",
+          "That they will ship in January"
+        ],
+        "answer": 1,
+        "explanation": "마감일 이후 접수된 주문도 처리는 되지만 연휴 전 도착은 보장할 수 없으며, 구매 시점에 고객에게 이를 분명히 알려야 한다고 지시하고 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should department leads do by November 28?",
+        "options": [
+          "Hire temporary packing staff",
+          "Submit staffing schedules to Ms. Iglesias",
+          "Begin working extended hours",
+          "Update the shipping rate chart"
+        ],
+        "answer": 1,
+        "explanation": "공지 마지막 부분에서 부서장들은 11월 28일까지 연휴 근무 인원표(staffing rosters)를 Marta Iglesias에게 제출하라고 했습니다. 따라서 (B)가 정답입니다. 연장 근무는 12월 8일부터, 임시 직원 합류는 12월 10일입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "RIVERSIDE PERFORMING ARTS CENTER\nSpring Volunteer Usher Schedule — Posted March 25\n\nVolunteers must arrive 75 minutes before curtain time and check in with the house manager, Omar Sayed. Dress code: black trousers, white shirt, and the center-issued vest.\n\nFriday, April 3, 7:30 P.M. — \"The Glass Orchard\" (drama): Ushers needed: 6. Assigned: P. Mehta, K. Aldana, R. Foss, J. Whitfield, S. Cho, B. Ennis\nSaturday, April 11, 2:00 P.M. — Youth Ballet Showcase: Ushers needed: 8. Assigned: 5 confirmed; 3 positions open\nFriday, April 17, 8:00 P.M. — Marisol Vega Jazz Quartet: Ushers needed: 4. Assigned: full\nSunday, April 26, 3:00 P.M. — Community Orchestra: Ushers needed: 6. Assigned: 4 confirmed; 2 positions open\n\nVolunteers who complete four events during the spring season receive two complimentary tickets to any summer performance. To claim an open position, e-mail volunteer@riversidepac.org at least five days before the event; assignments are confirmed in the order requests are received. Volunteers who cancel within 48 hours of an event more than once may be removed from the spring roster.",
+    "questions": [
+      {
+        "question": "What time should ushers arrive for the April 17 performance?",
+        "options": [
+          "At 6:00 P.M.",
+          "At 6:45 P.M.",
+          "At 7:15 P.M.",
+          "At 8:00 P.M."
+        ],
+        "answer": 1,
+        "explanation": "자원봉사자는 공연 시작 75분 전에 도착해야 합니다. 4월 17일 공연은 오후 8시에 시작하므로 8:00에서 75분(1시간 15분)을 빼면 6시 45분입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which event still needs the most volunteers?",
+        "options": [
+          "\"The Glass Orchard\"",
+          "The Youth Ballet Showcase",
+          "The Marisol Vega Jazz Quartet",
+          "The Community Orchestra"
+        ],
+        "answer": 1,
+        "explanation": "4월 11일 유스 발레 쇼케이스는 8명이 필요하지만 5명만 확정되어 3자리가 비어 있습니다. 커뮤니티 오케스트라는 2자리, 나머지 두 공연은 인원이 모두 찼으므로 가장 많은 인원이 필요한 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How can a volunteer claim an open position?",
+        "options": [
+          "By calling the house manager",
+          "By signing a sheet in the lobby",
+          "By sending an e-mail at least five days ahead",
+          "By arriving early on the day of the event"
+        ],
+        "answer": 2,
+        "explanation": "빈자리를 신청하려면 행사 최소 5일 전에 volunteer@riversidepac.org로 이메일을 보내야 하며, 신청 순서대로 배정이 확정된다고 안내되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is offered to volunteers who work four spring events?",
+        "options": [
+          "A center-issued vest",
+          "Two free tickets to a summer show",
+          "A paid position at the center",
+          "Reserved parking for the season"
+        ],
+        "answer": 1,
+        "explanation": "봄 시즌 동안 4개 행사를 완수한 자원봉사자는 여름 공연 아무 작품에나 쓸 수 있는 무료 티켓 2장을 받는다고 명시되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "DOVER STREET DENTAL CLINIC — NEW PATIENT REGISTRATION SUMMARY\nCompleted online: September 3 | Confirmation No. NP-0917\n\nPatient name: Lucia Ferraro\nPreferred contact method: mobile phone (text message)\nReason for visit: routine cleaning and checkup; patient also noted occasional sensitivity in a lower left tooth when drinking cold beverages\nLast dental visit: approximately three years ago, at a clinic that has since closed; records unavailable\nInsurance: BlueRock Dental Plan, member ID 442-871; coverage verified September 4 by front office\n\nAppointment: Tuesday, September 16, 9:30 A.M., with Dr. Hannah Osei\nPlease arrive 15 minutes early to complete a brief medical history form. Bring a photo ID and your insurance card. Because no previous records are available, a full set of X-rays will be taken at the first visit; BlueRock covers X-rays once every 24 months at no cost to the patient.\n\nCancellation policy: Appointments canceled with less than 24 hours' notice are subject to a $30 fee. To reschedule, reply to the confirmation text or call 555-0124. New patients receive a complimentary care kit at their first appointment.",
+    "questions": [
+      {
+        "question": "Why is Ms. Ferraro visiting the clinic?",
+        "options": [
+          "To have a tooth removed",
+          "To get a cleaning and a checkup",
+          "To pick up her dental records",
+          "To replace a lost filling"
+        ],
+        "answer": 1,
+        "explanation": "방문 사유 항목에 정기 스케일링과 검진(routine cleaning and checkup)이라고 적혀 있으며, 찬 음료를 마실 때 왼쪽 아래 치아가 가끔 시리다는 내용도 함께 기재되어 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why will a full set of X-rays be taken?",
+        "options": [
+          "The patient requested them.",
+          "Her previous records cannot be obtained.",
+          "Her insurance requires annual X-rays.",
+          "Dr. Osei suspects a serious problem."
+        ],
+        "answer": 1,
+        "explanation": "이전에 다니던 치과가 폐업하여 진료 기록을 구할 수 없기 때문에 첫 방문 때 전체 엑스레이를 촬영한다고 안내되어 있습니다. 따라서 (B)가 정답입니다. 보험은 24개월에 한 번 엑스레이 비용을 전액 부담합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What time should Ms. Ferraro arrive on September 16?",
+        "options": [
+          "At 9:00 A.M.",
+          "At 9:15 A.M.",
+          "At 9:30 A.M.",
+          "At 9:45 A.M."
+        ],
+        "answer": 1,
+        "explanation": "예약은 오전 9시 30분이며, 간단한 병력 양식을 작성하기 위해 15분 일찍 도착하라고 안내합니다. 따라서 9시 15분에 도착해야 하므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is mentioned about the cancellation policy?",
+        "options": [
+          "Cancellations must be made in person.",
+          "A fee applies to late cancellations.",
+          "Appointments may be rescheduled only once.",
+          "A deposit is required for new patients."
+        ],
+        "answer": 1,
+        "explanation": "취소 규정에 따르면 예약 24시간 전 이내에 취소하면 $30의 수수료가 부과됩니다. 따라서 (B)가 정답입니다. 일정 변경은 문자 회신이나 전화로 가능하며, 보증금이나 횟수 제한은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  }
+]

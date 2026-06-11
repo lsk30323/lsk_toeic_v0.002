@@ -1,0 +1,866 @@
+[
+  {
+    "passageType": "text-message-chain",
+    "passage": "Marisol Vega (9:14 A.M.): Team, the wedding reception at Harborview Hall starts at 6 P.M. The client just added 20 guests, so we now need 170 place settings.\nDerek Onu (9:16 A.M.): That's a big jump. We only loaded 150 dinner plates onto the van this morning.\nMarisol Vega (9:17 A.M.): Can you swing by the commissary on your way? There are spare plates in the back storeroom.\nDerek Onu (9:19 A.M.): I'm already on Route 9 with the chafing dishes. Turning around would add an hour.\nPriya Shah (9:21 A.M.): I haven't left yet. I can grab the plates plus extra napkins and glassware.\nMarisol Vega (9:22 A.M.): Perfect. Priya, take the small van. Derek, keep heading to the venue and start setting up the buffet line.\nDerek Onu (9:24 A.M.): Will do. What about the extra food? Chef Lin needs to know the new headcount.\nMarisol Vega (9:25 A.M.): I already called her. She's adding two more trays of the salmon and one vegetarian option.\nPriya Shah (9:27 A.M.): On it. I should reach the hall by 11:30.",
+    "questions": [
+      {
+        "question": "Why did Ms. Vega contact her team?",
+        "options": [
+          "To announce a change in the number of guests at an event",
+          "To reschedule a wedding reception to a later date",
+          "To report that a delivery van had broken down",
+          "To ask the team to prepare a cost estimate for a client"
+        ],
+        "answer": 0,
+        "explanation": "9시 14분 메시지에서 Ms. Vega는 \"The client just added 20 guests, so we now need 170 place settings\"라고 하며 손님 수가 늘어났음을 팀에 알리고 있습니다. 행사 날짜 변경, 차량 고장, 견적 요청에 대한 언급은 없으므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 9:19 A.M., what does Mr. Onu most likely mean when he writes, \"Turning around would add an hour\"?",
+        "options": [
+          "He thinks the event should be delayed by an hour.",
+          "He is reluctant to go back to the commissary himself.",
+          "He believes the storeroom will be closed for an hour.",
+          "He expects heavy traffic near the venue."
+        ],
+        "answer": 1,
+        "explanation": "Ms. Vega가 식당 비품 창고(commissary)에 들러 접시를 가져올 수 있는지 묻자, Mr. Onu는 이미 Route 9에 있어서 되돌아가면 한 시간이 더 걸린다고 답합니다. 이는 자신이 돌아가는 것이 비효율적이라 내키지 않는다는 의미이므로 (B)가 정답입니다. 행사 지연이나 교통 체증, 창고 폐쇄에 대한 의미가 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will Ms. Shah most likely do next?",
+        "options": [
+          "Call Chef Lin about the menu",
+          "Begin setting up the buffet line",
+          "Pick up additional tableware in the small van",
+          "Contact the client about the guest list"
+        ],
+        "answer": 2,
+        "explanation": "Ms. Shah는 9시 21분에 아직 출발하지 않았다며 접시와 냅킨, 유리잔을 가져갈 수 있다고 했고, Ms. Vega가 작은 밴을 이용하라고 지시하자 \"On it\"이라고 답했습니다. 따라서 추가 식기류를 가지러 가는 (C)가 정답입니다. 셰프에게 연락하는 일은 Ms. Vega가 이미 했고, 뷔페 설치는 Mr. Onu의 일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Chef Lin?",
+        "options": [
+          "She will arrive at Harborview Hall at 11:30.",
+          "She has been informed of the updated headcount.",
+          "She is driving the van with the chafing dishes.",
+          "She asked for additional kitchen staff."
+        ],
+        "answer": 1,
+        "explanation": "9시 25분에 Ms. Vega가 \"I already called her\"라고 하며 Chef Lin이 연어 트레이 두 개와 채식 메뉴 하나를 추가할 것이라고 말합니다. 즉, 변경된 인원수를 이미 전달받았다는 것을 알 수 있으므로 (B)가 정답입니다. 11시 30분 도착 예정인 사람은 Ms. Shah이고, 보온 용기를 운반하는 사람은 Mr. Onu입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Tomás Rivera (2:02 P.M.): Quick update from the corporate luncheon at Fenwick Tower. The freight elevator is out of service, and we still have six carts of dessert stations downstairs.\nHannah Cole (2:04 P.M.): Out of service? The event resumes at 3 P.M. sharp after the keynote.\nTomás Rivera (2:05 P.M.): Building maintenance says forty-five minutes at least. The passenger elevators are too small for the carts.\nGreg Fontaine (2:07 P.M.): Could we unload the carts and carry trays up by hand? It's only the fourth floor.\nHannah Cole (2:08 P.M.): With six carts? We'd need every pair of hands we have.\nTomás Rivera (2:10 P.M.): The servers are still resetting the tables. I can spare two people at most.\nGreg Fontaine (2:11 P.M.): I'm parking the second van now. Give me five minutes and you'll have three more.\nHannah Cole (2:13 P.M.): Do it. Tomás, prioritize the chilled items—the mousse cups can't sit in the loading dock.\nTomás Rivera (2:14 P.M.): Understood. We'll run the stairwell relay and have everything plated by 2:50.",
+    "questions": [
+      {
+        "question": "What problem does Mr. Rivera report?",
+        "options": [
+          "A keynote speech has been canceled.",
+          "Some dessert items were left at the kitchen.",
+          "A freight elevator cannot be used.",
+          "A delivery van has not arrived."
+        ],
+        "answer": 2,
+        "explanation": "2시 2분 메시지에서 Mr. Rivera는 \"The freight elevator is out of service\"라고 하며 화물 엘리베이터가 고장 나 디저트 카트 여섯 대가 아래층에 있다고 보고합니다. 따라서 (C)가 정답입니다. 기조연설 취소나 밴 미도착 문제는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 2:08 P.M., what does Ms. Cole most likely mean when she writes, \"With six carts?\"?",
+        "options": [
+          "She doubts the team has enough people for the plan.",
+          "She thinks fewer carts should have been ordered.",
+          "She believes six carts will fit in the passenger elevator.",
+          "She wants to know where the carts are stored."
+        ],
+        "answer": 0,
+        "explanation": "Mr. Fontaine이 카트에서 짐을 내려 손으로 트레이를 옮기자고 제안하자, Ms. Cole은 \"With six carts? We'd need every pair of hands we have.\"라고 답합니다. 카트 여섯 대 분량을 손으로 옮기려면 모든 인력이 필요하다는 뜻으로, 인력이 충분할지 의문을 표하는 것입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Fontaine offer to do?",
+        "options": [
+          "Repair the freight elevator",
+          "Provide three additional helpers shortly",
+          "Postpone the dessert service until 4 P.M.",
+          "Move the mousse cups into a refrigerator"
+        ],
+        "answer": 1,
+        "explanation": "2시 11분에 Mr. Fontaine은 두 번째 밴을 주차하는 중이며 5분만 주면 세 명을 더 보내 주겠다(\"Give me five minutes and you'll have three more\")고 제안합니다. 따라서 (B)가 정답입니다. 엘리베이터 수리, 서비스 연기, 냉장 보관은 그의 제안이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the chilled desserts?",
+        "options": [
+          "They were damaged during transport.",
+          "They will be served during the keynote.",
+          "They should be moved before the other items.",
+          "They are stored on the fourth floor."
+        ],
+        "answer": 2,
+        "explanation": "2시 13분에 Ms. Cole이 \"prioritize the chilled items—the mousse cups can't sit in the loading dock\"이라고 지시합니다. 즉, 차가운 디저트류를 다른 품목보다 먼저 옮겨야 한다는 의미이므로 (C)가 정답입니다. 디저트가 파손되었다거나 4층에 보관 중이라는 내용은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Vera Lindqvist (7:31 A.M.): Moving day, everyone! Movers from Brightway Relocation arrive at our old office at 8 A.M. Please confirm your floor assignments.\nSam Okafor (7:33 A.M.): I'm covering the third floor. All the marketing department's crates are labeled and sealed.\nJulia Pratt (7:34 A.M.): Second floor here. One issue—the design team left two monitors unpacked on their desks.\nVera Lindqvist (7:36 A.M.): They were told everything had to be in crates by Friday.\nJulia Pratt (7:37 A.M.): I know. Should I find boxes for them, or do the monitors stay behind?\nVera Lindqvist (7:39 A.M.): There should be padded electronics boxes left over in the supply room on your floor. Use those.\nSam Okafor (7:41 A.M.): Heads-up: the loading dock at the new building on Carver Street is shared with two other tenants. We only have it booked from 9 to 12.\nVera Lindqvist (7:42 A.M.): Right, which is why the trucks must leave here by 8:45. Julia, can you make that?\nJulia Pratt (7:44 A.M.): If the boxes are where you say they are, no problem.\nVera Lindqvist (7:45 A.M.): They are. I put them there myself on Thursday.",
+    "questions": [
+      {
+        "question": "What is the purpose of the message chain?",
+        "options": [
+          "To coordinate tasks on an office relocation day",
+          "To order new monitors for the design team",
+          "To complain about a moving company's fees",
+          "To schedule a tour of a building on Carver Street"
+        ],
+        "answer": 0,
+        "explanation": "첫 메시지에서 Ms. Lindqvist가 \"Moving day, everyone!\"이라며 이사 업체 도착 시간과 층별 담당을 확인하고, 이후 포장 문제와 트럭 출발 시간 등을 조율합니다. 사무실 이전 당일의 업무를 조율하는 대화이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What problem does Ms. Pratt mention?",
+        "options": [
+          "The movers have arrived earlier than expected.",
+          "Some equipment has not been packed.",
+          "A supply room is locked.",
+          "Several crates are missing labels."
+        ],
+        "answer": 1,
+        "explanation": "7시 34분에 Ms. Pratt은 디자인 팀이 모니터 두 대를 포장하지 않은 채 책상에 두고 갔다(\"left two monitors unpacked on their desks\")고 보고합니다. 따라서 (B)가 정답입니다. 이사 업체의 조기 도착, 잠긴 비품실, 라벨 누락은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why must the trucks leave by 8:45 A.M.?",
+        "options": [
+          "The movers charge extra after 9 A.M.",
+          "A street will be closed to traffic at noon.",
+          "The loading dock reservation is limited to certain hours.",
+          "The old building must be vacated by 9 A.M."
+        ],
+        "answer": 2,
+        "explanation": "7시 41분에 Mr. Okafor가 새 건물의 하역장은 다른 입주사 둘과 공유하며 9시부터 12시까지만 예약되어 있다고 알리자, Ms. Lindqvist가 \"which is why the trucks must leave here by 8:45\"라고 답합니다. 하역장 예약 시간이 제한되어 있기 때문이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 7:45 A.M., what does Ms. Lindqvist most likely mean when she writes, \"I put them there myself on Thursday\"?",
+        "options": [
+          "She is certain the packing boxes are available.",
+          "She moved the monitors to the new office already.",
+          "She thinks Ms. Pratt should have packed earlier.",
+          "She wants the supply room reorganized."
+        ],
+        "answer": 0,
+        "explanation": "Ms. Pratt이 \"If the boxes are where you say they are, no problem\"이라고 조건을 달자, Ms. Lindqvist는 자신이 목요일에 직접 상자를 가져다 두었다고 답합니다. 이는 상자가 그 자리에 확실히 있으니 걱정하지 말라는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Noah Berger (10:05 A.M.): Status check, everyone. The server racks are on the truck, but I can't find the box with the network cables.\nFatima El-Sayed (10:07 A.M.): It should be in the cage with the rest of the IT equipment. Blue tape, labeled NET-04.\nNoah Berger (10:09 A.M.): The cage has NET-01 through NET-03. No NET-04.\nLena Wojcik (10:11 A.M.): Check the reception desk. Facilities was using that box to prop the door open this morning.\nNoah Berger (10:13 A.M.): Unbelievable. Found it. Loading it now.\nFatima El-Sayed (10:14 A.M.): Good. Remember, IT goes on the first truck. We need the network up at the new place before anyone else unpacks.\nLena Wojcik (10:16 A.M.): Speaking of which, the internet provider confirmed a technician for 1 P.M. at the new office. Someone has to be there to let them in.\nFatima El-Sayed (10:17 A.M.): I'll head over at noon. Noah, ride with the first truck and start racking the servers when you arrive.\nNoah Berger (10:19 A.M.): Got it. Truck should roll out within twenty minutes.",
+    "questions": [
+      {
+        "question": "What was Mr. Berger initially unable to locate?",
+        "options": [
+          "A truck driver",
+          "A container of cables",
+          "A list of floor assignments",
+          "A set of server racks"
+        ],
+        "answer": 1,
+        "explanation": "10시 5분 메시지에서 Mr. Berger는 \"I can't find the box with the network cables\"라고 하며 네트워크 케이블 상자를 찾지 못하고 있다고 말합니다. 서버 랙은 이미 트럭에 실려 있다고 했으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 10:13 A.M., what does Mr. Berger most likely mean when he writes, \"Unbelievable\"?",
+        "options": [
+          "He is amazed by how quickly the trucks were loaded.",
+          "He cannot believe the technician is arriving at 1 P.M.",
+          "He is annoyed about how the box was being used.",
+          "He doubts that the box is labeled correctly."
+        ],
+        "answer": 2,
+        "explanation": "Ms. Wojcik이 시설팀이 그 상자를 문 고정용으로 쓰고 있었다고 알려 주자, Mr. Berger는 \"Unbelievable. Found it.\"이라고 답합니다. 중요한 장비 상자가 문 받침대로 쓰이고 있었다는 사실에 어이없어하는(짜증 섞인) 반응이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why should the IT equipment be transported first?",
+        "options": [
+          "It is the heaviest cargo to load.",
+          "The network must be working before others unpack.",
+          "The first truck is the only one with padding.",
+          "The equipment lease expires at noon."
+        ],
+        "answer": 1,
+        "explanation": "10시 14분에 Ms. El-Sayed가 \"IT goes on the first truck. We need the network up at the new place before anyone else unpacks.\"라고 말합니다. 다른 직원들이 짐을 풀기 전에 네트워크가 작동해야 하기 때문이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will Ms. El-Sayed do at noon?",
+        "options": [
+          "Go to the new office to meet a technician",
+          "Ride in the first truck with Mr. Berger",
+          "Call the internet provider to reschedule",
+          "Prop open the door at the reception desk"
+        ],
+        "answer": 0,
+        "explanation": "인터넷 기사가 오후 1시에 새 사무실에 오기로 했고 누군가 문을 열어 줘야 한다는 말에, Ms. El-Sayed는 10시 17분에 \"I'll head over at noon\"이라고 답합니다. 기사를 맞이하러 정오에 새 사무실로 가는 것이므로 (A)가 정답입니다. 트럭에 동승하여 서버를 설치하는 사람은 Mr. Berger입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Owen McNally (8:12 A.M.): Morning, AV crew. Sound check for the Delmore Conference main stage is at 9. The keynote speaker's slides just arrived—forty minutes late.\nRachel Iwu (8:14 A.M.): Loading them onto the playback laptop now. Heads-up: the file is 4K video heavy. Our backup laptop can't handle that resolution.\nOwen McNally (8:15 A.M.): Then the primary laptop cannot fail. Did you test the spare HDMI run to the projector?\nRachel Iwu (8:17 A.M.): Yesterday, yes. Both lines are live.\nDietrich Mann (8:19 A.M.): Problem in Breakout Room B. One of the wireless microphone receivers is picking up interference—a buzzing every few seconds.\nOwen McNally (8:21 A.M.): Swap frequencies with the spare channel. The frequency chart is taped inside the rack.\nDietrich Mann (8:24 A.M.): Tried that. The buzz follows the receiver, not the channel.\nOwen McNally (8:26 A.M.): Then pull the unit from Room D. That session doesn't begin until 1 P.M., and the rental house can courier a replacement by noon.\nDietrich Mann (8:27 A.M.): Swapping now. I'll call the rental house right after.\nRachel Iwu (8:29 A.M.): Slides loaded and playing smoothly. See everyone at the stage at 8:45.",
+    "questions": [
+      {
+        "question": "Where do the writers most likely work?",
+        "options": [
+          "At a television studio",
+          "At an audiovisual support team for a conference",
+          "At a computer repair shop",
+          "At a musical instrument rental company"
+        ],
+        "answer": 1,
+        "explanation": "첫 메시지의 \"AV crew\", \"Sound check for the Delmore Conference main stage\", 무선 마이크와 프로젝터 관련 대화 등을 통해 이들이 컨퍼런스의 음향·영상(AV) 지원 팀임을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the backup laptop?",
+        "options": [
+          "It is unable to play high-resolution video.",
+          "It was sent to the rental house for repair.",
+          "It is currently in Breakout Room B.",
+          "It arrived forty minutes late."
+        ],
+        "answer": 0,
+        "explanation": "8시 14분에 Ms. Iwu가 발표 파일에 4K 영상이 많은데 \"Our backup laptop can't handle that resolution\"이라고 말합니다. 예비 노트북이 고해상도 영상을 재생할 수 없다는 의미이므로 (A)가 정답입니다. 40분 늦게 도착한 것은 발표 슬라이드입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 8:24 A.M., what does Mr. Mann most likely mean when he writes, \"The buzz follows the receiver, not the channel\"?",
+        "options": [
+          "The interference is caused by the faulty equipment itself.",
+          "The buzzing sound can only be heard near the stage.",
+          "The frequency chart in the rack is outdated.",
+          "The microphone works on every channel he tested."
+        ],
+        "answer": 0,
+        "explanation": "주파수를 바꿔 보라는 지시에 Mr. Mann은 이미 시도했으며 잡음이 채널이 아니라 수신기를 따라다닌다고 답합니다. 즉, 주파수 간섭이 아니라 수신기 장비 자체의 결함이 원인이라는 뜻이므로 (A)가 정답입니다. 그래서 Mr. McNally가 Room D의 장비로 교체하라고 지시한 것입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why is it acceptable to take equipment from Room D?",
+        "options": [
+          "The room has two spare receivers.",
+          "The session there was canceled.",
+          "No session is scheduled there until the afternoon.",
+          "The room is being used for storage."
+        ],
+        "answer": 2,
+        "explanation": "8시 26분에 Mr. McNally는 Room D의 장비를 빼서 쓰라고 하면서 \"That session doesn't begin until 1 P.M.\"이라고 이유를 설명합니다. 그 방의 세션이 오후 1시에야 시작하고, 정오까지 대여 업체가 대체 장비를 보내 줄 수 있기 때문입니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Camille Roy (4:40 P.M.): Team, the panel discussion in Hall 2 is running fifteen minutes over. The product launch in the same hall is scheduled for 5:30.\nJae-won Park (4:42 P.M.): The launch needs a full stage reset—podium out, demo tables in, plus the lighting preset change. That's normally a forty-minute job.\nCamille Roy (4:43 P.M.): We'll have twenty-five at best.\nJae-won Park (4:45 P.M.): If Theo helps me, we can pre-rig the demo tables backstage now and roll them on in one go.\nTheo Brandt (4:46 P.M.): I'm finishing cable teardown in Hall 1. Give me ten minutes.\nCamille Roy (4:48 P.M.): What about lighting? Min-ji programmed the launch preset, but she's gone home sick.\nJae-won Park (4:50 P.M.): She saved everything to the console. I watched her do it. One button.\nCamille Roy (4:51 P.M.): That's a relief. Theo, when you get here, take the stage-left side. I'll ask the panel moderator to wrap up by 5:05.\nTheo Brandt (4:53 P.M.): Copy. Rolling my cart over now.",
+    "questions": [
+      {
+        "question": "What problem does Ms. Roy describe?",
+        "options": [
+          "A product demonstration was canceled.",
+          "A speaker has not arrived at Hall 2.",
+          "An ongoing event is reducing the available setup time.",
+          "A lighting console has stopped working."
+        ],
+        "answer": 2,
+        "explanation": "4시 40분 메시지에서 패널 토론이 15분 초과 진행 중이고 같은 홀에서 5시 30분에 제품 출시 행사가 예정되어 있다고 알립니다. 이후 \"We'll have twenty-five at best\"라며 무대 전환 시간이 부족함을 말하므로, 진행 중인 행사 때문에 준비 시간이 줄어든다는 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Park suggest?",
+        "options": [
+          "Assembling some equipment in advance backstage",
+          "Moving the product launch to Hall 1",
+          "Asking Min-ji to return to the venue",
+          "Canceling the lighting preset change"
+        ],
+        "answer": 0,
+        "explanation": "4시 45분에 Mr. Park은 Theo가 도와주면 \"we can pre-rig the demo tables backstage now and roll them on in one go\"라고 제안합니다. 시연 테이블을 무대 뒤에서 미리 설치해 두었다가 한 번에 옮기자는 것이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 4:50 P.M., what does Mr. Park most likely mean when he writes, \"One button\"?",
+        "options": [
+          "A console button needs to be repaired before 5:30.",
+          "Applying the lighting settings will be very simple.",
+          "Only one lighting fixture is working in Hall 2.",
+          "Min-ji must press the button herself."
+        ],
+        "answer": 1,
+        "explanation": "조명 담당자인 Min-ji가 아파서 퇴근했다는 걱정에, Mr. Park은 그녀가 모든 설정을 콘솔에 저장해 두었고 자신이 그 과정을 지켜봤다며 \"One button\"이라고 말합니다. 버튼 하나만 누르면 조명 프리셋이 적용될 만큼 간단하다는 의미이므로 (B)가 정답입니다. 그래서 Ms. Roy가 \"That's a relief\"라고 안도한 것입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will Ms. Roy most likely do next?",
+        "options": [
+          "Program a new lighting preset",
+          "Help Mr. Brandt tear down cables in Hall 1",
+          "Speak with the moderator about ending the panel sooner",
+          "Move the demo tables onto the stage"
+        ],
+        "answer": 2,
+        "explanation": "4시 51분에 Ms. Roy는 \"I'll ask the panel moderator to wrap up by 5:05\"라고 말합니다. 패널 토론 사회자에게 5시 5분까지 마무리해 달라고 요청하겠다는 것이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Gloria Mendes (9:02 P.M.): Stocktake night, everyone. Store's closed, scanners are charged, and pizza arrives at 11. Aisles 1-6 are Team A, 7-12 Team B, stockroom is Team C.\nLiam Doyle (9:05 P.M.): Team B here. Scanner 14 won't sync. It counts, but nothing uploads to the inventory system.\nGloria Mendes (9:07 P.M.): Restart it twice. If that fails, swap it for one of the spares at the service desk.\nLiam Doyle (9:12 P.M.): Spare works. We're moving again.\nAisha Karim (9:30 P.M.): Stockroom update: we found two pallets of garden furniture that aren't in the system at all. No purchase order attached.\nGloria Mendes (9:32 P.M.): Seriously? Don't count them yet. Photograph the pallet labels and send them to me. I'll check with the buying office tomorrow.\nAisha Karim (9:34 P.M.): Photos coming. Also, Team C will finish early—maybe by midnight.\nGloria Mendes (9:36 P.M.): In that case, send half your team to help Aisles 7-12. Liam's section has the small electronics, and those take forever.\nLiam Doyle (9:37 P.M.): We'll take all the help we can get.",
+    "questions": [
+      {
+        "question": "What are the writers mainly doing?",
+        "options": [
+          "Preparing a store for a grand opening",
+          "Counting merchandise after business hours",
+          "Rearranging shelves for a seasonal sale",
+          "Training new employees on cash registers"
+        ],
+        "answer": 1,
+        "explanation": "첫 메시지의 \"Stocktake night\", \"Store's closed, scanners are charged\"와 구역별 팀 배정, 재고 시스템 업로드 언급 등으로 보아 영업시간 후 재고 조사를 하고 있음을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How did Mr. Doyle resolve his equipment problem?",
+        "options": [
+          "By restarting the device twice",
+          "By using a replacement device",
+          "By uploading the counts manually",
+          "By calling a technical support line"
+        ],
+        "answer": 1,
+        "explanation": "스캐너 14번이 동기화되지 않는다는 문제에 Ms. Mendes가 재시작 후 안 되면 예비 기기로 교체하라고 했고, 9시 12분에 Mr. Doyle이 \"Spare works\"라고 답했습니다. 예비(교체) 기기를 사용해 해결했으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 9:32 P.M., what does Ms. Mendes most likely mean when she writes, \"Seriously?\"?",
+        "options": [
+          "She is surprised that unrecorded stock was discovered.",
+          "She doubts that Team C counted correctly.",
+          "She is upset that the pizza has not arrived.",
+          "She thinks the garden furniture is damaged."
+        ],
+        "answer": 0,
+        "explanation": "Ms. Karim이 시스템에 전혀 등록되지 않은 정원 가구 팔레트 두 개를 발견했다고 보고하자, Ms. Mendes는 \"Seriously?\"라고 반응하며 아직 세지 말고 라벨을 촬영해 보내라고 합니다. 구매 주문서도 없는 미등록 재고가 나왔다는 사실에 놀랐다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Mendes want some of Team C to assist Team B?",
+        "options": [
+          "Team B's scanner is still not working.",
+          "Team B's section includes items that are slow to count.",
+          "Team C miscounted the garden furniture.",
+          "Team B has only one member tonight."
+        ],
+        "answer": 1,
+        "explanation": "9시 36분에 Ms. Mendes는 \"Liam's section has the small electronics, and those take forever\"라고 말합니다. Team B 구역에 소형 전자제품이 있어 세는 데 시간이 매우 오래 걸리기 때문에 일찍 끝나는 Team C 인원 절반을 보내려는 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Bruno Esposito (10:48 P.M.): Variance report from Aisle 3: the system says 240 bottles of the SunCoast shampoo, but we keep getting 198 on the shelf.\nNadia Petrov (10:50 P.M.): Did you check the promotional end cap near the registers? A lot of that shampoo was moved there for the two-for-one deal.\nBruno Esposito (10:53 P.M.): That's it. Forty-one bottles on the end cap. We're off by one now, not forty-two.\nNadia Petrov (10:54 P.M.): One is within tolerance. Log it and move on.\nHugo Lefevre (10:57 P.M.): Quick question—do we count the items in the damaged goods bin, too? There's a dented case of olive oil back here.\nNadia Petrov (10:59 P.M.): Yes, but scan them under the damage code, not the regular barcode. Otherwise the totals will be wrong.\nHugo Lefevre (11:01 P.M.): Understood. Also, the freezer aisle team says their handheld printer is out of labels.\nNadia Petrov (11:03 P.M.): There's a fresh roll in the cabinet behind the service desk. Top shelf, blue box.\nHugo Lefevre (11:05 P.M.): Grabbing it now. We're on track to finish by 1 A.M.",
+    "questions": [
+      {
+        "question": "Why was there a difference in the shampoo count?",
+        "options": [
+          "Some bottles had been placed in a different location.",
+          "Several cases were damaged in the stockroom.",
+          "The system had recorded a delivery twice.",
+          "Customers had purchased bottles during the count."
+        ],
+        "answer": 0,
+        "explanation": "시스템상 240병인데 진열대에는 198병뿐이라는 보고에, Ms. Petrov가 계산대 근처 행사 매대(end cap)를 확인해 보라고 했고, 실제로 41병이 그곳에 있었습니다. 일부 상품이 다른 위치로 옮겨져 있었기 때문이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 10:54 P.M., what does Ms. Petrov most likely mean when she writes, \"One is within tolerance\"?",
+        "options": [
+          "Only one team member needs to recount the aisle.",
+          "A small discrepancy does not require further investigation.",
+          "One more scanner can be borrowed from the service desk.",
+          "The count must be repeated one more time."
+        ],
+        "answer": 1,
+        "explanation": "재고 차이가 42개에서 1개로 줄었다는 보고에 Ms. Petrov는 \"One is within tolerance. Log it and move on.\"이라고 답합니다. 1개 정도의 오차는 허용 범위 내이므로 더 조사할 필요 없이 기록만 하고 넘어가라는 의미입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Petrov say about damaged items?",
+        "options": [
+          "They should be thrown away immediately.",
+          "They should be returned to the supplier.",
+          "They should be recorded with a special code.",
+          "They should be moved to the freezer aisle."
+        ],
+        "answer": 2,
+        "explanation": "10시 59분에 Ms. Petrov는 파손 상품도 세야 하지만 일반 바코드가 아니라 \"the damage code\"로 스캔하라고 지시합니다. 그렇지 않으면 합계가 틀어지기 때문입니다. 특별한 코드로 기록해야 한다는 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Lefevre indicate about the freezer aisle team?",
+        "options": [
+          "They have finished their section.",
+          "They need supplies for a printer.",
+          "They found a dented case of olive oil.",
+          "They will leave at 1 A.M."
+        ],
+        "answer": 1,
+        "explanation": "11시 1분에 Mr. Lefevre는 냉동 코너 팀의 휴대용 프린터에 라벨이 떨어졌다(\"their handheld printer is out of labels\")고 전합니다. 프린터에 쓸 소모품(라벨)이 필요하다는 것이므로 (B)가 정답입니다. 올리브 오일을 발견한 곳은 파손 상품 보관함입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Dispatch - Renata Alves (5:50 A.M.): Morning shift, Flight VK212 to Lisbon now departs from Gate 14 instead of Gate 22. Pushback still scheduled for 7:35.\nKofi Mensah (5:52 A.M.): Copy. My baggage cart team is staged at 22. We'll reposition, but the belt loader at 14 was tagged for maintenance last night.\nRenata Alves (5:54 A.M.): Checking the equipment log... You're right. The work order is still open.\nKofi Mensah (5:55 A.M.): Can we pull the loader from Gate 16? Nothing is parked there until the 10:10 arrival.\nRenata Alves (5:57 A.M.): Approved. Log the move in the system so the next shift knows where it is.\nSofia Brandt (6:01 A.M.): Fueling update for VK212—the tanker is delayed behind a de-icing queue. Earliest start is 6:40.\nRenata Alves (6:03 A.M.): That's cutting it close. Fueling takes about forty minutes for this aircraft.\nSofia Brandt (6:05 A.M.): I'll ask the fuel desk to bump us ahead of the two cargo flights. They have later slots anyway.\nRenata Alves (6:06 A.M.): Do it, and copy me on the request. Kofi, start loading as soon as the bags arrive at 14.",
+    "questions": [
+      {
+        "question": "What change does Ms. Alves announce at 5:50 A.M.?",
+        "options": [
+          "A flight will leave from a different gate.",
+          "A departure time has been moved up.",
+          "A flight to Lisbon has been canceled.",
+          "A crew shift will start earlier than usual."
+        ],
+        "answer": 0,
+        "explanation": "5시 50분 메시지에서 \"Flight VK212 to Lisbon now departs from Gate 14 instead of Gate 22\"라고 하여 탑승구가 22번에서 14번으로 변경되었음을 알립니다. 출발 시각(pushback)은 7시 35분으로 그대로이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What problem exists at Gate 14?",
+        "options": [
+          "The gate is occupied by a cargo flight.",
+          "A piece of loading equipment is out of service.",
+          "The baggage carts cannot reach the gate.",
+          "A de-icing truck is blocking the area."
+        ],
+        "answer": 1,
+        "explanation": "5시 52분에 Mr. Mensah가 \"the belt loader at 14 was tagged for maintenance last night\"이라고 말하고, Ms. Alves도 장비 일지를 확인한 후 정비 작업 지시가 아직 미완료 상태라고 확인합니다. 14번 게이트의 수하물 적재 장비(벨트 로더)가 사용 불가 상태이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 6:03 A.M., what does Ms. Alves most likely mean when she writes, \"That's cutting it close\"?",
+        "options": [
+          "The fueling may not finish much before departure.",
+          "The tanker is too close to the de-icing queue.",
+          "The baggage must be weighed before loading.",
+          "Gate 16 is too far from Gate 14."
+        ],
+        "answer": 0,
+        "explanation": "급유 시작이 빨라야 6시 40분이라는 보고에 Ms. Alves는 \"That's cutting it close\"라고 답하며 이 기종의 급유에 약 40분이 걸린다고 덧붙입니다. 7시 35분 출발(pushback)까지 시간 여유가 거의 없다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Brandt offer to do?",
+        "options": [
+          "Move the belt loader from Gate 16",
+          "Request priority over two other flights",
+          "Delay the 10:10 arrival",
+          "Update the equipment log"
+        ],
+        "answer": 1,
+        "explanation": "6시 5분에 Ms. Brandt는 연료 데스크에 화물기 두 편보다 먼저 급유해 달라고 요청하겠다(\"I'll ask the fuel desk to bump us ahead of the two cargo flights\")고 합니다. 다른 두 항공편보다 우선순위를 요청하는 것이므로 (B)가 정답입니다. 벨트 로더 이동과 장비 일지 기록은 Mr. Mensah의 업무입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Yusuf Demir (1:15 P.M.): Ramp team, weather alert: lightning detected within ten kilometers. All outdoor operations stop now per safety policy.\nClara Voss (1:16 P.M.): We're halfway through unloading Flight NA88. Bags are on the carts but uncovered.\nYusuf Demir (1:18 P.M.): Leave them and get your crew inside. Carts can be covered after the all-clear.\nClara Voss (1:19 P.M.): It's starting to rain hard. Those bags will be soaked.\nYusuf Demir (1:20 P.M.): Soaked bags can be dried. Get everyone off the ramp.\nClara Voss (1:22 P.M.): Understood. All six of us are heading to the break room.\nMateo Silva (1:31 P.M.): Operations says the connecting passengers on NA88 are asking about their luggage. Two have a 2:10 departure.\nYusuf Demir (1:33 P.M.): Tell the transfer desk those bags won't make it. They should rebook the bags on the 4:25 to the same destination.\nMateo Silva (1:35 P.M.): Passing that along. Radar shows the storm cell clearing by 1:50.\nYusuf Demir (1:36 P.M.): Good. Everyone be ready to resume the moment the all-clear sounds.",
+    "questions": [
+      {
+        "question": "Why did Mr. Demir stop work on the ramp?",
+        "options": [
+          "A piece of equipment malfunctioned.",
+          "Lightning was detected nearby.",
+          "A flight was switched to another gate.",
+          "The crew's shift had ended."
+        ],
+        "answer": 1,
+        "explanation": "1시 15분 메시지에서 \"lightning detected within ten kilometers. All outdoor operations stop now per safety policy.\"라고 하여, 10km 이내에서 번개가 감지되어 안전 규정에 따라 모든 야외 작업을 중단시켰음을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 1:20 P.M., what does Mr. Demir most likely mean when he writes, \"Soaked bags can be dried\"?",
+        "options": [
+          "The baggage will be cleaned before delivery.",
+          "Worker safety matters more than protecting the luggage.",
+          "The rain is not expected to last long.",
+          "The carts have waterproof covers available."
+        ],
+        "answer": 1,
+        "explanation": "Ms. Voss가 비가 거세져 수하물이 젖을 것이라고 걱정하자, Mr. Demir는 \"Soaked bags can be dried. Get everyone off the ramp.\"라고 답합니다. 젖은 가방은 말리면 되지만 사람의 안전은 대체할 수 없으니 직원 안전이 우선이라는 의미입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about some passengers on Flight NA88?",
+        "options": [
+          "They have a connecting flight at 2:10.",
+          "They lost their boarding passes.",
+          "They are waiting in the break room.",
+          "They complained about the rebooking fee."
+        ],
+        "answer": 0,
+        "explanation": "1시 31분에 Mr. Silva가 NA88편의 환승 승객들이 짐에 대해 문의하고 있으며 그중 두 명은 2시 10분 출발편을 탄다(\"Two have a 2:10 departure\")고 전합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Demir instruct Mr. Silva to communicate?",
+        "options": [
+          "The storm will clear by 1:50.",
+          "The crew will resume work immediately.",
+          "Certain luggage should be put on a later flight.",
+          "The 2:10 departure has been delayed."
+        ],
+        "answer": 2,
+        "explanation": "1시 33분에 Mr. Demir는 환승 데스크에 해당 수하물이 2시 10분 편에 실리지 못할 것이며, 같은 목적지로 가는 4시 25분 편에 다시 실어야 한다고 전하라고 지시합니다. 일부 수하물을 더 늦은 항공편에 옮겨 실으라는 내용이므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Ingrid Halvorsen (3:05 P.M.): Layout team, files for the July issue of Coastal Living Quarterly go to the printer at 9 A.M. tomorrow. Status, please.\nPaolo Ricci (3:07 P.M.): Features section is done except the lighthouse story. The writer just sent a revised version—it's 300 words longer than the slot.\nIngrid Halvorsen (3:09 P.M.): We locked the page count last week. Can you trim it without losing the interview quotes?\nPaolo Ricci (3:11 P.M.): The quotes stay. I can cut the historical background—most of it repeats the sidebar anyway.\nIngrid Halvorsen (3:12 P.M.): Do it, then send the page to copyediting flagged as urgent.\nDana Whitfield (3:15 P.M.): Bigger issue here. The ad agency for Marlin Outfitters still hasn't delivered the back-cover file. The placeholder is in the layout.\nIngrid Halvorsen (3:17 P.M.): They're paying premium for that position. Call them—not e-mail—and tell them the absolute deadline is 6 P.M.\nDana Whitfield (3:19 P.M.): And if they miss it?\nIngrid Halvorsen (3:20 P.M.): Then the house ad for our subscription offer goes there, and their contract penalty clause kicks in.\nDana Whitfield (3:21 P.M.): Calling now.",
+    "questions": [
+      {
+        "question": "What kind of business do the writers most likely work for?",
+        "options": [
+          "An advertising agency",
+          "A printing company",
+          "A magazine publisher",
+          "A travel agency"
+        ],
+        "answer": 2,
+        "explanation": "\"the July issue of Coastal Living Quarterly\", \"files ... go to the printer\", 기사 분량 조정과 광고 지면 논의 등으로 보아 잡지 출판사의 레이아웃 팀임을 알 수 있습니다. 따라서 (C)가 정답입니다. 인쇄소나 광고 대행사는 이들과 거래하는 외부 업체입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the problem with the lighthouse story?",
+        "options": [
+          "The writer has missed a deadline.",
+          "It exceeds the space reserved for it.",
+          "Its interview quotes were not approved.",
+          "It repeats an article from a previous issue."
+        ],
+        "answer": 1,
+        "explanation": "3시 7분에 Mr. Ricci가 수정 원고가 배정된 지면보다 300단어 더 길다(\"it's 300 words longer than the slot\")고 보고합니다. 기사가 할당된 공간을 초과한다는 (B)가 정답입니다. 원고는 이미 도착했으므로 마감을 어긴 것이 아니며, 사이드바와 중복되는 것은 역사적 배경 부분입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 3:11 P.M., what does Mr. Ricci most likely mean when he writes, \"The quotes stay\"?",
+        "options": [
+          "He agrees to keep the interview material in the article.",
+          "He thinks the quotes should be moved to the sidebar.",
+          "He wants the writer to verify the quotes.",
+          "He believes the quotes are too long to print."
+        ],
+        "answer": 0,
+        "explanation": "Ms. Halvorsen이 인터뷰 인용문을 잃지 않고 분량을 줄일 수 있는지 묻자, Mr. Ricci는 \"The quotes stay.\"라고 답하고 대신 역사적 배경 부분을 잘라내겠다고 합니다. 인용문은 그대로 유지하겠다는 동의의 표현이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Ms. Halvorsen, what will happen if the advertisement file does not arrive by 6 P.M.?",
+        "options": [
+          "The printing will be postponed by one day.",
+          "The back cover will be left blank.",
+          "A promotion for the magazine will fill the space.",
+          "The agency will receive a discount on a future issue."
+        ],
+        "answer": 2,
+        "explanation": "3시 20분에 Ms. Halvorsen은 마감을 어기면 \"the house ad for our subscription offer goes there\"라고 말합니다. 즉, 자사 구독 광고가 그 자리를 채우고 광고주에게는 계약상 위약 조항이 적용됩니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Felix Navarro (10:22 A.M.): Cover crisis for the anniversary issue. Legal flagged the main photo—the photographer's license only covers digital use, not print.\nGrace Lim (10:24 A.M.): That photo is the whole cover concept. Can't we just buy the print rights?\nFelix Navarro (10:26 A.M.): The agent quoted $4,800. Our entire photo budget for this issue has $900 left.\nGrace Lim (10:27 A.M.): Ouch. What are our options?\nFelix Navarro (10:29 A.M.): Two: rework the cover around the harbor illustration from page 34, or use one of the runner-up photos from the original shoot. We own those outright.\nRosa Quintero (10:31 A.M.): The runner-ups are on the shared drive. Honestly, the third one—the dawn shot—might be stronger than the flagged photo.\nGrace Lim (10:33 A.M.): Pulling it up now... Rosa, you have a point. The colors even match our masthead.\nFelix Navarro (10:35 A.M.): Then it's settled? I need to tell the printer by noon whether we're holding the cover form.\nGrace Lim (10:36 A.M.): It's settled. I'll have the new cover composed within the hour. No need to hold anything.",
+    "questions": [
+      {
+        "question": "Why is the original cover photo unusable?",
+        "options": [
+          "Its resolution is too low for printing.",
+          "The usage rights do not include print publication.",
+          "The photographer asked for it to be withdrawn.",
+          "It does not match the magazine's masthead colors."
+        ],
+        "answer": 1,
+        "explanation": "10시 22분 메시지에서 법무팀이 표지 사진에 문제를 제기했는데, 사진가의 라이선스가 디지털 사용만 허용하고 인쇄는 포함하지 않기 때문(\"the photographer's license only covers digital use, not print\")이라고 설명합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why can the magazine NOT purchase the print rights?",
+        "options": [
+          "The cost is far more than the remaining budget.",
+          "The agent cannot be reached before noon.",
+          "The photographer has sold the rights to a competitor.",
+          "The legal department has prohibited the purchase."
+        ],
+        "answer": 0,
+        "explanation": "10시 26분에 Mr. Navarro는 에이전트가 4,800달러를 제시했지만 이번 호 사진 예산에 900달러밖에 남지 않았다고 말합니다. 비용이 남은 예산을 크게 초과하기 때문이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 10:33 A.M., what does Ms. Lim most likely mean when she writes, \"Rosa, you have a point\"?",
+        "options": [
+          "She agrees that the dawn photograph is a good choice.",
+          "She thinks Ms. Quintero should design the cover.",
+          "She believes the shared drive needs reorganizing.",
+          "She wants Ms. Quintero to negotiate with the agent."
+        ],
+        "answer": 0,
+        "explanation": "Ms. Quintero가 예비 사진 중 새벽 사진이 문제의 사진보다 오히려 더 나을 수 있다고 하자, Ms. Lim은 사진을 띄워 보고 \"Rosa, you have a point. The colors even match our masthead.\"라고 답합니다. 새벽 사진이 좋은 선택이라는 데 동의한다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will Ms. Lim most likely do next?",
+        "options": [
+          "Contact the printer about a delay",
+          "Create a new cover design with the selected photo",
+          "Ask the photographer for a discount",
+          "Move the harbor illustration to the cover"
+        ],
+        "answer": 1,
+        "explanation": "10시 36분에 Ms. Lim은 \"I'll have the new cover composed within the hour\"라고 하며 인쇄소 작업을 보류할 필요도 없다고 말합니다. 선택된 새벽 사진으로 새 표지를 한 시간 내에 구성할 것이므로 (B)가 정답입니다. 인쇄소에 연락하는 일은 Mr. Navarro의 몫이며, 항구 일러스트는 채택되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Marcus Webb (6:42 P.M.): Page proofs are back from the proofreader. Three corrections in the restaurant review, one in the calendar listings. I can enter them in twenty minutes.\nElise Fontaine (6:44 P.M.): Go ahead. What about the events calendar itself? The Riverside Jazz Festival e-mailed this afternoon—their dates moved from July 12-13 to July 19-20.\nMarcus Webb (6:46 P.M.): That listing is on page 58, which is already approved. Reopening an approved page this late needs your sign-off.\nElise Fontaine (6:47 P.M.): You have it. Printing wrong festival dates would generate complaints all month.\nMarcus Webb (6:49 P.M.): Reopening page 58. While I'm in there, the festival's ticket hotline number—do we have the new one? The old number appears in the listing.\nElise Fontaine (6:51 P.M.): Checking their e-mail... yes, they included it. Forwarding now.\nMarcus Webb (6:53 P.M.): Got it. Both fixes going in together.\nElise Fontaine (6:55 P.M.): Once that's done, export the final files and upload them to the printer's portal tonight. I'd rather not leave it for the morning rush.\nMarcus Webb (6:56 P.M.): Agreed. I'll send confirmation when the upload finishes.",
+    "questions": [
+      {
+        "question": "What did the Riverside Jazz Festival communicate?",
+        "options": [
+          "Its event has been rescheduled.",
+          "Its tickets have sold out.",
+          "It wants to buy advertising space.",
+          "It is moving to a new venue."
+        ],
+        "answer": 0,
+        "explanation": "6시 44분 메시지에서 페스티벌 측이 이메일로 행사 날짜가 7월 12-13일에서 7월 19-20일로 변경되었다고 알려 왔음을 확인할 수 있습니다. 행사 일정이 변경되었다는 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Mr. Webb need Ms. Fontaine's approval?",
+        "options": [
+          "He wants to extend the proofreading deadline.",
+          "A page that was already finalized must be changed.",
+          "The corrections will increase the printing cost.",
+          "He needs access to the printer's portal."
+        ],
+        "answer": 1,
+        "explanation": "6시 46분에 Mr. Webb은 해당 목록이 이미 승인된 58페이지에 있으며, 이 시점에 승인된 페이지를 다시 여는 데는 그녀의 승인이 필요하다(\"Reopening an approved page this late needs your sign-off\")고 말합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 6:47 P.M., what does Ms. Fontaine most likely mean when she writes, \"You have it\"?",
+        "options": [
+          "She is granting the permission he requested.",
+          "She has already received the page proofs.",
+          "She believes he has the festival's e-mail.",
+          "She is sending him a portal password."
+        ],
+        "answer": 0,
+        "explanation": "승인된 페이지를 다시 열려면 사인이 필요하다는 말에 Ms. Fontaine은 \"You have it.\"이라고 답하며, 잘못된 날짜를 인쇄하면 한 달 내내 항의가 들어올 것이라고 이유를 덧붙입니다. 요청한 승인(sign-off)을 해 주겠다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Fontaine ask Mr. Webb to do this evening?",
+        "options": [
+          "Call the festival's ticket hotline",
+          "Send the completed files to the printer",
+          "Write a new restaurant review",
+          "Proofread page 58 one more time"
+        ],
+        "answer": 1,
+        "explanation": "6시 55분에 Ms. Fontaine은 수정이 끝나면 최종 파일을 내보내 오늘 밤 인쇄소 포털에 업로드하라고 요청합니다. 아침의 분주함에 미루고 싶지 않다고 했으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Dispatcher - Carmen Ruiz (8:35 A.M.): Schedule update, technicians. Mr. Aldrich on Pine Street canceled his 9 A.M. washing machine repair. Walt, that frees your morning slot.\nWalt Jensen (8:37 A.M.): Convenient—I'm ten minutes from Pine Street. Anything nearby instead?\nCarmen Ruiz (8:39 A.M.): Yes, an emergency call just came in. A refrigerator at the Maple Diner stopped cooling overnight. They're three blocks from your location.\nWalt Jensen (8:40 A.M.): A restaurant fridge is a priority. Heading there now. Do we know the model?\nCarmen Ruiz (8:42 A.M.): A Polarline C-900, commercial unit. You serviced it in March for a fan issue.\nWalt Jensen (8:44 A.M.): I remember it. If it's the compressor this time, I don't carry C-900 compressors in the van.\nCarmen Ruiz (8:45 A.M.): Dev has one—he stocked up for a job that got rescheduled.\nDev Chandra (8:47 A.M.): Confirmed, it's in my van. I'm at the Hartfield Apartments job until 10, but Walt can meet me here for the part.\nWalt Jensen (8:48 A.M.): I'll diagnose first and call you if I need it. With luck it's just the relay.\nCarmen Ruiz (8:50 A.M.): Keep me posted. The diner owner says they'll lose their weekend stock if it's not fixed today.",
+    "questions": [
+      {
+        "question": "Why did Ms. Ruiz first message Mr. Jensen?",
+        "options": [
+          "To inform him that an appointment was canceled",
+          "To ask him to order a replacement part",
+          "To tell him a customer complained about a repair",
+          "To assign him to the Hartfield Apartments job"
+        ],
+        "answer": 0,
+        "explanation": "8시 35분 메시지에서 Ms. Ruiz는 Pine Street의 Mr. Aldrich가 9시 세탁기 수리 예약을 취소했고, 그래서 Walt의 오전 일정이 비게 되었다고 알립니다. 예약 취소를 알리기 위한 것이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the Maple Diner's refrigerator?",
+        "options": [
+          "It was purchased in March.",
+          "It has been repaired by Mr. Jensen before.",
+          "It is no longer under warranty.",
+          "It needs a new fan installed."
+        ],
+        "answer": 1,
+        "explanation": "8시 42분에 Ms. Ruiz가 \"You serviced it in March for a fan issue\"라고 말하고 Mr. Jensen도 기억한다고 답합니다. Mr. Jensen이 전에 수리한 적이 있는 기기이므로 (B)가 정답입니다. 3월은 구입 시점이 아니라 수리 시점이며, 이번 고장의 원인은 아직 진단 전입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 8:48 A.M., what does Mr. Jensen most likely mean when he writes, \"With luck it's just the relay\"?",
+        "options": [
+          "He hopes the problem will not require the part Mr. Chandra has.",
+          "He expects the diagnosis to take all morning.",
+          "He thinks the diner should replace the refrigerator.",
+          "He believes Mr. Chandra installed the wrong relay."
+        ],
+        "answer": 0,
+        "explanation": "Mr. Jensen은 컴프레서가 고장이면 자기 밴에 부품이 없어 Dev에게 받아야 하는 상황에서, 먼저 진단해 보고 필요하면 연락하겠다며 \"With luck it's just the relay\"라고 말합니다. 운이 좋으면 (컴프레서가 아니라) 릴레이 문제여서 Dev의 부품이 필요 없기를 바란다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does the diner owner say about the situation?",
+        "options": [
+          "The diner will close for the weekend.",
+          "Food supplies could spoil without a same-day repair.",
+          "A second refrigerator is also malfunctioning.",
+          "The repair cost should be covered by insurance."
+        ],
+        "answer": 1,
+        "explanation": "8시 50분에 Ms. Ruiz가 식당 주인의 말을 전하며 \"they'll lose their weekend stock if it's not fixed today\"라고 합니다. 오늘 수리되지 않으면 주말 재고(식자재)를 잃게 된다는 것이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Priti Anand (11:02 A.M.): Dispatch update: the customer at 44 Birchwood Lane reports her oven is showing error code E-15 again. We replaced the heating element there two weeks ago.\nStefan Krall (11:04 A.M.): E-15 on that model usually points to the temperature sensor, not the element. Who did the original job?\nPriti Anand (11:06 A.M.): That was Omar's call. He's on leave this week.\nStefan Krall (11:08 A.M.): His notes should be in the work-order system. If he tested the sensor, it'll be logged.\nPriti Anand (11:10 A.M.): Looking... He wrote \"sensor readings borderline, advised customer it may need replacement within the year.\"\nStefan Krall (11:11 A.M.): There's our answer. I can take it after my 1 P.M. job in Fairview—Birchwood is on my way back.\nPriti Anand (11:13 A.M.): The customer asked whether she'll be charged again. The element repair has a ninety-day guarantee.\nStefan Krall (11:15 A.M.): The guarantee covers the element, but the sensor is a separate component. She'd pay for the part; I'd waive the call-out fee since we flagged it earlier.\nPriti Anand (11:16 A.M.): That's fair. I'll book you in for 3 P.M. and explain the charges when I confirm with her.",
+    "questions": [
+      {
+        "question": "What is the conversation mainly about?",
+        "options": [
+          "A recurring problem with a customer's appliance",
+          "A delayed shipment of heating elements",
+          "Mr. Krall's vacation schedule",
+          "A new error-code training course"
+        ],
+        "answer": 0,
+        "explanation": "대화는 2주 전에 수리했던 고객의 오븐에 다시 오류 코드가 떴다는 보고로 시작해, 원인 파악과 재방문 일정, 비용 안내까지 이어집니다. 고객 가전제품의 반복되는 문제를 다루고 있으므로 (A)가 정답입니다. 휴가 중인 사람은 Omar입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Mr. Krall, what does error code E-15 usually indicate?",
+        "options": [
+          "A faulty heating element",
+          "A problem with a sensor",
+          "A power supply failure",
+          "An incorrect installation"
+        ],
+        "answer": 1,
+        "explanation": "11시 4분에 Mr. Krall은 \"E-15 on that model usually points to the temperature sensor, not the element\"라고 말합니다. 이 모델에서 E-15는 보통 가열 부품이 아니라 온도 센서 문제를 가리킨다는 것이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 11:11 A.M., what does Mr. Krall most likely mean when he writes, \"There's our answer\"?",
+        "options": [
+          "Omar has replied to his message.",
+          "The work-order notes confirm his suspicion about the cause.",
+          "The customer has agreed to pay for a new oven.",
+          "The error code has disappeared on its own."
+        ],
+        "answer": 1,
+        "explanation": "Omar의 작업 기록에 \"센서 수치가 경계선 수준이며 1년 내 교체가 필요할 수 있다고 고객에게 안내함\"이라고 적혀 있다는 보고에, Mr. Krall은 \"There's our answer.\"라고 답합니다. 센서가 원인일 것이라는 자신의 추측이 기록으로 확인되었다는 의미이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Krall say about the charges for the new visit?",
+        "options": [
+          "The entire repair will be free under the guarantee.",
+          "The customer will pay for both the part and the visit.",
+          "The customer will pay for the part but not the call-out fee.",
+          "The charges will be decided after Omar returns."
+        ],
+        "answer": 2,
+        "explanation": "11시 15분에 Mr. Krall은 보증은 가열 부품에만 적용되고 센서는 별도 부품이므로 고객이 부품비는 내야 하지만, 이전에 미리 알렸던 사안이므로 출장비는 면제해 주겠다(\"I'd waive the call-out fee\")고 말합니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "text-message-chain",
+    "passage": "Janet Mireles (2:10 P.M.): Fall schedule planning, everyone. We have three requests for Studio 2 on Tuesday evenings: pottery, salsa dance, and the photography club.\nBert Kowalski (2:12 P.M.): Pottery has to be in Studio 2—that's where the kilns and wheels are. It can't move.\nJanet Mireles (2:14 P.M.): Agreed. So salsa and photography need new homes. The gym is free Tuesdays after 6.\nAmara Diallo (2:16 P.M.): Salsa in the gym works if we can get the portable speakers. The mounted sound system there is still broken.\nBert Kowalski (2:18 P.M.): The speakers live in my office. Consider them reserved for you.\nJanet Mireles (2:20 P.M.): And the photography club? They mainly need a dark room and a projector.\nAmara Diallo (2:22 P.M.): The small meeting room upstairs has blackout curtains. We used it for the film series last winter.\nJanet Mireles (2:24 P.M.): It only holds twelve people, though. The club listed eighteen members on their request form.\nBert Kowalski (2:26 P.M.): Their actual turnout is usually eight or nine. I supervise Tuesday evenings—I've never seen more than ten.\nJanet Mireles (2:27 P.M.): Good enough. I'll offer them the meeting room and note the capacity limit, just in case.",
+    "questions": [
+      {
+        "question": "What are the writers trying to do?",
+        "options": [
+          "Assign rooms for several evening classes",
+          "Hire instructors for fall programs",
+          "Repair a sound system in the gym",
+          "Plan a fund-raising event for the center"
+        ],
+        "answer": 0,
+        "explanation": "첫 메시지에서 화요일 저녁 Studio 2 사용 요청이 세 건 겹쳤다고 알리고, 이후 각 강좌를 어느 공간에 배정할지 논의합니다. 저녁 강좌들의 공간 배정을 조율하는 대화이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why can the pottery class NOT be relocated?",
+        "options": [
+          "Its instructor is unavailable on other days.",
+          "Its enrollment is too large for other rooms.",
+          "The equipment it requires is fixed in Studio 2.",
+          "Its sessions run later than the building's hours."
+        ],
+        "answer": 2,
+        "explanation": "2시 12분에 Mr. Kowalski가 \"Pottery has to be in Studio 2—that's where the kilns and wheels are. It can't move.\"라고 말합니다. 가마와 물레 등 필수 장비가 Studio 2에 설치되어 있어 옮길 수 없기 때문이므로 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "At 2:18 P.M., what does Mr. Kowalski most likely mean when he writes, \"Consider them reserved for you\"?",
+        "options": [
+          "He will let the salsa class use the portable speakers.",
+          "He has booked the gym for the photography club.",
+          "He will repair the mounted sound system.",
+          "He has signed Ms. Diallo up for the salsa class."
+        ],
+        "answer": 0,
+        "explanation": "Ms. Diallo가 휴대용 스피커만 구할 수 있다면 살사 수업을 체육관에서 해도 된다고 하자, Mr. Kowalski는 스피커가 자기 사무실에 있다며 \"Consider them reserved for you\"라고 답합니다. 살사 수업을 위해 스피커를 쓸 수 있게 해 주겠다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What concern does Ms. Mireles raise about the upstairs meeting room?",
+        "options": [
+          "It has no blackout curtains.",
+          "Its capacity is smaller than the club's listed membership.",
+          "It is already booked for a film series.",
+          "Its projector is broken."
+        ],
+        "answer": 1,
+        "explanation": "2시 24분에 Ms. Mireles는 그 방이 12명까지만 수용 가능한데 사진 동호회는 신청서에 회원 18명이라고 적었다고 우려합니다. 정원이 동호회의 등록 인원보다 적다는 (B)가 정답입니다. 암막 커튼은 그 방에 이미 있다고 했습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

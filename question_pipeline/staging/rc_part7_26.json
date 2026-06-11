@@ -1,0 +1,704 @@
+[
+  {
+    "passageType": "article",
+    "passage": "HARTWELL (June 3) — The craft brewery sector in the Lakeland region continues to defy expectations. According to a report released Monday by the Regional Beverage Association, the number of independent breweries operating in the region has grown from 14 in 2020 to 41 this year, with combined annual revenue surpassing $86 million. — [1] —. Industry analysts attribute the surge to changing consumer tastes, particularly among younger adults who favor locally produced goods over national brands. — [2] —. Tourism has also played a significant role. The association estimates that brewery tours and tasting rooms attracted more than 200,000 visitors last year, many of whom traveled from outside the region. — [3] —. Not everyone is optimistic, however. Marcus Feld, an economist at Hartwell University, cautions that the market may be approaching saturation. \"When growth is this rapid, smaller operations with thin margins are usually the first to struggle,\" he said. — [4] —. The association plans to address these concerns at its annual conference in September, where sessions will cover distribution partnerships, cost control, and export opportunities for regional brewers.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the article?",
+        "options": [
+          "To announce the opening of a new brewery",
+          "To report on the growth of a local industry",
+          "To promote an upcoming tasting event",
+          "To compare national and regional beer prices"
+        ],
+        "answer": 1,
+        "explanation": "기사 전반에 걸쳐 Lakeland 지역 수제 맥주 산업의 성장(양조장 수 14곳에서 41곳으로 증가, 연 매출 8,600만 달러 돌파)을 보도하고 있습니다. 특정 양조장 개업 소식(A), 시음 행사 홍보(C), 가격 비교(D)는 언급되지 않았으므로 (B) '지역 산업의 성장을 보도하기 위해'가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what has contributed to the industry's growth?",
+        "options": [
+          "Lower taxes on alcohol production",
+          "A decline in national beer brands' quality",
+          "Consumer preference for locally made products",
+          "Government subsidies for new businesses"
+        ],
+        "answer": 2,
+        "explanation": "기사에서 분석가들은 성장의 원인을 'changing consumer tastes, particularly among younger adults who favor locally produced goods over national brands'(지역 생산품을 선호하는 소비자 취향 변화)로 보고 있습니다. 세금 인하(A), 전국 브랜드의 품질 저하(B), 정부 보조금(D)은 본문에 언급되지 않았으므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Marcus Feld?",
+        "options": [
+          "He owns a small brewery in Hartwell.",
+          "He believes some breweries may face difficulties.",
+          "He organized the September conference.",
+          "He predicts revenue will double next year."
+        ],
+        "answer": 1,
+        "explanation": "경제학자 Marcus Feld는 시장이 포화 상태에 가까워질 수 있다고 경고하며, '성장이 이렇게 빠르면 마진이 적은 소규모 업체들이 가장 먼저 어려움을 겪는다'고 말했습니다. 따라서 일부 양조장이 어려움에 직면할 수 있다고 본다는 (B)가 정답입니다. 그는 대학 경제학자이지 양조장 주인이 아니며(A), 컨퍼런스 주최자(C)나 매출 2배 성장 예측(D)에 대한 언급도 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"These visitors spent an estimated $12 million on lodging, dining, and local attractions.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장은 'These visitors'(이 방문객들)가 숙박, 식사, 지역 명소에 약 1,200만 달러를 지출했다는 내용입니다. 'These visitors'가 가리키는 대상은 [3] 바로 앞 문장의 'more than 200,000 visitors'(양조장 투어와 시음장을 찾은 20만 명 이상의 방문객)이므로, 그 뒤인 [3] 위치에 들어가야 자연스럽습니다. 따라서 정답은 (C)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "MERIDIAN CITY (May 18) — Residents of three Meridian City neighborhoods will soon see small aircraft buzzing overhead as part of a six-month drone delivery pilot program approved by the city council last week. Under the program, logistics firm SkyParcel will operate up to 40 deliveries per day, carrying packages weighing less than two kilograms from a distribution hub in the Fairview industrial park to designated drop-off points in Elmwood, Castor Heights, and Riverbend. Deliveries will be limited to daylight hours, and drones will follow fixed corridors that avoid schools and hospitals. SkyParcel's regional director, Anita Rao, said the company chose Meridian City because of its relatively flat terrain and supportive municipal leadership. \"Our goal is to prove that drone delivery can be quiet, safe, and genuinely useful for everyday items like medications and small groceries,\" Rao explained. The pilot has drawn mixed reactions. A survey conducted by the city in April found that 58 percent of respondents supported the trial, while 27 percent expressed concerns about noise and privacy. City officials emphasized that the program includes a public feedback portal, and that monthly reports on safety incidents and noise complaints will be published on the city's website. If the trial is deemed successful, the council may expand the service citywide as early as next spring.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A new airport under construction in Meridian City",
+          "A trial program for delivering packages by drone",
+          "A merger between two logistics companies",
+          "A change in regulations for commercial pilots"
+        ],
+        "answer": 1,
+        "explanation": "기사는 Meridian City 시의회가 승인한 6개월간의 드론 배송 시범 프로그램(drone delivery pilot program)에 대해 다루고 있습니다. 공항 건설(A), 물류 회사 합병(C), 조종사 규정 변경(D)은 언급되지 않았으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the deliveries?",
+        "options": [
+          "They will take place only during the day.",
+          "They will include items weighing up to five kilograms.",
+          "They will be free of charge during the trial.",
+          "They will go directly to customers' doorsteps."
+        ],
+        "answer": 0,
+        "explanation": "본문에 'Deliveries will be limited to daylight hours'(배송은 주간 시간대로 제한된다)라고 명시되어 있으므로 (A)가 정답입니다. 무게 제한은 2kg 미만이므로 (B)는 틀렸고, 무료 배송 여부(C)는 언급이 없으며, 배송은 고객 문 앞이 아닌 지정된 수령 지점(designated drop-off points)으로 이루어지므로 (D)도 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why did SkyParcel select Meridian City for the program?",
+        "options": [
+          "It has the region's largest distribution hub.",
+          "Its residents requested the service.",
+          "Its geography and government were favorable.",
+          "It offered the company a tax reduction."
+        ],
+        "answer": 2,
+        "explanation": "Anita Rao는 '비교적 평탄한 지형과 협조적인 시 지도부'(relatively flat terrain and supportive municipal leadership) 때문에 Meridian City를 선택했다고 말했습니다. 즉 지리적 조건과 행정적 지원이 유리했다는 (C)가 정답입니다. 최대 규모 물류 허브(A), 주민 요청(B), 세금 감면(D)은 본문에 근거가 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"deemed\" in the last sentence is closest in meaning to",
+        "options": [
+          "considered",
+          "scheduled",
+          "awarded",
+          "demanded"
+        ],
+        "answer": 0,
+        "explanation": "'If the trial is deemed successful'에서 deemed는 '~로 여겨지다, 간주되다'라는 뜻으로 사용되었습니다. 따라서 '여기다, 간주하다'를 의미하는 (A) considered가 가장 가까운 동의어입니다. scheduled(예정된), awarded(수여된), demanded(요구된)는 문맥상 맞지 않습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "GLENFORD (April 9) — The Glenford City Council voted 6–1 on Tuesday to increase annual funding for the municipal library system by $1.4 million, ending months of debate over the institution's future. The additional money will restore Sunday hours at all four branches, fund the replacement of the library's twenty-year-old catalog software, and allow the hiring of three full-time youth services librarians. Library director Pauline Ostrowski called the vote \"a turning point.\" Circulation figures, she noted, have risen 22 percent over the past three years, driven largely by demand for digital audiobooks and the library's free job-skills workshops. \"People sometimes assume libraries are fading institutions,\" Ostrowski said. \"Our numbers tell a very different story.\" The funding increase will be financed partly through a modest rise in commercial property fees and partly through a state grant that Glenford secured in February. Councilmember Dale Verity, who cast the lone dissenting vote, argued that the money would be better spent on road maintenance, but he acknowledged that public comment ran heavily in the library's favor. More than 300 residents submitted written statements supporting the increase, and a petition organized by the Friends of the Glenford Library gathered over 4,000 signatures. The new budget takes effect on July 1.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To describe a decision to expand library funding",
+          "To announce the construction of a new library branch",
+          "To criticize a city council's spending priorities",
+          "To profile a recently hired library director"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Glenford 시의회가 시립 도서관 시스템의 연간 예산을 140만 달러 증액하기로 의결한 결정과 그 배경, 자금 사용처를 보도하고 있습니다. 새 분관 건립(B), 시의회 비판(C), 신임 관장 소개(D)는 기사의 목적이 아니므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a planned use of the additional funding?",
+        "options": [
+          "Reopening branches on Sundays",
+          "Updating outdated software",
+          "Hiring additional staff members",
+          "Purchasing a new delivery vehicle"
+        ],
+        "answer": 3,
+        "explanation": "추가 예산의 용도로 일요일 운영 재개(restore Sunday hours), 20년 된 목록 소프트웨어 교체(replacement of the catalog software), 청소년 서비스 사서 3명 채용(hiring of three full-time youth services librarians)이 언급되었습니다. 배송 차량 구입(D)은 본문에 없으므로 정답입니다. NOT 문제는 본문에 언급된 항목을 하나씩 소거해야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to Ms. Ostrowski, what has caused circulation to increase?",
+        "options": [
+          "Longer opening hours at all branches",
+          "Interest in digital audiobooks and free workshops",
+          "A popular summer reading contest",
+          "Partnerships with local schools"
+        ],
+        "answer": 1,
+        "explanation": "Ostrowski 관장은 지난 3년간 대출이 22% 증가했으며, 이는 'demand for digital audiobooks and the library's free job-skills workshops'(디지털 오디오북 수요와 무료 직업 기술 워크숍)에 의해 주도되었다고 말했습니다. 따라서 (B)가 정답입니다. 운영시간 연장(A)은 앞으로의 계획이지 증가 원인이 아닙니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Mr. Verity?",
+        "options": [
+          "He organized a petition against the budget.",
+          "He recently joined the city council.",
+          "He preferred to fund a different public service.",
+          "He plans to resign before July 1."
+        ],
+        "answer": 2,
+        "explanation": "유일하게 반대표를 던진 Dale Verity 의원은 '그 돈을 도로 유지보수에 쓰는 것이 낫다'(the money would be better spent on road maintenance)고 주장했습니다. 즉 다른 공공 서비스에 예산을 쓰기를 원했다는 (C)가 정답입니다. 청원을 조직한 것은 Friends of the Glenford Library이며(A), 그의 의회 합류 시기(B)나 사임 계획(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "From Closet to Cash: The Second-Hand Boom\n\nOnce associated mainly with charity shops and bargain hunters, the second-hand fashion market has become one of retail's fastest-growing segments. — [1] —. A new study by the consultancy Verana Insights projects that global resale clothing sales will reach $94 billion within three years, growing nearly four times faster than the broader apparel market. — [2] —. Several forces are driving the trend. Online resale platforms have made it simple to photograph, list, and ship used garments, while growing environmental awareness has made buying pre-owned clothing socially desirable rather than something to hide. \"For many shoppers under thirty, a second-hand purchase is a point of pride,\" said Verana analyst Joon-ho Park. — [3] —. Traditional retailers have taken notice. Department store chain Hollings & Mayer recently opened resale counters in twelve of its locations, where customers can trade in used clothing for store credit. The company reports that the counters have brought in a noticeably younger clientele. — [4] —. Challenges remain, however. Authenticating designer items is costly, and profit margins on inexpensive garments are slim. Still, Park believes the momentum is unmistakable. \"Resale is no longer a niche,\" he said. \"It is becoming a standard part of how people shop.\"",
+    "questions": [
+      {
+        "question": "What does the article mainly discuss?",
+        "options": [
+          "The rapid expansion of the used-clothing market",
+          "The decline of traditional department stores",
+          "New regulations on textile manufacturing",
+          "A merger between two fashion brands"
+        ],
+        "answer": 0,
+        "explanation": "기사는 중고 패션 시장(second-hand fashion market)이 소매업에서 가장 빠르게 성장하는 분야 중 하나가 되었다는 내용을 중심으로, 성장 요인과 기존 소매업체의 대응을 다루고 있습니다. 백화점의 쇠퇴(B), 섬유 제조 규제(C), 브랜드 합병(D)은 주제가 아니므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, why has buying used clothing become more popular?",
+        "options": [
+          "Prices of new clothing have risen sharply.",
+          "Online platforms and environmental concerns have encouraged it.",
+          "Designer brands now sell directly to resale shops.",
+          "Governments offer tax benefits for recycling textiles."
+        ],
+        "answer": 1,
+        "explanation": "본문은 두 가지 요인을 제시합니다. 온라인 재판매 플랫폼이 중고 의류의 촬영·등록·배송을 간편하게 만들었고, 환경 의식이 높아지면서 중고 구매가 숨길 일이 아니라 사회적으로 바람직한 일이 되었다는 것입니다. 따라서 (B)가 정답입니다. 신상품 가격 급등(A), 디자이너 브랜드의 직접 판매(C), 세금 혜택(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about Hollings & Mayer?",
+        "options": [
+          "It has attracted younger customers through resale counters.",
+          "It plans to close twelve of its locations.",
+          "It manufactures its own clothing line.",
+          "It was founded by Joon-ho Park."
+        ],
+        "answer": 0,
+        "explanation": "백화점 체인 Hollings & Mayer는 12개 매장에 중고 의류 보상 판매 카운터를 열었고, 그 결과 '눈에 띄게 젊은 고객층'(a noticeably younger clientele)이 유입되었다고 보고했습니다. 따라서 (A)가 정답입니다. 12개 매장은 폐점이 아니라 카운터를 연 곳이며(B), 자체 의류 생산(C)이나 설립자(D)에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"That sense of pride, he added, is amplified when shoppers share their finds on social media.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 2,
+        "explanation": "삽입 문장의 'That sense of pride'(그 자부심)와 'he added'(그가 덧붙였다)는 바로 앞에 자부심에 대한 언급과 남성 화자의 발언이 있어야 함을 뜻합니다. [3] 바로 앞에서 Park 분석가가 '30세 미만 쇼핑객에게 중고 구매는 자부심의 원천'(a point of pride)이라고 말했으므로, 그 직후인 [3]에 들어가야 자연스럽게 연결됩니다. 정답은 (C)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE\n\nHearthShare Opens Region's Largest Shared Commercial Kitchen\n\nDELMONT (March 2) — HearthShare Inc. today announced the opening of its newest facility, a 2,300-square-meter shared commercial kitchen in the former Delmont Cannery building. The facility, the largest of its kind in the region, offers 28 fully equipped cooking stations that food entrepreneurs can rent by the hour, along with cold storage, packaging areas, and a loading dock for delivery vehicles. \"Starting a food business traditionally requires an enormous upfront investment in equipment and licensed space,\" said HearthShare founder and CEO Naomi Okafor. \"Our members pay only for the hours they use, which lets them test recipes, fulfill catering orders, and grow at their own pace.\" Membership plans start at $260 per month and include access to scheduling software, shared dry storage, and monthly business seminars led by industry mentors. The Delmont facility is HearthShare's fourth location and its first outside a major metropolitan area. The company says more than 60 food businesses—including bakers, sauce makers, and meal-kit preparers—have already reserved time at the site. Local officials welcomed the opening, noting that the cannery building had stood vacant for nearly a decade. Prospective members can tour the facility on weekdays or visit www.hearthshare.com for details.",
+    "questions": [
+      {
+        "question": "What is the purpose of the press release?",
+        "options": [
+          "To recruit instructors for cooking classes",
+          "To announce the opening of a new facility",
+          "To introduce a company's new chief executive",
+          "To publicize a change in membership fees"
+        ],
+        "answer": 1,
+        "explanation": "보도자료의 제목과 첫 문단에서 HearthShare가 Delmont의 옛 통조림 공장 건물에 지역 최대 규모의 공유 상업 주방 시설을 열었다고 발표하고 있습니다. 요리 강사 모집(A), 신임 CEO 소개(C), 회비 변경 공지(D)가 아니라 새 시설 개장 발표(B)가 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to Ms. Okafor, what advantage does HearthShare offer?",
+        "options": [
+          "Members avoid large initial equipment costs.",
+          "Members receive free delivery services.",
+          "Members can purchase the cooking stations.",
+          "Members are guaranteed catering contracts."
+        ],
+        "answer": 0,
+        "explanation": "Okafor CEO는 전통적으로 식품 사업을 시작하려면 장비와 허가받은 공간에 막대한 초기 투자가 필요하지만, HearthShare 회원은 사용한 시간만큼만 비용을 지불한다고 설명했습니다. 즉 큰 초기 장비 비용을 피할 수 있다는 (A)가 정답입니다. 무료 배송(B), 조리 시설 구매(C), 케이터링 계약 보장(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is included in a HearthShare membership?",
+        "options": [
+          "Unlimited cold storage space",
+          "A personal business loan",
+          "Monthly seminars with mentors",
+          "Free advertising on the company Web site"
+        ],
+        "answer": 2,
+        "explanation": "회원권에는 예약 소프트웨어 이용, 공용 건조 저장 공간, 그리고 '업계 멘토가 진행하는 월간 비즈니스 세미나'(monthly business seminars led by industry mentors)가 포함된다고 명시되어 있습니다. 따라서 (C)가 정답입니다. 냉장 보관은 시설에 있지만 '무제한'이라는 언급은 없고(A), 대출(B)이나 무료 광고(D)는 본문에 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the Delmont Cannery building?",
+        "options": [
+          "It was previously unused for many years.",
+          "It is located in a major metropolitan area.",
+          "It will be demolished next year.",
+          "It is owned by the city government."
+        ],
+        "answer": 0,
+        "explanation": "지역 관계자들은 통조림 공장 건물이 '거의 10년 동안 비어 있었다'(had stood vacant for nearly a decade)고 언급하며 개장을 환영했습니다. 따라서 오랫동안 사용되지 않았다는 (A)가 정답입니다. 이 시설은 회사 최초의 비대도시권 지점이므로 (B)는 틀렸고, 철거 계획(C)이나 시 소유 여부(D)는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "KESTREL COUNTY (February 12) — Crews began laying fiber-optic cable along Route 9 this week, marking the start of a three-year effort to bring high-speed Internet to some 18,000 rural households in Kestrel County. The $42 million project is funded jointly by the state's Digital Access Fund and Calloway Communications, the private firm selected to build and operate the network. For residents like dairy farmer Ellen Brandt, the upgrade cannot come soon enough. \"I manage feed orders, veterinary records, and milk pricing online,\" Brandt said. \"Right now I drive twenty minutes to the library parking lot just to upload files.\" County administrator Victor Salinas said reliable connectivity has become essential infrastructure, comparable to roads and water lines. He pointed to a county survey in which 31 percent of rural respondents reported that poor Internet service had affected their ability to work from home, and 24 percent said it complicated their children's schoolwork. Under the agreement, Calloway must offer a basic service tier at $45 per month and complete connections to all participating households by the end of 2028. The company will also open two customer service centers in the county, creating an estimated 35 jobs. Construction schedules and progress maps will be posted on the county's Web site and updated monthly.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "A project to expand Internet access in a rural area",
+          "A plan to repave a major county road",
+          "A dispute between a county and a utility company",
+          "A program offering free computers to farmers"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Kestrel County의 약 18,000 농촌 가구에 고속 인터넷을 보급하기 위한 3년간의 광케이블 구축 사업 착공 소식을 다루고 있습니다. 도로 재포장(B), 분쟁(C), 무료 컴퓨터 제공(D)은 본문 내용과 무관하므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Ms. Brandt currently travel to the library?",
+        "options": [
+          "To attend computer training sessions",
+          "To use an Internet connection",
+          "To borrow business reference books",
+          "To meet with county officials"
+        ],
+        "answer": 1,
+        "explanation": "낙농업자 Ellen Brandt는 '파일을 업로드하기 위해서 도서관 주차장까지 20분을 운전해서 간다'(I drive twenty minutes to the library parking lot just to upload files)고 말했습니다. 즉 인터넷 연결을 이용하기 위해서이므로 (B)가 정답입니다. 컴퓨터 교육(A), 도서 대출(C), 공무원 면담(D)은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"complicated\" in the article is closest in meaning to",
+        "options": [
+          "explained",
+          "hindered",
+          "combined",
+          "detailed"
+        ],
+        "answer": 1,
+        "explanation": "'24 percent said it complicated their children's schoolwork'에서 complicated는 동사로 '~을 어렵게 만들다, 복잡하게 하다'라는 뜻입니다. 따라서 '방해하다, 어렵게 하다'를 뜻하는 (B) hindered가 가장 가까운 동의어입니다. explained(설명했다), combined(결합했다), detailed(상세히 기술했다)는 문맥에 맞지 않습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is Calloway Communications required to do?",
+        "options": [
+          "Hire only residents of Kestrel County",
+          "Reduce its monthly fees every year",
+          "Finish all household connections by a deadline",
+          "Build a new county library branch"
+        ],
+        "answer": 2,
+        "explanation": "협약에 따라 Calloway는 월 45달러의 기본 요금제를 제공하고 '2028년 말까지 모든 참여 가구의 연결을 완료해야'(complete connections to all participating households by the end of 2028) 합니다. 따라서 기한 내 연결 완료 의무를 언급한 (C)가 정답입니다. 지역 주민만 고용(A), 매년 요금 인하(B), 도서관 분관 건립(D)은 협약 내용이 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "New Packaging Rules Set to Reshape Retail Shelves\n\nCAPITAL REPORT (January 20) — Manufacturers and retailers across the country are preparing for the Packaging Reduction Act, a sweeping set of regulations that takes effect on October 1. — [1] —. Under the law, companies that sell more than $5 million in consumer goods annually must cut single-use plastic packaging by 30 percent within five years and ensure that all remaining packaging is recyclable or compostable by 2032. — [2] —. Firms that miss the targets will face fees of up to two cents per noncompliant package, with revenue directed to municipal recycling programs. Reaction from industry has been divided. The National Grocers Alliance warned that compliance costs could raise prices on some packaged foods, while beverage maker Clearbrook Springs publicly endorsed the law, noting that it switched to fully recyclable bottles two years ago. — [3] —. Environmental groups, meanwhile, argue the timeline is too generous. \"Five years is a long runway for an industry that has had decades of warning,\" said Mira Castellanos of the Coastal Watch Coalition. — [4] —. The Commerce Department will publish detailed compliance guidelines in March, and companies may apply for a one-year extension if they can demonstrate that suitable packaging alternatives are not commercially available.",
+    "questions": [
+      {
+        "question": "What is the main topic of the article?",
+        "options": [
+          "Upcoming regulations on product packaging",
+          "A recall of improperly labeled beverages",
+          "Rising prices in the grocery industry",
+          "A merger of two packaging manufacturers"
+        ],
+        "answer": 0,
+        "explanation": "기사는 10월 1일 발효되는 포장재 감축법(Packaging Reduction Act)의 내용, 즉 일회용 플라스틱 포장 30% 감축 의무와 위반 시 부과금 등을 중심으로 다루고 있습니다. 음료 리콜(B), 식료품 가격 상승 자체(C), 제조사 합병(D)이 아니라 포장 규제(A)가 주제입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen to companies that do not meet the targets?",
+        "options": [
+          "They will lose their business licenses.",
+          "They will be charged a fee for each noncompliant package.",
+          "They will be banned from selling beverages.",
+          "They will be required to fund new factories."
+        ],
+        "answer": 1,
+        "explanation": "본문에 목표를 달성하지 못한 기업은 '규정에 맞지 않는 포장 1개당 최대 2센트의 부과금'(fees of up to two cents per noncompliant package)을 내야 하며, 그 수입은 지자체 재활용 프로그램에 쓰인다고 명시되어 있습니다. 따라서 (B)가 정답입니다. 면허 취소(A), 판매 금지(C), 공장 건설 자금 부담(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Clearbrook Springs?",
+        "options": [
+          "It expects the law to reduce its profits.",
+          "It already meets one of the law's requirements.",
+          "It plans to relocate its bottling plants.",
+          "It is the country's largest beverage maker."
+        ],
+        "answer": 1,
+        "explanation": "Clearbrook Springs는 법을 공개적으로 지지했으며, '2년 전에 완전 재활용 가능한 병으로 전환했다'(switched to fully recyclable bottles two years ago)고 언급되었습니다. 법은 포장재가 재활용 또는 퇴비화 가능해야 한다고 요구하므로, 이 회사는 이미 법의 요건 중 하나를 충족하고 있다고 추론할 수 있어 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Smaller businesses below that revenue threshold are exempt but may participate voluntarily.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 1,
+        "explanation": "삽입 문장은 '그 매출 기준(threshold) 미만의 소규모 기업은 면제되지만 자발적으로 참여할 수 있다'는 내용입니다. 'that revenue threshold'가 가리키는 것은 [2] 바로 앞 문장의 '연 매출 500만 달러 초과 기업'이라는 기준이므로, 그 직후인 [2]에 들어가야 지시어가 자연스럽게 연결됩니다. 정답은 (B)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "After Dark, Business Booms at Riverside Night Market\n\nSANTOVIA (August 30) — When the Riverside Night Market opened two summers ago with just 25 stalls, few predicted it would become one of Santovia's strongest economic engines. Today the market hosts 110 vendors every Friday and Saturday evening from May through October, drawing an average of 9,000 visitors per night, according to figures released by the Santovia Commerce Bureau this week. The bureau estimates that the market generated $7.8 million in direct sales last season and supported roughly 460 part-time jobs. Its effects reach beyond the riverfront: nearby restaurants, parking facilities, and rideshare drivers all report higher weekend earnings since the market opened. For many vendors, the market serves as a low-cost testing ground. Stall fees start at $70 per night, far below the rent for a permanent storefront. At least 14 businesses that began as night market stalls have since opened brick-and-mortar locations in the city, including the popular dumpling shop Lantern & Ladle. Not all feedback has been positive. Some residents of the adjacent Harborview district have complained about late-night noise and limited parking. In response, the city has added two shuttle routes and moved the market's closing time from midnight to 11:00 P.M. Bureau director Camille Renaud says applications for next season's stalls have already doubled compared with last year.",
+    "questions": [
+      {
+        "question": "What is indicated about the Riverside Night Market?",
+        "options": [
+          "It operates seven nights a week.",
+          "It has grown significantly since it opened.",
+          "It is located inside a shopping mall.",
+          "It charges visitors an entrance fee."
+        ],
+        "answer": 1,
+        "explanation": "시장은 2년 전 25개 노점으로 시작했지만 현재는 110개 노점이 참여하고 하룻밤 평균 9,000명이 방문하는 규모로 성장했습니다. 따라서 개장 이후 크게 성장했다는 (B)가 정답입니다. 운영은 금·토요일 저녁에만 하므로 (A)는 틀렸고, 쇼핑몰 내부 위치(C)나 입장료(D)는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why do some vendors find the market appealing?",
+        "options": [
+          "It allows them to try out a business at low cost.",
+          "It provides free cooking equipment.",
+          "It guarantees a permanent storefront location.",
+          "It operates throughout the entire year."
+        ],
+        "answer": 0,
+        "explanation": "본문에서 시장은 많은 상인들에게 '저비용 테스트 무대'(a low-cost testing ground) 역할을 하며, 노점 이용료가 1박당 70달러부터로 상설 매장 임대료보다 훨씬 저렴하다고 설명합니다. 따라서 (A)가 정답입니다. 무료 조리 장비(B)나 상설 매장 보장(C)은 없으며, 운영 기간은 5월~10월이므로 연중 운영(D)도 틀렸습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is mentioned about Lantern & Ladle?",
+        "options": [
+          "It started as a stall at the night market.",
+          "It is the market's oldest vendor.",
+          "It recently closed its riverfront location.",
+          "It sponsors the market's shuttle service."
+        ],
+        "answer": 0,
+        "explanation": "야시장 노점으로 시작해 시내에 상설 매장을 연 업체가 최소 14곳이며, 그 예로 인기 만두 가게 Lantern & Ladle이 언급되었습니다. 따라서 야시장 노점에서 출발했다는 (A)가 정답입니다. 최고참 상인(B), 매장 폐업(C), 셔틀 후원(D)은 본문에 근거가 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How did the city respond to residents' complaints?",
+        "options": [
+          "By reducing the number of vendor stalls",
+          "By relocating the market to another district",
+          "By adding shuttle routes and closing the market earlier",
+          "By lowering stall fees for local businesses"
+        ],
+        "answer": 2,
+        "explanation": "인근 Harborview 지역 주민들의 심야 소음과 주차난 불만에 대해 시는 '셔틀 노선 2개를 추가하고 폐장 시간을 자정에서 밤 11시로 앞당기는'(added two shuttle routes and moved the closing time from midnight to 11:00 P.M.) 조치를 취했습니다. 따라서 (C)가 정답입니다. 노점 수 감축(A), 시장 이전(B), 수수료 인하(D)는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE\n\nTorvale Financial Expands Employee Volunteering Initiative\n\nNORTH HADLEY (September 8) — Torvale Financial Group today announced a major expansion of its corporate volunteering program, Hands Forward, following a successful two-year trial at its North Hadley headquarters. Beginning January 1, all 4,200 Torvale employees worldwide will receive five paid days per year to volunteer with registered charitable organizations of their choice. — [1] —. Under the trial, headquarters staff logged more than 11,000 volunteer hours at food banks, literacy programs, and environmental cleanups. — [2] —. An internal survey found that 78 percent of participating employees said the program increased their satisfaction with the company, and the human resources department reported a measurable improvement in staff retention. — [3] —. \"We initially viewed Hands Forward as a community investment,\" said Chief Executive Officer Priya Raman. \"What we did not anticipate was how strongly it would strengthen our own workplace.\" As part of the expansion, Torvale will introduce a matching program through which the company donates $25 for every volunteer hour an employee completes, up to $1 million annually. — [4] —. Employees will track their hours through a mobile application developed in partnership with the nonprofit network GiveBridge. Community organizations interested in hosting Torvale volunteers may submit requests at www.torvalefinancial.com/handsforward.",
+    "questions": [
+      {
+        "question": "What is the purpose of the press release?",
+        "options": [
+          "To announce the expansion of a volunteering program",
+          "To introduce a new line of financial products",
+          "To report the company's quarterly earnings",
+          "To publicize the opening of a new headquarters"
+        ],
+        "answer": 0,
+        "explanation": "보도자료는 Torvale Financial이 2년간의 시범 운영 후 직원 자원봉사 프로그램 'Hands Forward'를 전 세계 전 직원으로 확대한다는 발표입니다. 신규 금융 상품(B), 분기 실적(C), 새 본사 개소(D)가 아니라 자원봉사 프로그램 확대 발표(A)가 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will employees receive starting January 1?",
+        "options": [
+          "A salary increase of 5 percent",
+          "Paid time off for volunteer work",
+          "Free membership in a fitness program",
+          "An additional week of vacation"
+        ],
+        "answer": 1,
+        "explanation": "1월 1일부터 전 세계 4,200명의 Torvale 직원 모두가 '자신이 선택한 등록 자선단체에서 자원봉사할 수 있는 연간 5일의 유급 휴가'(five paid days per year to volunteer)를 받게 됩니다. 따라서 (B)가 정답입니다. 급여 인상(A), 피트니스 멤버십(C), 추가 휴가 1주(D)는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the press release, what was an unexpected result of the trial?",
+        "options": [
+          "A rise in the company's stock price",
+          "Increased demand from charitable organizations",
+          "A positive effect on the company's workplace",
+          "Higher costs than originally budgeted"
+        ],
+        "answer": 2,
+        "explanation": "Priya Raman CEO는 '처음에는 지역사회 투자로 여겼지만, 프로그램이 우리 직장 자체를 이렇게 강화할 줄은 예상하지 못했다'(What we did not anticipate was how strongly it would strengthen our own workplace)고 말했습니다. 직원 만족도 상승과 근속률 개선 등 사내에 미친 긍정적 효과가 예상 밖의 결과였으므로 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Donations made through it will be distributed to the organizations where the hours were served.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 3,
+        "explanation": "삽입 문장의 'Donations made through it'(그것을 통해 이루어진 기부금)에서 it은 기부 매칭 제도를 가리킵니다. [4] 바로 앞 문장에서 직원의 봉사 1시간당 회사가 25달러를 기부하는 매칭 프로그램(matching program)이 소개되므로, 그 기부금이 봉사가 이루어진 단체에 전달된다는 내용은 [4]에 와야 자연스럽습니다. 정답은 (D)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "BRENVILLE (July 14) — The Brenville Transit Authority (BTA) marked a milestone on Friday as the last of its 120 diesel buses was retired, completing a five-year transition to an entirely electric fleet. Brenville is now the largest city in the province to operate a fully electric public bus system. The conversion, which cost $310 million, was financed through a combination of federal clean-transit grants, provincial funding, and fare revenue. BTA general manager Howard Lindqvist said the agency expects to save approximately $4.2 million annually on fuel and maintenance, since electric buses have fewer moving parts than diesel models and require less frequent servicing. Riders have noticed differences as well. \"The new buses are so quiet that I can actually take phone calls during my commute,\" said passenger Dina Abadi, who rides the Route 14 line daily. The transition was not without setbacks. Early in the program, several buses experienced reduced battery range during severe winter weather, forcing the BTA to adjust schedules on longer routes. The agency responded by installing fast-charging stations at three terminal points and equipping newer vehicles with improved thermal management systems. The BTA will host a public open house at its Central Depot on July 26, where visitors can tour the charging facilities and learn about planned route expansions.",
+    "questions": [
+      {
+        "question": "What did the Brenville Transit Authority recently accomplish?",
+        "options": [
+          "It completed the conversion of its bus fleet to electric vehicles.",
+          "It opened a new central terminal downtown.",
+          "It reduced fares on all of its routes.",
+          "It merged with a neighboring transit agency."
+        ],
+        "answer": 0,
+        "explanation": "기사 첫 문장에서 BTA가 마지막 디젤 버스 120대 중 마지막 차량을 퇴역시키며 5년에 걸친 전기 버스 전환을 완료했다고 보도하고 있습니다. 따라서 (A)가 정답입니다. 새 터미널 개장(B), 요금 인하(C), 기관 합병(D)은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does the BTA expect to reduce its expenses?",
+        "options": [
+          "Electric buses need less maintenance and no diesel fuel.",
+          "The agency plans to eliminate several routes.",
+          "Drivers' salaries will be lowered next year.",
+          "The federal government will pay all operating costs."
+        ],
+        "answer": 0,
+        "explanation": "Lindqvist 총괄 책임자는 전기 버스가 디젤 모델보다 가동 부품이 적어 정비 빈도가 낮기 때문에 연료비와 유지보수비로 연간 약 420만 달러를 절감할 것으로 예상한다고 밝혔습니다. 따라서 (A)가 정답입니다. 노선 폐지(B), 임금 삭감(C), 연방정부의 운영비 전액 부담(D)은 본문에 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What problem did the BTA encounter during the transition?",
+        "options": [
+          "A shortage of qualified drivers",
+          "Decreased battery performance in cold weather",
+          "Opposition from local residents",
+          "Delays in receiving government funding"
+        ],
+        "answer": 1,
+        "explanation": "전환 초기 '혹독한 겨울 날씨에 여러 버스의 배터리 주행 거리가 감소'(reduced battery range during severe winter weather)하여 장거리 노선 시간표를 조정해야 했다고 언급됩니다. 따라서 (B)가 정답입니다. 운전기사 부족(A), 주민 반대(C), 자금 지급 지연(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"setbacks\" in the article is closest in meaning to",
+        "options": [
+          "refunds",
+          "difficulties",
+          "discounts",
+          "departures"
+        ],
+        "answer": 1,
+        "explanation": "'The transition was not without setbacks'에서 setbacks는 '차질, 어려움'을 뜻하며, 뒤이어 겨울철 배터리 성능 저하라는 문제가 설명됩니다. 따라서 '어려움'을 뜻하는 (B) difficulties가 가장 가까운 동의어입니다. refunds(환불), discounts(할인), departures(출발)는 문맥에 맞지 않습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "A Faded Landmark Reawakens\n\nPORT ELLISON (October 5) — For decades, the Marlowe House stood as a reminder of Port Ellison's golden age of rail travel—and, more recently, of its decline. This week, the 1912 building reopened as the Marlowe House Hotel, a 38-room boutique property that its owners hope will anchor the city's reviving waterfront district. Hotelier Grace Yun purchased the derelict property three years ago and invested $9.6 million in its renovation. Rather than modernizing the building beyond recognition, Yun's team preserved its defining features: the marble lobby staircase, the original brass elevator doors, and the hand-painted ceiling of the former ballroom, which now serves as the hotel's restaurant. \"Guests today are tired of hotels that look identical in every city,\" Yun said. \"They want a place with a story, and this building has a century of them.\" Period photographs sourced from the Port Ellison Historical Society line the corridors, and each guest room is named after a historic local figure. The renovation also added contemporary comforts, including soundproof windows, a fitness studio, and a rooftop terrace overlooking the harbor. Room rates begin at $240 per night, and the hotel reports that it is fully booked through November. Two more historic buildings on Wharf Street are reportedly being considered for similar conversions.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The history of rail travel in Port Ellison",
+          "The transformation of an old building into a hotel",
+          "A fundraising campaign by a historical society",
+          "The construction of a new waterfront restaurant"
+        ],
+        "answer": 1,
+        "explanation": "기사는 1912년에 지어진 Marlowe House가 960만 달러의 보수 공사를 거쳐 38개 객실의 부티크 호텔로 재개장한 소식을 다루고 있습니다. 철도 여행의 역사(A)는 배경 언급일 뿐이고, 모금 캠페인(C)이나 새 레스토랑 건설(D)은 주제가 아니므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What approach did Ms. Yun take to the renovation?",
+        "options": [
+          "She kept many of the building's original features.",
+          "She replaced the interior with modern designs.",
+          "She expanded the building to add 100 rooms.",
+          "She converted the ballroom into guest rooms."
+        ],
+        "answer": 0,
+        "explanation": "Yun의 팀은 건물을 알아볼 수 없을 정도로 현대화하는 대신 대리석 로비 계단, 원래의 황동 엘리베이터 문, 옛 연회장의 손으로 그린 천장 등 '건물의 특징적인 요소들을 보존'(preserved its defining features)했습니다. 따라서 (A)가 정답입니다. 연회장은 객실이 아니라 호텔 레스토랑으로 사용되므로 (D)는 틀렸습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a feature added during the renovation?",
+        "options": [
+          "Windows that block outside noise",
+          "An exercise facility",
+          "A terrace with a view of the harbor",
+          "A swimming pool"
+        ],
+        "answer": 3,
+        "explanation": "보수 공사로 추가된 현대적 편의시설로 방음창(soundproof windows), 피트니스 스튜디오(fitness studio), 항구가 내려다보이는 옥상 테라스(rooftop terrace overlooking the harbor)가 언급되었습니다. 수영장(D)은 본문에 없으므로 정답입니다. NOT 문제이므로 언급된 (A), (B), (C)를 소거하면 됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the Marlowe House Hotel?",
+        "options": [
+          "It is experiencing strong early demand.",
+          "It offers the lowest room rates in the city.",
+          "It is owned by the Port Ellison Historical Society.",
+          "It will close for further renovations in November."
+        ],
+        "answer": 0,
+        "explanation": "호텔은 '11월까지 예약이 모두 찼다'(fully booked through November)고 보고했으므로, 개장 초기부터 수요가 매우 높다는 (A)를 추론할 수 있습니다. 객실 요금은 1박 240달러부터로 최저가라는 언급은 없고(B), 역사협회는 사진을 제공했을 뿐 소유주가 아니며(C), 11월 휴업 계획(D)도 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Stonebridge Film Festival Announces Tenth-Anniversary Program\n\nSTONEBRIDGE (March 27) — The Stonebridge Regional Film Festival will celebrate its tenth anniversary this June with its most ambitious program yet, organizers announced Thursday. — [1] —. The festival, which runs June 12–18, will screen 84 films from 22 countries across five venues, including the newly restored Orpheum Theater, which will host opening night. Festival director Tomas Herrera said this year's selection emphasizes work by first-time directors. \"Established filmmakers have plenty of platforms,\" Herrera noted. \"Our mission has always been to find voices that audiences have not heard yet.\" — [2] —. Twenty-six of the selected films are directorial debuts, and twelve were produced within the region. The festival's economic footprint has grown steadily. A study commissioned by the Stonebridge Tourism Board found that last year's event attracted 31,000 attendees and generated an estimated $5.4 million for local hotels, restaurants, and shops. — [3] —. This year, organizers have partnered with eleven downtown businesses to offer ticket holders discounts during the festival week. New for the anniversary edition is the Bridge Award, a $50,000 production grant that will be presented to one emerging regional filmmaker. — [4] —. Tickets go on sale April 10 at www.stonebridgefilmfest.org, with festival passes priced from $95.",
+    "questions": [
+      {
+        "question": "What is indicated about this year's festival?",
+        "options": [
+          "It will take place at a single venue.",
+          "It will feature many films by new directors.",
+          "It will last for an entire month.",
+          "It will be free for local residents."
+        ],
+        "answer": 1,
+        "explanation": "Herrera 감독은 올해 선정작이 신인 감독의 작품을 중시한다고 밝혔으며, 선정작 중 26편이 감독 데뷔작입니다. 따라서 (B)가 정답입니다. 상영은 5개 장소에서 진행되므로 (A)는 틀렸고, 기간은 6월 12~18일 일주일이므로 (C)도 틀렸으며, 무료 입장(D)에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what did a study find?",
+        "options": [
+          "The festival contributed millions to the local economy.",
+          "Most attendees came from other countries.",
+          "Ticket prices have doubled since the first festival.",
+          "The Orpheum Theater needs further repairs."
+        ],
+        "answer": 0,
+        "explanation": "Stonebridge 관광위원회가 의뢰한 연구에 따르면 작년 행사에는 31,000명이 참석했고 지역 호텔, 식당, 상점에 약 540만 달러의 경제 효과를 창출했습니다. 따라서 (A)가 정답입니다. 참석자의 출신지(B), 티켓 가격 추이(C), 극장 추가 수리(D)는 연구 결과로 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is new at this year's festival?",
+        "options": [
+          "An online streaming option",
+          "A grant for an up-and-coming filmmaker",
+          "A category for documentary films",
+          "A series of acting workshops"
+        ],
+        "answer": 1,
+        "explanation": "10주년 기념판에 새로 도입된 것은 'the Bridge Award, a $50,000 production grant'로, 지역의 신예 영화감독 한 명에게 수여되는 5만 달러의 제작 지원금입니다. 따라서 (B)가 정답입니다. 온라인 상영(A), 다큐멘터리 부문(C), 연기 워크숍(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Applicants for the prize must have completed no more than two feature films.\"",
+        "options": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]"
+        ],
+        "answer": 3,
+        "explanation": "삽입 문장은 '그 상(the prize)의 지원자는 장편 영화를 2편 이하로 완성한 사람이어야 한다'는 지원 자격 요건입니다. 'the prize'가 가리키는 것은 [4] 바로 앞에서 소개된 신설 Bridge Award(5만 달러 제작 지원금)이므로, 그 직후인 [4]에 들어가야 자연스럽습니다. 정답은 (D)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "Behind the Label: How Resale Platforms Verify Luxury Goods\n\nIn the booming second-hand luxury market, trust is the most valuable commodity. As online platforms handle growing volumes of pre-owned designer handbags, watches, and apparel, the industry has invested heavily in authentication—the process of confirming that an item is genuine. At Verity Lane, one of the largest resale platforms, every luxury item passes through a regional verification center before reaching a buyer. There, trained specialists examine stitching patterns, hardware engravings, date codes, and even the smell of leather, which counterfeit tanning processes often fail to replicate. Items priced above $2,000 undergo a second review by a senior authenticator. The company says its specialists complete a six-month training program and must pass quarterly assessments to keep their certification current. Technology is playing a growing part as well. Verity Lane recently introduced a microscope-camera system that captures magnified images of an item's surface texture and compares them against a database of verified originals. According to chief operations officer Felix Marchetti, the system has cut average inspection time from 40 minutes to 25 while improving accuracy. \"Counterfeits keep getting better, so our methods have to evolve faster,\" Marchetti said. The investment appears to pay off: the platform reports that fewer than 0.3 percent of items sold last year were returned over authenticity disputes, an industry-leading figure.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "How a company confirms that resale items are genuine",
+          "Why luxury brands are raising their prices",
+          "How counterfeit goods are manufactured overseas",
+          "Why a resale platform is closing its verification centers"
+        ],
+        "answer": 0,
+        "explanation": "기사는 중고 명품 시장에서 재판매 플랫폼 Verity Lane이 상품의 진품 여부를 확인하는 인증(authentication) 과정—전문가 검수, 교육 프로그램, 현미경 카메라 시스템 등—을 다루고 있습니다. 따라서 (A)가 정답입니다. 명품 가격 인상(B), 위조품 제조 과정(C), 인증 센터 폐쇄(D)는 주제가 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happens to items priced above $2,000?",
+        "options": [
+          "They are shipped directly to buyers.",
+          "They are inspected an additional time.",
+          "They are photographed for an advertisement.",
+          "They are stored in a separate warehouse."
+        ],
+        "answer": 1,
+        "explanation": "본문에 '2,000달러가 넘는 상품은 선임 인증 전문가의 2차 검토를 거친다'(Items priced above $2,000 undergo a second review by a senior authenticator)고 명시되어 있습니다. 즉 한 번 더 검수를 받는다는 (B)가 정답입니다. 직배송(A), 광고 촬영(C), 별도 창고 보관(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What benefit of the microscope-camera system is mentioned?",
+        "options": [
+          "It reduced inspection time while increasing accuracy.",
+          "It eliminated the need for trained specialists.",
+          "It lowered the price of luxury items.",
+          "It allowed customers to inspect items at home."
+        ],
+        "answer": 0,
+        "explanation": "Marchetti COO에 따르면 현미경 카메라 시스템은 평균 검수 시간을 40분에서 25분으로 단축하면서도 정확도를 향상시켰습니다(cut average inspection time from 40 minutes to 25 while improving accuracy). 따라서 (A)가 정답입니다. 전문가가 불필요해졌다는 언급(B)은 없으며, 가격 인하(C)나 고객의 자가 검수(D)도 본문에 없습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"current\" in the article is closest in meaning to",
+        "options": [
+          "electric",
+          "valid",
+          "frequent",
+          "popular"
+        ],
+        "answer": 1,
+        "explanation": "'must pass quarterly assessments to keep their certification current'에서 current는 자격증이 '유효한, 효력이 유지되는' 상태를 의미합니다. 따라서 '유효한'을 뜻하는 (B) valid가 가장 가까운 동의어입니다. electric(전기의), frequent(빈번한), popular(인기 있는)는 문맥상 맞지 않습니다.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]
