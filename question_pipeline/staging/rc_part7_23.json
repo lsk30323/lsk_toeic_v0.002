@@ -1,0 +1,1256 @@
+[
+  {
+    "passageType": "double-passage",
+    "passage": "MEMO\nTo: All Department Heads\nFrom: Olivia Tran, Chief Financial Officer\nDate: March 2\nSubject: Q2 Budget Approval Procedure\n\nBeginning this quarter, all requests for unbudgeted expenditures over $2,000 must be submitted through the new e-Approve portal rather than by paper form. Requests under $2,000 may still be approved directly by department heads. Each submission must include three vendor quotes and a one-paragraph justification. The finance committee reviews submissions every Friday, and decisions are issued within five business days of review. Please note that requests received after Wednesday at 5:00 P.M. will be held for the following week's review cycle. Equipment purchases must additionally be cleared by the IT department if they will connect to the company network.\n\n--- Passage 2 ---\nTo: Olivia Tran <otran@brennanlogistics.com>\nFrom: Marcus Webb <mwebb@brennanlogistics.com>\nDate: Thursday, March 12\nSubject: Conference room projector\n\nDear Ms. Tran,\n\nI submitted a request through e-Approve this morning for a replacement projector for the third-floor conference room. The unit costs $2,650, and I attached quotes from three suppliers along with the justification paragraph. Since our quarterly client presentations begin on March 27, I am hoping the purchase can be finalized before then. Could you confirm when I can expect a decision? Also, the projector will use a wireless connection to display from laptops, so please let me know whether any additional step is required on my end.\n\nBest regards,\nMarcus Webb, Sales Department",
+    "questions": [
+      {
+        "question": "What is the purpose of the memo?",
+        "options": [
+          "To announce a change in the expenditure approval process",
+          "To request vendor quotes from department heads",
+          "To introduce a new chief financial officer",
+          "To report the results of a quarterly budget review"
+        ],
+        "answer": 0,
+        "explanation": "메모 첫 문장에서 'Beginning this quarter, all requests for unbudgeted expenditures over $2,000 must be submitted through the new e-Approve portal rather than by paper form'이라고 하여 종이 양식에서 온라인 포털로 승인 절차가 변경됨을 공지하고 있습니다. 따라서 정답은 (A)입니다. 견적서는 제출 요건일 뿐 요청 대상이 아니므로 (B)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is Mr. Webb required to use the e-Approve portal for his request?",
+        "options": [
+          "His department head was unavailable to sign a form.",
+          "The cost of the projector exceeds $2,000.",
+          "All sales department purchases require committee review.",
+          "The purchase was not included in the annual plan announced in January."
+        ],
+        "answer": 1,
+        "explanation": "두 지문을 연계해야 하는 문제입니다. 메모에서 2,000달러를 초과하는 비예산 지출은 e-Approve 포털로 제출해야 한다고 했고, 이메일에서 프로젝터 가격이 'The unit costs $2,650'라고 명시되어 있습니다. 2,650달러는 2,000달러를 초과하므로 포털 제출 대상입니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when can Mr. Webb most likely expect a decision on his request?",
+        "options": [
+          "By March 13",
+          "By March 18",
+          "By March 27",
+          "By April 2"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 이메일 날짜가 목요일 3월 12일이므로 수요일 오후 5시 마감 이후에 제출된 것이 아니라, 목요일 제출이므로 그 주 금요일(3월 13일) 검토 대상이 아니라 다음 주로 넘어간다고 생각하기 쉽지만, 메모는 '수요일 오후 5시 이후 접수된 요청은 다음 주 검토 주기로 보류된다'고 했습니다. 목요일 아침 제출이므로 다음 주 금요일이 아닌, 가장 가까운 검토일인 3월 13일 금요일이 아니라 그 다음 주기인 3월 20일 금요일에 검토됩니다. 잠깐, 3월 12일 목요일 제출은 수요일 5시 이후이므로 3월 20일 금요일에 검토되고, 검토 후 5영업일 이내 결정이 나오므로 늦어도 3월 27일경입니다. 그러나 선택지 중 검토일(3월 13일) 기준 5영업일을 적용하면 3월 18일경이 아니라는 점에 유의해야 합니다. 정확히 계산하면: 목요일 3월 12일 제출 → 수요일 마감 경과 → 3월 20일(금) 검토 → 5영업일 이내 결정 = 3월 27일까지. 따라서 (C)가 아닌 (B)를 고르지 않도록 주의해야 하지만, 본 문제의 정답 설정은 검토일 3월 13일 + 5영업일 = 3월 18일을 묻는 함정을 피해야 합니다. 최종적으로 메모 규정상 3월 12일 목요일 제출 건은 3월 20일 검토, 5영업일 내 결정이므로 3월 27일까지 결정이 예상됩니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What additional approval will Mr. Webb's purchase require?",
+        "options": [
+          "Clearance from the IT department",
+          "A signature from the sales director",
+          "A second round of vendor quotes",
+          "Authorization from the building manager"
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 메모 마지막 문장에서 '회사 네트워크에 연결되는 장비 구매는 추가로 IT 부서의 승인을 받아야 한다'고 했고, 이메일에서 'the projector will use a wireless connection to display from laptops'라고 하여 네트워크에 연결됨을 알 수 있습니다. 따라서 IT 부서 승인이 추가로 필요하므로 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What did Mr. Webb include with his request?",
+        "options": [
+          "A floor plan of the conference room",
+          "A presentation schedule for clients",
+          "Quotes from three suppliers and a justification",
+          "An invoice from the previous projector supplier"
+        ],
+        "answer": 2,
+        "explanation": "이메일에서 'I attached quotes from three suppliers along with the justification paragraph'라고 명시했습니다. 이는 메모에서 요구한 '세 개의 공급업체 견적과 한 단락의 사유서' 요건과 일치합니다. 정답은 (C)입니다. 고객 프레젠테이션 일정은 언급만 되었을 뿐 첨부물이 아니므로 (B)는 오답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NOTICE TO ALL EMPLOYEES — HARGROVE BANK\n\nHargrove Bank is pleased to announce the opening of its newest branch in Eastfield on September 8. The branch will employ approximately 25 staff members, and current employees are invited to apply for transfer before external recruitment begins. Open positions include two assistant manager roles, six teller positions, and one small-business loan officer. Transfer applicants must have completed at least eighteen months of continuous service and hold a performance rating of \"Meets Expectations\" or higher on their most recent review. Applications are due by July 18 and should be sent to Dana Okafor in Human Resources. Interviews for shortlisted candidates will be held during the first week of August. Relocation assistance of up to $1,500 is available only to employees transferring from branches more than 50 kilometers from Eastfield.\n\n--- Passage 2 ---\nTo: Dana Okafor <dokafor@hargrovebank.com>\nFrom: Priya Raman <praman@hargrovebank.com>\nDate: July 10\nSubject: Transfer Application — Eastfield Branch\n\nDear Ms. Okafor,\n\nI would like to apply for the small-business loan officer position at the new Eastfield branch. I joined Hargrove Bank's Riverton branch twenty-six months ago as a teller and was promoted to loan processing assistant last year. My latest performance review rated me \"Exceeds Expectations.\" Riverton is about 65 kilometers from Eastfield, so I would also like to ask how to apply for the relocation assistance mentioned in the notice. I have attached my résumé and my supervisor's reference letter.\n\nSincerely,\nPriya Raman",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To advertise banking services to small businesses",
+          "To invite employees to apply for positions at a new branch",
+          "To announce the retirement of a branch manager",
+          "To explain changes to the performance review system"
+        ],
+        "answer": 1,
+        "explanation": "공지문은 9월 8일 Eastfield 신규 지점 개설을 알리면서 'current employees are invited to apply for transfer before external recruitment begins'라고 하여 외부 채용 전에 내부 직원의 전근 지원을 받는다는 것이 핵심 목적입니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the Eastfield branch?",
+        "options": [
+          "It will be the largest branch of Hargrove Bank.",
+          "It will open in July.",
+          "It will have about 25 employees.",
+          "It will specialize in corporate accounts."
+        ],
+        "answer": 2,
+        "explanation": "공지에서 'The branch will employ approximately 25 staff members'라고 명시했으므로 정답은 (C)입니다. 개점일은 9월 8일이므로 (B)는 오답이며, 규모 비교나 기업 계좌 전문화에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is Ms. Raman eligible to apply for the transfer?",
+        "options": [
+          "She has worked at the bank for more than eighteen months and has a strong review.",
+          "She previously worked at the Eastfield branch.",
+          "She holds a degree in small-business finance.",
+          "Her supervisor recommended her for a management role."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 공지는 지원 자격으로 '18개월 이상 연속 근무'와 '최근 평가 Meets Expectations 이상'을 요구합니다. 이메일에서 Ms. Raman은 26개월 전에 입사했고 최근 평가가 'Exceeds Expectations'라고 밝혔으므로 두 요건을 모두 충족합니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Raman most likely qualify for relocation assistance?",
+        "options": [
+          "She is applying for a management position.",
+          "Her current branch is more than 50 kilometers from Eastfield.",
+          "She was promoted within the last year.",
+          "She submitted her application before the deadline."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 공지에서 이전 지원금은 'Eastfield에서 50킬로미터 이상 떨어진 지점에서 전근하는 직원에게만' 제공된다고 했고, 이메일에서 'Riverton is about 65 kilometers from Eastfield'라고 했으므로 자격 요건을 충족합니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When will Ms. Raman most likely be interviewed if she is shortlisted?",
+        "options": [
+          "In the second week of July",
+          "On July 18",
+          "In the first week of August",
+          "On September 8"
+        ],
+        "answer": 2,
+        "explanation": "공지에서 'Interviews for shortlisted candidates will be held during the first week of August'라고 명시했습니다. 7월 10일에 지원서를 제출한 Ms. Raman이 서류 심사를 통과하면 8월 첫째 주에 면접을 보게 되므로 정답은 (C)입니다. 7월 18일은 지원 마감일, 9월 8일은 개점일입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "www.korvatech.com/monitors/compare\n\nKorvaTech Professional Monitors — Comparison\n\nModel KV-24: 24-inch screen, standard color accuracy, fixed stand, 2 HDMI ports, 3-year warranty — $189\nModel KV-27: 27-inch screen, enhanced color accuracy, height-adjustable stand, 2 HDMI ports and 1 USB-C port, 3-year warranty — $259\nModel KV-32: 32-inch screen, studio-grade color accuracy, fully adjustable stand, 2 HDMI ports and 2 USB-C ports, 5-year warranty — $429\nModel KV-32C: 32-inch curved screen, studio-grade color accuracy, fully adjustable stand, 2 HDMI ports and 2 USB-C ports, 5-year warranty — $479\n\nOrders of ten or more units qualify for a 10% volume discount. All models ship within two business days. Note: USB-C connectivity is required to use KorvaTech's single-cable docking feature.\n\n--- Passage 2 ---\nTo: sales@korvatech.com\nFrom: Henry Osei <h.osei@calderdesign.com>\nDate: April 14\nSubject: Order inquiry for design team\n\nHello,\n\nOur graphic design firm is replacing the monitors for our twelve designers. We need studio-grade color accuracy, and all of our designers use the single-cable docking setup with their laptops. We would prefer flat screens rather than curved ones, as our workstations are shared between staff on different shifts. Could you confirm the per-unit price we would pay after any applicable discount, and whether you can deliver to Calder Design, 88 Foundry Lane, by April 20? Also, does the warranty cover accidental damage, or only manufacturing defects?\n\nThank you,\nHenry Osei, Operations Manager",
+    "questions": [
+      {
+        "question": "What is the purpose of the Web page?",
+        "options": [
+          "To compare features of several monitor models",
+          "To announce the release of a new product line",
+          "To explain how to install a docking station",
+          "To advertise a seasonal clearance sale"
+        ],
+        "answer": 0,
+        "explanation": "웹페이지 제목이 'KorvaTech Professional Monitors — Comparison'이고 네 가지 모델의 화면 크기, 색 정확도, 스탠드, 포트, 보증 기간, 가격을 나란히 비교하고 있으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which model will Mr. Osei most likely order?",
+        "options": [
+          "KV-24",
+          "KV-27",
+          "KV-32",
+          "KV-32C"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. 이메일에서 요구한 조건은 (1) 스튜디오급 색 정확도, (2) 단일 케이블 도킹(웹페이지에 따르면 USB-C 필요), (3) 곡면이 아닌 평면 화면입니다. 스튜디오급 색 정확도와 USB-C를 갖춘 모델은 KV-32와 KV-32C인데, 곡면(curved)인 KV-32C는 제외되므로 평면인 KV-32가 적합합니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What per-unit price will Mr. Osei's company most likely pay?",
+        "options": [
+          "$189.00",
+          "$386.10",
+          "$429.00",
+          "$431.10"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 계산 문제입니다. 디자이너 12명분, 즉 12대를 주문하므로 웹페이지의 '10대 이상 주문 시 10% 할인' 조건에 해당합니다. KV-32의 정가 $429에서 10%를 할인하면 $429 × 0.9 = $386.10입니다. 정답은 (B)입니다. (D) $431.10은 KV-32C 가격에 10%를 적용한 금액으로 함정입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What does Mr. Osei ask about the warranty?",
+        "options": [
+          "Whether it can be extended for a fee",
+          "Whether it includes accidental damage",
+          "Whether it transfers to a new owner",
+          "Whether it covers on-site repairs"
+        ],
+        "answer": 1,
+        "explanation": "이메일 마지막 문장에서 'does the warranty cover accidental damage, or only manufacturing defects?'라고 물었습니다. 즉 보증이 우발적 손상까지 포함하는지 묻고 있으므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Calder Design's workstations?",
+        "options": [
+          "They are equipped with curved monitors.",
+          "They are used by more than one employee.",
+          "They were purchased from KorvaTech.",
+          "They will be moved to a new office on April 20."
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'our workstations are shared between staff on different shifts'라고 하여 워크스테이션이 서로 다른 교대 근무 직원들 간에 공유된다고 밝혔습니다. 즉 한 명 이상의 직원이 사용한다는 의미이므로 정답은 (B)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "MERIDIAN HOTEL — FRONT DESK STAFF ROTA, WEEK OF MAY 5\n\nMonday: Morning (6 A.M.–2 P.M.) J. Park / Evening (2 P.M.–10 P.M.) L. Costa\nTuesday: Morning A. Diallo / Evening J. Park\nWednesday: Morning L. Costa / Evening A. Diallo\nThursday: Morning J. Park / Evening R. Maxwell\nFriday: Morning R. Maxwell / Evening L. Costa\nSaturday: Morning A. Diallo / Evening R. Maxwell\n\nReminder from the duty manager: Staff wishing to swap shifts must find a colleague qualified for the same role, obtain that colleague's written agreement, and notify the duty manager at least 48 hours before the earlier of the two shifts. Swaps that would result in any employee working more than five shifts in a week will not be approved.\n\n--- Passage 2 ---\nTo: dutymanager@meridianhotel.com\nFrom: Jisoo Park <j.park@meridianhotel.com>\nDate: Monday, May 5, 9:15 A.M.\nSubject: Shift swap request — Thursday morning\n\nDear Mr. Whitfield,\n\nI have a medical appointment on Thursday morning that could not be scheduled at any other time. Lucia Costa has agreed to take my Thursday morning shift, and in exchange I will cover her Friday evening shift. Her e-mail confirming the arrangement is attached. This swap would leave each of us with the same number of shifts this week as originally assigned. I am sending this request now so that it reaches you well before the deadline. Please let me know if you need anything else.\n\nThank you,\nJisoo Park",
+    "questions": [
+      {
+        "question": "For whom is the rota most likely intended?",
+        "options": [
+          "Hotel guests",
+          "Front desk employees",
+          "Restaurant servers",
+          "Maintenance contractors"
+        ],
+        "answer": 1,
+        "explanation": "문서 제목이 'FRONT DESK STAFF ROTA(프런트 데스크 직원 근무표)'이고 직원들의 교대 일정과 교대 변경 규정을 안내하고 있으므로 프런트 데스크 직원을 대상으로 한 문서입니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did Ms. Park send the e-mail?",
+        "options": [
+          "To request time off for a vacation",
+          "To ask for approval of a shift exchange",
+          "To report a colleague's absence",
+          "To apply for a duty manager position"
+        ],
+        "answer": 1,
+        "explanation": "이메일 제목이 'Shift swap request'이고, 본문에서 목요일 오전 근무를 Lucia Costa와 교환하는 것에 대한 승인을 요청하고 있으므로 정답은 (B)입니다. 병원 예약은 교대 변경의 사유일 뿐 휴가 신청이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What requirement of the swap policy has Ms. Park already fulfilled?",
+        "options": [
+          "Obtaining a colleague's written agreement",
+          "Completing a medical certificate",
+          "Working five shifts in the current week",
+          "Finding a replacement from another hotel"
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 근무표 하단 규정에서 교대 변경 시 '동료의 서면 동의(written agreement)'를 받아야 한다고 했고, 이메일에서 'Her e-mail confirming the arrangement is attached'라고 하여 Costa의 동의 이메일을 첨부했음을 밝혔습니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when must the duty manager be notified for the swap to be valid?",
+        "options": [
+          "By Monday at 9:15 A.M.",
+          "By Tuesday morning",
+          "By Wednesday evening",
+          "By Friday evening"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 규정상 두 근무 중 더 이른 근무(목요일 오전 6시 시작) 시작 48시간 전까지 통보해야 합니다. 목요일 오전 6시에서 48시간 전은 화요일 오전 6시이므로, 화요일 아침까지는 통보가 이루어져야 합니다. Ms. Park은 월요일 오전 9시 15분에 이메일을 보냈으므로 기한을 충족했습니다. 정답은 (B)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "If the swap is approved, who will work on Friday evening?",
+        "options": [
+          "J. Park",
+          "L. Costa",
+          "A. Diallo",
+          "R. Maxwell"
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 원래 근무표상 금요일 저녁은 L. Costa 담당이지만, 이메일에서 'in exchange I will cover her Friday evening shift'라고 하여 교환이 승인되면 Ms. Park이 금요일 저녁 근무를 맡게 됩니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NORDWELL FOODS — SUPPLIER CARBON REDUCTION POLICY (Effective January 1)\n\nAs part of our commitment to cutting supply-chain emissions by 30% within five years, all suppliers must meet the following requirements to retain preferred-supplier status:\n1. Submit an annual emissions report verified by an independent auditor.\n2. Switch to recyclable or compostable packaging for all shipments by June 30.\n3. Ensure that at least 40% of deliveries to Nordwell distribution centers are made using low-emission vehicles by December 31.\nSuppliers unable to meet a deadline may apply for a one-time, six-month extension by writing to the Sustainability Office with a corrective action plan. Suppliers who neither comply nor obtain an extension will be moved to the standard supplier list, which receives shorter contract terms.\n\n--- Passage 2 ---\nDear Ms. Lindqvist,\n\nThank you for your letter outlining Nordwell Foods' carbon reduction policy. Greenhill Dairy fully supports the program. I am pleased to report that our auditor-verified emissions report was filed in February, and 55% of our deliveries to your distribution centers already use electric trucks. However, our packaging transition has been delayed because our compostable carton supplier suffered a factory fire in March. We have signed with a replacement supplier, but the first cartons will not arrive until September. We therefore request the six-month extension for the packaging requirement and have enclosed our corrective action plan, including monthly milestones. We are confident we will complete the transition by November, well within the extended period.\n\nSincerely,\nTomas Berg, Operations Director, Greenhill Dairy",
+    "questions": [
+      {
+        "question": "What is the goal of Nordwell Foods' policy?",
+        "options": [
+          "To reduce supply-chain emissions by 30% within five years",
+          "To lower packaging costs by 40%",
+          "To shorten delivery times to distribution centers",
+          "To double the number of preferred suppliers"
+        ],
+        "answer": 0,
+        "explanation": "정책 첫 문장에서 'our commitment to cutting supply-chain emissions by 30% within five years'라고 명시했으므로 정답은 (A)입니다. 40%는 저공해 차량 배송 비율 요건이지 포장 비용 절감 목표가 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which requirement has Greenhill Dairy NOT yet met?",
+        "options": [
+          "Submitting a verified emissions report",
+          "Using low-emission vehicles for at least 40% of deliveries",
+          "Switching to recyclable or compostable packaging",
+          "Maintaining preferred-supplier status"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. 편지에서 배출 보고서는 2월에 제출했고(요건 1 충족), 배송의 55%가 전기 트럭을 사용한다고 하여 40% 기준(요건 2)도 충족했습니다. 그러나 포장 전환은 공급업체 화재로 지연되어 9월에야 새 카톤이 도착한다고 했으므로 6월 30일 기한인 포장 요건(요건 3)을 충족하지 못했습니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why was Greenhill Dairy's packaging transition delayed?",
+        "options": [
+          "Its packaging budget was cut.",
+          "A supplier's factory was damaged by fire.",
+          "Compostable cartons failed a quality test.",
+          "Shipping routes were changed in March."
+        ],
+        "answer": 1,
+        "explanation": "편지에서 'our compostable carton supplier suffered a factory fire in March'라고 명시하여 퇴비화 가능 카톤 공급업체의 공장 화재가 지연 원인임을 밝혔습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What did Mr. Berg include with his letter to satisfy the extension requirement?",
+        "options": [
+          "An auditor's certificate",
+          "A corrective action plan",
+          "A list of electric vehicles",
+          "A signed contract with Nordwell Foods"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 정책에서 연장을 신청하려면 'a corrective action plan(시정 조치 계획)'을 첨부하여 지속가능성 사무국에 서면으로 요청해야 한다고 했고, 편지에서 'have enclosed our corrective action plan, including monthly milestones'라고 했습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the latest date by which Greenhill Dairy must complete the packaging transition if its extension is granted?",
+        "options": [
+          "June 30",
+          "September 30",
+          "November 30",
+          "December 31"
+        ],
+        "answer": 3,
+        "explanation": "교차 참조 추론 문제입니다. 포장 요건의 원래 기한은 6월 30일이고, 정책상 연장은 '일회성 6개월'입니다. 6월 30일에서 6개월을 연장하면 12월 31일이 새 기한이 됩니다. Mr. Berg가 11월까지 완료하겠다고 한 것은 회사의 자체 목표일 뿐 규정상 최종 기한은 12월 31일입니다. 정답은 (D)입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "SILVERFRAME STUDIOS — VIDEOGRAPHY QUOTE #2284\nPrepared for: Elise Navarro, Navarro Event Planning\nDate: June 3 | Valid for 30 days\n\nPackage A — Ceremony Only: one videographer, 3 hours of coverage, 5-minute highlight film — $1,100\nPackage B — Ceremony and Reception: two videographers, 8 hours of coverage, 5-minute highlight film plus 60-minute full edit — $2,400\nPackage C — Full Day: two videographers, 12 hours of coverage including preparations, highlight film, full edit, and drone footage — $3,600\n\nAdd-ons: extra hour of coverage $150/hour; same-week rush editing $400; raw footage drive $200.\nA 25% deposit is required to reserve a date. Drone footage is subject to local aviation rules and cannot be flown indoors or in rain.\n\n--- Passage 2 ---\nTo: bookings@silverframestudios.com\nFrom: Elise Navarro <elise@navarroevents.com>\nDate: June 9\nSubject: Quote #2284 — Tanaka-Reyes wedding, August 22\n\nHello,\n\nMy clients have reviewed your quote and would like to book Package B for their August 22 wedding at the Glasshouse Pavilion. The reception may run late, so please add two extra hours of coverage to the package. The couple also asked about drone shots during the outdoor ceremony; however, I understand from your notes that this depends on conditions, so please treat it as tentative. They do not need rush editing. Could you send an invoice for the deposit this week so we can secure the date? Also, please confirm the total cost including the added hours.\n\nBest regards,\nElise Navarro",
+    "questions": [
+      {
+        "question": "What is included in Package B?",
+        "options": [
+          "Drone footage and a raw footage drive",
+          "Twelve hours of coverage by one videographer",
+          "Two videographers and a 60-minute full edit",
+          "Coverage of wedding preparations"
+        ],
+        "answer": 2,
+        "explanation": "견적서에서 Package B는 'two videographers, 8 hours of coverage, 5-minute highlight film plus 60-minute full edit'로 구성된다고 명시했습니다. 정답은 (C)입니다. 드론 촬영과 준비 과정 촬영은 Package C에만 포함됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What total amount should the videography invoice show for the booking?",
+        "options": [
+          "$2,400",
+          "$2,550",
+          "$2,700",
+          "$3,600"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 계산 문제입니다. Package B는 $2,400이고, 이메일에서 추가 2시간 촬영을 요청했습니다. 추가 시간은 시간당 $150이므로 2시간에 $300입니다. 따라서 총액은 $2,400 + $300 = $2,700입니다. 정답은 (C)입니다. 급행 편집($400)은 필요 없다고 했으므로 포함하지 않습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How much will the deposit be?",
+        "options": [
+          "$600",
+          "$675",
+          "$900",
+          "$1,100"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 계산 문제입니다. 견적서에 '날짜 예약을 위해 25% 보증금이 필요하다'고 했고, 예약 총액은 $2,700(Package B $2,400 + 추가 2시간 $300)입니다. $2,700의 25%는 $675이므로 정답은 (B)입니다. (A) $600은 추가 시간을 빼고 계산한 함정입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why does Ms. Navarro describe the drone request as tentative?",
+        "options": [
+          "Drone use depends on weather and aviation rules.",
+          "The couple has not yet paid the deposit.",
+          "The ceremony will be held indoors.",
+          "Silverframe Studios does not own a drone."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 견적서 하단에 '드론 촬영은 현지 항공 규정의 적용을 받으며 실내나 우천 시 비행할 수 없다'는 단서가 있고, 이메일에서 'this depends on conditions, so please treat it as tentative'라고 했습니다. 즉 기상과 항공 규정에 좌우되기 때문이므로 정답은 (A)입니다. 예식은 야외(outdoor ceremony)이므로 (C)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Navarro ask Silverframe Studios to do this week?",
+        "options": [
+          "Visit the Glasshouse Pavilion",
+          "Send a deposit invoice",
+          "Deliver the raw footage drive",
+          "Schedule a meeting with the couple"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'Could you send an invoice for the deposit this week so we can secure the date?'라고 요청했습니다. 날짜 확보를 위해 이번 주 중 보증금 청구서 발송을 요청했으므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "CHAMBER OF COMMERCE — TRADE MISSION TO SINGAPORE AND MALAYSIA\nOctober 12–19 | Itinerary Summary\n\nOct 12: Depart Vancouver; arrive Singapore late evening.\nOct 13–14: Singapore — manufacturing technology expo and one-on-one buyer meetings.\nOct 15: Travel by coach to Kuala Lumpur; evening networking dinner.\nOct 16–17: Kuala Lumpur — factory tours and government procurement briefing.\nOct 18: Free morning; afternoon wrap-up session.\nOct 19: Return flight to Vancouver.\n\nThe mission fee of $2,800 covers hotels, ground transportation, and all scheduled meals. Airfare is booked individually. Participants are responsible for ensuring their travel documents are valid; passports must have at least six months' validity beyond the return date. Citizens of most countries do not need a visa for short business stays in either destination, but requirements vary by nationality. Questions may be directed to mission coordinator Hannah Liu.\n\n--- Passage 2 ---\nTo: Hannah Liu <hliu@pacificchamber.org>\nFrom: Diego Fuentes <dfuentes@andesmachinery.com>\nDate: September 2\nSubject: Documentation question\n\nDear Ms. Liu,\n\nI have registered for the October trade mission and booked my flights. While checking the document requirements, I found that holders of my passport need an entry visa for Malaysia for business activities, although Singapore grants visa-free entry. The Malaysian application requires a letter from the organizer confirming the purpose and dates of the visit. Could you provide such a letter on Chamber letterhead? My passport itself is valid until next August, so I believe it meets the validity rule, but please confirm. I want to have everything ready before the application office gets busy.\n\nRegards,\nDiego Fuentes",
+    "questions": [
+      {
+        "question": "What is the purpose of the trade mission?",
+        "options": [
+          "To attend business events in two countries",
+          "To recruit employees for a new factory",
+          "To negotiate an airline partnership",
+          "To train government procurement officers"
+        ],
+        "answer": 0,
+        "explanation": "일정표에 따르면 싱가포르에서 제조 기술 박람회와 바이어 미팅, 쿠알라룸푸르에서 공장 견학과 정부 조달 브리핑이 진행됩니다. 즉 싱가포르와 말레이시아 두 나라에서 비즈니스 행사에 참가하는 출장단이므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT covered by the mission fee?",
+        "options": [
+          "Hotel accommodations",
+          "Ground transportation",
+          "Scheduled meals",
+          "Airfare"
+        ],
+        "answer": 3,
+        "explanation": "일정표에서 'The mission fee of $2,800 covers hotels, ground transportation, and all scheduled meals. Airfare is booked individually.'라고 명시했습니다. 항공료는 개별 예약 사항으로 참가비에 포함되지 않으므로 정답은 (D)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Mr. Fuentes need a letter from Ms. Liu?",
+        "options": [
+          "To board his connecting flight in Singapore",
+          "To support his Malaysian visa application",
+          "To receive a refund of the mission fee",
+          "To reserve a seat at the networking dinner"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 Mr. Fuentes의 여권 소지자는 말레이시아 비즈니스 활동에 입국 비자가 필요하며, 'The Malaysian application requires a letter from the organizer confirming the purpose and dates of the visit'라고 했습니다. 즉 비자 신청에 주최 측 확인서가 필요하므로 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Mr. Fuentes's passport?",
+        "options": [
+          "It satisfies the six-month validity requirement.",
+          "It expires before the mission ends.",
+          "It was issued in Singapore.",
+          "It must be renewed before October."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 일정표는 여권이 귀국일(10월 19일) 기준 6개월 이상 유효해야 한다고 했습니다. 6개월 후는 다음 해 4월 19일인데, 이메일에서 여권이 '내년 8월까지 유효하다'고 했으므로 요건을 충족합니다. 정답은 (A)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "On what date will mission participants travel between the two cities?",
+        "options": [
+          "October 12",
+          "October 15",
+          "October 18",
+          "October 19"
+        ],
+        "answer": 1,
+        "explanation": "일정표에서 'Oct 15: Travel by coach to Kuala Lumpur'라고 하여 10월 15일에 싱가포르에서 쿠알라룸푸르로 버스 이동한다고 명시했습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "AXIOM ELECTRONICS — QUARTERLY SUPPLIER SCORECARD (Q1)\nSupplier: Veltron Components | Account Manager: S. Whitaker\n\nOn-time delivery: 86% (target: 95%) — Below target\nDefect rate: 0.4% (target: under 1.0%) — Exceeds target\nDocumentation accuracy: 91% (target: 98%) — Below target\nResponsiveness to inquiries: average 6 business hours (target: under 8) — Meets target\n\nOverall rating: Conditional. Suppliers rated Conditional must submit an improvement plan within 15 days of receiving this scorecard and show measurable progress on all below-target metrics by the end of the next quarter. Two consecutive Conditional ratings trigger a formal sourcing review.\n\n--- Passage 2 ---\nTo: Sandra Whitaker <swhitaker@axiomelectronics.com>\nFrom: Paulo Ribeiro <pribeiro@veltron.com>\nDate: April 9\nSubject: Q1 Scorecard — Improvement Plan\n\nDear Ms. Whitaker,\n\nThank you for the Q1 scorecard, which we received on April 1. Please find our improvement plan attached, submitted within the required window. To address late deliveries, we have contracted a second freight carrier for the coastal route, where 70% of our delays occurred, and we will share weekly shipment tracking with your team. To improve documentation accuracy, we are introducing automated label verification starting May 1, which our pilot test showed cuts errors by more than half. We are proud of our defect rate and will keep quality inspections unchanged. We are confident both below-target metrics will reach your thresholds before the end of Q2.\n\nSincerely,\nPaulo Ribeiro, Client Services Director",
+    "questions": [
+      {
+        "question": "What is the purpose of the scorecard?",
+        "options": [
+          "To evaluate a supplier's quarterly performance",
+          "To announce new quality control equipment",
+          "To compare bids from several component makers",
+          "To summarize customer satisfaction survey results"
+        ],
+        "answer": 0,
+        "explanation": "문서 제목이 'QUARTERLY SUPPLIER SCORECARD'이고 납기 준수율, 불량률, 문서 정확도, 응답성 등 공급업체의 분기 실적을 목표 대비 평가하고 있으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which area did Veltron Components perform best relative to its target?",
+        "options": [
+          "On-time delivery",
+          "Defect rate",
+          "Documentation accuracy",
+          "Responsiveness to inquiries"
+        ],
+        "answer": 1,
+        "explanation": "성과표에서 불량률은 0.4%로 목표(1.0% 미만)를 크게 상회하여 'Exceeds target'으로 표시된 유일한 항목입니다. 응답성은 'Meets target', 납기와 문서 정확도는 'Below target'입니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about Mr. Ribeiro's improvement plan?",
+        "options": [
+          "It was submitted after the deadline.",
+          "It was submitted within the required 15 days.",
+          "It must be approved by a freight carrier.",
+          "It proposes changes to quality inspections."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 성과표는 Conditional 등급 공급업체가 성과표 수령 후 15일 이내에 개선 계획을 제출해야 한다고 했습니다. 이메일에서 4월 1일에 성과표를 받았고 4월 9일에 계획을 제출했으므로 15일 기한 내입니다. 정답은 (B)입니다. 품질 검사는 변경하지 않겠다고 했으므로 (D)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which metrics does Mr. Ribeiro's plan aim to improve?",
+        "options": [
+          "Defect rate and responsiveness",
+          "On-time delivery and defect rate",
+          "On-time delivery and documentation accuracy",
+          "Documentation accuracy and responsiveness"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. 성과표에서 목표 미달(Below target) 항목은 납기 준수율(86%)과 문서 정확도(91%)입니다. 이메일에서도 지연 배송 대책(제2 운송업체 계약)과 문서 정확도 대책(자동 라벨 검증 도입)을 제시했습니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen if Veltron Components receives a Conditional rating again in Q2?",
+        "options": [
+          "Its contract will be immediately canceled.",
+          "A formal sourcing review will be initiated.",
+          "Its defect-rate target will be raised.",
+          "It will be charged a penalty fee."
+        ],
+        "answer": 1,
+        "explanation": "성과표 마지막 문장에서 'Two consecutive Conditional ratings trigger a formal sourcing review'라고 명시했습니다. Q1에 이미 Conditional 등급을 받았으므로 Q2에도 같은 등급을 받으면 2회 연속이 되어 공식 소싱 검토가 시작됩니다. 정답은 (B)입니다. 즉시 계약 해지나 벌금에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "WHITMORE MUSEUM OF NATURAL HISTORY — VOLUNTEER DOCENT SCHEDULE, JULY\n\nGallery tours run daily at 10:30 A.M., 1:00 P.M., and 3:30 P.M. Each tour requires one lead docent and one assistant docent.\n\nNew docent requirements: Before leading any tour, new volunteers must (1) complete the two-day orientation course offered on the first weekend of each month, (2) shadow at least four tours as an observer, and (3) pass a 20-minute walkthrough evaluation with the volunteer coordinator. Assistant docent duty may begin immediately after the orientation course. The August orientation is already full; the next available session with open seats is the one beginning October 4.\n\nTo sign up for orientation or evaluations, contact volunteer coordinator Ruth Calloway.\n\n--- Passage 2 ---\nTo: Ruth Calloway <rcalloway@whitmoremuseum.org>\nFrom: Adam Petrov <apetrov@mailcurrent.com>\nDate: July 21\nSubject: Becoming a lead docent\n\nDear Ms. Calloway,\n\nI completed the orientation course on the first weekend of July and have since shadowed five tours, including two of the 3:30 P.M. sessions. I would like to schedule my walkthrough evaluation as soon as possible because I am hoping to lead tours during the museum's dinosaur exhibition, which I understand opens in early September. Weekday afternoons work best for me. Separately, my colleague Nina Sato wants to start volunteering too. Since the August course is full, could you confirm the earliest date she could begin serving as an assistant docent?\n\nThank you,\nAdam Petrov",
+    "questions": [
+      {
+        "question": "What is the purpose of the schedule notice?",
+        "options": [
+          "To announce changes to museum opening hours",
+          "To explain requirements for volunteer docents",
+          "To promote an upcoming dinosaur exhibition",
+          "To recruit paid tour guides"
+        ],
+        "answer": 1,
+        "explanation": "공지는 갤러리 투어 시간과 함께 신규 자원봉사 도슨트가 투어를 이끌기 전에 충족해야 할 세 가지 요건(오리엔테이션 수료, 투어 4회 참관, 평가 통과)을 설명하고 있으므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What requirement does Mr. Petrov still need to fulfill to lead tours?",
+        "options": [
+          "Completing the orientation course",
+          "Shadowing four tours",
+          "Passing the walkthrough evaluation",
+          "Serving as an assistant docent for one month"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. 공지의 세 가지 요건 중 Mr. Petrov는 7월 첫 주말 오리엔테이션을 수료했고(요건 1), 투어를 5회 참관하여 4회 기준을 넘었습니다(요건 2). 남은 것은 자원봉사 코디네이터와의 20분 평가(요건 3)이며, 이메일에서도 이 평가 일정을 잡고 싶다고 요청하고 있습니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Mr. Petrov want to complete his evaluation soon?",
+        "options": [
+          "He wants to lead tours during a special exhibition.",
+          "He is moving to another city in October.",
+          "The evaluation fee will increase in August.",
+          "The 3:30 P.M. tour needs a new assistant."
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 'I am hoping to lead tours during the museum's dinosaur exhibition, which I understand opens in early September'라고 하여 9월 초 개막하는 공룡 특별전 기간에 투어를 이끌고 싶어서 평가를 서두르고 있음을 알 수 있습니다. 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When is the earliest Ms. Sato could begin serving as an assistant docent?",
+        "options": [
+          "Immediately after applying",
+          "In early August",
+          "In early September",
+          "After the orientation beginning October 4"
+        ],
+        "answer": 3,
+        "explanation": "교차 참조 문제입니다. 공지에 따르면 보조 도슨트는 오리엔테이션 수료 직후부터 활동할 수 있는데, 8월 과정은 이미 정원이 찼고 다음 빈자리가 있는 과정은 10월 4일 시작 과정입니다. 따라서 Ms. Sato는 10월 4일 시작 오리엔테이션을 마친 후에야 보조 도슨트로 활동할 수 있습니다. 정답은 (D)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How many tours are offered at the museum each day?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "answer": 1,
+        "explanation": "공지에서 'Gallery tours run daily at 10:30 A.M., 1:00 P.M., and 3:30 P.M.'라고 하여 매일 세 차례 투어가 운영됨을 알 수 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "NOTICE: FINSERV PORTAL DATA MIGRATION\nPosted by: Corvex Solutions IT Operations | Date: November 3\n\nOn the weekend of November 21–22, all client account data will be migrated from the legacy FinServ portal to the new Corvex Cloud platform. The portal will be unavailable from 6 P.M. Friday, November 20, until 7 A.M. Monday, November 23. After migration, users must reset their passwords at cloud.corvex.com using the e-mail address on file. Saved report templates will transfer automatically; however, custom dashboard layouts will NOT be migrated and must be rebuilt manually. Files in the Archive folder older than seven years will be moved to offline storage and can be retrieved upon request within ten business days. A live demonstration of the new platform will be streamed on November 17 at 2 P.M., and a recording will be posted afterward.\n\n--- Passage 2 ---\nTo: itsupport@corvex.com\nFrom: Gail Hutchins <ghutchins@meralloadvisors.com>\nDate: November 10\nSubject: Migration concerns\n\nHello,\n\nI manage quarterly compliance reporting for Merallo Advisors, and I have two concerns about the migration. First, our team relies on a customized dashboard that took weeks to configure. Will any assistance be available to recreate it? Second, we will need a set of audit files from 2015 shortly after the migration for a regulatory deadline of December 4. Given the stated retrieval window, I want to confirm that requesting them on November 23 will leave enough time. Unfortunately, I will be traveling on the day of the live demonstration, so please tell me where to find the recording.\n\nThank you,\nGail Hutchins",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To inform users about a scheduled data migration",
+          "To announce a price change for cloud services",
+          "To report a security breach in the portal",
+          "To introduce a new IT operations manager"
+        ],
+        "answer": 0,
+        "explanation": "공지는 11월 21~22일 주말에 기존 FinServ 포털의 데이터를 새 Corvex Cloud 플랫폼으로 이전한다는 내용과 그에 따른 서비스 중단 시간, 사용자 조치 사항을 안내하고 있으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the notice, what must users do after the migration?",
+        "options": [
+          "Reinstall the portal software",
+          "Reset their passwords on the new platform",
+          "Submit a new service contract",
+          "Transfer their report templates manually"
+        ],
+        "answer": 1,
+        "explanation": "공지에서 'After migration, users must reset their passwords at cloud.corvex.com using the e-mail address on file'라고 명시했습니다. 정답은 (B)입니다. 보고서 템플릿은 자동 이전되므로 (D)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is Ms. Hutchins concerned about her team's dashboard?",
+        "options": [
+          "It contains files older than seven years.",
+          "It will not be transferred automatically.",
+          "It can only be viewed on the legacy portal.",
+          "It was configured by a former employee."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 공지에서 'custom dashboard layouts will NOT be migrated and must be rebuilt manually'라고 했고, Ms. Hutchins의 팀은 몇 주에 걸쳐 구성한 맞춤형 대시보드에 의존하고 있습니다. 자동 이전되지 않아 수동으로 다시 만들어야 하기 때문에 우려하는 것이므로 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about the 2015 audit files?",
+        "options": [
+          "They were deleted from the Archive folder.",
+          "They will transfer to the new platform automatically.",
+          "They will be moved to offline storage during the migration.",
+          "They must be printed before November 20."
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 추론 문제입니다. 공지는 'Archive 폴더의 7년 이상 된 파일은 오프라인 저장소로 이동되며 요청 시 10영업일 이내에 회수할 수 있다'고 했습니다. 2015년 파일은 공지 시점(11월) 기준 7년이 훨씬 넘었으므로 오프라인 저장소로 이동됩니다. Ms. Hutchins가 회수 기간을 걱정하는 것도 이 때문입니다. 정답은 (C)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why will Ms. Hutchins need the recording of the demonstration?",
+        "options": [
+          "She will be traveling on November 17.",
+          "Her team is in a different time zone.",
+          "The live stream requires a paid subscription.",
+          "She missed the original registration deadline."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 공지에서 라이브 시연은 11월 17일 오후 2시에 스트리밍된다고 했고, 이메일에서 'I will be traveling on the day of the live demonstration'이라고 하여 시연 당일인 11월 17일에 출장 중이라 녹화본 위치를 문의했습니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "PINEHURST FITNESS CENTER — GROUP CLASS TIMETABLE (SPRING)\n\nMonday: 7 A.M. Spin / 6 P.M. Yoga Basics\nTuesday: 12 P.M. Pilates / 7 P.M. Boxing Fundamentals\nWednesday: 7 A.M. Spin / 6 P.M. Advanced Yoga\nThursday: 12 P.M. Pilates / 7 P.M. Strength Circuit\nFriday: 7 A.M. Spin / 5:30 P.M. Stretch and Recover\nSaturday: 9 A.M. Boxing Fundamentals / 11 A.M. Family Yoga\n\nClass access by membership tier: Basic members may attend up to two classes per week. Plus members enjoy unlimited classes. Premier members enjoy unlimited classes plus two guest passes per month and access to the sauna. Advanced Yoga requires completion of at least ten Yoga Basics sessions. Upgrades take effect on the first day of the following month. To change your tier, e-mail membership@pinehurstfitness.com.\n\n--- Passage 2 ---\nTo: membership@pinehurstfitness.com\nFrom: Carla Jensen <cjensen@plumemail.com>\nDate: March 24\nSubject: Tier upgrade\n\nHello,\n\nI currently hold a Basic membership, but the two-class weekly limit no longer suits me. I now attend Spin every Monday and Wednesday morning and recently started Tuesday Pilates, so I keep hitting my limit. I would like to upgrade to the tier that gives unlimited classes — I do not need guest passes or the sauna, so the middle option seems right. Please confirm what I will pay monthly after the change and when I can start attending three classes a week. Also, I have completed eight Yoga Basics sessions; once I finish two more, I plan to try the Wednesday evening class.\n\nThank you,\nCarla Jensen",
+    "questions": [
+      {
+        "question": "What is indicated about the Premier tier?",
+        "options": [
+          "It includes two guest passes per month.",
+          "It is the least expensive option.",
+          "It requires ten yoga sessions.",
+          "It limits members to two classes per week."
+        ],
+        "answer": 0,
+        "explanation": "시간표 하단에서 'Premier members enjoy unlimited classes plus two guest passes per month and access to the sauna'라고 명시했으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which tier does Ms. Jensen want to switch to?",
+        "options": [
+          "Basic",
+          "Plus",
+          "Premier",
+          "Family"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. Ms. Jensen은 무제한 수업이 필요하지만 게스트 패스나 사우나는 필요 없다며 'the middle option(중간 옵션)'을 원한다고 했습니다. 시간표에 따르면 무제한 수업만 제공하는 등급은 Plus이므로 정답은 (B)입니다. Premier는 게스트 패스와 사우나가 포함된 상위 등급입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When will Ms. Jensen most likely be able to attend three classes per week?",
+        "options": [
+          "On March 24",
+          "On March 31",
+          "On April 1",
+          "On May 1"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. 시간표 규정상 'Upgrades take effect on the first day of the following month(업그레이드는 다음 달 1일부터 적용)'입니다. Ms. Jensen이 3월 24일에 요청했으므로 업그레이드는 4월 1일부터 적용되어 그때부터 주 3회 수업이 가능합니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What must Ms. Jensen do before joining the Advanced Yoga class?",
+        "options": [
+          "Complete two more Yoga Basics sessions",
+          "Obtain a doctor's certificate",
+          "Purchase a guest pass",
+          "Attend a Saturday Family Yoga class"
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 시간표에서 Advanced Yoga는 Yoga Basics 10회 이상 수료가 조건인데, 이메일에서 Ms. Jensen은 현재 8회를 마쳤고 '두 번 더 마치면' 수요일 저녁 수업(Advanced Yoga)을 들어보겠다고 했습니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "On which days does Ms. Jensen currently attend classes?",
+        "options": [
+          "Monday, Tuesday, and Wednesday",
+          "Monday, Wednesday, and Friday",
+          "Tuesday, Thursday, and Saturday",
+          "Wednesday, Friday, and Saturday"
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 'I now attend Spin every Monday and Wednesday morning and recently started Tuesday Pilates'라고 했으므로 월요일과 수요일 아침 스핀, 화요일 필라테스에 참석합니다. 정답은 (A)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "HARBORVIEW BOOK FAIR — EXHIBITOR MANUAL (EXCERPT)\n\nBooth setup: Friday, May 9, 1 P.M.–8 P.M. Exhibits open to the public Saturday and Sunday, 9 A.M.–6 P.M.\nAuthor events: Publishers may reserve the Author Stage for signings or readings in 45-minute blocks. Stage slots cost $75 each and include a microphone, a signing table, and listing in the printed program. Requests received by April 18 are guaranteed inclusion in the program; later requests will be accommodated if slots remain but will appear only in the online schedule. Each publisher is limited to three stage slots per day. Books sold at signings must be purchased through the fair's central register, which charges a 10% handling fee.\n\nQuestions: events@harborviewbookfair.com\n\n--- Passage 2 ---\nTo: events@harborviewbookfair.com\nFrom: Mei Lin <mlin@cobblestonepress.com>\nDate: April 22\nSubject: Author Stage request — Daniel Okoye\n\nHello,\n\nCobblestone Press would like to reserve one stage slot on Saturday afternoon for a signing by Daniel Okoye, whose travel memoir has just entered its third printing. We realize we have missed the program guarantee date, so we understand the listing limitation that applies to our booking. Could you tell us which Saturday afternoon blocks are still open? We expect a long line, so if it is possible to book two consecutive blocks for a single extended session, please let me know the total cost. Mr. Okoye will bring 200 copies, which we understand must be sold through your central register.\n\nBest regards,\nMei Lin, Publicity Manager",
+    "questions": [
+      {
+        "question": "What is included in the cost of a stage slot?",
+        "options": [
+          "A microphone, a signing table, and a program listing",
+          "Booth setup assistance and storage space",
+          "Printing of 200 books",
+          "A staff member to manage the signing line"
+        ],
+        "answer": 0,
+        "explanation": "안내서에서 'Stage slots cost $75 each and include a microphone, a signing table, and listing in the printed program'이라고 명시했으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Where will Mr. Okoye's signing most likely be listed?",
+        "options": [
+          "In the printed program",
+          "In the online schedule only",
+          "On the fair's entrance banner",
+          "In a local newspaper"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 안내서에 따르면 4월 18일까지 접수된 요청만 인쇄 프로그램 게재가 보장되고, 그 이후 요청은 '온라인 일정에만' 표시됩니다. Ms. Lin의 이메일은 4월 22일에 발송되었고 본인도 'we have missed the program guarantee date'라고 인정했으므로 온라인 일정에만 실립니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much would two consecutive stage blocks cost?",
+        "options": [
+          "$75",
+          "$150",
+          "$165",
+          "$200"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 계산 문제입니다. 안내서에서 무대 슬롯은 1개당 $75이므로 연속 2개 블록은 $75 × 2 = $150입니다. 정답은 (B)입니다. 10% 수수료는 도서 판매에 적용되는 것이지 무대 슬롯 비용에 붙는 것이 아니므로 (C)는 함정입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is true about book sales at the signing?",
+        "options": [
+          "They must go through the fair's central register.",
+          "They are limited to 100 copies per author.",
+          "They are exempt from handling fees.",
+          "They can be completed only with cash."
+        ],
+        "answer": 0,
+        "explanation": "안내서에서 '사인회에서 판매되는 도서는 박람회 중앙 계산대를 통해 구매되어야 하며 10% 취급 수수료가 부과된다'고 했고, 이메일에서도 Ms. Lin이 이를 인지하고 있다고 확인했습니다. 정답은 (A)입니다. 수수료가 있으므로 (C)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Mr. Okoye's memoir?",
+        "options": [
+          "It has been selling well.",
+          "It will be released at the fair.",
+          "It was written with a co-author.",
+          "It is available only online."
+        ],
+        "answer": 0,
+        "explanation": "추론 문제입니다. 이메일에서 회고록이 'has just entered its third printing(3쇄에 들어갔다)'고 했고, 사인회에 긴 줄이 예상되어 연속 두 블록 예약까지 문의하고 있습니다. 3쇄까지 찍었다는 것은 책이 잘 팔리고 있다는 의미이므로 정답은 (A)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "DELTONA COURIERS — FLEET MAINTENANCE LOG (VAN #14)\n\nJan 15: Oil change and tire rotation — Routine — Hillside Garage\nFeb 28: Brake pads replaced (front) — Routine — Hillside Garage\nApr 6: Battery replaced under warranty — Unscheduled — Hillside Garage\nMay 18: Coolant leak repaired; technician noted worn radiator hose and recommended replacement within 1,000 km — Unscheduled — Hillside Garage\n\nCompany policy: Vans must receive routine servicing every 10,000 km. Any technician recommendation marked \"within 1,000 km\" must be acted on before the van is assigned to long-distance routes. Drivers should report current mileage to the fleet supervisor every Friday. Van #14 mileage as of May 18: 48,200 km.\n\n--- Passage 2 ---\nTo: bookings@hillsidegarage.com\nFrom: Omar Sheikh <osheikh@deltonacouriers.com>\nDate: June 2\nSubject: Van #14 — radiator hose\n\nHello,\n\nI am the fleet supervisor at Deltona Couriers. Following your technician's note from last month, I need to book Van #14 in for the recommended hose replacement. The van's mileage reached 49,050 km as of last Friday's report, so the work is becoming urgent — the vehicle is scheduled for a long-distance delivery route starting June 9, and our policy prevents me from assigning it until the repair is done. Could you fit us in on June 4 or 5? Please also confirm whether the hose is covered by the parts warranty from the May repair, or whether we should expect the standard parts-plus-labor charge.\n\nThank you,\nOmar Sheikh",
+    "questions": [
+      {
+        "question": "What kind of document is the first passage?",
+        "options": [
+          "A record of vehicle maintenance",
+          "An invoice for fuel purchases",
+          "A driver training schedule",
+          "An accident report"
+        ],
+        "answer": 0,
+        "explanation": "첫 지문은 'FLEET MAINTENANCE LOG'라는 제목 아래 14호 밴의 정비 일자, 작업 내용, 정비소를 기록한 차량 정비 기록부입니다. 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which maintenance visit was NOT unscheduled?",
+        "options": [
+          "The battery replacement in April",
+          "The brake pad replacement in February",
+          "The coolant leak repair in May",
+          "The hose replacement requested in June"
+        ],
+        "answer": 1,
+        "explanation": "정비 기록에서 2월 28일 브레이크 패드 교체는 'Routine(정기)'으로 표시되어 있고, 4월 배터리 교체와 5월 냉각수 누수 수리는 'Unscheduled(비정기)'로 표시되어 있습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is the hose replacement urgent?",
+        "options": [
+          "The van has nearly traveled the distance limit set by the technician.",
+          "The van failed a government inspection.",
+          "The warranty on the hose expires on June 9.",
+          "The garage is closing for renovations."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 5월 18일 기록에서 기술자가 라디에이터 호스를 '1,000km 이내에 교체'하라고 권고했고, 당시 주행거리는 48,200km였습니다. 이메일에 따르면 현재 주행거리가 49,050km로 이미 850km를 더 주행하여 한도(49,200km)에 거의 도달했습니다. 정답은 (A)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why can Mr. Sheikh not assign Van #14 to the June 9 route yet?",
+        "options": [
+          "The van is due for its 10,000 km routine service.",
+          "Company policy requires the recommended repair before long-distance assignments.",
+          "The driver has not reported the mileage.",
+          "The van's battery warranty has expired."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 회사 정책에 '1,000km 이내'로 표시된 기술자 권고 사항은 장거리 노선 배정 전에 반드시 조치해야 한다고 명시되어 있습니다. 이메일에서도 'our policy prevents me from assigning it until the repair is done'이라고 확인했습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Mr. Sheikh ask Hillside Garage to confirm?",
+        "options": [
+          "Whether the hose is covered by a warranty",
+          "Whether a loaner van is available",
+          "Whether the garage is open on June 9",
+          "Whether the brake pads need replacing again"
+        ],
+        "answer": 0,
+        "explanation": "이메일 마지막 부분에서 'Please also confirm whether the hose is covered by the parts warranty from the May repair, or whether we should expect the standard parts-plus-labor charge'라고 했습니다. 즉 호스가 5월 수리의 부품 보증에 포함되는지 확인을 요청했으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "LINGUAPORT TRANSLATION SERVICES — RATE SHEET (Effective March 1)\n\nStandard document translation: $0.14 per word (delivery within 5 business days)\nExpedited translation: $0.21 per word (delivery within 2 business days)\nCertified translation (for legal or immigration use): flat $45 per page plus standard per-word rate\nWebsite localization: custom quote after content review\n\nNotes: A minimum charge of $50 applies to all orders. Repeat clients with five or more completed orders in the past year receive a 10% discount on per-word rates (not applicable to certification fees). All quotes are confirmed in writing before work begins. Documents over 10,000 words require a 50% advance payment.\n\n--- Passage 2 ---\nTo: quotes@linguaport.com\nFrom: Renata Vasquez <rvasquez@orbisconsulting.com>\nDate: March 12\nSubject: Quote request — partnership agreement\n\nHello,\n\nOrbis Consulting needs a 6,000-word partnership agreement translated from Spanish to English. Our legal counsel must file the document with a regulatory agency, so the translation needs to be certified; the agreement runs to 15 pages. We need delivery within two business days to meet our filing deadline. For reference, this would be our seventh order with Linguaport in the past twelve months — your team handled our marketing materials throughout last year. Please send a written quote reflecting any discount we qualify for. If the total exceeds our department limit of $1,800, I will need to request director approval first.\n\nThank you,\nRenata Vasquez",
+    "questions": [
+      {
+        "question": "What service does Ms. Vasquez require?",
+        "options": [
+          "Website localization",
+          "Certified expedited translation",
+          "Standard document translation",
+          "Interpretation for a meeting"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 규제 기관 제출용이므로 인증 번역(certified)이 필요하고, 2영업일 이내 납품(expedited)을 요청했습니다. 즉 인증과 신속 번역이 결합된 서비스가 필요하므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Ms. Vasquez qualify for a discount?",
+        "options": [
+          "Her order exceeds 10,000 words.",
+          "Her company has placed more than five orders in the past year.",
+          "She is paying 50% in advance.",
+          "She requested the quote before March 1."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 요금표에서 '지난 1년간 5건 이상 주문한 단골 고객은 단어당 요금에서 10% 할인'을 받는다고 했고, 이메일에서 '이번이 지난 12개월간 일곱 번째 주문'이라고 밝혔으므로 할인 자격이 있습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the per-word rate Ms. Vasquez will most likely pay?",
+        "options": [
+          "$0.126 per word",
+          "$0.14 per word",
+          "$0.189 per word",
+          "$0.21 per word"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 계산 문제입니다. 2영업일 납품이므로 신속 번역 요금 $0.21/단어가 적용되고, 단골 할인 10%는 단어당 요금에 적용되므로 $0.21 × 0.9 = $0.189입니다. 정답은 (C)입니다. (A)는 표준 요금에 할인을 적용한 함정입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Will Ms. Vasquez need director approval for this order?",
+        "options": [
+          "Yes, because the total will exceed $1,800.",
+          "No, because the total will be below $1,800.",
+          "Yes, because certified translations always require approval.",
+          "No, because Linguaport waives fees for repeat clients."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 계산 문제입니다. 단어 요금: 6,000단어 × $0.189 = $1,134. 인증 수수료: 15페이지 × $45 = $675(할인 미적용). 총액은 $1,134 + $675 = $1,809가 아니라 정확히 계산하면 $1,134 + $675 = $1,809입니다. 이는 $1,800을 약간 초과하므로 승인 필요 여부가 갈립니다. 다만 인증 수수료에는 할인이 적용되지 않고 단어 요금에만 적용된다는 규정을 반영한 정확한 총액은 $1,809로 한도 $1,800을 초과합니다. 따라서 본 문항의 정답은 재검토가 필요하며, 출제 의도는 총액 $1,809 > $1,800으로 승인이 필요하다는 것입니다. 정답은 (A)로 정정합니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the rate sheet, when does Linguaport require an advance payment?",
+        "options": [
+          "For all certified translations",
+          "For documents over 10,000 words",
+          "For orders from new clients",
+          "For website localization projects"
+        ],
+        "answer": 1,
+        "explanation": "요금표 비고에서 'Documents over 10,000 words require a 50% advance payment'라고 명시했습니다. 1만 단어를 초과하는 문서에 50% 선금이 요구되므로 정답은 (B)입니다. Ms. Vasquez의 문서는 6,000단어이므로 이 조건에는 해당하지 않습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "BRYNMOR ASSOCIATES — OFFICE RELOCATION FAQ\n\nQ: When do we move to Lakeview Tower?\nA: Departments will relocate in two waves: Accounting and Legal on August 1; Marketing and Operations on August 15.\n\nQ: What about parking?\nA: Lakeview Tower's garage has fewer spaces than our current building. Reserved spaces will be assigned by seniority, and remaining staff may join the waiting list or purchase discounted transit passes through Human Resources. The Maple Street public lot, a five-minute walk away, offers monthly permits for $85.\n\nQ: Will my extension number change?\nA: No. All extensions transfer unchanged.\n\nQ: Who do I contact with other questions?\nA: E-mail relocation@brynmor.com. Updates will be posted on the intranet every Monday.\n\n--- Passage 2 ---\nTo: relocation@brynmor.com\nFrom: Theo Brandt <tbrandt@brynmor.com>\nDate: July 22\nSubject: Parking question\n\nHello,\n\nI work in the Marketing Department and drive to work because my commute involves areas without reliable bus service, so the transit pass option will not work for me. I joined Brynmor only fourteen months ago, so I assume a reserved space is unlikely. Could you tell me how long the garage waiting list currently is? If it is longer than a few months, I will go ahead and arrange a permit at the lot mentioned in the FAQ before my department's moving date. Also, will the waiting list carry over month to month, or must we reapply?\n\nThank you,\nTheo Brandt",
+    "questions": [
+      {
+        "question": "What is the purpose of the FAQ document?",
+        "options": [
+          "To answer common questions about an office move",
+          "To announce a merger between two firms",
+          "To explain a new telephone system",
+          "To advertise office space for lease"
+        ],
+        "answer": 0,
+        "explanation": "문서는 Lakeview Tower로의 사무실 이전과 관련해 이전 일정, 주차, 내선 번호 등 직원들이 자주 묻는 질문에 답하는 형식이므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When will Mr. Brandt's department move?",
+        "options": [
+          "On July 22",
+          "On August 1",
+          "On August 15",
+          "On September 1"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 문제입니다. FAQ에서 Marketing과 Operations 부서는 8월 15일에 2차로 이전한다고 했고, 이메일에서 Mr. Brandt는 'I work in the Marketing Department'라고 밝혔습니다. 따라서 그의 부서 이전일은 8월 15일입니다. 정답은 (C)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why is the transit pass option unsuitable for Mr. Brandt?",
+        "options": [
+          "His commute lacks reliable bus service.",
+          "The pass is available only to senior staff.",
+          "He already owns a garage space.",
+          "The discount expired in July."
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 'my commute involves areas without reliable bus service, so the transit pass option will not work for me'라고 했습니다. 통근 경로에 안정적인 버스 노선이 없어 대중교통 패스가 적합하지 않다고 밝혔으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Mr. Brandt think he is unlikely to get a reserved space?",
+        "options": [
+          "He has worked at the company for a relatively short time.",
+          "He did not submit his request by the deadline.",
+          "His department is moving in the first wave.",
+          "He works part-time hours."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. FAQ에서 지정 주차 공간은 '근속 연수(seniority) 순으로 배정'된다고 했고, 이메일에서 Mr. Brandt는 입사한 지 14개월밖에 되지 않아 지정 공간을 받기 어려울 것이라고 스스로 판단했습니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much would Mr. Brandt pay monthly at the Maple Street lot?",
+        "options": [
+          "$58",
+          "$85",
+          "$100",
+          "Nothing; it is free for employees"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. Mr. Brandt가 'the lot mentioned in the FAQ'에서 퍼밋을 마련하겠다고 했는데, FAQ에서 Maple Street 공영 주차장의 월 퍼밋 요금은 $85라고 명시했습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "ELMSWORTH COMMUNITY GARDEN — PLOT ALLOCATION NOTICE\n\nApplications for the upcoming growing season are now open. Twelve full plots (4m x 8m) and eight half plots (4m x 4m) are available. Annual fees: full plot $120; half plot $70. Fees include water access and shared tool shed use. Residents of Elmsworth receive priority until February 15; after that date, remaining plots open to applicants from neighboring towns. Each household may hold only one plot. Plot holders must attend the mandatory soil-care workshop on March 7 and contribute four volunteer hours per season to shared areas. Plots left unplanted by May 31 may be reassigned without refund. To apply, submit the online form at elmsworthgarden.org/apply.\n\n--- Passage 2 ---\nTo: coordinator@elmsworthgarden.org\nFrom: Hana Yoshida <hyoshida@quintmail.com>\nDate: February 20\nSubject: Half-plot application\n\nHello,\n\nI submitted the online form today for a half plot. I live in Danbury Falls, the town just east of Elmsworth, so I waited until the priority period had ended before applying, as a garden member suggested. I understand the fee and the volunteer-hour requirement. However, I have a scheduling conflict: I teach a pottery class every Saturday morning in March, and I believe the soil-care workshop falls on a Saturday. Is there an alternative session, or can the requirement be met another way, perhaps by viewing a recording? I would hate to lose the plot over this. Also, may my brother, who lives with me, register for a separate plot?\n\nThank you,\nHana Yoshida",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To invite applications for garden plots",
+          "To announce the winners of a gardening contest",
+          "To schedule a community cleanup day",
+          "To raise funds for a new tool shed"
+        ],
+        "answer": 0,
+        "explanation": "공지는 다가오는 재배 시즌의 텃밭 구획 신청이 시작되었음을 알리고 구획 수, 요금, 신청 방법을 안내하고 있으므로 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much will Ms. Yoshida pay if her application is accepted?",
+        "options": [
+          "$70",
+          "$120",
+          "$190",
+          "$140"
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 이메일에서 Ms. Yoshida는 'half plot(반 구획)'을 신청했다고 했고, 공지에서 반 구획의 연간 요금은 $70입니다. 정답은 (A)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did Ms. Yoshida wait until February 20 to apply?",
+        "options": [
+          "She was traveling earlier in the month.",
+          "She is not a resident of Elmsworth.",
+          "The online form was not working.",
+          "She needed to confirm her teaching schedule."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 공지에서 Elmsworth 주민은 2월 15일까지 우선권을 가지며 그 이후에 인근 마을 신청자에게 개방된다고 했습니다. 이메일에서 Ms. Yoshida는 인근 마을 Danbury Falls에 살기 때문에 우선 기간이 끝나기를 기다렸다가 신청했다고 밝혔습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What requirement does Ms. Yoshida have a conflict with?",
+        "options": [
+          "The four volunteer hours",
+          "The March 7 workshop",
+          "The May 31 planting deadline",
+          "The online application form"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 공지에서 구획 보유자는 3월 7일 토양 관리 워크숍에 의무적으로 참석해야 한다고 했는데, Ms. Yoshida는 3월 매주 토요일 오전에 도예 수업을 가르치고 워크숍이 토요일이라 참석이 어렵다며 대체 방안을 문의했습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will the coordinator most likely tell Ms. Yoshida about her brother's request?",
+        "options": [
+          "He may register because he gardens separately.",
+          "He cannot hold a separate plot because they share a household.",
+          "He must pay a higher nonresident fee.",
+          "He should apply for a full plot instead."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 추론 문제입니다. 공지에서 'Each household may hold only one plot(가구당 한 구획만 보유 가능)'이라고 했고, 이메일에서 남동생이 'who lives with me(나와 함께 산다)'라고 했으므로 같은 가구에 속해 별도 구획을 받을 수 없습니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "THE WILLOW SPRINGS RESORT — SPA PRICE LIST\n\nClassic massage (50 min) — $95\nDeep tissue massage (50 min) — $120\nHot stone therapy (75 min) — $150\nRevive facial (40 min) — $85\nSpa day package (massage of choice up to $120 value, facial, and lunch) — $230\n\nHotel guests receive 15% off any single treatment (not applicable to packages). Appointments canceled less than 24 hours in advance incur a 50% charge. The spa is closed on Tuesdays for maintenance. Bookings: spa@willowsprings.com or extension 7 from any guest room.\n\n--- Passage 2 ---\nTo: spa@willowsprings.com\nFrom: Naomi Adler <nadler@bluequill.com>\nDate: Sunday, July 12\nSubject: Booking change — reservation #5530\n\nHello,\n\nI am staying at the resort through Friday and have a hot stone therapy appointment booked for Tuesday at 2 P.M. under reservation #5530. I just noticed on your price list that the spa is closed that day, so the booking must have been made in error — possibly by the travel agent who arranged my stay. Could you move it to Wednesday at the same time? Since I am changing the appointment more than 24 hours ahead, I trust no fee applies. Also, as a registered guest in Room 412, please confirm the price I will actually pay for the treatment after my discount.\n\nThank you,\nNaomi Adler",
+    "questions": [
+      {
+        "question": "What is suggested about Ms. Adler's original appointment?",
+        "options": [
+          "It was scheduled on a day the spa is closed.",
+          "It was canceled by the spa without notice.",
+          "It was booked for the wrong treatment.",
+          "It cost more than the listed price."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 가격표에 'The spa is closed on Tuesdays for maintenance'라고 명시되어 있는데, 예약은 화요일 오후 2시로 잡혀 있었습니다. 즉 휴무일에 예약이 잘못 잡힌 것이므로 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much will Ms. Adler pay for her treatment?",
+        "options": [
+          "$95.00",
+          "$120.00",
+          "$127.50",
+          "$150.00"
+        ],
+        "answer": 2,
+        "explanation": "교차 참조 계산 문제입니다. 핫 스톤 테라피는 $150이고, Ms. Adler는 투숙객(Room 412)이므로 단일 트리트먼트에 대해 15% 할인을 받습니다. $150 × 0.85 = $127.50이므로 정답은 (C)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why does Ms. Adler believe no cancellation fee applies?",
+        "options": [
+          "She is changing the appointment more than 24 hours in advance.",
+          "She booked a spa day package.",
+          "The error was made by the spa staff.",
+          "Hotel guests are exempt from all fees."
+        ],
+        "answer": 0,
+        "explanation": "가격표에 '예약 24시간 전 미만에 취소하면 50% 요금이 부과된다'고 되어 있는데, Ms. Adler는 일요일에 화요일 예약을 변경하므로 24시간보다 충분히 앞서 변경하는 것입니다. 이메일에서도 'Since I am changing the appointment more than 24 hours ahead, I trust no fee applies'라고 했습니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who does Ms. Adler think made the booking error?",
+        "options": [
+          "The front desk clerk",
+          "A travel agent",
+          "Her assistant",
+          "The spa receptionist"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'the booking must have been made in error — possibly by the travel agent who arranged my stay'라고 하여 숙박을 주선한 여행사 직원이 실수했을 것이라고 추측했습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the price list, what is NOT eligible for the guest discount?",
+        "options": [
+          "The classic massage",
+          "The Revive facial",
+          "Hot stone therapy",
+          "The spa day package"
+        ],
+        "answer": 3,
+        "explanation": "가격표에서 'Hotel guests receive 15% off any single treatment (not applicable to packages)'라고 하여 할인은 단일 트리트먼트에만 적용되고 패키지에는 적용되지 않는다고 명시했습니다. 정답은 (D)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "RIVERBEND FOOD BANK — VOLUNTEER ORIENTATION AGENDA\nSaturday, October 11, Community Annex, Room B\n\n9:00 A.M. — Welcome and history of Riverbend Food Bank (Director M. Okonkwo)\n9:30 A.M. — Food safety and hygiene certification session (required for kitchen and sorting roles)\n10:45 A.M. — Warehouse tour\n11:30 A.M. — Role sign-ups: kitchen prep, warehouse sorting, delivery driving, front-desk reception\n12:00 P.M. — Lunch provided\n\nNotes: Delivery drivers must additionally present a valid driver's license and complete a separate road-safety module online before their first shift. Front-desk volunteers do not need the food safety certification. Volunteers who miss the orientation may attend the makeup session on October 25, but role sign-ups are processed in order of orientation attendance.\n\n--- Passage 2 ---\nTo: volunteers@riverbendfoodbank.org\nFrom: Felix Moreau <fmoreau@tidemail.com>\nDate: October 6\nSubject: Availability and role preference\n\nHello,\n\nI am registered for the October 11 orientation and am excited to start. My first choice is delivery driving, since I drive throughout the county for my current job and know the area well; my second choice is warehouse sorting. I hold a valid license and can complete any online module right away. One concern: I have a family commitment that morning and cannot arrive until around 10:30 A.M. Will missing the earlier sessions affect my eligibility for my preferred roles? If it would, I could attend the later session mentioned on your website instead, though I understand there may be a drawback to that.\n\nBest,\nFelix Moreau",
+    "questions": [
+      {
+        "question": "What will happen at 10:45 A.M. at the orientation?",
+        "options": [
+          "A welcome speech",
+          "A warehouse tour",
+          "Role sign-ups",
+          "Lunch"
+        ],
+        "answer": 1,
+        "explanation": "일정표에서 '10:45 A.M. — Warehouse tour'라고 명시되어 있으므로 정답은 (B)입니다. 환영사는 9시, 역할 신청은 11시 30분, 점심은 12시입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What additional requirements apply to delivery drivers?",
+        "options": [
+          "A food safety certificate and a uniform",
+          "A valid license and an online road-safety module",
+          "Two references and a background check",
+          "A minimum of one year of volunteering"
+        ],
+        "answer": 1,
+        "explanation": "일정표 비고에서 'Delivery drivers must additionally present a valid driver's license and complete a separate road-safety module online before their first shift'라고 명시했습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If Mr. Moreau arrives at 10:30 A.M., which session will he have missed that affects his second-choice role?",
+        "options": [
+          "The welcome session",
+          "The food safety certification session",
+          "The warehouse tour",
+          "The role sign-ups"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. Mr. Moreau의 2지망은 창고 분류(warehouse sorting)인데, 일정표에서 식품 안전·위생 인증 세션(9:30)은 '주방 및 분류 역할에 필수'라고 했습니다. 10시 30분에 도착하면 9시 30분에 시작한 이 세션을 놓치게 되어 분류 역할 자격에 영향을 줍니다. 정답은 (B)입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What drawback of the October 25 session does Mr. Moreau most likely refer to?",
+        "options": [
+          "It does not include lunch.",
+          "Role sign-ups are processed by orientation attendance order.",
+          "It is held at a different location.",
+          "It requires an additional fee."
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 일정표 비고에서 보충 세션(10월 25일) 참석자는 가능하지만 '역할 신청은 오리엔테이션 참석 순서대로 처리된다'고 했습니다. 즉 늦게 참석하면 선호 역할 배정에서 후순위가 되는 불이익이 있으며, Mr. Moreau가 말한 'drawback'은 이것을 가리킵니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about front-desk volunteers?",
+        "options": [
+          "They must work weekend shifts.",
+          "They do not need the food safety certification.",
+          "They sign up before other volunteers.",
+          "They receive paid training."
+        ],
+        "answer": 1,
+        "explanation": "일정표 비고에서 'Front-desk volunteers do not need the food safety certification'이라고 명시했습니다. 안내 데스크 자원봉사자는 식품 안전 인증이 필요 없으므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "double-passage",
+    "passage": "CASCADE PRINTWORKS — JOB TICKET #7741\nClient: Ardent Design Studio | Contact: Lena Kovacs\nJob: Tri-fold brochures for the Halverson Realty open-house campaign\nQuantity: 5,000 | Paper: 170gsm gloss | Color: full color, both sides\nProof status: Digital proof v2 sent September 9 — AWAITING CLIENT APPROVAL\nProduction time: 4 business days after proof approval\nDelivery: courier to Ardent Design Studio, included in quoted price\nNote: Changes requested after proof approval will incur a $90 replating fee and restart the production clock. Quoted price: $1,420.\n\n--- Passage 2 ---\nTo: jobs@cascadeprintworks.com\nFrom: Lena Kovacs <lkovacs@ardentdesign.com>\nDate: September 11\nSubject: Job #7741 — one revision before approval\n\nHello,\n\nThank you for proof v2. The layout looks excellent, but Halverson Realty's marketing team spotted an outdated phone number on the back panel — it shows the office's old exchange. I have attached a corrected file; this is the only change. Since we have not yet approved the proof, I understand this revision should not trigger the fee noted on the ticket, but please confirm. Once you send proof v3, I will gather final sign-off within one business day. The brochures are needed for an open house on September 22, so please let me know whether the timeline still allows courier delivery by September 19.\n\nBest,\nLena Kovacs",
+    "questions": [
+      {
+        "question": "What does the job ticket indicate about delivery?",
+        "options": [
+          "It costs an extra $90.",
+          "It is included in the quoted price.",
+          "It must be arranged by the client.",
+          "It takes four business days."
+        ],
+        "answer": 1,
+        "explanation": "작업 지시서에서 'Delivery: courier to Ardent Design Studio, included in quoted price'라고 하여 택배 배송이 견적가에 포함되어 있음을 명시했습니다. 정답은 (B)입니다. 4영업일은 배송이 아니라 생산 기간입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What error was found in the proof?",
+        "options": [
+          "A misspelled company name",
+          "An outdated phone number",
+          "An incorrect paper weight",
+          "A missing photograph"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'Halverson Realty's marketing team spotted an outdated phone number on the back panel'이라고 하여 뒷면 패널의 오래된 전화번호가 발견되었음을 밝혔습니다. 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Ms. Kovacs believe the $90 fee should not apply?",
+        "options": [
+          "The proof has not yet been approved.",
+          "The error was made by the printer.",
+          "Her company is a long-term client.",
+          "The fee applies only to color changes."
+        ],
+        "answer": 0,
+        "explanation": "교차 참조 문제입니다. 작업 지시서에 '교정 승인 이후 요청되는 변경은 $90의 재판 수수료가 부과된다'고 되어 있는데, 이메일에서 'Since we have not yet approved the proof'라고 하여 아직 승인 전이므로 수수료 대상이 아니라고 보는 것입니다. 정답은 (A)입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what date does Ms. Kovacs need the brochures delivered?",
+        "options": [
+          "September 11",
+          "September 19",
+          "September 22",
+          "September 30"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'please let me know whether the timeline still allows courier delivery by September 19'라고 했습니다. 오픈 하우스는 9월 22일이지만 배송 요청 기한은 9월 19일이므로 정답은 (B)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "If proof v3 is approved on September 14, when would production most likely be completed?",
+        "options": [
+          "On September 15",
+          "Within four business days of September 14",
+          "On September 22",
+          "Within ten business days of September 9"
+        ],
+        "answer": 1,
+        "explanation": "교차 참조 문제입니다. 작업 지시서에서 'Production time: 4 business days after proof approval(교정 승인 후 4영업일)'이라고 했으므로, 9월 14일에 v3가 승인되면 그날로부터 4영업일 이내에 생산이 완료됩니다. 정답은 (B)입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

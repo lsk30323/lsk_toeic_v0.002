@@ -1,0 +1,794 @@
+[
+  {
+    "passageType": "triple-passage",
+    "passage": "Lingua Bridge Institute — Spring Brochure\nLingua Bridge Institute offers evening Spanish courses at four levels: Beginner (A1), Elementary (A2), Intermediate (B1), and Advanced (B2). All new students must take a free online placement test before enrolling. Classes meet twice a week for ten weeks. Tuition is $320 per course; students who enroll in two consecutive terms receive a 15% discount on the second term. The spring term begins on March 9, and enrollment closes on March 2.\n\n--- Passage 2 ---\nLingua Bridge Institute — Placement Test Result\nName: Daniel Okafor\nTest date: February 18\nListening: 72/100, Reading: 81/100, Grammar: 76/100\nOverall band: B1 (Intermediate)\nRecommendation: You are eligible to enroll in the Intermediate (B1) course. If you find the level too challenging during the first week, you may transfer to Elementary (A2) at no charge. This result is valid for six months.\n\n--- Passage 3 ---\nTo: enrollment@linguabridge.com\nFrom: d.okafor@parkmail.com\nDate: February 25\nSubject: Spring enrollment\n\nDear Enrollment Office,\nI completed my placement test last week and would like to register for the course recommended in my result letter for the spring term. I also plan to continue with the next level in the summer term, so please confirm that the discount mentioned in your brochure will apply to my summer tuition. In addition, my employer may cover part of the fee, so could you send me an official invoice addressed to Parkview Logistics?\nThank you,\nDaniel Okafor",
+    "questions": [
+      {
+        "question": "What is indicated about Lingua Bridge Institute's courses?",
+        "options": [
+          "They are held only on weekends.",
+          "They last for ten weeks.",
+          "They include a free textbook.",
+          "They are offered in four languages."
+        ],
+        "answer": 1,
+        "explanation": "첫 번째 지문(브로슈어)에서 'Classes meet twice a week for ten weeks'라고 명시되어 있으므로 수업이 10주간 진행된다는 (B)가 정답입니다. 수업은 주중 저녁(evening)에 주 2회 열리므로 (A)는 오답이고, 무료 교재나 4개 언어에 대한 언급은 없습니다. 4개로 나뉜 것은 언어가 아니라 레벨(levels)입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which course will Mr. Okafor most likely take in the spring term?",
+        "options": [
+          "Beginner (A1)",
+          "Elementary (A2)",
+          "Intermediate (B1)",
+          "Advanced (B2)"
+        ],
+        "answer": 2,
+        "explanation": "연계(이중 단서) 문제입니다. 세 번째 지문(이메일)에서 Okafor 씨는 'the course recommended in my result letter'에 등록하고 싶다고 했고, 두 번째 지문(배치고사 결과)에서 권장 과정은 Intermediate (B1)으로 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What discount does Mr. Okafor expect to receive on his summer tuition?",
+        "options": [
+          "10%",
+          "15%",
+          "20%",
+          "25%"
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 이메일에서 Okafor 씨는 여름 학기에도 계속 수강할 계획이며 '브로슈어에 언급된 할인'이 적용되는지 확인을 요청했습니다. 첫 번째 지문에서 두 학기를 연속 수강하면 두 번째 학기 수강료의 15%가 할인된다고 했으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what date must Mr. Okafor complete his enrollment?",
+        "options": [
+          "February 18",
+          "February 25",
+          "March 2",
+          "March 9"
+        ],
+        "answer": 2,
+        "explanation": "브로슈어에서 봄 학기는 3월 9일에 시작하고 등록 마감은 3월 2일('enrollment closes on March 2')이라고 했으므로 (C)가 정답입니다. 2월 18일은 배치고사 응시일, 2월 25일은 이메일 발송일, 3월 9일은 개강일입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Okafor request in his e-mail?",
+        "options": [
+          "A transfer to an easier class",
+          "An extension of the test validity period",
+          "An invoice made out to his employer",
+          "A copy of the course syllabus"
+        ],
+        "answer": 2,
+        "explanation": "이메일 마지막 부분에서 회사가 수강료 일부를 부담할 수 있으니 'an official invoice addressed to Parkview Logistics'를 보내 달라고 요청했습니다. Parkview Logistics는 그의 고용주이므로 (C)가 정답입니다. 쉬운 반으로의 이동은 결과지에 안내된 선택 사항일 뿐 그가 요청한 것이 아닙니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Request for Proposals — Office Multifunction Printers\nHartwell Insurance invites proposals for the supply and maintenance of 25 multifunction printers for its downtown headquarters. Proposals must include unit price, a minimum three-year on-site service warranty, and delivery within 30 days of contract signing. Vendors must submit proposals by e-mail to procurement@hartwellins.com no later than 5:00 P.M. on April 14. Late submissions will not be considered.\n\n--- Passage 2 ---\nProposal Summary — Corvex Office Systems\nSubmitted: April 12\nUnit price: $1,180 per printer (25 units)\nWarranty: Four-year on-site service, parts and labor included\nDelivery: Within 21 days of contract signing\nNote: Corvex will also provide free staff training sessions during the first month and a 10% discount on toner cartridges ordered through our supply portal for the duration of the warranty.\n\n--- Passage 3 ---\nMEMO\nTo: Procurement Committee\nFrom: Renata Vasquez, Purchasing Director\nDate: April 21\nRe: Printer vendor evaluation\n\nWe received four proposals by the deadline. One vendor was disqualified for offering only a two-year warranty. Of the remaining three, the committee recommends the vendor that offered the shortest delivery time, as our current lease expires at the end of May. Although this vendor's unit price was the second lowest, the longer warranty and the toner discount make its total cost of ownership the most attractive. I will draft the contract this week and aim to have the units installed before June 1.",
+    "questions": [
+      {
+        "question": "What is the purpose of the first document?",
+        "options": [
+          "To announce a change in office location",
+          "To solicit bids from equipment suppliers",
+          "To explain how to operate a new printer",
+          "To advertise a printer sale to the public"
+        ],
+        "answer": 1,
+        "explanation": "첫 번째 지문은 Hartwell Insurance가 복합기 25대의 공급 및 유지보수를 위한 제안서(proposals)를 요청하는 RFP(입찰 공고)입니다. 'invites proposals for the supply and maintenance'라는 표현에서 공급업체로부터 입찰을 받으려는 목적임을 알 수 있으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a requirement in the request for proposals?",
+        "options": [
+          "A minimum warranty period",
+          "A delivery time frame",
+          "Submission by a deadline",
+          "An environmental certification"
+        ],
+        "answer": 3,
+        "explanation": "NOT 문제입니다. RFP에는 최소 3년의 현장 서비스 보증(A), 계약 후 30일 이내 배송(B), 4월 14일 오후 5시까지 제출(C)이 모두 요구 사항으로 명시되어 있습니다. 환경 인증에 대한 언급은 없으므로 (D)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can be concluded about Corvex Office Systems?",
+        "options": [
+          "It submitted its proposal after the deadline.",
+          "It is the vendor the committee recommends.",
+          "It was disqualified from consideration.",
+          "It offered the lowest unit price."
+        ],
+        "answer": 1,
+        "explanation": "세 지문을 모두 연계해야 하는 문제입니다. 메모에서 위원회는 '가장 짧은 배송 기간을 제시했고, 단가는 두 번째로 낮지만 더 긴 보증과 토너 할인'을 제공한 업체를 추천했습니다. 두 번째 지문에서 Corvex는 21일 배송, 4년 보증(요구된 3년보다 김), 토너 10% 할인을 제시했으므로 추천된 업체가 Corvex임을 추론할 수 있습니다. 따라서 (B)가 정답입니다. Corvex는 4월 12일에 제출하여 마감(4월 14일)을 지켰고, 단가는 두 번째로 낮았다고 했으므로 (A), (D)는 오답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the memo, why was one vendor disqualified?",
+        "options": [
+          "Its proposal arrived late.",
+          "Its warranty period was too short.",
+          "Its unit price exceeded the budget.",
+          "It could not deliver within 30 days."
+        ],
+        "answer": 1,
+        "explanation": "메모에서 'One vendor was disqualified for offering only a two-year warranty'라고 했습니다. RFP는 최소 3년 보증을 요구했는데 2년만 제시했기 때문에 탈락한 것이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does Ms. Vasquez want the printers installed quickly?",
+        "options": [
+          "A busy season begins in June.",
+          "The current equipment lease will end soon.",
+          "The company is hiring additional staff.",
+          "A government inspection is scheduled."
+        ],
+        "answer": 1,
+        "explanation": "메모에서 'our current lease expires at the end of May'라고 하며 가장 짧은 배송 기간을 제시한 업체를 추천한 이유를 설명했습니다. 현재 장비 리스가 5월 말에 만료되기 때문에 6월 1일 전에 설치를 끝내려는 것이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Notice — Riverside 10K Charity Run: Route Information\nThe annual Riverside 10K Charity Run will take place on Saturday, May 16, starting at 8:00 A.M. at Compton Park. This year's route follows the river path north to Felton Bridge before returning along Garner Avenue. Please note that the final two kilometers include a steep climb up Hillcrest Road. Water stations will be located at the 3 km, 6 km, and 8 km marks. Teams of four or more receive a reduced entry fee of $20 per runner instead of the standard $28. All proceeds support the Riverside Children's Literacy Fund.\n\n--- Passage 2 ---\nTeam Registration Form — Riverside 10K\nTeam name: Desk-to-Finish\nCaptain: Mira Chalhoub (m.chalhoub@vexlercorp.com)\nMembers: Mira Chalhoub, Tomas Reyes, Anita Gough, Devon Park, Lucy Tran\nEntry fee paid: $100\nT-shirt sizes: 2 M, 2 L, 1 S\nNote: All runners must check in at the registration tent by 7:30 A.M. on race day.\n\n--- Passage 3 ---\nTeam Chat — Desk-to-Finish\nMira Chalhoub [7:42 P.M.]: Reminder—race day is this Saturday! We need to be at the tent half an hour before the start.\nTomas Reyes [7:44 P.M.]: Got it. Should we carry our own water?\nMira Chalhoub [7:45 P.M.]: There are three stations on the course, so a small bottle is enough. But save some energy for the end—the notice says the last stretch is uphill.\nAnita Gough [7:47 P.M.]: I just realized my shirt is a medium, but I ordered a small.\nMira Chalhoub [7:48 P.M.]: I'll ask at the tent if we can swap it. See everyone Saturday!",
+    "questions": [
+      {
+        "question": "What is suggested about the Desk-to-Finish team's entry fee?",
+        "options": [
+          "It was paid at the standard individual rate.",
+          "It reflects the discounted team rate.",
+          "It includes an extra donation.",
+          "It will be refunded after the race."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 공지에서 4인 이상 팀은 1인당 $28 대신 $20의 할인 요금이 적용된다고 했습니다. 등록 양식에서 팀원은 5명이고 납부 금액은 $100($20 × 5)이므로 할인된 팀 요금이 적용되었음을 알 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what time should team members arrive at the registration tent?",
+        "options": [
+          "7:00 A.M.",
+          "7:30 A.M.",
+          "8:00 A.M.",
+          "8:30 A.M."
+        ],
+        "answer": 1,
+        "explanation": "등록 양식에 'All runners must check in at the registration tent by 7:30 A.M.'이라고 명시되어 있고, 채팅에서도 Chalhoub 씨가 출발 30분 전(출발은 8시)까지 텐트에 도착해야 한다고 말했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Ms. Chalhoub indicate about the end of the race course?",
+        "options": [
+          "It passes over a bridge.",
+          "It involves an uphill section.",
+          "It has no water stations.",
+          "It finishes inside a stadium."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 채팅에서 Chalhoub 씨는 'the notice says the last stretch is uphill'이라며 마지막 구간을 위해 힘을 아껴 두라고 했고, 이는 공지의 '마지막 2km는 Hillcrest Road의 가파른 오르막'이라는 내용과 일치합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At 7:45 P.M., what does Ms. Chalhoub mean when she writes, \"a small bottle is enough\"?",
+        "options": [
+          "Runners can rely partly on the course's water stations.",
+          "The race organizers prohibit large containers.",
+          "The team should share one bottle of water.",
+          "Bottled water will be sold at the finish line."
+        ],
+        "answer": 0,
+        "explanation": "의도 파악 문제입니다. Reyes 씨가 물을 직접 가져가야 하는지 묻자, Chalhoub 씨는 코스에 급수대가 세 곳 있으므로 작은 물병이면 충분하다고 답했습니다. 즉, 코스의 급수대를 이용할 수 있으니 많은 물을 가져갈 필요가 없다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What problem does Ms. Gough mention?",
+        "options": [
+          "She cannot attend the race on Saturday.",
+          "She received the wrong size T-shirt.",
+          "She has not paid her entry fee.",
+          "She lost her registration confirmation."
+        ],
+        "answer": 1,
+        "explanation": "채팅에서 Gough 씨는 'my shirt is a medium, but I ordered a small'이라고 하여 주문한 사이즈(S)와 다른 사이즈(M)의 티셔츠를 받았다는 문제를 언급했습니다. 따라서 (B)가 정답이며, Chalhoub 씨가 텐트에서 교환 가능한지 문의하겠다고 답했습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Brentmoor Hotel — Conference Package\nOur Silver Conference Package ($45 per person, minimum 30 guests) includes use of the Lakeview Hall from 9:00 A.M. to 5:00 P.M., a projector and sound system, morning coffee service, and a buffet lunch. Optional add-ons: afternoon tea service ($6 per person) and on-site parking vouchers ($8 per vehicle). A 20% deposit is required to confirm a booking; the balance is billed after the event. Cancellations made fewer than seven days in advance forfeit the deposit.\n\n--- Passage 2 ---\nBanquet Event Order — Brentmoor Hotel\nClient: Ostrander Financial Group (contact: Priya Nair)\nEvent date: Thursday, October 8\nPackage: Silver Conference Package — 40 guests\nAdd-ons: Afternoon tea service for 40; parking vouchers for 12 vehicles\nDietary notes: 4 vegetarian, 2 gluten-free lunches\nDeposit received: September 15\n\n--- Passage 3 ---\nINVOICE #20488 — Brentmoor Hotel\nBill to: Ostrander Financial Group\nEvent date: October 8\nSilver Conference Package: 40 guests x $45 = $1,800\nAfternoon tea service: 40 x $6 = $240\nParking vouchers: 15 x $8 = $120\nSubtotal: $2,160\nLess deposit paid: -$432\nBalance due: $1,728\nPayment due within 30 days. Please direct questions to accounts@brentmoorhotel.com.\nNote: Three additional parking vouchers were issued at the front desk on the day of the event at the client's request.",
+    "questions": [
+      {
+        "question": "What is included in the Silver Conference Package?",
+        "options": [
+          "Overnight accommodations",
+          "A buffet lunch",
+          "Airport shuttle service",
+          "Afternoon tea service"
+        ],
+        "answer": 1,
+        "explanation": "첫 번째 지문에서 Silver Conference Package에는 홀 사용, 프로젝터와 음향 시스템, 모닝 커피 서비스, 뷔페 점심(buffet lunch)이 포함된다고 했으므로 (B)가 정답입니다. 오후 티 서비스는 패키지에 포함된 것이 아니라 유료 추가 옵션이므로 (D)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What amount did Ostrander Financial Group pay on September 15?",
+        "options": [
+          "$240",
+          "$432",
+          "$1,728",
+          "$2,160"
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 행사 주문서에 9월 15일 보증금(deposit)이 수령되었다고 했고, 패키지 안내문에서 보증금은 20%라고 했습니다. 송장에서 'Less deposit paid: -$432'로 확인되며, 이는 소계 $2,160의 20%에 해당합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How does the invoice differ from the original banquet event order?",
+        "options": [
+          "More parking vouchers were charged.",
+          "Fewer guests attended the lunch.",
+          "The tea service was canceled.",
+          "The room rental fee was increased."
+        ],
+        "answer": 0,
+        "explanation": "연계 문제입니다. 행사 주문서에는 주차권 12매가 기재되어 있었지만, 송장에는 15매(15 x $8 = $120)가 청구되었습니다. 송장 하단의 메모에서 행사 당일 고객 요청으로 3매가 추가 발급되었다고 설명하고 있으므로 (A)가 정답입니다. 게스트 수(40명)와 티 서비스(40인분)는 주문서와 동일합니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about the hotel's cancellation policy?",
+        "options": [
+          "Cancellations must be made in writing.",
+          "A late cancellation results in the loss of the deposit.",
+          "Clients may reschedule once at no charge.",
+          "Full refunds are available within 30 days."
+        ],
+        "answer": 1,
+        "explanation": "패키지 안내문에서 'Cancellations made fewer than seven days in advance forfeit the deposit'이라고 했습니다. 행사 7일 전 이내에 취소하면 보증금을 돌려받지 못한다는 의미이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the October 8 event?",
+        "options": [
+          "It ended later than 5:00 P.M.",
+          "It was attended by fewer than 30 guests.",
+          "Some attendees required special meals.",
+          "It was moved to a different hall."
+        ],
+        "answer": 2,
+        "explanation": "행사 주문서의 'Dietary notes: 4 vegetarian, 2 gluten-free lunches'에서 일부 참석자가 채식 및 글루텐 프리 등 특별식을 요청했음을 알 수 있으므로 (C)가 정답입니다. 게스트는 40명으로 최소 인원(30명)을 넘었고, 종료 시간이나 홀 변경에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Kestrel Media — Staff Handbook, Section 7: Remote Work\nEmployees who have completed their six-month probationary period may apply to work remotely up to two days per week. Requests must be approved by the employee's direct supervisor and renewed every quarter. Remote workdays may not be scheduled on Mondays, when all-staff meetings are held. Equipment for home use, including laptops, must be requested through the IT Department at least five business days in advance.\n\n--- Passage 2 ---\nTo: hr@kestrelmedia.com\nFrom: jswanson@kestrelmedia.com\nDate: July 7\nSubject: Remote work question\n\nHello,\nI joined the design team on March 2 of this year and would like to begin working from home on Tuesdays and Fridays. My supervisor, Elena Petrov, has already told me she supports the idea. Could you confirm when I am allowed to start and what I need to do about getting a laptop? I would like my first remote day to be Tuesday, September 8.\nBest regards,\nJonah Swanson\n\n--- Passage 3 ---\nTo: jswanson@kestrelmedia.com\nFrom: hr@kestrelmedia.com\nDate: July 8\nSubject: RE: Remote work question\n\nDear Mr. Swanson,\nThank you for your inquiry. Based on your start date, you will become eligible on September 2, so the start date you proposed will work. Since Ms. Petrov has agreed, simply have her submit the approval form, and remember that it must be resubmitted each quarter. Regarding equipment, please file your request with the appropriate department no later than September 1 to ensure your laptop is ready. One further note: the handbook restriction on scheduling does not affect either of the days you selected.\nRegards,\nFelicia Mbeki, Human Resources",
+    "questions": [
+      {
+        "question": "According to the handbook, how often must remote work approval be renewed?",
+        "options": [
+          "Every month",
+          "Every quarter",
+          "Twice a year",
+          "Once a year"
+        ],
+        "answer": 1,
+        "explanation": "직원 핸드북에서 재택근무 신청은 직속 상사의 승인을 받아야 하며 'renewed every quarter', 즉 분기마다 갱신해야 한다고 명시되어 있습니다. HR 답장에서도 매 분기 다시 제출해야 한다고 재확인하고 있으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is September 2 significant for Mr. Swanson?",
+        "options": [
+          "It is the date of an all-staff meeting.",
+          "It is the deadline for an equipment request.",
+          "It is when his probationary period ends.",
+          "It is when his supervisor returns from leave."
+        ],
+        "answer": 2,
+        "explanation": "연계 문제입니다. 핸드북에서 6개월의 수습 기간을 마친 직원만 재택근무를 신청할 수 있다고 했고, Swanson 씨는 이메일에서 3월 2일에 입사했다고 밝혔습니다. HR은 'Based on your start date, you will become eligible on September 2'라고 답했는데, 이는 입사 후 6개월이 되어 수습 기간이 끝나는 시점이기 때문입니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is Mr. Swanson advised to do by September 1?",
+        "options": [
+          "Submit a request to the IT Department",
+          "Attend a remote work orientation",
+          "Sign a revised employment contract",
+          "Return his current laptop"
+        ],
+        "answer": 0,
+        "explanation": "연계 문제입니다. HR 답장에서 장비 요청을 'the appropriate department'에 9월 1일까지 제출하라고 했고, 핸드북에 따르면 노트북 등 가정용 장비는 IT 부서에 최소 5영업일 전에 요청해야 합니다. 따라서 9월 1일까지 IT 부서에 요청서를 제출하라는 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Mbeki imply about Mondays?",
+        "options": [
+          "They are the busiest days for the IT Department.",
+          "Mr. Swanson did not choose them as remote workdays.",
+          "All-staff meetings will soon be moved to Mondays.",
+          "They are reserved for client presentations."
+        ],
+        "answer": 1,
+        "explanation": "세 지문 연계 추론 문제입니다. 핸드북에서 전 직원 회의가 열리는 월요일에는 재택근무를 할 수 없다고 했습니다. Mbeki 씨는 'the handbook restriction on scheduling does not affect either of the days you selected'라고 했는데, Swanson 씨가 선택한 요일은 화요일과 금요일로 월요일이 아니기 때문에 제한이 적용되지 않는다는 의미입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What must Ms. Petrov do for Mr. Swanson's request to proceed?",
+        "options": [
+          "Provide him with a company laptop",
+          "Submit an approval form",
+          "Schedule a meeting with Human Resources",
+          "Revise the staff handbook"
+        ],
+        "answer": 1,
+        "explanation": "HR 답장에서 'simply have her submit the approval form'이라고 했습니다. Petrov 씨는 Swanson 씨의 직속 상사로서 승인 양식을 제출해야 하므로 (B)가 정답입니다. 노트북 지급은 IT 부서의 역할입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Sorrel Hollow Vineyard — Tours & Tastings (www.sorrelhollow.com)\nJoin us for a guided walking tour of our hillside vineyard followed by a tasting of five estate wines. Tours run Friday through Sunday at 11:00 A.M. and 2:00 P.M., April to October. Standard tour: $25 per person. Groups of ten or more receive the group rate of $20 per person and a complimentary cheese platter. Tours proceed rain or shine; however, in the event of severe weather, the outdoor walk is replaced with a cellar tour and barrel tasting at no extra charge. Reservations are required at least 48 hours in advance.\n\n--- Passage 2 ---\nBooking Confirmation — Sorrel Hollow Vineyard\nConfirmation #: SH-3327\nName: Marcus Liedtke, Apex Consulting (corporate outing)\nDate: Saturday, August 22, 2:00 P.M.\nParty size: 14\nRate: Group\nTotal: $280 (paid in full)\nSpecial request: One guest requires a wheelchair-accessible route; confirmed available for the standard walking tour only.\n\n--- Passage 3 ---\nSorrel Hollow Vineyard — Weather Advisory\nPosted: Friday, August 21, 4:00 P.M.\nThe regional weather service has issued a severe thunderstorm warning for Saturday afternoon. All tours scheduled for Saturday, August 22, at 2:00 P.M. will follow our severe-weather format. Morning tours will run as scheduled. Guests who prefer to rebook may do so free of charge within the next 30 days by calling 555-0162 before their tour time. We apologize for any inconvenience.",
+    "questions": [
+      {
+        "question": "What is indicated about Sorrel Hollow Vineyard's tours?",
+        "options": [
+          "They are offered every day of the week.",
+          "They are not available in the winter.",
+          "They include dinner at the estate.",
+          "They are limited to ten participants."
+        ],
+        "answer": 1,
+        "explanation": "웹페이지에서 투어는 4월부터 10월까지(April to October) 금~일요일에 운영된다고 했습니다. 겨울철에는 운영되지 않으므로 (B)가 정답입니다. 매일이 아닌 금~일요일에만 운영되므로 (A)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did Mr. Liedtke's group qualify for a complimentary cheese platter?",
+        "options": [
+          "The group booked more than a month in advance.",
+          "The group includes at least ten people.",
+          "The group paid the full amount early.",
+          "The group is a returning customer."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 웹페이지에서 10인 이상 단체는 1인당 $20의 단체 요금과 무료 치즈 플래터를 받는다고 했습니다. 예약 확인서의 인원은 14명이고 요금도 단체 요금($20 × 14 = $280)이 적용되었으므로, 10인 이상 단체이기 때문에 치즈 플래터를 받을 자격이 생긴 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will most likely happen to Mr. Liedtke's tour if his group keeps its reservation?",
+        "options": [
+          "It will be moved to 11:00 A.M.",
+          "It will take place in the cellar.",
+          "It will be shortened to one hour.",
+          "It will cost an additional fee."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 기상 공지에서 8월 22일 토요일 오후 2시 투어는 악천후 형식(severe-weather format)으로 진행된다고 했고, 웹페이지에 따르면 악천후 시 야외 도보 투어는 추가 요금 없이 저장고(cellar) 투어와 배럴 시음으로 대체됩니다. Liedtke 씨의 예약은 토요일 오후 2시이므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What problem might the severe-weather format cause for Mr. Liedtke's group?",
+        "options": [
+          "The accessible route was confirmed only for the outdoor tour.",
+          "The cheese platter is not served indoors.",
+          "The group rate does not apply to cellar tours.",
+          "The cellar cannot accommodate fourteen people."
+        ],
+        "answer": 0,
+        "explanation": "세 지문 연계 추론 문제입니다. 예약 확인서에 한 게스트가 휠체어 접근 가능 경로를 요청했고, 이는 '표준 도보 투어에서만(for the standard walking tour only)' 가능하다고 확인되었습니다. 그런데 기상 공지로 인해 투어가 저장고 투어로 대체되므로, 해당 게스트의 접근성이 보장되지 않을 수 있다는 문제가 생깁니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the advisory, what should guests do to rebook at no charge?",
+        "options": [
+          "Fill out an online form",
+          "Visit the tasting room in person",
+          "Call before their scheduled tour time",
+          "Send an e-mail within 48 hours"
+        ],
+        "answer": 2,
+        "explanation": "기상 공지에서 재예약을 원하는 게스트는 '투어 시간 전에 555-0162로 전화하면(by calling 555-0162 before their tour time)' 30일 이내 무료로 재예약할 수 있다고 안내했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "NovaStack Developer Conference — Day 2 Agenda (Track B, Halloran Auditorium)\n9:30 A.M. — Building Faster APIs, Wendy Cho\n11:00 A.M. — Securing Cloud Databases, Dr. Emil Navarro\n1:30 P.M. — Machine Learning on a Budget, Sarah Adeyemi\n3:00 P.M. — Panel: The Future of Open Source (all Track B speakers)\nEach session includes a 15-minute question-and-answer period. Slides will be posted on the conference app within 24 hours of each session.\n\n--- Passage 2 ---\nSpeaker Profile — Dr. Emil Navarro\nDr. Emil Navarro is the chief security architect at Glassport Systems, where he leads a team responsible for protecting financial data for over 200 banking clients. He previously spent eight years as a database administrator at Veritone Bank and holds a doctorate in computer science from Aldgate University. His recent book, Locking the Vault, was named a top-ten technology title by Developer Monthly. This is his third appearance at NovaStack.\n\n--- Passage 3 ---\nNovaStack Conference App — Attendee Question Board\nFrom: Priscilla Wong, posted Day 2, 12:10 P.M.\nI attended this morning's 11 o'clock session in Halloran Auditorium, but I had to leave before the question-and-answer period to catch a client call. The speaker mentioned a checklist for auditing access permissions—does anyone know if that checklist is in his book, or will it be included in the posted slides? Also, will he be at the afternoon panel? I'd like to ask him about encryption standards in person.",
+    "questions": [
+      {
+        "question": "What is suggested about all Track B sessions?",
+        "options": [
+          "They are repeated on Day 3.",
+          "They conclude with time for questions.",
+          "They require advance registration.",
+          "They are streamed online."
+        ],
+        "answer": 1,
+        "explanation": "일정표에서 'Each session includes a 15-minute question-and-answer period'라고 했으므로 모든 세션에 질의응답 시간이 있다는 (B)가 정답입니다. 반복 세션, 사전 등록, 온라인 중계에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Whose session did Ms. Wong attend?",
+        "options": [
+          "Wendy Cho's",
+          "Dr. Emil Navarro's",
+          "Sarah Adeyemi's",
+          "A panel moderator's"
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. Wong 씨는 '오늘 오전 11시 Halloran Auditorium 세션'에 참석했다고 했고, 일정표에서 11:00 A.M. 세션은 Dr. Emil Navarro의 'Securing Cloud Databases'입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about Dr. Navarro?",
+        "options": [
+          "He is attending NovaStack for the first time.",
+          "He founded Glassport Systems.",
+          "He has written a well-received book.",
+          "He teaches at Aldgate University."
+        ],
+        "answer": 2,
+        "explanation": "연사 프로필에서 그의 최근 저서 'Locking the Vault'가 Developer Monthly 선정 기술 서적 톱 10에 올랐다고 했으므로 (C)가 정답입니다. NovaStack 참가는 세 번째이므로 (A)는 오답이고, 그는 Glassport Systems의 수석 보안 설계자일 뿐 창립자라는 언급은 없으며, Aldgate University는 박사 학위를 받은 곳입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why did Ms. Wong leave the session early?",
+        "options": [
+          "She had to take a business call.",
+          "She wanted to attend a different track.",
+          "She felt the content was too advanced.",
+          "She had a lunch reservation."
+        ],
+        "answer": 0,
+        "explanation": "질문 게시판에서 Wong 씨는 'I had to leave before the question-and-answer period to catch a client call'이라고 했습니다. 고객과의 전화를 받기 위해 질의응답 전에 자리를 떴으므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Where will Ms. Wong most likely be able to see the speaker again on Day 2?",
+        "options": [
+          "At the 1:30 P.M. session",
+          "At the 3:00 P.M. panel",
+          "At the conference registration desk",
+          "At a book-signing event"
+        ],
+        "answer": 1,
+        "explanation": "세 지문 연계 문제입니다. Wong 씨는 연사(Dr. Navarro)에게 직접 질문하고 싶어 오후 패널에 그가 참석하는지 물었습니다. 일정표에 따르면 3:00 P.M. 패널 'The Future of Open Source'에는 'all Track B speakers', 즉 Track B의 모든 연사가 참여하므로 Navarro 박사도 참석할 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "SwiftNest Relocation Services — Move with Confidence!\nSwiftNest handles local and long-distance moves for homes and offices. Every quote includes professional packing materials, loading, transport, and basic insurance covering up to $500 per damaged item. Full-value protection is available for an additional 4% of the total move cost. Claims for damage must be submitted with photographs within 14 days of delivery. Book online at swiftnest.com or call 555-0190 for a free in-home estimate.\n\n--- Passage 2 ---\nSwiftNest Relocation Services — Quote #Q-7714\nCustomer: Hannah Brogan\nMove date: June 3\nFrom: 18 Câble Court, Apt. 4B / To: 92 Telford Lane\nDistance: 35 km (local rate)\nEstimated total: $1,450\nSelected coverage: Basic insurance (included)\nNote: Customer declined full-value protection. Quote valid for 30 days.\n\n--- Passage 3 ---\nTo: claims@swiftnest.com\nFrom: hbrogan@lumamail.com\nDate: June 12\nSubject: Damage claim — Quote #Q-7714\n\nTo Whom It May Concern,\nDuring my June 3 move, my glass display cabinet was cracked in transit. I have attached six photographs taken on the day of delivery. The cabinet was purchased two years ago for $820, and a local repair shop has estimated the repair cost at $390. I understand the terms of the coverage I selected, so I am requesting reimbursement of the repair amount rather than the replacement value. Please confirm receipt of this claim and let me know if you require any further documentation.\nSincerely,\nHannah Brogan",
+    "questions": [
+      {
+        "question": "What is true about every SwiftNest quote?",
+        "options": [
+          "It includes some insurance coverage.",
+          "It is valid for sixty days.",
+          "It requires an in-home estimate.",
+          "It covers storage fees."
+        ],
+        "answer": 0,
+        "explanation": "광고 전단에서 모든 견적에는 포장재, 상하차, 운송과 함께 '품목당 최대 $500까지 보상하는 기본 보험(basic insurance)'이 포함된다고 했으므로 (A)가 정답입니다. 견적 유효 기간은 30일이고, 방문 견적은 선택 사항이며, 보관료에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Ms. Brogan's move?",
+        "options": [
+          "It was an office relocation.",
+          "It was charged at the local rate.",
+          "It was rescheduled from an earlier date.",
+          "It took more than one day."
+        ],
+        "answer": 1,
+        "explanation": "견적서에 이동 거리가 35km이며 'local rate'가 적용되었다고 명시되어 있으므로 (B)가 정답입니다. 주소가 아파트에서 일반 주소로의 이사이므로 사무실 이전이라고 볼 근거는 없고, 일정 변경이나 소요 일수에 대한 언급도 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is Ms. Brogan's claim likely to be accepted?",
+        "options": [
+          "She purchased full-value protection.",
+          "She submitted photographs within the required period.",
+          "She reported the damage before the move ended.",
+          "She included the original purchase receipt."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 전단에서 파손 청구는 배송 후 14일 이내에 사진과 함께 제출해야 한다고 했습니다. Brogan 씨는 6월 3일 이사 후 6월 12일(9일째)에 배송 당일 찍은 사진 6장을 첨부해 청구서를 보냈으므로 요건을 충족합니다. 따라서 (B)가 정답입니다. 견적서에 따르면 그녀는 전액 보상 보험을 거절했으므로 (A)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Brogan mean when she writes, \"I understand the terms of the coverage I selected\"?",
+        "options": [
+          "She knows her reimbursement is capped at $500 per item.",
+          "She expects the full purchase price of the cabinet.",
+          "She believes the company should waive its fees.",
+          "She plans to upgrade her insurance policy."
+        ],
+        "answer": 0,
+        "explanation": "세 지문 연계 추론 문제입니다. 견적서에서 그녀는 전액 보상 보험을 거절하고 기본 보험만 선택했으며, 전단에 따르면 기본 보험은 품목당 최대 $500까지만 보상합니다. 캐비닛 구입가($820)는 한도를 초과하므로, 그녀는 한도 내인 수리비 $390의 배상을 요청한다고 말한 것입니다. 즉, 자신이 선택한 보험의 보상 한도를 알고 있다는 의미이므로 (A)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "How much is Ms. Brogan requesting from SwiftNest?",
+        "options": [
+          "$390",
+          "$500",
+          "$820",
+          "$1,450"
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 Brogan 씨는 교체 비용이 아닌 수리비의 배상을 요청한다고 했고, 수리점의 견적 금액은 $390입니다. 따라서 (A)가 정답입니다. $820은 구입가, $1,450은 이사 견적 총액입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Goldcrest Bakery — Wholesale Price List (effective May 1)\nSourdough loaf: $3.40 | Multigrain loaf: $3.10 | Butter croissant: $1.60 | Cinnamon roll: $1.90 | Dinner rolls (dozen): $4.20\nWholesale terms: Minimum order of $50 per delivery. Orders placed by 4:00 P.M. are delivered the following morning before 7:00 A.M. Standing-order customers receive a 5% discount on all items and priority delivery. Returns are not accepted, but credits are issued for items that arrive damaged or below standard.\n\n--- Passage 2 ---\nGoldcrest Bakery — Standing Order Agreement\nCustomer: The Juniper Café (44 Wexford Street)\nContact: Oliver Demming, Manager\nDeliveries: Tuesday through Saturday, before 7:00 A.M.\nDaily order: 12 sourdough loaves, 20 butter croissants, 15 cinnamon rolls\nDiscount applied: Yes\nEffective: May 5\nEither party may modify or cancel this agreement with seven days' written notice.\n\n--- Passage 3 ---\nTo: orders@goldcrestbakery.com\nFrom: odemming@junipercafe.com\nDate: Friday, May 22\nSubject: This morning's delivery\n\nGood morning,\nToday's delivery arrived on time, but the croissants were underbaked and pale, and we were unable to serve them. The sourdough and cinnamon rolls were fine. Per your wholesale terms, please issue the appropriate credit to our account. Separately, our weekend traffic has grown, so starting next month we would like to raise our daily croissant order from 20 to 30. I am providing this notice well in advance as required by our agreement.\nThank you,\nOliver Demming",
+    "questions": [
+      {
+        "question": "According to the price list, what is an advantage of having a standing order?",
+        "options": [
+          "Free weekend deliveries",
+          "A discount on all items",
+          "No minimum order amount",
+          "Extended payment terms"
+        ],
+        "answer": 1,
+        "explanation": "가격표의 도매 조건에서 'Standing-order customers receive a 5% discount on all items and priority delivery'라고 했습니다. 정기 주문 고객은 전 품목 5% 할인과 우선 배송을 받으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much does The Juniper Café most likely pay per butter croissant?",
+        "options": [
+          "$1.52",
+          "$1.60",
+          "$1.68",
+          "$1.90"
+        ],
+        "answer": 0,
+        "explanation": "연계 계산 문제입니다. 가격표에서 버터 크루아상은 개당 $1.60이고, 정기 주문 고객은 5% 할인을 받습니다. 정기 주문 계약서에서 The Juniper Café는 할인이 적용된다고(Discount applied: Yes) 명시되어 있으므로 $1.60 × 0.95 = $1.52가 됩니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What problem does Mr. Demming report?",
+        "options": [
+          "A delivery arrived after opening time.",
+          "Some items were not properly baked.",
+          "The wrong quantity of bread was delivered.",
+          "An invoice contained a pricing error."
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 Demming 씨는 배송은 제시간에 왔지만 '크루아상이 덜 구워지고 색이 옅어서(underbaked and pale)' 판매할 수 없었다고 했습니다. 따라서 (B)가 정답입니다. 배송 지연이나 수량 오류, 청구서 오류에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will Goldcrest Bakery most likely do in response to the quality issue?",
+        "options": [
+          "Send a replacement delivery the same day",
+          "Issue a credit to the café's account",
+          "Offer a full refund by check",
+          "Accept the croissants as a return"
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 가격표의 도매 조건에 따르면 반품은 받지 않지만 '파손되거나 기준 미달인 품목에 대해서는 크레딧을 발급한다(credits are issued for items that arrive damaged or below standard)'고 했습니다. Demming 씨도 약관에 따라 크레딧 발급을 요청했으므로 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Mr. Demming mention providing notice in advance?",
+        "options": [
+          "He intends to cancel the standing order.",
+          "The agreement requires notice for changes.",
+          "The bakery is closing for a holiday.",
+          "He is switching to a different supplier."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 정기 주문 계약서에 '어느 쪽이든 7일 전 서면 통지로 계약을 수정하거나 해지할 수 있다'고 명시되어 있습니다. Demming 씨는 크루아상 일일 주문량을 20개에서 30개로 늘리는 수정을 원하므로, 계약 요건대로 미리 통지한다고 말한 것입니다. 따라서 (B)가 정답입니다. 그는 주문을 늘리려는 것이지 취소하려는 것이 아닙니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "City of Marwick — Press Release\nThe Marwick Department of Transportation is pleased to announce the launch of PedalLink, the city's first bike-share program, on June 1. Forty stations will be installed across the downtown and university districts, with 400 bicycles available. Riders can unlock bicycles using the PedalLink mobile app. The program aims to reduce traffic congestion and is funded in part by a state clean-transportation grant.\n\n--- Passage 2 ---\nPedalLink Membership Options\nPay-as-you-go: $1 to unlock + $0.15 per minute\nMonthly pass: $18 — unlimited 45-minute rides; $0.10 per minute thereafter\nAnnual pass: $150 — unlimited 60-minute rides; $0.10 per minute thereafter\nAll plans: Bicycles must be returned to a docking station. A $2 convenience fee applies when a bicycle is left at a full station's overflow rack. Annual members receive one free guest pass per month.\n\n--- Passage 3 ---\nTo: support@pedallink.com\nFrom: gtheriault@mailbeam.com\nDate: June 14\nSubject: Charge on my account\n\nHello,\nI purchased the annual pass on launch day and have been riding to work daily. Yesterday my ride lasted 52 minutes, yet my account shows an extra charge of $2. Since my plan covers rides of up to an hour, I don't understand the fee. The station near my office was completely full when I arrived, so I had to leave the bike on the rack beside the dock. Could you explain the charge or remove it? Also, how do I send my guest pass to a friend visiting next week?\nThank you,\nGuy Theriault",
+    "questions": [
+      {
+        "question": "According to the press release, what is one goal of the PedalLink program?",
+        "options": [
+          "To increase tourism revenue",
+          "To ease traffic congestion",
+          "To fund university research",
+          "To replace the city's bus routes"
+        ],
+        "answer": 1,
+        "explanation": "보도 자료에서 'The program aims to reduce traffic congestion'이라고 명시했습니다. 교통 혼잡을 줄이는 것이 목표이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about Mr. Theriault?",
+        "options": [
+          "He works at a university.",
+          "He began using PedalLink on June 1.",
+          "He pays $18 per month for his plan.",
+          "He rides only on weekends."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. Theriault 씨는 'launch day'에 연간 패스를 구매했다고 했고, 보도 자료에서 프로그램 출시일은 6월 1일이라고 했습니다. 따라서 6월 1일부터 이용을 시작했다는 (B)가 정답입니다. $18은 월간 패스 요금이며 그는 연간 패스($150) 회원입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why was Mr. Theriault most likely charged $2?",
+        "options": [
+          "His ride exceeded his plan's time limit.",
+          "He left the bicycle at an overflow rack.",
+          "He unlocked two bicycles at once.",
+          "His annual pass had expired."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 회원제 안내에서 '자전거를 만차인 스테이션의 보조 거치대(overflow rack)에 두면 $2의 수수료가 부과된다'고 했습니다. Theriault 씨는 스테이션이 만차여서 도크 옆 거치대에 자전거를 두었다고 했으므로 이 수수료가 부과된 것입니다. 따라서 (B)가 정답입니다. 그의 52분 주행은 연간 패스의 60분 한도 이내이므로 (A)는 오답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about annual pass holders?",
+        "options": [
+          "They can ride for up to 45 minutes at no extra cost.",
+          "They receive a monthly guest pass.",
+          "They are exempt from all additional fees.",
+          "They must renew through the mobile app."
+        ],
+        "answer": 1,
+        "explanation": "회원제 안내에서 'Annual members receive one free guest pass per month'라고 했으므로 (B)가 정답입니다. 연간 패스의 무료 이용 시간은 45분이 아니라 60분이며(45분은 월간 패스), 보조 거치대 수수료 등은 모든 플랜에 적용되므로 (C)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Mr. Theriault ask about in addition to the charge?",
+        "options": [
+          "How to report a damaged bicycle",
+          "How to share a pass with a visitor",
+          "How to upgrade his membership",
+          "How to find docking station locations"
+        ],
+        "answer": 1,
+        "explanation": "이메일 마지막에서 'how do I send my guest pass to a friend visiting next week?'라고 물었습니다. 다음 주에 방문하는 친구에게 게스트 패스를 보내는 방법을 문의했으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Halverson Portrait Studio — Services (www.halversonstudio.com)\nWe specialize in professional portraits for individuals and businesses.\nHeadshot session (30 min, 2 retouched images): $95\nFamily session (60 min, 8 retouched images): $180\nCorporate team session (on location, up to 15 staff): $450\nAll sessions include an online gallery within five business days. Rescheduling is free with at least 48 hours' notice; later changes incur a $25 fee. Saturday appointments fill quickly—book at least three weeks ahead.\n\n--- Passage 2 ---\nBooking Confirmation — Halverson Portrait Studio\nClient: Nadia Rezaei\nSession: Headshot session\nDate/Time: Saturday, March 21, 10:00 A.M.\nLocation: Studio A, 310 Whitlock Avenue\nAmount paid: $95\nNote: Please arrive 10 minutes early. Bring two outfit options; solid colors photograph best.\n\n--- Passage 3 ---\nTo: bookings@halversonstudio.com\nFrom: n.rezaei@trovamail.com\nDate: Thursday, March 19, 9:15 A.M.\nSubject: Appointment change request\n\nHello,\nI'm scheduled for this Saturday morning, but I've just been asked to attend an urgent client meeting that day. Could I move my session to the following Saturday, March 28, at the same time? I'm aware of your policy regarding short-notice changes, and based on when I'm sending this, I believe my request still qualifies for free rescheduling—please confirm. Also, my new business cards will feature the photos, so could the retouched images be delivered sooner than the standard time frame? I'd be happy to pay a rush fee if necessary.\nThank you,\nNadia Rezaei",
+    "questions": [
+      {
+        "question": "What is indicated about Halverson Portrait Studio?",
+        "options": [
+          "It is closed on weekends.",
+          "Its Saturday slots are in high demand.",
+          "It offers only outdoor sessions.",
+          "It provides free parking for clients."
+        ],
+        "answer": 1,
+        "explanation": "웹페이지에서 'Saturday appointments fill quickly—book at least three weeks ahead'라고 했습니다. 토요일 예약이 빨리 차므로 수요가 많다는 (B)가 정답입니다. 토요일에도 영업하므로 (A)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many retouched images is Ms. Rezaei entitled to receive?",
+        "options": [
+          "Two",
+          "Five",
+          "Eight",
+          "Fifteen"
+        ],
+        "answer": 0,
+        "explanation": "연계 문제입니다. 예약 확인서에서 Rezaei 씨의 예약은 Headshot session이고, 웹페이지에서 헤드샷 세션에는 보정 사진 2장(2 retouched images)이 포함된다고 했습니다. 따라서 (A)가 정답입니다. 8장은 가족 세션에 해당합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why does Ms. Rezaei believe she will not be charged a fee?",
+        "options": [
+          "She is a returning customer.",
+          "Her request was sent more than 48 hours before her session.",
+          "The studio canceled her original appointment.",
+          "She purchased a premium package."
+        ],
+        "answer": 1,
+        "explanation": "세 지문 연계 추론 문제입니다. 웹페이지 정책에 따르면 48시간 전까지 통지하면 무료로 일정을 변경할 수 있습니다. 그녀의 세션은 토요일(3월 21일) 오전 10시이고 이메일은 목요일(3월 19일) 오전 9시 15분에 발송되어 48시간 이상 남았으므로 무료 변경 요건을 충족합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why does Ms. Rezaei need her photographs quickly?",
+        "options": [
+          "They will appear on her business cards.",
+          "She is submitting them with a job application.",
+          "Her company website launches soon.",
+          "She is entering a photography contest."
+        ],
+        "answer": 0,
+        "explanation": "이메일에서 'my new business cards will feature the photos'라며 보정 사진을 표준 기한보다 빨리 받을 수 있는지 물었습니다. 새 명함에 사진이 들어가기 때문이므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the standard time frame Ms. Rezaei refers to in her e-mail?",
+        "options": [
+          "Two business days",
+          "Three weeks",
+          "Five business days",
+          "Ten business days"
+        ],
+        "answer": 2,
+        "explanation": "연계 문제입니다. 이메일에서 그녀는 'the standard time frame'보다 빨리 사진을 받고 싶다고 했고, 웹페이지에서 모든 세션은 5영업일 이내에 온라인 갤러리를 제공한다('online gallery within five business days')고 했습니다. 따라서 (C)가 정답입니다. 3주는 토요일 예약 권장 시점입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "triple-passage",
+    "passage": "Meadowfork Farm Co-op — June Newsletter\nSummer is here, and our weekly harvest boxes are overflowing! Members can choose the Garden Box ($24 per week) or the Orchard Box ($32 per week), which adds seasonal fruit. Boxes are packed every Thursday and can be picked up at the farm stand or delivered within Dunmore County for a $5 fee. New this season: members may pause their subscription for up to three weeks per quarter through their online account. When a listed item is unavailable due to weather or low yield, we substitute it with produce of equal or greater value and notify members by e-mail.\n\n--- Passage 2 ---\nMeadowfork Farm Co-op — Subscription Form\nName: Carl Eastwick\nBox type: Orchard Box\nStart date: June 5\nFulfillment: Delivery — 75 Birchwood Drive, Dunmore County\nWeekly total: $37\nPayment: Monthly, by automatic bank transfer\nSpecial instructions: Leave the box on the side porch if no one answers the door.\n\n--- Passage 3 ---\nTo: c.eastwick@plummail.net\nFrom: notices@meadowfork.coop\nDate: Thursday, June 19\nSubject: A change to this week's box\n\nDear Member,\nDue to a week of heavy rain, the strawberries listed for this week's Orchard Box could not be harvested. In their place, you will receive two jars of our farm-made strawberry preserves, which sell for $6 more than the berries at our farm stand. There is no additional charge. Your box is on the truck and will arrive today as scheduled. We appreciate your understanding and expect strawberries to return next week.\n— The Meadowfork Team",
+    "questions": [
+      {
+        "question": "What is a new feature mentioned in the newsletter?",
+        "options": [
+          "A discounted annual membership",
+          "The option to suspend deliveries temporarily",
+          "A second weekly packing day",
+          "Organic certification for all produce"
+        ],
+        "answer": 1,
+        "explanation": "뉴스레터에서 'New this season: members may pause their subscription for up to three weeks per quarter'라고 했습니다. 분기당 최대 3주까지 구독을 일시 중지할 수 있는 기능이 새로 생겼으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why is Mr. Eastwick's weekly total $37?",
+        "options": [
+          "He chose the Garden Box with fruit added.",
+          "His payment includes a late fee.",
+          "He pays for the Orchard Box plus delivery.",
+          "He subscribed before the price increase."
+        ],
+        "answer": 2,
+        "explanation": "연계 계산 문제입니다. 뉴스레터에서 Orchard Box는 주당 $32이고 Dunmore County 내 배송비는 $5입니다. 구독 양식에서 Eastwick 씨는 Orchard Box를 선택하고 배송(Delivery)을 신청했으므로 $32 + $5 = $37이 됩니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the e-mail, why were strawberries unavailable?",
+        "options": [
+          "An unusually large number of orders",
+          "A period of heavy rainfall",
+          "A delay at a packing facility",
+          "An early end to the growing season"
+        ],
+        "answer": 1,
+        "explanation": "이메일에서 'Due to a week of heavy rain, the strawberries ... could not be harvested'라고 했습니다. 일주일간의 폭우로 딸기를 수확할 수 없었기 때문이므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How does the substitution comply with the co-op's stated policy?",
+        "options": [
+          "The replacement item is worth more than the original.",
+          "Members were given the choice of a refund.",
+          "The box was delivered a day early.",
+          "The substitution was approved by a member vote."
+        ],
+        "answer": 0,
+        "explanation": "연계 문제입니다. 뉴스레터의 정책에 따르면 품목이 준비되지 않을 경우 '동등하거나 더 높은 가치의 농산물로 대체하고 이메일로 알린다'고 했습니다. 이메일에서 대체품인 딸기잼 두 병은 딸기보다 $6 더 비싸게 판매되는 제품이고 추가 요금도 없으며 이메일로 통지되었으므로 정책에 부합합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What will most likely happen if Mr. Eastwick is not home when his box arrives on June 19?",
+        "options": [
+          "The box will be returned to the farm stand.",
+          "The driver will leave the box on the side porch.",
+          "Delivery will be attempted again the next day.",
+          "He will be asked to pick it up within 24 hours."
+        ],
+        "answer": 1,
+        "explanation": "연계 문제입니다. 구독 양식의 특별 지시 사항에 '아무도 응답하지 않으면 상자를 옆 현관에 두라(Leave the box on the side porch)'고 적혀 있습니다. 이메일에서 상자가 오늘(6월 19일) 예정대로 배송된다고 했으므로, 부재 시 기사는 지시대로 옆 현관에 상자를 둘 것입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

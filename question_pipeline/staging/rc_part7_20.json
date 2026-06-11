@@ -1,0 +1,939 @@
+[
+  {
+    "passageType": "article",
+    "passage": "HARLOW CREEK (Business Weekly) — When Marisol Vega opened Dough & Daughters, a small bakery on Pinecrest Avenue, few expected it to survive its first winter. Five years later, the bakery employs fourteen people and ships its signature sourdough crackers to specialty shops in three neighboring states. Ms. Vega attributes the turnaround to a single decision: cutting her menu in half. \"We were trying to please everyone,\" she said. \"Once we focused on the six items we did best, quality went up and waste went down.\" The bakery also benefited from a partnership with Harlow Creek Community College, whose culinary students complete paid internships in its kitchen each semester. Several interns have stayed on as full-time staff. Last month, Dough & Daughters received the Chamber of Commerce's Small Business of the Year award, which includes a $10,000 grant. Ms. Vega plans to use the funds to install a second oven, allowing the bakery to double its wholesale output by next spring.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The growth of a local bakery",
+          "A new culinary degree program",
+          "Rising food prices in Harlow Creek",
+          "A merger between two food companies"
+        ],
+        "answer": 0,
+        "explanation": "기사 전체가 Dough & Daughters라는 작은 빵집이 5년 만에 직원 14명을 둔 성공적인 사업체로 성장한 과정을 다루고 있습니다. 첫 문단부터 빵집의 생존과 확장을 설명하므로 (A) '지역 빵집의 성장'이 정답입니다. 요리 학위 프로그램(B)은 인턴십 협력으로만 언급되고, 식품 가격(C)이나 합병(D)은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what decision helped the bakery succeed?",
+        "options": [
+          "Lowering its prices",
+          "Reducing the number of menu items",
+          "Moving to a larger location",
+          "Extending its business hours"
+        ],
+        "answer": 1,
+        "explanation": "Ms. Vega는 성공 요인으로 'cutting her menu in half'(메뉴를 절반으로 줄인 것)를 꼽았습니다. 가장 잘하는 6가지 품목에 집중하자 품질이 올라가고 낭비가 줄었다고 설명하므로 (B)가 정답입니다. 가격 인하, 이전, 영업시간 연장은 본문에 없는 내용입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the internship program?",
+        "options": [
+          "It is open only to graduate students.",
+          "It lasts for a full year.",
+          "It has become a source of permanent employees.",
+          "It was funded by a government grant."
+        ],
+        "answer": 2,
+        "explanation": "본문에 'Several interns have stayed on as full-time staff'(여러 인턴이 정규직으로 남았다)라고 명시되어 있어, 인턴십 프로그램이 정규 직원 채용의 통로가 되었음을 추론할 수 있습니다. 따라서 (C)가 정답입니다. 대학원생 한정(A), 1년 기간(B), 정부 보조금(D)은 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What does Ms. Vega plan to do with the grant money?",
+        "options": [
+          "Hire additional bakers",
+          "Open a second store",
+          "Purchase new equipment",
+          "Launch an advertising campaign"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 Ms. Vega는 상금 10,000달러를 'install a second oven'(두 번째 오븐 설치)에 사용할 계획이라고 했습니다. 오븐은 장비이므로 (C) '새 장비 구입'이 정답입니다. 직원 채용(A), 2호점 개설(B), 광고(D)는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "BRENFORD — [1] Ten years ago, Curtis Aoki was repairing bicycles out of a rented garage behind his apartment. Today, his company, Spoke & Sprocket, operates twelve service centers across the region and has just signed its first franchise agreement. [2] The company's rise has been driven by an unusual business model: customers pay a flat monthly fee that covers unlimited tune-ups, flat-tire repairs, and safety inspections. The subscription approach, rare in the bicycle trade, gives the company predictable revenue during slow winter months. [3] Mr. Aoki credits his early employees with refining the concept. \"They heard the same complaints from riders every day, and we built the membership around solving them,\" he said. The new franchise location will open in Dale Harbor in September, operated by longtime store manager Priya Raman. [4] Mr. Aoki says he hopes to sign five more franchise agreements within two years, focusing on towns that currently lack a full-service bicycle shop.",
+    "questions": [
+      {
+        "question": "What is the purpose of the article?",
+        "options": [
+          "To announce a bicycle race",
+          "To profile a growing local business",
+          "To review a new bicycle model",
+          "To explain changes to traffic laws"
+        ],
+        "answer": 1,
+        "explanation": "기사는 차고에서 자전거를 수리하던 Curtis Aoki가 12개 서비스 센터를 운영하는 회사로 성장시킨 과정과 첫 프랜차이즈 계약을 소개하는 인물·기업 특집 기사입니다. 따라서 (B) '성장하는 지역 사업체 소개'가 정답입니다. 자전거 경주(A), 신모델 리뷰(C), 교통법(D)은 본문과 무관합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about Spoke & Sprocket's business model?",
+        "options": [
+          "It charges customers a recurring fee.",
+          "It sells bicycles exclusively online.",
+          "It was copied from a competitor.",
+          "It focuses on racing bicycles."
+        ],
+        "answer": 0,
+        "explanation": "본문에 'customers pay a flat monthly fee'(고객이 매월 정액 요금을 지불한다)라는 구독형 모델이 설명되어 있으므로 (A) '반복 요금을 부과한다'가 정답입니다. 이 모델은 자전거 업계에서 드물다(rare)고 했으므로 경쟁사 모방(C)은 오답이며, 온라인 전용 판매(B)나 경주용 자전거 특화(D)는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who will manage the Dale Harbor location?",
+        "options": [
+          "Curtis Aoki",
+          "A newly hired consultant",
+          "Priya Raman",
+          "A former competitor"
+        ],
+        "answer": 2,
+        "explanation": "본문에 'operated by longtime store manager Priya Raman'이라고 명시되어 있으므로, Dale Harbor의 새 프랜차이즈 지점은 오랜 매장 관리자인 Priya Raman이 운영합니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"That stability has allowed it to keep all twelve locations open year-round.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 2,
+        "explanation": "삽입 문장의 'That stability'(그 안정성)는 바로 앞에서 언급된 '한가한 겨울철에도 예측 가능한 수익(predictable revenue during slow winter months)'을 가리킵니다. 구독 모델의 안정적 수익 설명 직후인 [3] 위치에 들어가야 '그 안정성 덕분에 12개 지점을 연중 운영할 수 있었다'는 논리적 연결이 자연스럽습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "NATIONAL LABOR REPORT — Employers across the manufacturing and logistics sectors added 84,000 jobs last quarter, according to figures released Tuesday by the Bureau of Workforce Statistics. The gain marks the strongest quarter for blue-collar hiring in four years. Analysts attribute the surge to companies rebuilding domestic supply chains after years of overseas disruptions. However, the report also highlights a persistent challenge: nearly 60 percent of surveyed employers said they struggled to fill openings that require technical certifications, such as welding and industrial electrical work. In response, several large firms have begun covering the full cost of certification courses for new hires. Tarrant Mechanical, a parts manufacturer in Ohio, reported that its tuition program cut average time-to-hire from nine weeks to four. \"We stopped waiting for qualified candidates to appear and started creating them,\" said human resources director Lena Okafor. Economists caution that hiring momentum could slow if interest rates rise, but most expect demand for skilled trade workers to remain strong through at least next year.",
+    "questions": [
+      {
+        "question": "What does the report mainly discuss?",
+        "options": [
+          "A decline in factory production",
+          "Recent trends in hiring",
+          "New workplace safety regulations",
+          "An increase in employee resignations"
+        ],
+        "answer": 1,
+        "explanation": "보고서는 제조·물류 부문에서 지난 분기 84,000개의 일자리가 늘었다는 고용 통계와 채용 동향, 인력 확보의 어려움을 다루고 있습니다. 따라서 (B) '최근 채용 동향'이 정답입니다. 생산 감소(A), 안전 규정(C), 퇴사 증가(D)는 본문 내용과 다릅니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what problem do many employers face?",
+        "options": [
+          "Finding workers with required certifications",
+          "Paying higher transportation costs",
+          "Complying with new tax rules",
+          "Retaining senior managers"
+        ],
+        "answer": 0,
+        "explanation": "설문에 응한 고용주의 약 60%가 용접, 산업 전기 작업 등 기술 자격증이 필요한 일자리를 채우는 데 어려움을 겪었다고 답했습니다('struggled to fill openings that require technical certifications'). 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"covering\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "hiding",
+          "protecting",
+          "paying",
+          "reporting"
+        ],
+        "answer": 2,
+        "explanation": "'covering the full cost of certification courses'에서 cover는 비용을 '부담하다, 지불하다'라는 의미로 쓰였습니다. 따라서 (C) paying이 가장 가깝습니다. hide(숨기다), protect(보호하다), report(보도하다)는 이 문맥의 의미와 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Tarrant Mechanical?",
+        "options": [
+          "It recently relocated overseas.",
+          "Its training investment reduced hiring time.",
+          "It plans to lay off workers next year.",
+          "It manufactures welding equipment."
+        ],
+        "answer": 1,
+        "explanation": "Tarrant Mechanical은 신입 직원의 자격증 과정 비용을 전액 지원하는 프로그램을 통해 평균 채용 소요 기간을 9주에서 4주로 줄였다고 보고했습니다. 따라서 교육 투자가 채용 시간을 단축했다는 (B)가 정답입니다. 해외 이전(A), 감원 계획(C), 용접 장비 제조(D)는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — Calloway Distribution Group announced today that it will hire 1,200 seasonal workers across its four regional warehouses ahead of the year-end shopping period. [1] Positions include package handlers, forklift operators, and inventory clerks, with shifts available around the clock. Seasonal employees will earn a starting wage of $19.50 per hour, a 10 percent increase over last year's rate, plus a completion bonus of $600 for those who remain through January 15. [2] \"The holiday season accounts for nearly a third of our annual volume, and we want to reward the people who make it possible,\" said Chief Operating Officer Danielle Mercer. The company noted that more than 400 of last year's seasonal hires accepted permanent roles after the season ended. [3] Interested applicants can apply online at callowaydg.com/careers or attend one of the walk-in hiring events scheduled at each warehouse during the first week of October. [4] Offers will be extended within five business days of a completed interview.",
+    "questions": [
+      {
+        "question": "What is the purpose of the press release?",
+        "options": [
+          "To announce a warehouse closing",
+          "To introduce a new executive",
+          "To publicize temporary job openings",
+          "To report quarterly earnings"
+        ],
+        "answer": 2,
+        "explanation": "보도자료는 연말 쇼핑 시즌을 앞두고 1,200명의 계절(임시) 직원을 채용한다는 내용을 알리고 있습니다. 따라서 (C) '임시 일자리 공고 홍보'가 정답입니다. 창고 폐쇄(A), 신임 임원 소개(B), 분기 실적 보고(D)는 본문의 목적이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How does this year's starting wage compare with last year's?",
+        "options": [
+          "It is the same.",
+          "It is 10 percent higher.",
+          "It is slightly lower.",
+          "It has not yet been decided."
+        ],
+        "answer": 1,
+        "explanation": "본문에 시작 시급 19.50달러가 'a 10 percent increase over last year's rate'(작년 대비 10% 인상)라고 명시되어 있으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about last year's seasonal workers?",
+        "options": [
+          "Many of them became permanent employees.",
+          "They all received a completion bonus.",
+          "Most of them worked night shifts.",
+          "They were hired through a staffing agency."
+        ],
+        "answer": 0,
+        "explanation": "본문에 'more than 400 of last year's seasonal hires accepted permanent roles'(작년 계절 직원 중 400명 이상이 정규직 제안을 수락했다)라고 나와 있으므로 (A)가 정답입니다. 완료 보너스 전원 수령(B), 야간 근무(C), 인력 파견업체(D)는 언급되지 않았습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"No prior warehouse experience is necessary, as paid training is provided during the first week.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 3,
+        "explanation": "삽입 문장은 '사전 창고 경력이 필요 없으며 첫 주에 유급 교육이 제공된다'는 지원 자격 관련 안내입니다. 지원 방법(온라인 지원, 현장 채용 행사)을 설명한 직후이자 면접 후 채용 제안 안내 앞인 [4] 위치에 들어가야 지원자 대상 안내의 흐름이 자연스럽습니다. 따라서 (D)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "MERIDIAN CITY — The city council voted 7–2 on Monday to approve the Riverside Quarter plan, an ambitious redevelopment of the long-neglected industrial waterfront. The fifteen-year project will convert forty hectares of disused warehouses and rail yards into a mixed-use district featuring 3,500 housing units, a public riverfront promenade, and space for small manufacturers and design studios. Under the approved agreement, developer Northgate Partners must reserve 25 percent of the housing for moderate-income residents and fund the restoration of the century-old Dockside Crane, which will remain as a landmark. Construction of the first phase, which includes the promenade and 800 apartments, is expected to begin next spring and finish within three years. Some residents of the adjacent Felton neighborhood have voiced concerns about construction noise and rising rents. In response, the council established a community oversight board that will meet quarterly and review complaints. \"This is the largest investment in the waterfront in our city's history,\" said Mayor Alicia Trent. \"We intend to get it right.\"",
+    "questions": [
+      {
+        "question": "What did the city council do on Monday?",
+        "options": [
+          "It rejected a housing proposal.",
+          "It approved a redevelopment plan.",
+          "It elected a new mayor.",
+          "It raised property taxes."
+        ],
+        "answer": 1,
+        "explanation": "첫 문장에서 시의회가 7대 2로 Riverside Quarter 재개발 계획을 승인했다고 명시되어 있으므로 (B)가 정답입니다. 계획은 거부된 것이 아니라 승인되었고(A), 시장 선출(C)이나 재산세 인상(D)은 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is Northgate Partners required to do?",
+        "options": [
+          "Build a new city hall",
+          "Demolish the Dockside Crane",
+          "Set aside housing for moderate-income residents",
+          "Relocate existing manufacturers"
+        ],
+        "answer": 2,
+        "explanation": "승인된 협약에 따라 개발사 Northgate Partners는 주택의 25%를 중간 소득층 주민을 위해 확보해야('reserve 25 percent of the housing for moderate-income residents') 합니다. 따라서 (C)가 정답입니다. Dockside Crane은 철거가 아니라 복원 대상이므로 (B)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"voiced\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "expressed",
+          "sang",
+          "recorded",
+          "denied"
+        ],
+        "answer": 0,
+        "explanation": "'voiced concerns'는 우려를 '표명했다'는 의미입니다. 따라서 (A) expressed가 가장 가깝습니다. sing(노래하다), record(녹음하다), deny(부인하다)는 문맥에 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How did the council respond to residents' concerns?",
+        "options": [
+          "By delaying the project for a year",
+          "By reducing the number of apartments",
+          "By creating an oversight board",
+          "By offering tax refunds"
+        ],
+        "answer": 2,
+        "explanation": "공사 소음과 임대료 상승을 우려하는 주민들에 대응하여 시의회는 분기마다 모여 민원을 검토하는 'community oversight board'(주민 감독 위원회)를 설립했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "GRANVILLE GAZETTE — For nearly a decade, the hulking Atherton Textile Mill stood empty at the edge of downtown, its windows boarded and its smokestack dark. [1] That changes this weekend, when the renovated complex reopens as Mill Works, a hub for food vendors, artisan workshops, and offices. [2] Developer Corbin & Yates spent three years and $42 million on the conversion, preserving the building's original brick walls, timber beams, and freight elevators. The project received a state heritage grant that covered roughly one-fifth of the cost, on the condition that the facade remain unchanged. [3] The ground floor will house a public market with twenty-two stalls, while the upper floors offer studio space already leased to a furniture maker, two architecture firms, and a pottery school. City planners hope Mill Works will draw foot traffic to the quiet east end of downtown, where several storefronts have sat vacant. [4] A similar conversion of the nearby Harmon Foundry is scheduled to begin next year if permits are approved.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The closure of a textile factory",
+          "The conversion of an old building into a commercial space",
+          "A dispute between developers and the city",
+          "The history of the textile industry"
+        ],
+        "answer": 1,
+        "explanation": "기사는 10년 가까이 비어 있던 Atherton 방직 공장이 식품 매장, 공방, 사무실이 들어서는 Mill Works로 개조되어 재개장한다는 내용입니다. 따라서 (B) '오래된 건물의 상업 공간 전환'이 정답입니다. 공장 폐쇄(A)는 과거 배경일 뿐이고, 분쟁(C)이나 산업 역사(D)는 중심 내용이 아닙니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What condition was attached to the state grant?",
+        "options": [
+          "The building's exterior had to be preserved.",
+          "Rents had to remain below market rates.",
+          "Construction had to finish within one year.",
+          "Local workers had to be hired."
+        ],
+        "answer": 0,
+        "explanation": "주(州) 문화유산 보조금은 'on the condition that the facade remain unchanged'(외관을 변경하지 않는 조건으로) 지급되었습니다. facade는 건물 정면·외관을 뜻하므로 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a tenant of the upper floors?",
+        "options": [
+          "A furniture maker",
+          "Architecture firms",
+          "A pottery school",
+          "A software company"
+        ],
+        "answer": 3,
+        "explanation": "상층부 입주 업체로 가구 제작자, 건축 사무소 두 곳, 도예 학교가 언급되었습니다. 소프트웨어 회사(D)는 본문에 없으므로 정답입니다. NOT 문제는 본문에 언급된 보기를 하나씩 소거하며 풀어야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Officials believe the market alone could attract several thousand visitors each week.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 3,
+        "explanation": "삽입 문장의 'the market'은 바로 앞 문장에서 소개된 1층의 'public market with twenty-two stalls'를 가리키며, 시 관계자들이 유동 인구 유입을 기대한다는 내용과도 이어집니다. 시장 소개와 동선 활성화 기대가 언급된 직후인 [4] 위치가 가장 자연스러우므로 (D)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "HOSPITALITY MONITOR — Hotel occupancy in the Westbrook metropolitan area reached 78 percent in May, the highest figure for that month since record-keeping began, according to an industry report published Thursday by the Calder Hospitality Institute. The report links the increase to a rebound in business travel, which had lagged behind leisure travel for several years. Conference bookings at the city's convention center are up 31 percent compared with the same period last year, and midweek room rates have climbed accordingly, averaging $214 per night. Notably, extended-stay properties posted the strongest gains, a trend the report attributes to corporate clients sending employees on multi-week assignments rather than short trips. Not all segments shared in the growth, however. Budget motels along Highway 9 reported flat occupancy, which analysts blame on reduced road-trip traffic. The institute forecasts that the metropolitan area will need an additional 1,400 rooms within five years to meet projected demand, and notes that three hotel projects totaling 620 rooms are already under construction downtown.",
+    "questions": [
+      {
+        "question": "What is the main topic of the report?",
+        "options": [
+          "Declining restaurant revenues",
+          "Hotel performance in the Westbrook area",
+          "New airline routes to Westbrook",
+          "Renovations at a convention center"
+        ],
+        "answer": 1,
+        "explanation": "보고서는 Westbrook 대도시권의 호텔 객실 점유율이 5월 기준 사상 최고인 78%를 기록했다는 내용과 그 원인, 세부 동향을 다룹니다. 따라서 (B) 'Westbrook 지역의 호텔 실적'이 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does the report identify as the cause of the occupancy increase?",
+        "options": [
+          "A rise in business travel",
+          "A new sports stadium",
+          "Lower room rates",
+          "An advertising campaign"
+        ],
+        "answer": 0,
+        "explanation": "보고서는 점유율 상승을 'a rebound in business travel'(출장 수요의 회복)과 연결지었습니다. 컨벤션 센터의 회의 예약이 31% 증가했다는 내용도 이를 뒷받침합니다. 따라서 (A)가 정답입니다. 객실 요금은 오히려 올랐으므로 (C)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"posted\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "mailed",
+          "displayed",
+          "recorded",
+          "announced"
+        ],
+        "answer": 2,
+        "explanation": "'extended-stay properties posted the strongest gains'에서 post는 실적·수치를 '기록하다'라는 의미로 쓰였습니다. 따라서 (C) recorded가 가장 가깝습니다. mail(우편으로 보내다), display(전시하다)는 문맥에 맞지 않으며, announce(발표하다)는 수치를 달성했다는 의미를 담지 못합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about budget motels along Highway 9?",
+        "options": [
+          "They are being converted into apartments.",
+          "They did not benefit from the recent growth.",
+          "They raised their rates by 31 percent.",
+          "They cater mainly to business travelers."
+        ],
+        "answer": 1,
+        "explanation": "본문에 'Not all segments shared in the growth'라며 Highway 9 변의 저가 모텔들은 점유율이 제자리(flat occupancy)였다고 했습니다. 즉 최근 성장의 혜택을 받지 못했다는 (B)가 정답입니다. 분석가들은 그 원인을 자동차 여행 감소로 보았습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — Lantern Hill Hotels, the boutique hospitality group known for restoring historic properties, announced today the opening of its eighth location, the 64-room Lantern Hill Savoyard in central Kelmsford. [1] The property occupies a former opera house built in 1908, and its guest rooms retain original plasterwork, stage-curtain motifs, and restored hardwood floors. [2] Amenities include a rooftop reading lounge, a ground-floor brasserie led by chef Tomas Reyes, and a small performance hall that will host monthly chamber music concerts open to the public. In keeping with the group's practices, at least 70 percent of the food served on-site will be sourced from farms within 100 kilometers. [3] \"Travelers increasingly want a stay that tells them something about the place they are visiting,\" said founder Geneva Holt. \"A bland room could be anywhere. Our properties could only be where they are.\" [4] Opening-month guests will receive complimentary tickets to the inaugural concert on August 9. Room reservations are now available at lanternhillhotels.com.",
+    "questions": [
+      {
+        "question": "What is being announced?",
+        "options": [
+          "The renovation of an opera company's offices",
+          "The opening of a new hotel",
+          "A change in hotel ownership",
+          "The retirement of a company founder"
+        ],
+        "answer": 1,
+        "explanation": "보도자료는 Lantern Hill Hotels의 여덟 번째 지점인 Lantern Hill Savoyard 호텔의 개장을 알리고 있습니다. 따라서 (B)가 정답입니다. 건물이 과거 오페라 하우스였다는 것은 배경 설명일 뿐이며(A), 소유권 변경(C)이나 창립자 은퇴(D)는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the hotel building?",
+        "options": [
+          "It was constructed last year.",
+          "It previously served a different purpose.",
+          "It is the company's largest property.",
+          "It is located outside the city center."
+        ],
+        "answer": 1,
+        "explanation": "호텔은 1908년에 지어진 'a former opera house'(옛 오페라 하우스) 건물에 들어섰으므로, 과거에 다른 용도로 사용되었다는 (B)가 정답입니다. 위치는 'central Kelmsford'(도심)이므로 (D)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What can be inferred about Lantern Hill Hotels?",
+        "options": [
+          "It emphasizes local character in its properties.",
+          "It plans to sell its older locations.",
+          "It operates mainly airport hotels.",
+          "It will close the performance hall to the public."
+        ],
+        "answer": 0,
+        "explanation": "창립자 Geneva Holt의 말 — '평범한 방은 어디에나 있을 수 있지만, 우리 호텔은 그 장소에만 있을 수 있다' — 과 반경 100km 이내 농장에서 식자재 70% 이상을 조달한다는 방침에서, 이 회사가 지역적 특색을 중시함을 추론할 수 있습니다. 따라서 (A)가 정답입니다. 공연장은 대중에게 공개되므로 (D)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The restoration took twenty-two months and employed local craftspeople for much of the detailed work.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 1,
+        "explanation": "삽입 문장은 복원 공사 기간과 지역 장인 고용에 관한 내용으로, 건물이 1908년 오페라 하우스였고 원래의 석고 장식과 마룻바닥이 복원되었다는 설명 바로 뒤인 [2] 위치에 들어가야 복원 작업에 대한 서술이 자연스럽게 이어집니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "AGRITECH JOURNAL — Verdana Farms, which grows leafy greens in a converted distribution warehouse on the outskirts of Pell City, announced this week that it has reached profitability after four years of operation — a milestone that has eluded many vertical farming ventures. The company stacks lettuce, basil, and kale in trays under tuned LED lights, using 95 percent less water than conventional field farming and no pesticides. Industry observers note that several high-profile vertical farms have shut down in recent years, undone by electricity costs that consumed their margins. Verdana's chief executive, Dr. Imani Walsh, says the company survived by signing a long-term power agreement with a nearby solar facility and by selling exclusively within a 50-kilometer radius, which keeps produce fresher and trucking costs minimal. The company supplies thirty-two grocery stores and fourteen restaurants, and its basil now outsells imported alternatives at several major chains. Verdana plans to break ground on a second growing facility in Halton County next year, which is expected to create about sixty jobs.",
+    "questions": [
+      {
+        "question": "What recent achievement did Verdana Farms announce?",
+        "options": [
+          "It became profitable.",
+          "It acquired a competitor.",
+          "It patented a new lighting system.",
+          "It exported produce overseas."
+        ],
+        "answer": 0,
+        "explanation": "Verdana Farms는 운영 4년 만에 흑자 전환(reached profitability)을 발표했습니다. 이는 많은 수직 농장 기업들이 이루지 못한 이정표라고 설명되어 있으므로 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, why have some vertical farms closed?",
+        "options": [
+          "Consumer demand was too low.",
+          "Electricity costs were too high.",
+          "Water supplies were limited.",
+          "Pesticide regulations changed."
+        ],
+        "answer": 1,
+        "explanation": "본문에 여러 유명 수직 농장이 'undone by electricity costs that consumed their margins'(이윤을 잠식한 전기 요금 때문에 무너졌다)라고 명시되어 있으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How did Verdana Farms control its energy expenses?",
+        "options": [
+          "By operating only at night",
+          "By reducing its growing space",
+          "By contracting with a solar power facility",
+          "By building its own wind turbines"
+        ],
+        "answer": 2,
+        "explanation": "CEO인 Dr. Walsh는 인근 태양광 발전 시설과 장기 전력 공급 계약('a long-term power agreement with a nearby solar facility')을 맺어 회사가 생존할 수 있었다고 밝혔습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Verdana's distribution strategy?",
+        "options": [
+          "It relies on overnight air freight.",
+          "It limits sales to nearby customers.",
+          "It focuses on online subscriptions.",
+          "It depends on a single supermarket chain."
+        ],
+        "answer": 1,
+        "explanation": "Verdana는 반경 50km 이내에서만 판매('selling exclusively within a 50-kilometer radius')하여 신선도를 유지하고 운송비를 최소화합니다. 따라서 가까운 고객에게만 판매한다는 (B)가 정답입니다. 식료품점 32곳과 식당 14곳에 공급하므로 단일 체인 의존(D)은 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — SkyFurrow Analytics, a developer of agricultural drone systems, today announced the commercial launch of FieldScan 3, a monitoring service that helps growers detect crop stress before it is visible to the eye. [1] Drones equipped with multispectral cameras fly programmed routes over fields, and the company's software flags areas showing early signs of drought stress, nutrient deficiency, or pest damage. Subscribing farmers receive a color-coded map within two hours of each flight, along with recommended actions. [2] During a two-season pilot program involving forty grain farms in the Drummond Valley, participants reduced fertilizer use by an average of 18 percent while maintaining yields. [3] \"Farmers have always walked their fields; we simply let them see what walking can't show,\" said cofounder and chief agronomist Dr. Petra Lindqvist. FieldScan 3 subscriptions start at $4 per hectare per month, with discounts for cooperatives. [4] The company will demonstrate the system at the Midlands Agricultural Expo in Caldwell on July 18 and 19.",
+    "questions": [
+      {
+        "question": "What does FieldScan 3 do?",
+        "options": [
+          "It plants seeds automatically.",
+          "It identifies early problems in crops.",
+          "It forecasts weekly weather conditions.",
+          "It transports harvested grain."
+        ],
+        "answer": 1,
+        "explanation": "FieldScan 3는 다중분광 카메라를 장착한 드론으로 밭을 비행하며 가뭄 스트레스, 영양 결핍, 해충 피해의 초기 징후를 눈에 보이기 전에 감지하는 서비스입니다. 따라서 (B)가 정답입니다. 파종(A), 일기예보(C), 곡물 운송(D)은 본문에 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was a result of the pilot program?",
+        "options": [
+          "Crop yields doubled.",
+          "Farms used less fertilizer.",
+          "Fuel costs increased.",
+          "Several farms left the program."
+        ],
+        "answer": 1,
+        "explanation": "Drummond Valley의 곡물 농장 40곳이 참여한 2시즌 시범 프로그램에서 참가자들은 수확량을 유지하면서 비료 사용을 평균 18% 줄였습니다('reduced fertilizer use by an average of 18 percent'). 따라서 (B)가 정답입니다. 수확량은 두 배가 아니라 유지된 것이므로 (A)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen on July 18?",
+        "options": [
+          "A subscription discount will end.",
+          "A new cofounder will be named.",
+          "A product demonstration will take place.",
+          "A pilot program will begin."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 회사는 7월 18~19일 Caldwell에서 열리는 Midlands Agricultural Expo에서 시스템을 시연할('demonstrate the system') 예정이라고 했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Those savings alone more than covered the cost of the subscription, according to the company.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 2,
+        "explanation": "삽입 문장의 'Those savings'(그 절감액)는 시범 프로그램에서 비료 사용을 평균 18% 줄였다는 내용을 가리킵니다. 절감 효과가 구독 비용을 상회했다는 부연이므로, 비료 절감 결과가 제시된 직후인 [3] 위치가 가장 자연스럽습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "ARTS & COMMERCE DESK — The Fennimore Museum of Art reported Tuesday that its summer exhibition, \"Light on Water: The Coastal Impressionists,\" drew 312,000 visitors over its fourteen-week run, the highest attendance in the museum's history. The show's success carried well beyond ticket sales. Museum shop revenue tripled compared with the same period last year, memberships rose by 4,800, and nearby restaurants reported noticeably busier weekends, according to the downtown business alliance. Museum director Charlotte Iwu credited the exhibition's design, which paired the paintings with interactive displays explaining the chemistry of nineteenth-century pigments. \"Visitors stayed an average of forty minutes longer than they do for a typical show,\" Ms. Iwu noted. The museum spent an unprecedented $1.1 million on marketing, including its first national television campaign, a gamble that some board members initially questioned. The strong returns have quieted those doubts. The museum announced that its next major exhibition, devoted to contemporary textile art, will open in February, and that timed-entry tickets will go on sale in November.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "The success of a museum exhibition",
+          "The appointment of a museum director",
+          "The sale of a famous painting",
+          "The renovation of a museum building"
+        ],
+        "answer": 0,
+        "explanation": "기사는 Fennimore 미술관의 여름 특별전이 사상 최다인 31만 2천 명의 관람객을 모은 성공과 그 파급 효과를 다루고 있습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT mentioned as a result of the exhibition?",
+        "options": [
+          "Increased museum shop sales",
+          "A rise in memberships",
+          "Busier local restaurants",
+          "Higher hotel occupancy"
+        ],
+        "answer": 3,
+        "explanation": "전시 효과로 기념품점 매출 3배 증가(A), 회원 4,800명 증가(B), 인근 식당의 주말 손님 증가(C)가 언급되었습니다. 호텔 점유율(D)은 본문에 없으므로 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"gamble\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "game",
+          "risk",
+          "donation",
+          "celebration"
+        ],
+        "answer": 1,
+        "explanation": "사상 최대인 110만 달러의 마케팅 지출을 'a gamble'이라고 표현한 것은 일부 이사진이 의문을 제기할 만큼 '모험, 위험을 감수한 결정'이었다는 의미입니다. 따라서 (B) risk가 가장 가깝습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen in November?",
+        "options": [
+          "A textile art exhibition will open.",
+          "The museum will close for renovations.",
+          "Tickets for the next exhibition will become available.",
+          "A television campaign will begin."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 차기 대형 전시(현대 섬유 예술전)는 2월에 개막하고, 시간 지정 입장권은 11월에 판매를 시작한다('timed-entry tickets will go on sale in November')고 했습니다. 따라서 (C)가 정답입니다. 전시 개막은 2월이므로 (A)는 오답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "AUCTION WIRE — A landscape painting found during the cleanout of a farmhouse attic sold for $2.7 million at Beltrane & Co.'s spring auction on Saturday, more than nine times its high estimate. [1] The work, an 1882 river scene by the long-overlooked painter Edwin Maren, attracted eleven bidders, including three museums and several private collectors bidding by telephone. [2] The result continues a remarkable two-year rise in prices for Maren's work, which specialists attribute to a major retrospective at the Holloway Gallery that introduced the artist to a new generation of buyers. Before the retrospective, his paintings rarely brought more than $80,000. [3] Auction house director Felix Navarro said the sale demonstrates how scholarship can reshape the market. \"When an artist's story is told well, collectors listen,\" he said. The painting's seller, who inherited the farmhouse from a great-aunt, has asked to remain anonymous. [4] Beltrane & Co. announced that its next sale of nineteenth-century art will be held on October 3 and is already accepting consignments.",
+    "questions": [
+      {
+        "question": "What happened at Saturday's auction?",
+        "options": [
+          "A painting sold far above its estimate.",
+          "A sculpture failed to attract bidders.",
+          "A museum withdrew its collection.",
+          "An auction was postponed."
+        ],
+        "answer": 0,
+        "explanation": "농가 다락방에서 발견된 풍경화가 최고 추정가의 9배가 넘는 270만 달러에 낙찰되었습니다('more than nine times its high estimate'). 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "According to the article, what caused prices for Maren's work to rise?",
+        "options": [
+          "The artist's recent death",
+          "A documentary film",
+          "A retrospective exhibition",
+          "A shortage of landscape paintings"
+        ],
+        "answer": 2,
+        "explanation": "전문가들은 Maren 작품 가격의 2년간 상승을 Holloway Gallery에서 열린 대규모 회고전('a major retrospective')이 새로운 세대의 구매자들에게 화가를 소개한 덕분으로 봅니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about the painting's seller?",
+        "options": [
+          "She is a professional art dealer.",
+          "The seller's identity has not been made public.",
+          "The seller purchased the work at a gallery.",
+          "The seller plans to donate the proceeds."
+        ],
+        "answer": 1,
+        "explanation": "판매자는 대고모에게 농가를 상속받은 인물로, 익명을 요청했습니다('has asked to remain anonymous'). 따라서 신원이 공개되지 않았다는 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Bidding opened at $250,000 and surpassed the $1 million mark within four minutes.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 1,
+        "explanation": "삽입 문장은 경매 진행 과정(시작가 25만 달러, 4분 만에 100만 달러 돌파)을 묘사합니다. 11명의 응찰자가 몰렸다는 경매 현장 설명 바로 뒤인 [2] 위치에 들어가야 경매 장면 서술이 자연스럽게 이어지고, 이후 가격 상승 배경 분석으로 넘어가는 흐름과도 맞습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "COMMERCE TODAY — As online shoppers grow accustomed to same-day delivery, retailers are quietly transforming the spaces where orders are packed. Rather than relying solely on giant warehouses outside city limits, a growing number of companies are opening micro-fulfillment centers — compact, highly automated facilities tucked into urban neighborhoods. Grocery chain Fairmont Market opened its third such center last month in a former parking garage near downtown Esterville. The 2,800-square-meter site uses robotic shuttles to retrieve items from dense storage racks, allowing staff to assemble a typical fifty-item grocery order in under seven minutes. Because the center sits within five kilometers of most customers, delivery vans complete three times as many drop-offs per shift as they did from the company's suburban warehouse. Fairmont secured the location at a favorable rent, as demand for downtown parking has weakened in recent years. Real estate analysts say similar conversions are under consideration in at least a dozen cities, though some logistics experts caution that the model only pays off in densely populated areas with high order volumes.",
+    "questions": [
+      {
+        "question": "What trend does the article describe?",
+        "options": [
+          "The decline of online grocery shopping",
+          "The use of small urban facilities to fill orders",
+          "The growth of suburban shopping malls",
+          "A shortage of delivery drivers"
+        ],
+        "answer": 1,
+        "explanation": "기사는 소매업체들이 교외의 대형 창고 대신 도심 곳곳에 소형 자동화 시설인 마이크로 풀필먼트 센터를 여는 추세를 다룹니다. 따라서 (B)가 정답입니다. 온라인 장보기는 오히려 성장 배경이므로 (A)는 오답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was the Esterville facility before its conversion?",
+        "options": [
+          "A grocery store",
+          "A parking garage",
+          "A train depot",
+          "An office building"
+        ],
+        "answer": 1,
+        "explanation": "Fairmont Market의 세 번째 센터는 'a former parking garage'(옛 주차장 건물)에 들어섰다고 명시되어 있으므로 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"secured\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "locked",
+          "protected",
+          "obtained",
+          "tightened"
+        ],
+        "answer": 2,
+        "explanation": "'Fairmont secured the location at a favorable rent'에서 secure는 유리한 임대료로 부지를 '확보하다, 얻다'라는 의미입니다. 따라서 (C) obtained가 가장 가깝습니다. lock(잠그다), protect(보호하다), tighten(조이다)은 문맥에 맞지 않습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What do some experts say about micro-fulfillment centers?",
+        "options": [
+          "They are profitable only in densely populated areas.",
+          "They will replace delivery vans entirely.",
+          "They require more workers than warehouses.",
+          "They are banned in most downtown districts."
+        ],
+        "answer": 0,
+        "explanation": "마지막 문장에서 일부 물류 전문가들은 이 모델이 '주문량이 많고 인구가 밀집한 지역에서만 수익이 난다'('only pays off in densely populated areas with high order volumes')고 경고합니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — Parcelo Logistics announced today a six-month pilot program that will deploy twenty sidewalk delivery robots in the university district of Coleharbor. Beginning July 1, the knee-high, six-wheeled units will carry packages weighing up to ten kilograms from Parcelo's Brightwell Street depot to homes and businesses within a two-kilometer radius. Customers will receive a text message when a robot arrives and can unlock its cargo lid with a one-time code. The robots travel at walking speed, yield to pedestrians, and are monitored remotely by trained operators who can take control at any time. Parcelo developed the program in consultation with the Coleharbor city council, which approved the pilot in April with conditions, including a requirement that the robots stay off streets and bicycle lanes. The company estimates that robots could eventually handle 30 percent of its short-distance deliveries in the district, freeing its vans for longer routes. Residents can submit questions or report concerns through the city's mobile app. Results of the pilot will be presented at a public council meeting in January.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the press release?",
+        "options": [
+          "To recall a defective product",
+          "To announce a trial of delivery robots",
+          "To advertise a new mobile phone",
+          "To report a change in shipping rates"
+        ],
+        "answer": 1,
+        "explanation": "보도자료는 Coleharbor 대학가에서 보도 주행 배송 로봇 20대를 6개월간 시범 운영한다는 발표입니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How will customers open the robot's cargo compartment?",
+        "options": [
+          "With a physical key",
+          "By calling a customer service line",
+          "With a single-use code",
+          "By showing identification to an operator"
+        ],
+        "answer": 2,
+        "explanation": "고객은 로봇 도착 시 문자 메시지를 받고 'a one-time code'(일회용 코드)로 화물 덮개를 열 수 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What condition did the city council place on the program?",
+        "options": [
+          "Robots must operate only at night.",
+          "Robots must avoid streets and bicycle lanes.",
+          "Robots must be accompanied by an employee.",
+          "Robots must carry less than five kilograms."
+        ],
+        "answer": 1,
+        "explanation": "시의회는 4월에 조건부로 시범 운영을 승인했으며, 그 조건에는 로봇이 차도와 자전거 도로에 진입하지 않아야 한다는 요구('stay off streets and bicycle lanes')가 포함되었습니다. 따라서 (B)가 정답입니다. 적재 한도는 10kg이므로 (D)는 오답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen in January?",
+        "options": [
+          "The robots will be sold to another company.",
+          "The pilot program will expand citywide.",
+          "Pilot results will be shared at a public meeting.",
+          "A new depot will open on Brightwell Street."
+        ],
+        "answer": 2,
+        "explanation": "마지막 문장에서 시범 운영 결과가 1월 공개 시의회 회의에서 발표될('presented at a public council meeting in January') 예정이라고 했습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "INDUSTRY OBSERVER — At Belmar Precision Components, a sixty-employee machine shop in Garrett Falls, the newest member of the assembly team has one arm and never takes a break. The collaborative robot, or \"cobot,\" loads metal blanks into a milling machine and inspects finished parts with a camera, tasks that previously occupied two workers for entire shifts. Contrary to early fears, no jobs were cut. The displaced workers were retrained to program and maintain the equipment, and both received pay raises. Belmar's experience reflects a wider pattern among small manufacturers, according to a survey of 300 firms released by the Mercer Institute last week. Companies that introduced cobots reported a median productivity gain of 22 percent, and four out of five said overall employment stayed level or grew within two years of adoption. Researchers caution that the transition demands careful planning: firms that skipped employee training reported far weaker results. Cobot prices have fallen by nearly half over the past six years, putting the machines within reach of shops that once considered automation an option only for large corporations.",
+    "questions": [
+      {
+        "question": "What is the article mainly about?",
+        "options": [
+          "Safety problems caused by factory robots",
+          "The adoption of collaborative robots by small manufacturers",
+          "A strike at a machine shop",
+          "Falling demand for metal parts"
+        ],
+        "answer": 1,
+        "explanation": "기사는 소규모 제조업체 Belmar의 협동 로봇(cobot) 도입 사례와 300개 기업 설문조사를 통해 소규모 제조사들의 협동 로봇 도입 추세를 다룹니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happened to the Belmar workers whose tasks were automated?",
+        "options": [
+          "They were transferred to another city.",
+          "They were retrained for new roles.",
+          "They took early retirement.",
+          "They joined a competing firm."
+        ],
+        "answer": 1,
+        "explanation": "자동화로 기존 업무가 대체된 직원 두 명은 해고되지 않고 장비를 프로그래밍하고 정비하는 일을 하도록 재교육받았으며('retrained to program and maintain the equipment') 둘 다 임금이 인상되었습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "The word \"level\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "flat",
+          "unchanged",
+          "horizontal",
+          "fair"
+        ],
+        "answer": 1,
+        "explanation": "'employment stayed level or grew'에서 level은 고용 규모가 '변동 없이 그대로 유지되었다'는 의미입니다. 따라서 (B) unchanged가 가장 가깝습니다. flat과 horizontal은 물리적 평평함을, fair는 공정함을 뜻하므로 문맥에 맞지 않습니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "According to the survey, which firms reported weaker results?",
+        "options": [
+          "Those that did not train their employees",
+          "Those with more than 300 workers",
+          "Those that bought used equipment",
+          "Those located outside Garrett Falls"
+        ],
+        "answer": 0,
+        "explanation": "연구진은 전환에 신중한 계획이 필요하다며, 직원 교육을 생략한 기업들은 훨씬 저조한 결과를 보고했다('firms that skipped employee training reported far weaker results')고 지적했습니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — Quenton Appliance Works will invest $58 million to modernize its flagship plant in Marbury, the company announced Thursday, in the largest single upgrade since the facility opened in 1987. [1] The two-year project will install automated welding cells, a fleet of self-guided carts to move materials between stations, and a new quality-control line that uses high-resolution cameras to detect defects invisible to the human eye. [2] Production will continue throughout the renovation, with upgrades carried out section by section to avoid interrupting customer orders. The company expects the modernization to raise the plant's output by 35 percent and reduce energy use per unit by a fifth. [3] Plant manager Rosa Delgado emphasized that the workforce of 740 will not shrink. \"We are growing our order book faster than our machines can keep up,\" she said. \"This investment is about meeting demand, not cutting jobs.\" [4] Quenton will also partner with Marbury Technical College to create a certificate course in automated systems maintenance, with the first class of thirty students starting in September.",
+    "questions": [
+      {
+        "question": "What is Quenton Appliance Works planning to do?",
+        "options": [
+          "Close its Marbury plant",
+          "Upgrade a manufacturing facility",
+          "Move production overseas",
+          "Acquire a technical college"
+        ],
+        "answer": 1,
+        "explanation": "Quenton Appliance Works는 Marbury 주력 공장 현대화에 5,800만 달러를 투자한다고 발표했습니다. 자동 용접 셀, 자율 운반 카트, 품질 검사 라인 설치가 포함되므로 (B) '제조 시설 업그레이드'가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about production during the renovation?",
+        "options": [
+          "It will stop for two years.",
+          "It will move to a temporary site.",
+          "It will continue without interruption.",
+          "It will be limited to weekends."
+        ],
+        "answer": 2,
+        "explanation": "본문에 'Production will continue throughout the renovation'이라며 고객 주문에 차질이 없도록 구역별로 단계적 업그레이드를 진행한다고 명시되어 있습니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What does Ms. Delgado suggest about the plant's workforce?",
+        "options": [
+          "It will be reduced by 35 percent.",
+          "It will remain at its current size.",
+          "It will be relocated to headquarters.",
+          "It will work shorter shifts."
+        ],
+        "answer": 1,
+        "explanation": "공장장 Rosa Delgado는 740명의 인력이 줄지 않을 것('the workforce of 740 will not shrink')이라고 강조하며, 이번 투자는 일자리 감축이 아니라 수요 충족을 위한 것이라고 말했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Graduates will be guaranteed an interview for technician openings at the plant.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 3,
+        "explanation": "삽입 문장의 'Graduates'(수료생)는 바로 앞에서 소개된 Marbury Technical College와의 자동화 설비 유지보수 자격 과정 수강생을 가리킵니다. 교육 과정 신설 내용 바로 뒤인 [4] 위치에 들어가야 '수료생은 공장 기술직 면접을 보장받는다'는 연결이 자연스럽습니다. 따라서 (D)가 정답입니다.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "AVIATION BRIEF — Cardinal Air, the regional carrier based at Witfield Municipal Airport, will add nonstop service to three smaller cities this fall, the airline announced at a press conference Wednesday. Beginning October 6, the carrier will fly twice daily to Brassard and Olen Springs and four times weekly to Tannerville, using 76-seat regional jets. The expansion follows a state program that offers airlines two years of reduced landing fees for serving communities that lost air service during the industry's recent contraction. Tannerville, a city of 60,000, has had no scheduled flights since its previous carrier withdrew three years ago; residents currently drive more than two hours to reach the nearest airport. Local officials predict the restored service will help the city attract a planned medical equipment plant whose executives cited poor air access as their chief hesitation. Cardinal Air's chief executive, Martin Oyelaran, said advance bookings for the Tannerville route have already exceeded projections. The airline will hire forty additional employees, including pilots, gate agents, and mechanics, to support the new schedule.",
+    "questions": [
+      {
+        "question": "What did Cardinal Air announce?",
+        "options": [
+          "A merger with a national airline",
+          "New routes to three cities",
+          "An increase in baggage fees",
+          "The purchase of larger aircraft"
+        ],
+        "answer": 1,
+        "explanation": "Cardinal Air는 올가을부터 Brassard, Olen Springs, Tannerville 세 도시로 직항 노선을 신설한다고 발표했습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What encouraged the airline to expand?",
+        "options": [
+          "A government incentive program",
+          "Lower fuel prices",
+          "A new airport terminal",
+          "A partnership with a hotel chain"
+        ],
+        "answer": 0,
+        "explanation": "이번 확장은 항공 서비스가 끊긴 지역사회에 취항하는 항공사에 2년간 착륙료를 감면해 주는 주(州) 프로그램('a state program that offers airlines two years of reduced landing fees')에 따른 것입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "The word \"cited\" in paragraph 1 is closest in meaning to",
+        "options": [
+          "quoted",
+          "mentioned",
+          "summoned",
+          "praised"
+        ],
+        "answer": 1,
+        "explanation": "'executives cited poor air access as their chief hesitation'에서 cite는 열악한 항공 접근성을 주된 망설임의 이유로 '언급하다, 들다'라는 의미입니다. 따라서 (B) mentioned가 가장 가깝습니다. quote(인용하다)는 발언을 그대로 옮길 때 쓰이고, summon(소환하다), praise(칭찬하다)는 문맥과 무관합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about Tannerville?",
+        "options": [
+          "It recently built a second airport.",
+          "It has lacked air service for several years.",
+          "Its population has declined sharply.",
+          "It rejected the airline's proposal."
+        ],
+        "answer": 1,
+        "explanation": "Tannerville는 3년 전 기존 항공사가 철수한 이후 정기 항공편이 없었고('has had no scheduled flights since its previous carrier withdrew three years ago'), 주민들은 가장 가까운 공항까지 2시간 이상 운전해야 합니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "article",
+    "passage": "FOR IMMEDIATE RELEASE — Meridiana Regional Airways today announced an order for eight new-generation turboprop aircraft, with options for six more, as part of a fleet renewal plan valued at $310 million. The 70-seat aircraft burn approximately 40 percent less fuel per seat than the twenty-year-old jets they will replace, and their shorter runway requirements will allow the airline to serve mountain and island airports that larger aircraft cannot reach. Deliveries will begin next June and continue through the following year. The airline will retire its oldest jets gradually as the new aircraft enter service, retraining affected flight crews at its academy in Port Saviano at no cost to employees. \"Turboprops have an outdated reputation, but the economics are undeniable on routes under 600 kilometers,\" said fleet director Anika Sorensen. \"They will let us fly to places we have had to say no to for a decade.\" The carrier expects the new fleet to support at least five route launches, which will be announced once delivery schedules are confirmed. Meridiana currently serves twenty-six destinations across the Corvell Archipelago and adjacent mainland.",
+    "questions": [
+      {
+        "question": "What is the press release mainly about?",
+        "options": [
+          "An aircraft purchase",
+          "An airline merger",
+          "A new frequent-flyer program",
+          "The opening of a flight academy"
+        ],
+        "answer": 0,
+        "explanation": "보도자료는 Meridiana Regional Airways가 신형 터보프롭 항공기 8대(추가 6대 옵션)를 주문했다는 내용입니다. 따라서 (A)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What advantage of the new aircraft is mentioned?",
+        "options": [
+          "They carry more passengers than the current jets.",
+          "They can use shorter runways.",
+          "They require fewer pilots.",
+          "They fly at higher speeds."
+        ],
+        "answer": 1,
+        "explanation": "신형 항공기는 좌석당 연료를 약 40% 적게 소모할 뿐 아니라 활주로 길이 요건이 짧아('their shorter runway requirements') 대형 기종이 취항할 수 없는 산악·섬 공항에 운항할 수 있습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the affected flight crews?",
+        "options": [
+          "They will be transferred to a partner airline.",
+          "They will receive free retraining.",
+          "They must pay for their own certification.",
+          "They will retire along with the old jets."
+        ],
+        "answer": 1,
+        "explanation": "기존 제트기가 퇴역하면서 영향을 받는 승무원들은 Port Saviano의 사내 교육기관에서 비용 부담 없이('at no cost to employees') 재교육을 받습니다. 따라서 (B)가 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will the airline announce later?",
+        "options": [
+          "The price of each aircraft",
+          "A change of headquarters",
+          "Specific new routes",
+          "The name of a new fleet director"
+        ],
+        "answer": 2,
+        "explanation": "항공사는 새 기단이 최소 5개의 신규 노선 취항을 뒷받침할 것으로 기대하며, 구체적 노선은 인도 일정이 확정된 후 발표할('will be announced once delivery schedules are confirmed') 예정입니다. 따라서 (C)가 정답입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  }
+]
