@@ -1,0 +1,1352 @@
+[
+  {
+    "passageType": "notice",
+    "passage": "NOTICE TO PASSENGERS — Harwick Valley Rail\n\nEffective Monday, 1 September, the weekday timetable on the Harwick-to-Dunmore line will change. The 7:45 A.M. express from Harwick Central will depart fifteen minutes earlier, at 7:30 A.M., to reduce platform congestion during peak hours. The journey time of 40 minutes remains unchanged. In addition, the 6:10 P.M. return service will be replaced by two smaller trains leaving at 5:55 P.M. and 6:25 P.M.\n\nMonthly pass holders do not need to take any action; passes remain valid on all services. Passengers holding reserved-seat tickets for the former 7:45 A.M. express dated 1 September or later may exchange them free of charge at any staffed ticket office or through the Harwick Rail mobile application. Weekend services are not affected by these changes.\n\nFor full timetables, visit www.harwickrail.com or pick up a printed leaflet at any station. We apologize for any inconvenience and thank you for traveling with Harwick Valley Rail.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the notice?",
+        "options": [
+          "To announce a fare increase on express trains",
+          "To inform passengers of changes to a weekday timetable",
+          "To advertise a new mobile application",
+          "To explain why a rail line will be closed"
+        ],
+        "answer": 1,
+        "explanation": "공지 첫 문단에서 'Effective Monday, 1 September, the weekday timetable ... will change'라고 명시하며 출발 시각 변경 내용을 안내하고 있으므로, 주된 목적은 평일 시간표 변경을 알리는 것입니다. 요금 인상, 앱 광고, 노선 폐쇄는 언급되지 않았습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What time will the morning express now arrive in Dunmore?",
+        "options": [
+          "At 7:30 A.M.",
+          "At 7:45 A.M.",
+          "At 8:10 A.M.",
+          "At 8:25 A.M."
+        ],
+        "answer": 2,
+        "explanation": "변경 후 아침 급행은 7:30 A.M.에 출발하며, 'The journey time of 40 minutes remains unchanged'라고 했으므로 7시 30분에 40분을 더한 8:10 A.M.에 도착합니다. 출발 시각과 소요 시간을 더하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about monthly pass holders?",
+        "options": [
+          "They must exchange their passes at a ticket office.",
+          "They will receive a partial refund in September.",
+          "They can continue using their passes without any action.",
+          "They are entitled to free seat reservations."
+        ],
+        "answer": 2,
+        "explanation": "'Monthly pass holders do not need to take any action; passes remain valid on all services'라고 명시되어 있으므로, 정기권 소지자는 별도 조치 없이 그대로 이용할 수 있습니다. 교환이 필요한 것은 지정석 승차권 소지자입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the 6:10 P.M. service?",
+        "options": [
+          "It will run only on weekends.",
+          "It will be divided into two separate departures.",
+          "It will add more carriages to each train.",
+          "It will terminate at Harwick Central."
+        ],
+        "answer": 1,
+        "explanation": "'the 6:10 P.M. return service will be replaced by two smaller trains leaving at 5:55 P.M. and 6:25 P.M.'라고 했으므로, 기존 1회 운행이 두 편의 열차로 나뉘는 것입니다. 주말 운행이나 객차 증설에 대한 언급은 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "GRANBROOK COMMUTER RAIL — TEMPORARY WEEKEND SCHEDULE\nValid Saturdays and Sundays, 12 October through 3 November, during track resurfacing\n\nGranbrook Station to City Pier (journey time: 50 minutes)\nDeparture 1: 8:00 A.M.\nDeparture 2: 10:30 A.M.\nDeparture 3: 1:00 P.M.\nDeparture 4: 4:30 P.M. (final service)\n\nCity Pier to Granbrook Station (journey time: 50 minutes)\nDeparture 1: 9:15 A.M.\nDeparture 2: 11:45 A.M.\nDeparture 3: 2:15 P.M.\nDeparture 4: 5:45 P.M. (final service)\n\nNotes for passengers:\n- A free shuttle bus connects City Pier with the Ferry Terminal every 20 minutes.\n- Bicycles are permitted only on the 8:00 A.M. and 1:00 P.M. departures from Granbrook.\n- Tickets purchased for canceled weekday services during this period may be used on any weekend train listed above.\n- The regular schedule resumes on Saturday, 9 November. Direct questions to the customer line at 555-0188.",
+    "questions": [
+      {
+        "question": "Why has the temporary schedule been introduced?",
+        "options": [
+          "Because of a public holiday",
+          "Because of track resurfacing work",
+          "Because of a shortage of train drivers",
+          "Because of low weekend ridership"
+        ],
+        "answer": 1,
+        "explanation": "일정표 제목 아래에 'during track resurfacing'이라고 명시되어 있어, 선로 재포장 공사 때문에 임시 주말 시간표가 운영됨을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What time does the last train from City Pier arrive in Granbrook?",
+        "options": [
+          "At 5:20 P.M.",
+          "At 5:45 P.M.",
+          "At 6:35 P.M.",
+          "At 6:45 P.M."
+        ],
+        "answer": 2,
+        "explanation": "City Pier발 마지막 열차는 5:45 P.M.에 출발하고 소요 시간이 50분이므로, 5시 45분에 50분을 더한 6:35 P.M.에 Granbrook에 도착합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "On which departures from Granbrook are bicycles allowed?",
+        "options": [
+          "All four departures",
+          "The 8:00 A.M. and 1:00 P.M. departures only",
+          "The 10:30 A.M. and 4:30 P.M. departures only",
+          "No departures during the temporary period"
+        ],
+        "answer": 1,
+        "explanation": "유의사항에 'Bicycles are permitted only on the 8:00 A.M. and 1:00 P.M. departures from Granbrook'이라고 명시되어 있으므로, 자전거는 해당 두 편에서만 허용됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about tickets for canceled weekday services?",
+        "options": [
+          "They must be refunded by 3 November.",
+          "They can be used on any listed weekend train.",
+          "They are valid only on the shuttle bus.",
+          "They will be exchanged for ferry tickets."
+        ],
+        "answer": 1,
+        "explanation": "'Tickets purchased for canceled weekday services during this period may be used on any weekend train listed above'라고 안내되어 있으므로, 취소된 평일 승차권은 표에 나온 주말 열차 어디에서나 사용할 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "PINELEAF FITNESS CENTER — UPDATED GROUP CLASS POLICY\n\nBeginning 1 March, the following policies will apply to all group exercise classes at Pineleaf Fitness Center.\n\nReservations: Members may book classes up to seven days in advance through the member portal. Each member may hold no more than three active reservations at one time.\n\nCancellations: Reservations must be canceled at least four hours before the class start time. A late cancellation or a missed class will result in a $5 fee charged to the member's account. Members who accumulate three late cancellations within one calendar month will lose online booking privileges for two weeks and must register at the front desk instead.\n\nWaiting lists: When a class is full, members may join a waiting list. If a space opens, the first member on the list is notified automatically by text message and has one hour to confirm.\n\nThese changes were adopted after a member survey showed that nearly 30 percent of reserved spots went unused last quarter. Questions may be directed to Tanya Brooks, Member Services Manager, at extension 240.",
+    "questions": [
+      {
+        "question": "Why were the new policies introduced?",
+        "options": [
+          "Many reserved class spots were not being used.",
+          "Instructors requested smaller class sizes.",
+          "The center is reducing its operating hours.",
+          "Membership fees were recently lowered."
+        ],
+        "answer": 0,
+        "explanation": "마지막 문단에서 'a member survey showed that nearly 30 percent of reserved spots went unused last quarter'라고 하여, 예약된 자리의 약 30%가 사용되지 않아 새 정책이 도입되었음을 밝히고 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much will a member be charged for missing two classes without canceling?",
+        "options": [
+          "$5",
+          "$10",
+          "$15",
+          "$20"
+        ],
+        "answer": 1,
+        "explanation": "'A late cancellation or a missed class will result in a $5 fee'라고 했으므로, 취소 없이 두 번 결석하면 5달러씩 두 번, 총 10달러가 부과됩니다. 단가에 횟수를 곱하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What happens to members with three late cancellations in a month?",
+        "options": [
+          "Their membership is suspended for two weeks.",
+          "They must pay an additional registration fee.",
+          "They temporarily lose online booking privileges.",
+          "They are removed from all waiting lists."
+        ],
+        "answer": 2,
+        "explanation": "'Members who accumulate three late cancellations within one calendar month will lose online booking privileges for two weeks'라고 명시되어 있으므로, 2주간 온라인 예약 권한을 잃고 프런트에서 등록해야 합니다. 회원 자격 정지가 아니라는 점에 유의해야 합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "According to the notice, how are waiting-list members contacted about an open space?",
+        "options": [
+          "By telephone call",
+          "By e-mail",
+          "By text message",
+          "By a notice at the front desk"
+        ],
+        "answer": 2,
+        "explanation": "'the first member on the list is notified automatically by text message'라고 했으므로, 대기자 명단의 첫 번째 회원에게는 문자 메시지로 자동 통보됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "ATTENTION MEMBERS — REVISED PERSONAL TRAINING SESSION RULES\nSilverbay Athletic Club\n\nTo ensure fair access to our personal trainers, the club is updating its session policies as of 15 June.\n\n1. Session packages will now expire twelve months after the purchase date. Previously, packages had no expiration date. Sessions purchased before 15 June will keep their original terms.\n\n2. Clients arriving more than fifteen minutes late will have their session shortened accordingly; trainers can no longer extend appointments because of back-to-back bookings.\n\n3. A session may be rescheduled without charge if the request is made by 8:00 P.M. on the previous day. Later requests count as a completed session.\n\n4. All trainers will be unavailable on the first Monday of each month from 6:00 A.M. to noon for staff development workshops. The weight room and pool remain open during this time.\n\nMembers with unused sessions are encouraged to speak with the fitness desk to plan a schedule before the busy summer period. Thank you for helping us serve every member fairly.",
+    "questions": [
+      {
+        "question": "What is the purpose of the notice?",
+        "options": [
+          "To introduce new personal trainers",
+          "To announce revised rules for training sessions",
+          "To promote a summer membership discount",
+          "To explain a pool maintenance schedule"
+        ],
+        "answer": 1,
+        "explanation": "제목과 첫 문단에서 'the club is updating its session policies as of 15 June'라고 하여 개인 트레이닝 세션 규정 개정을 알리는 것이 목적임을 밝히고 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is true about session packages purchased before 15 June?",
+        "options": [
+          "They will expire in twelve months.",
+          "They must be used by the end of summer.",
+          "They will keep their original terms.",
+          "They can be transferred to other members."
+        ],
+        "answer": 2,
+        "explanation": "1번 항목에서 'Sessions purchased before 15 June will keep their original terms'라고 명시했으므로, 6월 15일 이전에 구매한 패키지는 기존 조건(무기한)이 유지됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when must a client request a free rescheduling of a Wednesday session?",
+        "options": [
+          "By 8:00 P.M. on Tuesday",
+          "By 8:00 A.M. on Wednesday",
+          "By noon on Wednesday",
+          "By 8:00 P.M. on Wednesday"
+        ],
+        "answer": 0,
+        "explanation": "3번 항목에서 무료 일정 변경은 'by 8:00 P.M. on the previous day'까지 요청해야 한다고 했으므로, 수요일 세션은 전날인 화요일 오후 8시까지 요청해야 합니다. 요일을 적용하는 날짜 추론 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is NOT mentioned as a change or rule in the notice?",
+        "options": [
+          "An expiration period for session packages",
+          "A policy for clients who arrive late",
+          "A monthly time when trainers are unavailable",
+          "An increase in the price of sessions"
+        ],
+        "answer": 3,
+        "explanation": "패키지 유효기간(1번), 지각 고객 처리(2번), 매월 첫째 월요일 오전 트레이너 부재(4번)는 모두 언급되었지만, 세션 가격 인상에 대한 내용은 공지에 없습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "MEMO TO ALL STAFF — QUARTERLY FIRE DRILL\nKestrel House, 41 Boroughfield Road\n\nA building-wide fire drill will take place on Thursday, 17 April, at 10:30 A.M. Participation is mandatory for all employees, contractors, and visitors present in the building.\n\nWhen the alarm sounds, save your work if it is safe to do so, leave personal belongings behind, and walk to the nearest stairwell. Elevators must not be used. Floor wardens, identified by orange vests, will sweep each floor to confirm that all rooms, including restrooms and storage areas, are empty.\n\nAll occupants must gather at the assembly point in Carlton Square, across the street from the main entrance. Department heads will take attendance using the staff lists distributed earlier this week. Do not re-enter the building until the all-clear announcement is given by the safety coordinator, not by your supervisor.\n\nLast quarter, the full evacuation took eleven minutes; our target this time is under eight. Employees with mobility needs should contact Priya Nair in Facilities before 14 April to arrange assistance. A short report on drill results will be posted on the intranet the following week.",
+    "questions": [
+      {
+        "question": "What are employees instructed to do when the alarm sounds?",
+        "options": [
+          "Take their belongings and use the elevator",
+          "Wait at their desks for a floor warden",
+          "Leave belongings and walk to a stairwell",
+          "Gather in the lobby of the main entrance"
+        ],
+        "answer": 2,
+        "explanation": "'leave personal belongings behind, and walk to the nearest stairwell. Elevators must not be used'라고 지시하고 있으므로, 소지품을 두고 가까운 계단으로 이동해야 합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is responsible for confirming that floors are empty?",
+        "options": [
+          "Department heads",
+          "Floor wardens",
+          "The safety coordinator",
+          "Building security guards"
+        ],
+        "answer": 1,
+        "explanation": "'Floor wardens, identified by orange vests, will sweep each floor to confirm that all rooms ... are empty'라고 했으므로, 각 층의 비움 여부 확인은 주황 조끼를 입은 층별 관리자(floor warden)의 역할입니다. 부서장은 출석 확인을 담당합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By how many minutes does the building aim to improve its evacuation time?",
+        "options": [
+          "By at least three minutes",
+          "By at least eight minutes",
+          "By at least eleven minutes",
+          "By at least one minute"
+        ],
+        "answer": 0,
+        "explanation": "지난 분기 대피에 11분이 걸렸고 이번 목표는 8분 미만이므로, 최소 3분 이상 단축해야 합니다(11 - 8 = 3). 두 수치의 차이를 구하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What should employees with mobility needs do?",
+        "options": [
+          "Remain at the assembly point after the drill",
+          "Contact Priya Nair before 14 April",
+          "Report directly to the safety coordinator on 17 April",
+          "Use the elevator with a floor warden"
+        ],
+        "answer": 1,
+        "explanation": "'Employees with mobility needs should contact Priya Nair in Facilities before 14 April to arrange assistance'라고 안내되어 있으므로, 4월 14일 전에 시설부의 Priya Nair에게 연락해 지원을 준비해야 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Dear Mr. Okafor,\n\nThank you for serving as a volunteer floor warden during the fire drill held at Marsh Tower on 22 May. This letter summarizes the observations recorded by our team and the actions we ask you to share with staff on the fourth floor.\n\nOverall, the evacuation was completed in seven minutes and twenty seconds, well within the building target. However, two issues require attention. First, several employees on your floor carried laptop bags down the stairwell, slowing movement at the landing between the third and fourth floors. Please remind staff that belongings must be left behind. Second, the fire door beside the east kitchenette was propped open with a chair. Propped fire doors are a serious code violation, and the chair has been removed.\n\nWe ask that you review these points at your next floor meeting and confirm by 6 June that the briefing has taken place. A refresher session for all wardens will be offered online in early July; an invitation will follow separately.\n\nThank you again for your commitment to workplace safety.\n\nSincerely,\nLeona Vasquez\nSafety Compliance Officer, Marsh Tower Management",
+    "questions": [
+      {
+        "question": "Why was the letter written?",
+        "options": [
+          "To invite Mr. Okafor to become a floor warden",
+          "To report drill observations and request follow-up actions",
+          "To announce the date of the next fire drill",
+          "To explain how to repair a fire door"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'This letter summarizes the observations recorded by our team and the actions we ask you to share'라고 하여, 소방 훈련 관찰 결과를 전달하고 후속 조치를 요청하는 것이 편지의 목적임을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What problem was observed in the stairwell?",
+        "options": [
+          "The lighting was too dim.",
+          "A fire door was locked shut.",
+          "Employees carried bags that slowed movement.",
+          "The alarm could not be heard clearly."
+        ],
+        "answer": 2,
+        "explanation": "'several employees on your floor carried laptop bags down the stairwell, slowing movement at the landing'이라고 했으므로, 직원들이 노트북 가방을 들고 내려가 계단 이동이 지체된 것이 문제였습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is suggested about the fire door near the east kitchenette?",
+        "options": [
+          "It was being held open improperly.",
+          "It needs to be replaced next month.",
+          "It was painted the wrong color.",
+          "It was blocked by laptop bags."
+        ],
+        "answer": 0,
+        "explanation": "'the fire door beside the east kitchenette was propped open with a chair. Propped fire doors are a serious code violation'이라고 했으므로, 방화문이 의자로 고정되어 부적절하게 열려 있었음을 알 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is Mr. Okafor asked to do by 6 June?",
+        "options": [
+          "Attend an online refresher session",
+          "Remove a chair from the kitchenette",
+          "Confirm that staff have been briefed",
+          "Submit a new evacuation plan"
+        ],
+        "answer": 2,
+        "explanation": "'confirm by 6 June that the briefing has taken place'라고 요청했으므로, 6월 6일까지 직원 전달(브리핑)이 이루어졌음을 확인해 주어야 합니다. 온라인 보수 교육은 7월 초에 별도로 안내됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Dear Ms. Lindqvist,\n\nAs part of our annual supplier quality program, Bravora Electronics will conduct an on-site audit of Nordvik Components at your Malmo facility on Tuesday, 9 September, and Wednesday, 10 September. The audit team will consist of three members: a quality engineer, a procurement specialist, and an independent certification consultant.\n\nTo make the visit efficient, please have the following available by 26 August, two weeks before the audit: your current quality manual, calibration records for all measurement equipment used on Bravora orders, training logs for soldering staff, and corrective-action reports from the past eighteen months. Documents may be uploaded to our secure supplier portal; paper copies are not required.\n\nOn the first day, the team will tour the production floor and observe an active assembly run. The second day is reserved for document review and a closing meeting, at which preliminary findings will be shared. A formal report will follow within fifteen business days of the audit.\n\nPlease confirm the dates by 15 August and let us know whom you have appointed as our main point of contact. We value our four-year partnership and look forward to a productive visit.\n\nSincerely,\nDaniel Ruiz\nSupplier Quality Manager, Bravora Electronics",
+    "questions": [
+      {
+        "question": "Why is Mr. Ruiz writing to Ms. Lindqvist?",
+        "options": [
+          "To cancel an existing supply contract",
+          "To announce and prepare for an upcoming audit",
+          "To complain about a late shipment",
+          "To request a price quotation for components"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'Bravora Electronics will conduct an on-site audit ... on Tuesday, 9 September, and Wednesday, 10 September'라고 하며 준비 자료를 요청하고 있으므로, 다가오는 감사를 통지하고 준비시키는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is NOT listed among the documents to be provided?",
+        "options": [
+          "Calibration records",
+          "Training logs for soldering staff",
+          "Corrective-action reports",
+          "Financial statements"
+        ],
+        "answer": 3,
+        "explanation": "요청 자료는 품질 매뉴얼, 측정 장비 교정 기록, 납땜 인력 교육 일지, 최근 18개월의 시정조치 보고서입니다. 재무제표는 언급되지 않았으므로 NOT 문제의 정답입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen on the second day of the audit?",
+        "options": [
+          "A tour of the production floor",
+          "Observation of an assembly run",
+          "Document review and a closing meeting",
+          "Delivery of the formal audit report"
+        ],
+        "answer": 2,
+        "explanation": "'The second day is reserved for document review and a closing meeting'이라고 했으므로, 둘째 날에는 문서 검토와 예비 결과를 공유하는 마무리 회의가 진행됩니다. 공식 보고서는 감사 후 15영업일 이내에 별도로 발송됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what date should the requested documents be uploaded?",
+        "options": [
+          "By 15 August",
+          "By 26 August",
+          "By 9 September",
+          "By 10 September"
+        ],
+        "answer": 1,
+        "explanation": "'please have the following available by 26 August, two weeks before the audit'라고 명시되어 있으므로 자료 제출 기한은 8월 26일입니다. 8월 15일은 감사 일정 확정 회신 기한이므로 혼동하지 않아야 합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Dear Mr. Adeyemi,\n\nThis letter presents the results of the supplier audit conducted at Lagosline Packaging on 14 October by Meridian Foods.\n\nWe are pleased to report that your facility achieved an overall score of 87 out of 100, placing Lagosline in our 'Approved' category, which requires a minimum score of 80. Auditors particularly praised your raw-material traceability system and the cleanliness of the filling hall.\n\nTwo minor findings were recorded. First, the temperature log for cold storage room B was missing entries for three days in September. Second, two forklift operators could not present current license cards during the visit, although records later confirmed their training was valid. Neither finding affects your approved status; however, written corrective-action plans for both items are due within thirty days of this letter, dated 28 October. Plans should be sent to auditor Helen Cho, copied to me.\n\nYour next routine audit will take place in approximately twenty-four months. Please note that suppliers scoring 90 or above qualify for our reduced-documentation program, so we encourage you to address the findings thoroughly.\n\nCongratulations on a strong result.\n\nSincerely,\nMartin Keller\nHead of Supplier Assurance, Meridian Foods",
+    "questions": [
+      {
+        "question": "What is the main purpose of the letter?",
+        "options": [
+          "To schedule an upcoming facility audit",
+          "To communicate audit results and required follow-up",
+          "To terminate a packaging supply agreement",
+          "To request samples of new packaging materials"
+        ],
+        "answer": 1,
+        "explanation": "첫 문장에서 'This letter presents the results of the supplier audit'라고 밝히고 있으며, 이후 점수와 지적 사항, 시정조치 요구를 안내하므로 감사 결과 통보가 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "By how many points did Lagosline exceed the minimum score for approval?",
+        "options": [
+          "By 3 points",
+          "By 7 points",
+          "By 10 points",
+          "By 13 points"
+        ],
+        "answer": 1,
+        "explanation": "Lagosline의 점수는 87점이고 'Approved' 범주의 최소 점수는 80점이므로, 87에서 80을 뺀 7점 차이로 기준을 초과했습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what date are the corrective-action plans due?",
+        "options": [
+          "By 14 October",
+          "By 28 October",
+          "By 27 November",
+          "By 28 December"
+        ],
+        "answer": 2,
+        "explanation": "시정조치 계획은 편지 날짜인 10월 28일로부터 30일 이내(within thirty days of this letter, dated 28 October)에 제출해야 하므로, 기한은 11월 27일입니다. 날짜에 일수를 더하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Why might Lagosline want to score 90 or above on a future audit?",
+        "options": [
+          "To avoid paying an audit fee",
+          "To qualify for a reduced-documentation program",
+          "To extend its contract by twenty-four months",
+          "To receive a public award from Meridian Foods"
+        ],
+        "answer": 1,
+        "explanation": "'suppliers scoring 90 or above qualify for our reduced-documentation program'이라고 했으므로, 90점 이상을 받으면 서류 부담이 줄어드는 프로그램 대상이 될 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "INSTRUCTIONS FOR COMPLETING THE EXPORT DECLARATION — FORM CD-7\nIssued by Calverton Freight Services for business customers\n\nAll international shipments valued above $250 must be accompanied by a completed Form CD-7. Follow the steps below to avoid customs delays.\n\nStep 1: In Section A, enter the full legal name and address of both the exporter and the recipient. Post-office boxes are not accepted for the recipient field.\n\nStep 2: In Section B, describe each item in plain language. Vague terms such as 'parts' or 'samples' will be rejected by customs officers. Include the quantity, unit value, and country of manufacture for every line.\n\nStep 3: In Section C, enter the six-digit tariff classification code. If you do not know the code, leave the field as (blank) and our brokerage team will complete it for a $12 service fee per shipment.\n\nStep 4: Sign and date Section D. Unsigned forms are returned to the sender, and the shipment is held at our depot for up to five business days before being sent back.\n\nCompleted forms may be submitted online or handed to the driver at pickup. For assistance, call our customs help line at 555-0142, weekdays 8 A.M. to 6 P.M.",
+    "questions": [
+      {
+        "question": "For which shipments is Form CD-7 required?",
+        "options": [
+          "All domestic shipments",
+          "International shipments valued above $250",
+          "Shipments containing food products",
+          "Shipments sent to post-office boxes"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'All international shipments valued above $250 must be accompanied by a completed Form CD-7'라고 명시했으므로, 250달러 초과 국제 화물에 이 양식이 필요합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why might a description such as 'parts' cause a problem?",
+        "options": [
+          "It is too long for the form field.",
+          "It will be rejected by customs officers.",
+          "It requires an extra service fee.",
+          "It must be written in two languages."
+        ],
+        "answer": 1,
+        "explanation": "Step 2에서 'Vague terms such as parts or samples will be rejected by customs officers'라고 했으므로, 모호한 품목 표현은 세관에서 거부됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happens if a customer does not know the tariff classification code?",
+        "options": [
+          "The shipment cannot be sent internationally.",
+          "The customer must call the customs help line first.",
+          "The brokerage team will complete it for a fee.",
+          "The form is automatically returned to the sender."
+        ],
+        "answer": 2,
+        "explanation": "Step 3에서 코드를 모르면 해당 칸을 비워 두면 'our brokerage team will complete it for a $12 service fee per shipment'라고 했으므로, 건당 12달러의 수수료로 중개팀이 대신 기재해 줍니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about unsigned forms?",
+        "options": [
+          "They are processed after a $12 fee is paid.",
+          "They cause the shipment to be held at the depot.",
+          "They are completed by the delivery driver.",
+          "They are accepted if submitted online."
+        ],
+        "answer": 1,
+        "explanation": "Step 4에서 서명되지 않은 양식은 발송인에게 반송되고 'the shipment is held at our depot for up to five business days'라고 했으므로, 화물이 최대 5영업일간 보관소에 보류됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "CALVERTON FREIGHT SERVICES — CUSTOMS CHARGES RECEIPT\nReceipt number: 88-41207 | Date issued: 3 February\n\nRecipient: Ms. Hana Petrova, Suite 9, 220 Welland Avenue, Toronto\nShipment origin: Lyon, France | Waybill: CF-559301\nContents declared: 2 ceramic table lamps, 1 wool blanket\n\nCharges:\nImport duty: $34.00\nFederal sales tax: $21.50\nBrokerage processing fee: $15.00\nDisbursement fee: $4.50\nTotal charges: $75.00\n\nPayment status: UNPAID — payment is required before delivery can be scheduled.\n\nHow to pay: Use the reference number 88-41207 at www.calvertonfreight.com/pay, or call 555-0176. Payments received before 4:00 P.M. allow next-business-day delivery. The package will be stored free of charge for ten calendar days from the issue date; after that, a storage fee of $2.00 per day applies. Packages unclaimed after thirty days are returned to the sender at the recipient's expense.\n\nQuestions about the duty amount? A reassessment request may be filed within ninety days using Form R-2, available on our Web site. Note that the brokerage processing fee and disbursement fee are not refundable under any circumstances.",
+    "questions": [
+      {
+        "question": "What is the purpose of this document?",
+        "options": [
+          "To confirm that a payment has been completed",
+          "To notify a recipient of charges owed on a shipment",
+          "To advertise an international moving service",
+          "To request a description of package contents"
+        ],
+        "answer": 1,
+        "explanation": "문서에는 관세 등 청구 내역과 함께 'UNPAID — payment is required before delivery can be scheduled'라고 표시되어 있으므로, 수취인에게 지불해야 할 비용을 알리는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much of the total would NOT be refundable under any circumstances?",
+        "options": [
+          "$4.50",
+          "$15.00",
+          "$19.50",
+          "$34.00"
+        ],
+        "answer": 2,
+        "explanation": "마지막 문단에서 중개 처리 수수료($15.00)와 지급 대행 수수료($4.50)는 어떤 경우에도 환불되지 않는다고 했으므로, 두 항목을 합한 19.50달러가 환불 불가 금액입니다. 두 금액을 더하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What will happen if the package is still unclaimed on day 12 after the issue date?",
+        "options": [
+          "It will be returned to Lyon immediately.",
+          "Storage fees will have begun to accumulate.",
+          "The duty amount will be reassessed automatically.",
+          "Delivery will be scheduled without payment."
+        ],
+        "answer": 1,
+        "explanation": "발행일로부터 10일까지는 무료 보관이며 'after that, a storage fee of $2.00 per day applies'라고 했으므로, 12일째에는 이미 보관료가 부과되기 시작한 상태입니다. 반송은 30일 이후에 이루어집니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How can Ms. Petrova dispute the duty amount?",
+        "options": [
+          "By calling 555-0176 within ten days",
+          "By filing Form R-2 within ninety days",
+          "By refusing the delivery at her door",
+          "By paying only the federal sales tax"
+        ],
+        "answer": 1,
+        "explanation": "'A reassessment request may be filed within ninety days using Form R-2'라고 안내되어 있으므로, 관세 금액에 이의가 있으면 90일 이내에 R-2 양식으로 재산정을 신청하면 됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "GUEST NOTICE — RENOVATION OF THE BAYVIEW WING\nThe Aldermere Hotel\n\nWe are pleased to announce a full renovation of our Bayview Wing, to be carried out in two phases so that the hotel can remain open throughout.\n\nPhase One (5 January to 28 February): Floors six through eight of the Bayview Wing will be closed. Guests who previously reserved rooms on these floors have been moved, at no extra cost, to equivalent rooms in the Garden Wing and were notified by e-mail in December.\n\nPhase Two (1 March to 30 April): Floors three through five will close, and the renovated upper floors will reopen with updated bathrooms, soundproof windows, and new climate controls.\n\nDuring both phases, construction work will take place only between 9:00 A.M. and 5:00 P.M., and no work will occur on weekends. The Bayview elevator will operate solely for construction crews; guests should use the central elevators by the lobby fountain. The rooftop pool will remain open, but the sauna will be unavailable until Phase Two ends.\n\nAs an apology for any inconvenience, all guests staying during the renovation will receive a 15 percent discount on dining at our Marina Restaurant. We thank you for your patience as we improve your future stays.",
+    "questions": [
+      {
+        "question": "Why is the renovation being carried out in two phases?",
+        "options": [
+          "To reduce the total cost of construction",
+          "To allow the hotel to remain open",
+          "To test new materials on the upper floors first",
+          "To comply with city building regulations"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'in two phases so that the hotel can remain open throughout'라고 명시했으므로, 호텔을 계속 운영하기 위해 공사를 2단계로 나눈 것입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What will happen on 1 March?",
+        "options": [
+          "The entire Bayview Wing will close.",
+          "The rooftop pool will reopen.",
+          "Floors three through five will close.",
+          "The renovation will be completed."
+        ],
+        "answer": 2,
+        "explanation": "Phase Two는 3월 1일에 시작되며 'Floors three through five will close, and the renovated upper floors will reopen'이라고 했으므로, 3월 1일에는 3~5층이 폐쇄되고 상층부가 재개장합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is indicated about guests who had booked rooms on floor seven?",
+        "options": [
+          "They were charged a transfer fee.",
+          "They were moved to the Garden Wing.",
+          "They must use the Bayview elevator.",
+          "They will receive a free spa voucher."
+        ],
+        "answer": 1,
+        "explanation": "Phase One에서 6~8층 예약 고객은 'moved, at no extra cost, to equivalent rooms in the Garden Wing'이라고 했으므로, 7층 예약 고객은 추가 비용 없이 Garden Wing으로 옮겨졌습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What facility will be unavailable until the end of April?",
+        "options": [
+          "The rooftop pool",
+          "The Marina Restaurant",
+          "The sauna",
+          "The central elevators"
+        ],
+        "answer": 2,
+        "explanation": "'the sauna will be unavailable until Phase Two ends'라고 했고 Phase Two는 4월 30일에 끝나므로, 4월 말까지 이용할 수 없는 시설은 사우나입니다. 옥상 수영장과 레스토랑은 계속 운영됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "IMPORTANT UPDATE FOR GUESTS — RENOVATION SCHEDULE REVISION\nThe Aldermere Hotel, posted 18 March\n\nDue to the late delivery of imported tiling, Phase Two of the Bayview Wing renovation, originally scheduled to finish on 30 April, will now be extended by three weeks. We apologize to guests whose plans are affected and offer the following arrangements.\n\nGuests with reservations in the Bayview Wing between 1 May and the new completion date may choose one of three options: move to a Garden Wing room of the same category at the original rate, upgrade to a Marina Suite for an additional $40 per night instead of the usual $95 difference, or cancel without penalty even within the normal seven-day cancellation window.\n\nPlease note that the daily construction hours remain 9:00 A.M. to 5:00 P.M. and that weekend work is still excluded. The sauna reopening, previously promised for early May, is likewise postponed by three weeks.\n\nTo select an option, reply to the e-mail sent to the address on your reservation or call our reservations desk at 555-0129 before 10 April. Guests who do not respond by that date will be assigned automatically to Option One.\n\nWe appreciate your understanding.\nGuest Services, The Aldermere Hotel",
+    "questions": [
+      {
+        "question": "Why has the renovation schedule changed?",
+        "options": [
+          "Construction crews were unavailable.",
+          "Imported tiling arrived late.",
+          "Weekend work was prohibited by the city.",
+          "Guests complained about the noise."
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'Due to the late delivery of imported tiling'이라고 명시했으므로, 수입 타일의 배송 지연이 일정 연장의 원인입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When is Phase Two now expected to finish?",
+        "options": [
+          "On 30 April",
+          "Around 7 May",
+          "Around 21 May",
+          "Around 30 May"
+        ],
+        "answer": 2,
+        "explanation": "원래 완료일이 4월 30일이었고 'extended by three weeks'라고 했으므로, 4월 30일에 3주를 더한 5월 21일경에 완료될 예정입니다. 날짜에 기간을 더하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much extra per night would a guest pay to upgrade to a Marina Suite under the offer?",
+        "options": [
+          "$40",
+          "$55",
+          "$95",
+          "$135"
+        ],
+        "answer": 0,
+        "explanation": "'upgrade to a Marina Suite for an additional $40 per night instead of the usual $95 difference'라고 했으므로, 이번 제안에 따라 지불할 추가 요금은 1박당 40달러입니다. 95달러는 평소의 차액입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will happen to guests who do not respond by 10 April?",
+        "options": [
+          "Their reservations will be canceled.",
+          "They will be charged a penalty fee.",
+          "They will be moved to a Garden Wing room.",
+          "They will be upgraded to a Marina Suite."
+        ],
+        "answer": 2,
+        "explanation": "'Guests who do not respond by that date will be assigned automatically to Option One'이라고 했고, Option One은 같은 등급의 Garden Wing 객실로 원래 요금에 이동하는 것이므로 정답은 Garden Wing 이동입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "TO: All Employees\nFROM: Payroll Department, Veltrane Industries\nSUBJECT: Change to the Payroll Calendar\n\nStarting in October, Veltrane Industries will move from a twice-monthly pay schedule (the 15th and the last day of each month) to a biweekly schedule, with payments issued every other Friday. The first biweekly payday will be Friday, 9 October.\n\nWhy the change? Under the new system, paydays will always fall on the same weekday, making personal budgeting easier, and overtime will be calculated over a standard two-week period rather than being split across pay cycles.\n\nWhat you will notice: Because biweekly pay produces 26 payments per year instead of 24, each individual paycheck will be slightly smaller, although your annual salary is unchanged. Twice a year there will be a month containing three paydays.\n\nAction required: Employees who have set automatic transfers timed to the 15th and month-end should adjust them before October. Direct-deposit banking details do not need to be re-entered; they carry over automatically.\n\nA calculator showing your new per-paycheck amount is available on the payroll page of the intranet. Questions may be submitted to payroll@veltrane.com by 25 September and will be answered in a follow-up bulletin.",
+    "questions": [
+      {
+        "question": "What is changing at Veltrane Industries?",
+        "options": [
+          "The amount of employees' annual salaries",
+          "The frequency and timing of paydays",
+          "The bank used for direct deposits",
+          "The method for requesting overtime"
+        ],
+        "answer": 1,
+        "explanation": "공지의 핵심은 월 2회(15일과 말일) 지급에서 격주 금요일 지급으로 바뀐다는 것이므로, 급여 지급 주기와 시점이 변경되는 것입니다. 연봉 자체는 변하지 않는다고 명시되어 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "When will the second biweekly payday occur?",
+        "options": [
+          "Friday, 16 October",
+          "Friday, 23 October",
+          "Friday, 30 October",
+          "Saturday, 31 October"
+        ],
+        "answer": 1,
+        "explanation": "첫 격주 급여일이 10월 9일 금요일이고 'every other Friday'에 지급되므로, 두 번째 급여일은 2주 뒤인 10월 23일 금요일입니다. 날짜에 2주를 더하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why will individual paychecks be slightly smaller?",
+        "options": [
+          "Salaries are being reduced by two percent.",
+          "The annual pay is divided into 26 payments instead of 24.",
+          "Overtime will no longer be paid.",
+          "A new tax has been introduced."
+        ],
+        "answer": 1,
+        "explanation": "'biweekly pay produces 26 payments per year instead of 24, each individual paycheck will be slightly smaller, although your annual salary is unchanged'라고 했으므로, 같은 연봉이 더 많은 횟수로 나뉘기 때문입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who needs to take action before October?",
+        "options": [
+          "Employees with automatic transfers tied to old paydays",
+          "Employees who want to keep direct deposit",
+          "Employees hired after 9 October",
+          "Employees who work overtime regularly"
+        ],
+        "answer": 0,
+        "explanation": "'Employees who have set automatic transfers timed to the 15th and month-end should adjust them before October'라고 했으므로, 기존 급여일에 맞춘 자동이체를 설정한 직원만 조치가 필요합니다. 계좌 정보는 자동으로 이전됩니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "VELTRANE INDUSTRIES — YEAR-END PAYROLL AND HOLIDAY PROCESSING CALENDAR\nIssued by the Payroll Department for November and December\n\nPay period 23 (2-15 November): timesheets due Monday, 16 November, 10:00 A.M.; payday Friday, 20 November.\nPay period 24 (16-29 November): timesheets due Monday, 30 November, 10:00 A.M.; payday Friday, 4 December.\nPay period 25 (30 November-13 December): timesheets due Monday, 14 December, 10:00 A.M.; payday Friday, 18 December.\nPay period 26 (14-27 December): timesheets due Wednesday, 23 December, 10:00 A.M. (early deadline); payday Thursday, 31 December (moved forward because 1 January is a bank holiday).\n\nReminders:\n- Late timesheets are processed in the following pay period without exception.\n- Expense reimbursements are paid together with wages; submit receipts at least five business days before payday.\n- Managers must approve all timesheets by 2:00 P.M. on the due date.\n- The payroll office closes at noon on 24 December and reopens on 4 January. Pay stubs remain available on the employee portal at all times.",
+    "questions": [
+      {
+        "question": "Why are the deadline and payday different for pay period 26?",
+        "options": [
+          "Because the payroll software is being replaced",
+          "Because of a bank holiday on 1 January",
+          "Because many employees are on vacation",
+          "Because timesheet approvals were delayed"
+        ],
+        "answer": 1,
+        "explanation": "Pay period 26 항목에 'payday Thursday, 31 December (moved forward because 1 January is a bank holiday)'라고 명시되어 있으므로, 1월 1일이 은행 휴무일이라 지급일이 앞당겨진 것입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What happens if an employee submits a timesheet late for pay period 24?",
+        "options": [
+          "It is processed with pay period 25.",
+          "The employee receives a warning letter.",
+          "It must be approved by the payroll office.",
+          "The wages are paid in cash instead."
+        ],
+        "answer": 0,
+        "explanation": "'Late timesheets are processed in the following pay period without exception'이라고 했으므로, 24기 마감에 늦은 근무 기록표는 다음 급여 기간인 25기에 처리됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By when should receipts be submitted to be reimbursed on 18 December?",
+        "options": [
+          "By 4 December",
+          "By 11 December",
+          "By 14 December",
+          "By 17 December"
+        ],
+        "answer": 1,
+        "explanation": "경비 정산은 급여와 함께 지급되며 영수증은 'at least five business days before payday'에 제출해야 합니다. 12월 18일 금요일 지급 기준 5영업일 전은 12월 11일 금요일이므로, 그날까지 제출해야 합니다. 영업일을 거꾸로 세는 날짜 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about pay stubs?",
+        "options": [
+          "They are mailed to employees' homes.",
+          "They are unavailable after 24 December.",
+          "They can be viewed on the employee portal at any time.",
+          "They must be collected from the payroll office."
+        ],
+        "answer": 2,
+        "explanation": "'Pay stubs remain available on the employee portal at all times'라고 했으므로, 급여 명세서는 직원 포털에서 언제든지 확인할 수 있습니다. 급여 사무실 휴무와 무관합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "NOTICE OF RATE REVISION — ORCHARD STREET PARKING GARAGE\nEffective Monday, 3 August\n\nThe City of Fairhaven Parking Authority is revising rates at the Orchard Street Garage for the first time in six years. The changes reflect increased maintenance costs and fund the new license-plate recognition system, which eliminates paper tickets.\n\nNew rates:\n- First hour: $3.00 (previously $2.50)\n- Each additional hour: $2.00 (unchanged)\n- Daily maximum (24 hours): $18.00 (previously $16.00)\n- Lost-ticket fee: discontinued; entry and exit are now recorded automatically by camera.\n\nMonthly permits will remain $150 until 1 January, when they will rise to $165. Current permit holders may lock in the $150 rate for twelve additional months by renewing for a full year before 30 September.\n\nEvening rates are unchanged: a flat $5.00 applies to vehicles entering after 6:00 P.M. and leaving before 2:00 A.M. Validation stamps from participating Orchard Street merchants continue to provide the first two hours free.\n\nQuestions or feedback may be submitted at www.fairhavenparking.gov/orchard before 20 July and will be reviewed at the Parking Authority's public meeting on 27 July.",
+    "questions": [
+      {
+        "question": "What is one stated reason for the rate revision?",
+        "options": [
+          "A reduction in the number of parking spaces",
+          "Funding for a license-plate recognition system",
+          "A new city tax on commuters",
+          "Higher salaries for garage attendants"
+        ],
+        "answer": 1,
+        "explanation": "'The changes reflect increased maintenance costs and fund the new license-plate recognition system'이라고 했으므로, 유지비 증가와 함께 번호판 인식 시스템 재원 마련이 인상 이유로 제시되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Under the new rates, how much will a four-hour stay cost?",
+        "options": [
+          "$8.00",
+          "$9.00",
+          "$10.50",
+          "$12.00"
+        ],
+        "answer": 1,
+        "explanation": "첫 한 시간은 3달러, 추가 시간당 2달러이므로 4시간 주차 시 3 + (2 x 3) = 9달러입니다. 시간대별 요금을 합산하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How can current permit holders keep the $150 monthly rate?",
+        "options": [
+          "By renewing for a full year before 30 September",
+          "By parking only during evening hours",
+          "By attending the public meeting on 27 July",
+          "By obtaining validation stamps from merchants"
+        ],
+        "answer": 0,
+        "explanation": "'Current permit holders may lock in the $150 rate for twelve additional months by renewing for a full year before 30 September'라고 했으므로, 9월 30일 전에 1년 단위로 갱신하면 기존 요금이 유지됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is suggested about paper tickets?",
+        "options": [
+          "They will cost $5.00 to replace.",
+          "They are no longer needed at the garage.",
+          "They must be validated by a merchant.",
+          "They will be introduced in January."
+        ],
+        "answer": 1,
+        "explanation": "새 번호판 인식 시스템이 'eliminates paper tickets'라고 했고, 분실 티켓 수수료도 폐지되어 출입이 카메라로 자동 기록되므로 종이 티켓은 더 이상 필요하지 않습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "form",
+    "passage": "ORCHARD STREET PARKING GARAGE — PAYMENT RECEIPT\nCity of Fairhaven Parking Authority\n\nReceipt number: 207-66315\nDate: Tuesday, 11 August\nVehicle plate: KDR-4821 (recorded by camera at entry and exit)\nEntry time: 9:40 A.M. | Exit time: 2:10 P.M.\nDuration billed: 4 hours 30 minutes (rounded up to 5 hours)\n\nCharges:\nFirst hour: $3.00\nAdditional hours (4 x $2.00): $8.00\nSubtotal: $11.00\nMerchant validation (Greenway Books): first 2 hours free, -$5.00\nAmount paid: $6.00\nPayment method: credit card ending 4417\n\nNotes: This receipt is generated automatically and serves as proof of payment for expense claims. Itemized monthly statements are available for registered users at www.fairhavenparking.gov/account. Disputes regarding camera-recorded times must be submitted within fourteen days of the transaction date with this receipt number. Lost receipts can be reissued at the garage office, level one, weekdays 8:00 A.M. to 4:00 P.M. Thank you for supporting Orchard Street businesses; validation is available from all participating merchants with any purchase.",
+    "questions": [
+      {
+        "question": "How was the vehicle's parking time recorded?",
+        "options": [
+          "With a paper ticket issued at entry",
+          "By cameras reading the license plate",
+          "By an attendant at the exit booth",
+          "Through a mobile application check-in"
+        ],
+        "answer": 1,
+        "explanation": "영수증의 차량 항목에 'recorded by camera at entry and exit'라고 명시되어 있으므로, 입출차 시간이 번호판 인식 카메라로 기록되었음을 알 수 있습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How much would the driver have paid without the merchant validation?",
+        "options": [
+          "$5.00",
+          "$6.00",
+          "$8.00",
+          "$11.00"
+        ],
+        "answer": 3,
+        "explanation": "소계(Subtotal)가 11달러이고 상점 인증으로 5달러가 할인되어 6달러를 지불했으므로, 할인이 없었다면 소계 그대로 11달러를 지불했을 것입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "By what date must a dispute about the recorded times be submitted?",
+        "options": [
+          "By 14 August",
+          "By 18 August",
+          "By 25 August",
+          "By 11 September"
+        ],
+        "answer": 2,
+        "explanation": "분쟁 제기는 거래일로부터 14일 이내(within fourteen days of the transaction date)에 해야 하며 거래일이 8월 11일이므로, 기한은 8월 25일입니다. 날짜에 일수를 더하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about lost receipts?",
+        "options": [
+          "They cannot be replaced.",
+          "They can be reissued at the garage office.",
+          "They are e-mailed automatically every month.",
+          "They must be requested from Greenway Books."
+        ],
+        "answer": 1,
+        "explanation": "'Lost receipts can be reissued at the garage office, level one, weekdays 8:00 A.M. to 4:00 P.M.'라고 했으므로, 분실 영수증은 주차장 1층 사무실에서 재발급받을 수 있습니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "HALVERSON CAMPUS CAFETERIA — FOUR-WEEK MENU ROTATION\nPosted by Dining Services for the autumn term\n\nThe cafeteria now operates on a repeating four-week menu cycle. The full cycle is posted here and on the dining app, which also lists allergens for every dish.\n\nWeek 1 theme: Mediterranean — featured entrees include lemon chicken, vegetable moussaka, and falafel bowls.\nWeek 2 theme: East Asian — featured entrees include bibimbap, miso-glazed salmon, and tofu stir-fry.\nWeek 3 theme: Latin American — featured entrees include chicken fajitas, black-bean enchiladas, and grilled fish tacos.\nWeek 4 theme: Classic Comfort — featured entrees include roast turkey, macaroni and cheese, and mushroom pot pie.\n\nDaily constants (available every week): salad bar, soup of the day, grilled chicken sandwiches, and a vegan station.\n\nNotes:\n- The cycle begins Monday, 7 September, with Week 1 and repeats in the same order all term.\n- Friday of each week is Market Day, when one featured entree is replaced by a dish made from produce delivered that morning from local farms.\n- Menu suggestions may be left in the comment box beside the cashier; the most requested dish each month is added to the following cycle as a special.",
+    "questions": [
+      {
+        "question": "What is the purpose of the posting?",
+        "options": [
+          "To announce the closure of the cafeteria",
+          "To explain a repeating menu system",
+          "To recruit student kitchen staff",
+          "To introduce a new mobile payment option"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 'The cafeteria now operates on a repeating four-week menu cycle'이라고 밝히고 각 주차 테마를 안내하므로, 반복 순환 메뉴 체계를 설명하는 것이 목적입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "During the week of 21 September, which theme will be featured?",
+        "options": [
+          "Mediterranean",
+          "East Asian",
+          "Latin American",
+          "Classic Comfort"
+        ],
+        "answer": 2,
+        "explanation": "순환은 9월 7일 월요일에 1주차로 시작하므로 9월 14일 주는 2주차, 9월 21일 주는 3주차입니다. 따라서 해당 주의 테마는 Latin American입니다. 주 단위로 날짜를 계산하는 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What happens on Market Day?",
+        "options": [
+          "The cafeteria offers all meals at a discount.",
+          "A featured entree is replaced with a dish using local produce.",
+          "Local farmers sell vegetables in the dining hall.",
+          "The vegan station is closed for cleaning."
+        ],
+        "answer": 1,
+        "explanation": "'Friday of each week is Market Day, when one featured entree is replaced by a dish made from produce delivered that morning from local farms'라고 했으므로, 지역 농산물로 만든 요리가 대표 메뉴 하나를 대체합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How are diners' menu suggestions handled?",
+        "options": [
+          "They are reviewed once per term.",
+          "The most requested dish becomes a special in the next cycle.",
+          "They must be submitted through the dining app.",
+          "They are forwarded to local farms."
+        ],
+        "answer": 1,
+        "explanation": "'the most requested dish each month is added to the following cycle as a special'이라고 했으므로, 매달 가장 많이 요청된 메뉴가 다음 순환에 스페셜로 추가됩니다. 제안은 계산대 옆 의견함에 제출합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "NOTICE TO ALL EMPLOYEES — CAFETERIA SERVICE CHANGES\nDelmont Manufacturing, Building C Cafeteria\n\nBeginning Monday, 2 November, the Building C cafeteria will adjust its services in response to last month's employee dining survey, which drew 412 responses.\n\nExtended breakfast: Hot breakfast service will now run until 9:30 A.M. instead of 8:45 A.M., the single most requested change in the survey.\n\nPre-order pickup: Lunches ordered through the staff app by 10:00 A.M. can be collected from the new pickup shelf without waiting in line. Payment is taken in the app at the time of ordering.\n\nMenu rotation: The lunch menu will move from a two-week to a three-week rotation to reduce repetition. Vegetarian entrees will increase from one to two options daily.\n\nPrice adjustment: The price of the daily combo (entree, side, and drink) will rise from $6.50 to $7.00. All other prices are unchanged, and the loyalty card will continue to provide every tenth combo free.\n\nThe night-shift snack counter in Building A is not affected by these changes. Comments may be sent to dining@delmontmfg.com. A follow-up survey will be conducted in February to evaluate the changes.",
+    "questions": [
+      {
+        "question": "What prompted the changes at the cafeteria?",
+        "options": [
+          "A health inspection report",
+          "Results of an employee survey",
+          "A change in cafeteria management",
+          "Rising ingredient costs"
+        ],
+        "answer": 1,
+        "explanation": "'in response to last month's employee dining survey, which drew 412 responses'라고 명시했으므로, 직원 설문조사 결과가 변경의 계기입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What was the most requested change in the survey?",
+        "options": [
+          "Lower combo prices",
+          "Longer breakfast hours",
+          "More vegetarian options",
+          "A pre-order pickup shelf"
+        ],
+        "answer": 1,
+        "explanation": "'Hot breakfast service will now run until 9:30 A.M. ..., the single most requested change in the survey'라고 했으므로, 아침 식사 시간 연장이 가장 많이 요청된 항목이었습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much more will ten daily combos cost under the new prices, before any loyalty reward?",
+        "options": [
+          "$0.50",
+          "$3.50",
+          "$5.00",
+          "$7.00"
+        ],
+        "answer": 2,
+        "explanation": "콤보 가격이 6.50달러에서 7.00달러로 0.50달러 인상되므로, 10회 구매 시 추가 비용은 0.50 x 10 = 5달러입니다. 단가 차액에 횟수를 곱하는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is indicated about the Building A snack counter?",
+        "options": [
+          "It will adopt the same price increase.",
+          "It will close on 2 November.",
+          "It is not affected by the changes.",
+          "It will begin accepting app orders."
+        ],
+        "answer": 2,
+        "explanation": "'The night-shift snack counter in Building A is not affected by these changes'라고 명시되어 있으므로, A동 야간 매점은 이번 변경 사항과 무관합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "INFORMATION TECHNOLOGY BULLETIN — NEW PASSWORD POLICY\nRowanfield Insurance Group, IT Security Office\n\nTo strengthen account security, the following password rules take effect on Monday, 12 January for all company systems.\n\nRequirements: Passwords must contain at least fourteen characters, including one uppercase letter, one number, and one symbol. Passwords may not contain your user ID, your name, or any of your previous six passwords.\n\nExpiration: Passwords will now expire every 90 days instead of every 60 days. Reminder e-mails will be sent 14 days, 7 days, and 1 day before expiration. Accounts with expired passwords are locked automatically and can be restored only through the self-service reset portal or the help desk.\n\nMultifactor verification: Beginning in March, logging in from outside the office network will additionally require a one-time code generated by the SecureKey mobile app. Installation guides will be distributed in February.\n\nPlease note that IT staff will never ask for your password by phone or e-mail. Report any such request to security@rowanfield.com immediately. Employees who update their passwords before 12 January will not be asked to change them again until their new 90-day cycle ends. The help desk (extension 4400) expects high call volumes in mid-January, so early action is encouraged.",
+    "questions": [
+      {
+        "question": "What is the main purpose of the bulletin?",
+        "options": [
+          "To announce new password requirements",
+          "To introduce a new e-mail system",
+          "To report a recent security breach",
+          "To schedule computer maintenance"
+        ],
+        "answer": 0,
+        "explanation": "제목과 첫 문단에서 'the following password rules take effect on Monday, 12 January'라고 밝히고 있으므로, 새 비밀번호 정책을 공지하는 것이 목적입니다. 보안 침해 사건에 대한 언급은 없습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How has the password expiration period changed?",
+        "options": [
+          "It was shortened from 90 to 60 days.",
+          "It was lengthened from 60 to 90 days.",
+          "It was eliminated entirely.",
+          "It now applies only to remote workers."
+        ],
+        "answer": 1,
+        "explanation": "'Passwords will now expire every 90 days instead of every 60 days'라고 했으므로, 만료 주기가 60일에서 90일로 늘어났습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What will be required for off-site logins starting in March?",
+        "options": [
+          "A fourteen-character user ID",
+          "A one-time code from a mobile app",
+          "Approval from the IT Security Office",
+          "A weekly password change"
+        ],
+        "answer": 1,
+        "explanation": "'Beginning in March, logging in from outside the office network will additionally require a one-time code generated by the SecureKey mobile app'라고 했으므로, 사외 접속 시 모바일 앱의 일회용 코드가 추가로 필요합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should employees do if someone asks for their password by phone?",
+        "options": [
+          "Provide it only to help desk staff",
+          "Change their password within 90 days",
+          "Report the request to the security e-mail address",
+          "Call extension 4400 to confirm the request"
+        ],
+        "answer": 2,
+        "explanation": "'IT staff will never ask for your password by phone or e-mail. Report any such request to security@rowanfield.com immediately'라고 했으므로, 그런 요청은 보안팀 이메일로 즉시 신고해야 합니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Dear Ms. Tanaka,\n\nOur records show that the password for your Rowanfield network account (user ID: m.tanaka) is due to expire on Friday, 24 April. This letter is being sent by internal mail because our reminder e-mails to your account on 10 April and 17 April were returned undelivered, which usually indicates a full mailbox.\n\nIf your password is not changed by the expiration date, your account will be locked at 6:00 P.M. that day. A locked account can be restored through the self-service portal at reset.rowanfield.internal, which requires answers to the security questions you registered, or by visiting the help desk on the second floor of the Hartley Building with your staff badge. Telephone restoration is no longer offered as of this year.\n\nWe also noticed that you have not yet installed the SecureKey app, which became mandatory for off-site access on 2 March. Because our records indicate that you work from the Osaka branch two days per week, we strongly recommend installing it before your next remote workday. Step-by-step instructions are attached.\n\nPlease also clear space in your mailbox so that future reminders reach you. If you have already changed your password, no further action is needed.\n\nRegards,\nVictor Ibanez\nIT Help Desk Coordinator",
+    "questions": [
+      {
+        "question": "Why was this letter sent by internal mail rather than e-mail?",
+        "options": [
+          "Company policy forbids e-mailing about passwords.",
+          "Reminder e-mails to Ms. Tanaka were returned undelivered.",
+          "Ms. Tanaka requested paper correspondence.",
+          "The e-mail system was shut down for maintenance."
+        ],
+        "answer": 1,
+        "explanation": "'our reminder e-mails ... were returned undelivered, which usually indicates a full mailbox'라고 했으므로, 이메일 알림이 반송되어 사내 우편으로 보낸 것입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "On what dates were the reminder e-mails sent?",
+        "options": [
+          "10 April and 17 April",
+          "17 April and 24 April",
+          "2 March and 10 April",
+          "10 April and 24 April"
+        ],
+        "answer": 0,
+        "explanation": "'our reminder e-mails to your account on 10 April and 17 April were returned undelivered'라고 명시되어 있으므로, 알림 이메일은 4월 10일과 4월 17일에 발송되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How can a locked account NOT be restored?",
+        "options": [
+          "Through the self-service portal",
+          "By visiting the help desk with a staff badge",
+          "By answering registered security questions online",
+          "By calling the help desk by telephone"
+        ],
+        "answer": 3,
+        "explanation": "복구 방법으로 셀프서비스 포털(보안 질문 답변 필요)과 직원 배지를 지참한 헬프데스크 방문이 제시되었고, 'Telephone restoration is no longer offered as of this year'라고 했으므로 전화 복구는 불가능합니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why is Ms. Tanaka advised to install the SecureKey app?",
+        "options": [
+          "Her mailbox cannot receive reminders without it.",
+          "She regularly works away from the main office.",
+          "Her security questions have expired.",
+          "It is required to change a password."
+        ],
+        "answer": 1,
+        "explanation": "SecureKey 앱은 사외 접속에 필수이며, 'you work from the Osaka branch two days per week'이므로 원격 근무일 전에 설치할 것을 권고받았습니다. 즉, 주 2회 본사 밖에서 근무하기 때문입니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "CONFERENCE ROOM BOOKING RULES — REVISED\nThornbury Consulting, Office Operations Team\n\nThe following rules apply to all six conference rooms at the Kingsway office, effective immediately. They replace the guidelines issued last spring.\n\nBooking limits: Rooms may be reserved through the calendar system up to thirty days in advance. Recurring bookings are limited to eight weeks and must be renewed afterward; this prevents rooms from being held all year by standing meetings that no longer take place.\n\nNo-show release: If a meeting organizer has not arrived within ten minutes of the start time, the room sensor marks it free, the booking is canceled automatically, and the room becomes available to others. Organizers who accumulate four no-shows in a month will have their booking rights reviewed by Office Operations.\n\nRoom sizes: Rooms Aspen and Birch seat four people; Cedar and Dogwood seat ten; the Summit Room seats twenty and is reserved for meetings with external clients, which take priority. Booking the Summit Room for internal meetings requires approval from a department director.\n\nShared courtesy: End meetings on time, erase whiteboards, and remove all cups and papers. Audiovisual problems should be reported through the QR code beside each door rather than to reception.\n\nQuestions may be sent to officeops@thornbury.com.",
+    "questions": [
+      {
+        "question": "Why are recurring bookings limited to eight weeks?",
+        "options": [
+          "To stop rooms from being held by meetings that no longer occur",
+          "To reduce wear on conference room furniture",
+          "To give external clients more booking options",
+          "To comply with the calendar system's settings"
+        ],
+        "answer": 0,
+        "explanation": "'this prevents rooms from being held all year by standing meetings that no longer take place'라고 명시했으므로, 더 이상 열리지 않는 정기 회의가 회의실을 계속 점유하는 것을 막기 위한 조치입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What happens ten minutes after a meeting's start time if the organizer has not arrived?",
+        "options": [
+          "Reception calls the organizer.",
+          "The booking is automatically canceled.",
+          "The meeting is moved to a smaller room.",
+          "A fee is charged to the organizer's department."
+        ],
+        "answer": 1,
+        "explanation": "'If a meeting organizer has not arrived within ten minutes of the start time, ... the booking is canceled automatically'라고 했으므로, 10분 내 미도착 시 예약이 자동 취소되고 회의실이 개방됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is required to book the Summit Room for an internal meeting?",
+        "options": [
+          "A reservation at least thirty days in advance",
+          "Approval from a department director",
+          "A minimum of twenty attendees",
+          "Permission from an external client"
+        ],
+        "answer": 1,
+        "explanation": "'Booking the Summit Room for internal meetings requires approval from a department director'라고 명시되어 있으므로, 내부 회의 목적의 Summit Room 예약에는 부서장(디렉터)의 승인이 필요합니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "How should audiovisual problems be reported?",
+        "options": [
+          "By visiting the reception desk",
+          "By e-mailing officeops@thornbury.com",
+          "By scanning the QR code beside the door",
+          "By calling Office Operations directly"
+        ],
+        "answer": 2,
+        "explanation": "'Audiovisual problems should be reported through the QR code beside each door rather than to reception'이라고 했으므로, 각 문 옆의 QR 코드를 통해 신고해야 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "schedule",
+    "passage": "THORNBURY CONSULTING — SUMMIT ROOM SCHEDULE\nWednesday, 14 May (posted at 8:00 A.M. by Office Operations)\n\n9:00-10:30 A.M.: Client presentation, Harlow Logistics account (Organizer: R. Mensah) — confirmed\n11:00 A.M.-12:00 P.M.: Quarterly review with Castellan Bank (Organizer: D. Whitfield) — confirmed\n12:00-1:00 P.M.: Held for room reset and catering setup — no bookings accepted\n1:00-3:00 P.M.: Contract negotiation, Verro Media (Organizer: S. Park) — awaiting client confirmation; if not confirmed by 10:00 A.M., this slot opens to internal requests with director approval\n3:30-5:00 P.M.: New-staff orientation (Organizer: Human Resources) — internal, director approval on file\n\nNotes:\n- The 10:30-11:00 A.M. gap is reserved as turnover time and may not be booked.\n- Catering for the 1:00 P.M. session, if confirmed, must be ordered by 10:30 A.M. through the vendor portal.\n- Video equipment will be tested at 8:30 A.M.; report issues to extension 2280 before 9:00 A.M.\n- This schedule is updated hourly on the office intranet; the printed copy is not refreshed after posting.",
+    "questions": [
+      {
+        "question": "What will happen between 12:00 and 1:00 P.M.?",
+        "options": [
+          "A client contract negotiation",
+          "Room reset and catering setup",
+          "A quarterly review meeting",
+          "New-staff orientation"
+        ],
+        "answer": 1,
+        "explanation": "일정표에 12:00-1:00 P.M. 구간은 'Held for room reset and catering setup — no bookings accepted'라고 되어 있으므로, 이 시간에는 회의실 정리와 케이터링 준비가 이루어집니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the 1:00 P.M. booking?",
+        "options": [
+          "It has already been confirmed by the client.",
+          "It may open to internal requests if unconfirmed by 10:00 A.M.",
+          "It was canceled by S. Park.",
+          "It requires no director approval in any case."
+        ],
+        "answer": 1,
+        "explanation": "1시 일정은 'awaiting client confirmation; if not confirmed by 10:00 A.M., this slot opens to internal requests with director approval'이라고 했으므로, 오전 10시까지 확정되지 않으면 디렉터 승인하에 내부 요청에 개방됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How long is the new-staff orientation scheduled to last?",
+        "options": [
+          "One hour",
+          "One and a half hours",
+          "Two hours",
+          "Two and a half hours"
+        ],
+        "answer": 1,
+        "explanation": "신입 직원 오리엔테이션은 3:30-5:00 P.M.로 예정되어 있으므로 1시간 30분 동안 진행됩니다. 시작과 종료 시각의 차이를 구하는 계산 문제입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Why might the printed schedule become inaccurate during the day?",
+        "options": [
+          "It is updated only on the intranet after posting.",
+          "It shows last week's bookings by mistake.",
+          "Office Operations reprints it every hour.",
+          "The room sensor cannot read printed copies."
+        ],
+        "answer": 0,
+        "explanation": "'This schedule is updated hourly on the office intranet; the printed copy is not refreshed after posting'이라고 했으므로, 게시 후에는 인쇄본이 갱신되지 않아 변경 사항이 반영되지 않을 수 있습니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "ANNOUNCEMENT — EMPLOYEE REFERRAL PROGRAM EXPANSION\nQuintara Software, Human Resources\n\nThanks to your referrals, 38 percent of last year's new hires came through employee recommendations, and these colleagues have shown the highest one-year retention of any hiring channel. We are therefore expanding the referral program as of 1 July.\n\nNew bonus structure: The referral bonus rises from $1,000 to $1,500 for most positions and to $3,000 for roles on the published hard-to-fill list, which currently includes cloud security engineers and bilingual support specialists. Bonuses are paid in two parts: half after the new hire completes 90 days, and half after 180 days.\n\nEligibility: All employees may participate except hiring managers referring candidates into their own teams and Human Resources staff. The person referred must be new to Quintara; former employees and current contractors do not qualify as referrals.\n\nHow to refer: Submit the candidate's resume through the Careers Hub before the candidate applies. Referrals submitted after a candidate's application is received cannot be credited, with no exceptions.\n\nThe hard-to-fill list is reviewed quarterly and posted on the HR intranet page. Questions? Join the information session on 24 June at 3:00 P.M. in Room 210, or e-mail referrals@quintara.com.",
+    "questions": [
+      {
+        "question": "Why is Quintara expanding the referral program?",
+        "options": [
+          "Referred hires have shown strong retention.",
+          "The company is opening a new office.",
+          "Other hiring channels have become too expensive.",
+          "Employees requested higher salaries."
+        ],
+        "answer": 0,
+        "explanation": "첫 문단에서 추천 입사자가 신규 채용의 38%를 차지했고 'the highest one-year retention of any hiring channel'을 보였다고 했으므로, 추천 채용의 높은 정착률이 확대의 근거입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "How much will an employee receive 90 days after a referred cloud security engineer is hired?",
+        "options": [
+          "$750",
+          "$1,500",
+          "$2,250",
+          "$3,000"
+        ],
+        "answer": 1,
+        "explanation": "클라우드 보안 엔지니어는 hard-to-fill 직군으로 보너스가 3,000달러이며, 'half after the new hire completes 90 days'에 따라 90일 시점에는 절반인 1,500달러를 받습니다. 금액을 절반으로 나누는 계산 문제입니다.",
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who is NOT eligible to receive a referral bonus?",
+        "options": [
+          "An engineer referring a friend to another department",
+          "A hiring manager referring someone to his or her own team",
+          "A new employee referring a former classmate",
+          "A support specialist referring a bilingual candidate"
+        ],
+        "answer": 1,
+        "explanation": "'All employees may participate except hiring managers referring candidates into their own teams and Human Resources staff'라고 했으므로, 자기 팀으로 후보자를 추천하는 채용 관리자는 대상에서 제외됩니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When must a referral be submitted to be credited?",
+        "options": [
+          "Within 90 days of the hire date",
+          "Before the candidate submits an application",
+          "After the candidate's first interview",
+          "By the end of each quarter"
+        ],
+        "answer": 1,
+        "explanation": "'Submit the candidate's resume through the Careers Hub before the candidate applies. Referrals submitted after a candidate's application is received cannot be credited'라고 했으므로, 후보자가 지원하기 전에 추천을 제출해야 인정됩니다.",
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "passageType": "letter",
+    "passage": "Dear Mr. Castellanos,\n\nCongratulations! This letter confirms that your referral of Ms. Imani Walsh, who joined our data analytics team on 3 February, has met the first milestone of the Quintara employee referral program. Ms. Walsh completed her ninetieth day of employment on 4 May, and the first half of your referral bonus will therefore appear in your 15 May paycheck.\n\nBecause data analyst roles were added to the hard-to-fill list on 1 January, one month before Ms. Walsh's start date, your referral qualifies for the enhanced bonus level rather than the standard amount. The second half of the bonus will be paid after Ms. Walsh completes 180 days of employment, which we project to be in early August, provided she remains employed at that time.\n\nPlease note that referral bonuses are treated as taxable income and will appear on your annual earnings statement. If you believe any details in this letter are incorrect — for example, the start date or the bonus level — contact the referral program coordinator within fifteen days at referrals@quintara.com.\n\nThank you for helping us find excellent colleagues. We encourage you to keep an eye on the updated hard-to-fill list, which was refreshed again on 1 April.\n\nWarm regards,\nPriscilla Odom\nReferral Program Coordinator, Quintara Software",
+    "questions": [
+      {
+        "question": "What is the main purpose of the letter?",
+        "options": [
+          "To offer Mr. Castellanos a new position",
+          "To confirm that a referral bonus milestone has been reached",
+          "To announce changes to the referral program rules",
+          "To request feedback on a new employee's performance"
+        ],
+        "answer": 1,
+        "explanation": "첫 문단에서 추천한 직원이 90일 근무를 완료하여 'the first half of your referral bonus will therefore appear in your 15 May paycheck'라고 알리고 있으므로, 보너스 1차 지급 요건 충족을 확인하는 편지입니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Why does the referral qualify for the enhanced bonus?",
+        "options": [
+          "Ms. Walsh was hired ahead of schedule.",
+          "Mr. Castellanos referred more than one candidate.",
+          "Data analyst roles were on the hard-to-fill list before her start date.",
+          "The referral was submitted through the Careers Hub."
+        ],
+        "answer": 2,
+        "explanation": "'data analyst roles were added to the hard-to-fill list on 1 January, one month before Ms. Walsh's start date, your referral qualifies for the enhanced bonus level'이라고 했으므로, 입사 전에 해당 직군이 채용 곤란 목록에 올라 있었기 때문입니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "When is the second half of the bonus expected to be paid?",
+        "options": [
+          "On 15 May",
+          "In early August",
+          "On 1 April",
+          "After one full year of employment"
+        ],
+        "answer": 1,
+        "explanation": "'The second half of the bonus will be paid after Ms. Walsh completes 180 days of employment, which we project to be in early August'라고 했으므로, 2차 지급은 8월 초로 예상됩니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What should Mr. Castellanos do if the letter contains an error?",
+        "options": [
+          "Contact the coordinator within fifteen days",
+          "Submit a correction through the Careers Hub",
+          "Wait until his annual earnings statement arrives",
+          "Ask Ms. Walsh to verify her start date"
+        ],
+        "answer": 0,
+        "explanation": "'If you believe any details in this letter are incorrect ... contact the referral program coordinator within fifteen days at referrals@quintara.com'라고 안내되어 있으므로, 15일 이내에 담당 코디네이터에게 연락해야 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "passageType": "notice",
+    "passage": "BRIDGEWATER STATION — PLATFORM REASSIGNMENT AND TICKET OFFICE HOURS\nPosted by Midlands Northern Railway, effective 15 June\n\nBecause of escalator replacement work on Platform 2, the following arrangements will apply for approximately ten weeks.\n\nPlatform changes: All southbound services to Elmsford and Caulton, which normally use Platform 2, will depart from Platform 4. Northbound services are unaffected. Please allow an extra five minutes to reach Platform 4, which is connected to the main hall by the footbridge at the east end of the station only; the west footbridge remains closed for separate repairs.\n\nTicket office: To accommodate contractors' equipment, the ticket office will open one hour later than usual, at 7:00 A.M., on weekdays. The two self-service machines in the main hall operate around the clock and sell the full range of tickets, including discounted advance fares that were previously available only at the counter.\n\nAccessibility: Passengers who require step-free access to Platform 4 should ask any staff member for the mobility lift at least ten minutes before departure. Assistance dogs are welcome throughout the station.\n\nUpdates will be posted at the station entrance and at www.midlandsnorthern.com/bridgewater. We regret the inconvenience and expect normal operations to resume by late August.",
+    "questions": [
+      {
+        "question": "Why are southbound services departing from a different platform?",
+        "options": [
+          "Platform 4 has longer trains.",
+          "An escalator on Platform 2 is being replaced.",
+          "The west footbridge is being widened.",
+          "Northbound services were rescheduled."
+        ],
+        "answer": 1,
+        "explanation": "'Because of escalator replacement work on Platform 2, ... will depart from Platform 4'라고 했으므로, 2번 승강장 에스컬레이터 교체 공사 때문에 남행 열차의 승강장이 변경되었습니다.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is indicated about the self-service machines?",
+        "options": [
+          "They are available only on weekdays.",
+          "They now sell discounted advance fares.",
+          "They are located on Platform 4.",
+          "They will be removed during the work."
+        ],
+        "answer": 1,
+        "explanation": "'The two self-service machines ... sell the full range of tickets, including discounted advance fares that were previously available only at the counter'라고 했으므로, 이전에는 창구에서만 팔던 할인 사전 승차권도 이제 무인 발매기에서 구매할 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "At what time did the ticket office previously open on weekdays?",
+        "options": [
+          "At 6:00 A.M.",
+          "At 7:00 A.M.",
+          "At 8:00 A.M.",
+          "At 10:00 A.M."
+        ],
+        "answer": 0,
+        "explanation": "'the ticket office will open one hour later than usual, at 7:00 A.M.'이라고 했으므로, 평소 개점 시각은 7시보다 한 시간 이른 오전 6시였음을 역산할 수 있습니다.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What should passengers needing step-free access do?",
+        "options": [
+          "Use the west footbridge",
+          "Buy tickets at the counter only",
+          "Request the mobility lift at least ten minutes before departure",
+          "Board northbound trains from Platform 2"
+        ],
+        "answer": 2,
+        "explanation": "'Passengers who require step-free access to Platform 4 should ask any staff member for the mobility lift at least ten minutes before departure'라고 안내했으므로, 출발 최소 10분 전에 직원에게 이동 리프트를 요청해야 합니다.",
+        "difficulty": "easy"
+      }
+    ]
+  }
+]
