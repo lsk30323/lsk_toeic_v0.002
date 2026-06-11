@@ -58,7 +58,9 @@ function validate(part, item) {
   if (part === 5 && item.passage) errors.push('Part 5에 passage 존재');
   // 빈칸 마커는 ___(3개)와 _______(7개) 표기가 혼재하므로 3개 이상 연속 언더스코어를 모두 허용한다
   if (part === 6 && item.passage && !/_{3,}/.test(item.passage)) errors.push('Part 6 passage에 빈칸 없음');
+  // Part 7의 클로즈 빈칸 컨벤션은 7개 언더스코어. 짧은 밑줄(____)은 양식 미기입 필드 재현이므로 허용한다
   if (part === 7 && item.passage && item.passage.includes('_______')) errors.push('Part 7 passage에 빈칸 존재');
+  if (item.difficulty && !['easy', 'medium', 'hard'].includes(item.difficulty)) errors.push(`difficulty 값 오류: "${item.difficulty}"`);
   return errors;
 }
 

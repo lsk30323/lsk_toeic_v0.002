@@ -29,11 +29,17 @@ export function useExam() {
         fetchOne('RC')
       ]);
       
-      // Generate audio in parallel for LC questions
-      await Promise.all([
-        (async () => { if (q1.script) q1.audioUrl = await generateTTS(q1.script); })(),
-        (async () => { if (q2.script) q2.audioUrl = await generateTTS(q2.script); })()
-      ]);
+      // Generate audio in parallel for LC questions.
+      // TTS 실패는 시험 시작을 막지 않도록 격리한다 (오디오 없이 진행 가능).
+      const safeTTS = async (q: { script?: string; audioUrl?: string }) => {
+        if (!q.script) return;
+        try {
+          q.audioUrl = await generateTTS(q.script);
+        } catch (e) {
+          console.warn("TTS generation skipped or failed", e);
+        }
+      };
+      await Promise.all([safeTTS(q1), safeTTS(q2)]);
 
       store.startExam([q1, q2, q3, q4, q5]);
     } catch (error: any) {
