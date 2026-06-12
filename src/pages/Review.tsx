@@ -13,7 +13,8 @@ import { db, handleFirestoreError, OperationType } from "../lib/firebase";
 import { Loader2, CheckCircle2, XCircle, BrainCircuit, Sparkles, AlertCircle, Youtube } from "lucide-react";
 import { cn } from "../lib/utils";
 import { calculateSM2 } from "../lib/srs";
-import { GoogleGenAI, Type } from "@google/genai";
+import { Type } from "@google/genai";
+import { generateContent as callGemini } from "../lib/geminiClient";
 import { SYSTEM_PROMPTS } from "../lib/prompts";
 
 interface WrongAnswer {
@@ -137,7 +138,6 @@ export default function Review() {
     setAiError(null);
 
     try {
-      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
       const promptText = `
         문제: ${currentQuestion.question}
         보기: ${currentQuestion.options.map((o, idx) => `[${idx}] ${o}`).join(', ')}
@@ -146,7 +146,7 @@ export default function Review() {
         스크립트/추가문맥: ${currentQuestion.script || '없음'}
       `;
 
-      const response = await ai.models.generateContent({
+      const response = await callGemini({
         model: "gemini-3.1-flash-lite-preview",
         contents: promptText,
         config: {

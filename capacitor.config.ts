@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.toeicapp',
+  appId: 'kr.co.vaultlife.toeic',
   appName: 'ToeicApp',
   webDir: 'dist',
   plugins: {

@@ -5,9 +5,10 @@ import { db, handleFirestoreError, OperationType } from "../lib/firebase";
 import { Loader2, FileText, Plus, BrainCircuit, CheckCircle2, XCircle, Trash2 } from "lucide-react";
 import { cn } from "../lib/utils";
 import { calculateSM2 } from "../lib/srs";
-import { GoogleGenAI, Type } from "@google/genai";
+import { Type } from "@google/genai";
+import { generateContent as callGemini } from "../lib/geminiClient";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+
 
 interface Flashcard {
   id: string;
@@ -61,7 +62,7 @@ export default function Voca() {
     setIsImporting(true);
 
     try {
-      const response = await ai.models.generateContent({
+      const response = await callGemini({
         model: "gemini-3.1-flash-lite-preview",
         contents: `Extract flashcards from the following markdown text. Find key terms and their definitions, or questions and answers. Return ONLY a valid JSON array without any markdown wrappers. It must be an array of objects with 'front' and 'back' properties.\n\nMarkdown:\n${markdownInput}`,
         config: {

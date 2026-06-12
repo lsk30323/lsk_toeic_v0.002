@@ -1,0 +1,100 @@
+name: Build Release AAB
+
+# Play Store 배포용 릴리스 빌드 (수동 실행).
+# 사전 준비 (GitHub Secrets):
+#   ANDROID_RELEASE_KEYSTORE_BASE64 — 릴리스 키스토어 base64 (base64 -w0 toeic-release.keystore)
+#   RELEASE_KEYSTORE_PASSWORD       — 키스토어/키 비밀번호
+#   (선택) VITE_GEMINI_PROXY_URL    — Gemini 프록시 함수 URL (설정 시 API 키가 앱에 포함되지 않음)
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Build signed AAB and APK
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Setup Java (JDK 21)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Restore release keystore from secret
+        run: |
+          if [ -z "${{ secrets.ANDROID_RELEASE_KEYSTORE_BASE64 }}" ]; then
+            echo "::error::ANDROID_RELEASE_KEYSTORE_BASE64 secret is not set." >&2
+            exit 1
+          fi
+          echo "${{ secrets.ANDROID_RELEASE_KEYSTORE_BASE64 }}" | base64 -d > "$RUNNER_TEMP/release.keystore"
+          echo "RELEASE_KEYSTORE_FILE=$RUNNER_TEMP/release.keystore" >> "$GITHUB_ENV"
+
+      - name: Install npm dependencies
+        run: npm install --no-audit
+
+      - name: Inject build-time env
+        run: |
+          # 프록시 URL이 설정되어 있으면 Gemini API 키를 번들에 포함하지 않는다
+          if [ -n "${{ secrets.VITE_GEMINI_PROXY_URL }}" ]; then
+            echo "VITE_GEMINI_PROXY_URL=${{ secrets.VITE_GEMINI_PROXY_URL }}" > .env.local
+          else
+            echo "::warning::VITE_GEMINI_PROXY_URL not set — bundling GEMINI_API_KEY into the app (NOT recommended for store release)"
+            echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env.local
+            echo "VITE_GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> .env.local
+          fi
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
+          echo "VITE_YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" >> .env.local
+          echo "VITE_SUPABASE_URL=${{ secrets.VITE_SUPABASE_URL }}" >> .env.local
+          echo "VITE_SUPABASE_ANON_KEY=${{ secrets.VITE_SUPABASE_ANON_KEY }}" >> .env.local
+
+      - name: Restore google-services.json from secret
+        run: |
+          if [ -n "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" ]; then
+            echo "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" | base64 -d > android/app/google-services.json
+          else
+            echo "::warning::GOOGLE_SERVICES_JSON_BASE64 not set; Firebase auth will not work. Register package kr.co.vaultlife.toeic in Firebase Console first."
+          fi
+
+      - name: Build web assets (Vite)
+        run: npm run build
+
+      - name: Sync Capacitor Android
+        run: npx cap sync android
+
+      - name: Make gradlew executable
+        run: chmod +x android/gradlew
+
+      - name: Build signed release AAB and APK
+        working-directory: android
+        env:
+          RELEASE_KEYSTORE_PASSWORD: ${{ secrets.RELEASE_KEYSTORE_PASSWORD }}
+          RELEASE_KEY_ALIAS: release
+        run: |
+          ./gradlew bundleRelease assembleRelease --no-daemon
+          find app/build/outputs -name "*.aab" -o -name "*-release*.apk" | xargs ls -la
+
+      - name: Upload AAB artifact (Play Store upload용)
+        uses: actions/upload-artifact@v4
+        with:
+          name: toeic-app-release-aab
+          path: android/app/build/outputs/bundle/release/*.aab
+          retention-days: 30
+
+      - name: Upload release APK artifact (직접 설치용)
+        uses: actions/upload-artifact@v4
+        with:
+          name: toeic-app-release-apk
+          path: android/app/build/outputs/apk/release/*.apk
+          retention-days: 30

@@ -20,7 +20,7 @@ const YoutubePage = lazy(() => import('./pages/Youtube'));
 export default function App() {
   useEffect(() => {
     const sub = CapApp.addListener('appUrlOpen', (event) => {
-      if (event.url && event.url.startsWith('com.example.toeicapp://login-callback')) {
+      if (event.url && event.url.startsWith('kr.co.vaultlife.toeic://login-callback')) {
         handleSupabaseDeepLink(event.url);
       }
     });
