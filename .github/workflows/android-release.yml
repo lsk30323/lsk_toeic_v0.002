@@ -63,6 +63,11 @@ jobs:
         run: |
           if [ -n "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" ]; then
             echo "${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}" | base64 -d > android/app/google-services.json
+            # 패키지명이 일치하지 않으면 (Firebase에 새 패키지 미등록 상태) 빌드 중단 대신 경고 후 제외
+            if ! grep -q '"package_name": *"kr.co.vaultlife.toeic"' android/app/google-services.json; then
+              echo "::warning::google-services.json does not contain kr.co.vaultlife.toeic — Firebase Console에 새 패키지를 등록하고 Secret을 갱신하세요. 이번 빌드는 Firebase 설정 없이 진행합니다 (구글 로그인 동작 안 함)."
+              rm android/app/google-services.json
+            fi
           else
             echo "::warning::GOOGLE_SERVICES_JSON_BASE64 not set; Firebase auth will not work. Register package kr.co.vaultlife.toeic in Firebase Console first."
           fi
