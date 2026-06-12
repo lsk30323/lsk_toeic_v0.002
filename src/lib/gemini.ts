@@ -1,7 +1,5 @@
-import { GoogleGenAI, Type, Modality } from "@google/genai";
 import { SYSTEM_PROMPTS } from "./prompts";
-
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+import { generateContent as callGemini } from "./geminiClient";
 
 export interface Question {
   type: "LC" | "RC";
@@ -77,7 +75,7 @@ export async function generateQuestion(type: "LC" | "RC", subtype?: "PART1" | "P
       ? [{ parts: [{ text: prompt }, imagePart] }]
       : prompt;
 
-    const response = await ai.models.generateContent({
+    const response = await callGemini({
       model: "gemini-3.1-flash-lite-preview", // Use flash lite to be faster and less prone to timeouts
       contents: contents as any,
       config: {
@@ -132,7 +130,7 @@ Format:
 }`;
 
   try {
-    const response = await ai.models.generateContent({
+    const response = await callGemini({
       model: "gemini-3.1-flash-lite-preview",
       contents: prompt,
       config: {
@@ -201,7 +199,7 @@ export async function generateTTS(text: string): Promise<string> {
   const safeText = text.substring(0, 500);
 
   try {
-    const response = await ai.models.generateContent({
+    const response = await callGemini({
       model: "gemini-3.1-flash-tts-preview",
       contents: [{ parts: [{ text: safeText }] }],
       config: {
@@ -228,7 +226,7 @@ export async function generateTTS(text: string): Promise<string> {
 
 export async function getAICoachFeedback(score: number, total: number): Promise<string> {
   try {
-    const response = await ai.models.generateContent({
+    const response = await callGemini({
       model: "gemini-3.1-flash-lite-preview",
       contents: SYSTEM_PROMPTS.AI_COACH(score, total),
       config: {

@@ -1,26 +1,15 @@
-import { useRef, useEffect } from 'react';
-import { GoogleGenAI } from '@google/genai';
+import { useRef } from 'react';
 import { generateTTS } from '../../../lib/gemini';
+import { generateContent as callGemini } from '../../../lib/geminiClient';
 import { useSpeakingStore } from '../store';
 import { SYSTEM_PROMPTS } from '../../../lib/prompts';
-
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 export function useSpeaking() {
   const store = useSpeakingStore();
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const audioChunksRef = useRef<Blob[]>([]);
-  const chatRef = useRef<any>(null);
-
-  useEffect(() => {
-    chatRef.current = ai.chats.create({
-      model: "gemini-3.1-flash-lite-preview",
-      config: {
-        systemInstruction: SYSTEM_PROMPTS.SPEAKING_PARTNER,
-        temperature: 0.7,
-      }
-    });
-  }, []);
+  // 대화 히스토리를 직접 관리해 매 턴 전체 맥락을 전달한다 (프록시 경유 호환)
+  const historyRef = useRef<{ role: 'user' | 'model'; parts: { text: string }[] }[]>([]);
 
   const startRecording = async () => {
     try {
@@ -65,7 +54,7 @@ export function useSpeaking() {
         const base64data = (reader.result as string).split(',')[1];
         
         // Transcribe
-        const transcribeResponse = await ai.models.generateContent({
+        const transcribeResponse = await callGemini({
           model: "gemini-3.1-flash-lite-preview",
           contents: [
             { inlineData: { data: base64data, mimeType: "audio/webm" } },
@@ -73,7 +62,7 @@ export function useSpeaking() {
           ],
           config: { temperature: 0 }
         });
-        
+
         const transcript = transcribeResponse.text || "";
         if (!transcript.trim()) {
           store.setLoading(false);
@@ -82,10 +71,19 @@ export function useSpeaking() {
 
         store.setMessages(prev => [...prev, { role: 'user', text: transcript }]);
 
-        // Chat
-        const chatResponse = await chatRef.current.sendMessage({ message: transcript });
+        // Chat (히스토리 누적 방식)
+        historyRef.current.push({ role: 'user', parts: [{ text: transcript }] });
+        const chatResponse = await callGemini({
+          model: "gemini-3.1-flash-lite-preview",
+          contents: historyRef.current,
+          config: {
+            systemInstruction: SYSTEM_PROMPTS.SPEAKING_PARTNER,
+            temperature: 0.7,
+          }
+        });
         const modelText = chatResponse.text || "I'm sorry, I didn't catch that.";
-        
+        historyRef.current.push({ role: 'model', parts: [{ text: modelText }] });
+
         store.setMessages(prev => [...prev, { role: 'model', text: modelText }]);
         
         // TTS

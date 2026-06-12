@@ -1,0 +1,13 @@
+{
+  "name": "toeic-app-functions",
+  "description": "Gemini API proxy for the TOEIC app (keeps the API key server-side)",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "firebase-functions": "^6.1.0"
+  }
+}

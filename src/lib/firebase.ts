@@ -44,7 +44,7 @@ export const signInWithGoogle = async () => {
       const { data, error } = await supabase.auth.signInWithOAuth({
         provider: 'google',
         options: {
-          redirectTo: 'com.example.toeicapp://login-callback',
+          redirectTo: 'kr.co.vaultlife.toeic://login-callback',
           skipBrowserRedirect: true,
         },
       });
@@ -170,7 +170,7 @@ export const linkAnonymousToGoogle = async () => {
       const { data, error } = await supabase.auth.signInWithOAuth({
         provider: 'google',
         options: {
-          redirectTo: 'com.example.toeicapp://login-callback',
+          redirectTo: 'kr.co.vaultlife.toeic://login-callback',
           skipBrowserRedirect: true,
         },
       });

@@ -1,4 +1,4 @@
-package com.example.toeicapp;
+package kr.co.vaultlife.toeic;
 
 import com.getcapacitor.BridgeActivity;
 
