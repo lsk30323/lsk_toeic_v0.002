@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">ToeicApp</string>
-    <string name="title_activity_main">ToeicApp</string>
+    <string name="app_name">볼트잉글리시</string>
+    <string name="title_activity_main">볼트잉글리시</string>
     <string name="package_name">kr.co.vaultlife.toeic</string>
     <string name="custom_url_scheme">kr.co.vaultlife.toeic</string>
 </resources>
