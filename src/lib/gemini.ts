@@ -46,8 +46,19 @@ async function fetchImageAsBase64(url: string): Promise<{ data: string; mimeType
   });
 }
 
-export async function generateQuestion(type: "LC" | "RC", subtype?: "PART1" | "PART2" | "PART3" | "PART4" | "PART5" | "PART6" | "PART7" | "RANDOM"): Promise<Question> {
+export async function generateQuestion(
+  type: "LC" | "RC",
+  subtype?: "PART1" | "PART2" | "PART3" | "PART4" | "PART5" | "PART6" | "PART7" | "RANDOM",
+  examples?: Question[]
+): Promise<Question> {
   let prompt = SYSTEM_PROMPTS.QUESTION_GENERATOR(type, subtype);
+
+  // 검수 완료된 문제 은행에서 뽑은 예시를 few-shot으로 주입해, 생성 문제가 기존
+  // 데이터의 스타일·난이도·해설 톤을 따르도록 한다 ("넣어준 데이터를 바탕으로").
+  if (examples && examples.length > 0) {
+    const slimmed = examples.slice(0, 3).map(({ audioUrl, imageUrl, ...rest }) => rest);
+    prompt += `\n\n# STYLE REFERENCE (이 예시들과 같은 형식·난이도·해설 톤을 따르되, 절대 그대로 복사하지 말고 완전히 새로운 오리지널 문제를 만드세요):\n${JSON.stringify(slimmed, null, 2)}`;
+  }
 
   // For Part 1, use Gemini Vision: send the actual photo and let the model
   // generate a question based on what it actually sees (perfect image-question match).
@@ -59,7 +70,7 @@ export async function generateQuestion(type: "LC" | "RC", subtype?: "PART1" | "P
     try {
       const img = await fetchImageAsBase64(imageUrl);
       imagePart = { inlineData: { mimeType: img.mimeType, data: img.data } };
-      prompt += `\n\nThis is a TOEIC Part 1 question. LOOK CAREFULLY at the attached photo and generate a question where one of the four options (A, B, C, D) accurately describes what you see in the photo. The other three options must be plausible distractors that DO NOT match the photo. The JSON response MUST include the field "imageUrl" set to exactly this string: "${imageUrl}".`;
+      prompt += `\n\nThis is a TOEIC Part 1 question. LOOK CAREFULLY at the attached photo and generate a question where one of the four options (A, B, C, D) accurately describes what you see in the photo. The other three options must be plausible distractors that DO NOT match the photo. Set the "question" field to exactly "Look at the picture and choose the statement that best describes it." (do NOT put a scene description there, since the real photo is shown). Set the "script" field to the four spoken statements labeled "(A) ... (B) ... (C) ... (D) ...". The JSON response MUST include the field "imageUrl" set to exactly this string: "${imageUrl}".`;
     } catch (e) {
       // Fallback to text-only if image fetch fails (CORS, network, etc.)
       console.warn("Part 1 image fetch failed, falling back to text-only mode:", e);

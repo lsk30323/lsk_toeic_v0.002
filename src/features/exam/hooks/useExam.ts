@@ -1,6 +1,6 @@
 import { useExamStore } from '../store';
 import { generateQuestion, getAICoachFeedback, generateTTS } from '../../../lib/gemini';
-import { getRandomBankQuestion } from '../../../data/questionBank';
+import { getRandomBankQuestion, getBankExamples } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
 import { useAuth } from '../../../contexts/AuthContext';
@@ -18,11 +18,20 @@ export function useExam() {
       const fetchOne = (type: 'LC' | 'RC', subtype?: 'PART1') => {
         const bankQ = getRandomBankQuestion(type, subtype);
         // audioUrl 주입 시 은행 원본이 오염되지 않도록 복사본 사용
-        return bankQ ? { ...bankQ } : generateQuestion(type, subtype);
+        return bankQ ? { ...bankQ } : generateQuestion(type, subtype, getBankExamples(type, subtype, 2));
+      };
+
+      // Part 1은 실제 사진이 핵심이라 AI Vision 생성을 우선(실패 시 은행 폴백)
+      const fetchPart1 = async () => {
+        try {
+          return await generateQuestion('LC', 'PART1', getBankExamples('LC', 'PART1', 2));
+        } catch (e) {
+          return getRandomBankQuestion('LC', 'PART1') ?? generateQuestion('LC');
+        }
       };
 
       const [q1, q2, q3, q4, q5] = await Promise.all([
-        fetchOne('LC', 'PART1'),
+        fetchPart1(),
         fetchOne('LC'),
         fetchOne('RC'),
         fetchOne('RC'),

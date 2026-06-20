@@ -1,6 +1,6 @@
 import { useStudyStore } from '../store';
 import { generateQuestion, generateTTS } from '../../../lib/gemini';
-import { getRandomBankQuestion } from '../../../data/questionBank';
+import { getRandomBankQuestion, getBankExamples } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
 import { useAuth } from '../../../contexts/AuthContext';
@@ -14,24 +14,43 @@ export function useStudy() {
     store.setAnswer(null);
     store.setShowExplanation(false);
     store.setAudioUrl(null);
+    store.setAudioLoading(false);
 
     try {
-      // 검수 완료된 로컬 문제 은행 우선 사용 (API 사용량 절약 + 품질 보장), 없으면 AI 생성 폴백
-      const q = getRandomBankQuestion(type, subtype) ?? await generateQuestion(type, subtype);
+      const examples = getBankExamples(type, subtype, 2);
+      let q;
+      if (type === 'LC' && subtype === 'PART1') {
+        // Part 1은 실제 사진이 핵심이므로 AI Vision 생성(사진+일치 문장)을 우선하고,
+        // 실패(네트워크/쿼터) 시에만 정적 은행(텍스트 장면 묘사)으로 폴백한다.
+        try {
+          q = await generateQuestion('LC', 'PART1', examples);
+        } catch (genErr) {
+          const fallback = getRandomBankQuestion('LC', 'PART1');
+          if (!fallback) throw genErr;
+          q = fallback;
+        }
+      } else {
+        // 그 외 파트: 검수 완료된 로컬 은행 우선(품질·속도), 없으면 AI 생성 폴백
+        q = getRandomBankQuestion(type, subtype) ?? await generateQuestion(type, subtype, examples);
+      }
       store.setQuestion(q);
-      
+
       // Release loading state after question is ready, even if audio follows
       store.setLoading(false);
-      
+
       if (type === 'LC' && q.script) {
+        store.setAudioLoading(true);
         try {
           const audio = await generateTTS(q.script);
           store.setAudioUrl(audio);
         } catch (ttsErr) {
           console.warn("TTS Generation skipped or failed", ttsErr);
+        } finally {
+          store.setAudioLoading(false);
         }
       }
     } catch (error: any) {
+      store.setAudioLoading(false);
       // Re-ensure loading is false on error
       store.setLoading(false);
       console.error("Study Fetch Error:", error);
