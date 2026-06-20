@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { useExam } from "../features/exam/hooks/useExam";
 import { Loader2, Timer, Trophy } from "lucide-react";
 import { cn } from "../lib/utils";
+import { speakNative, nativeTTSAvailable } from "../lib/speech";
 
 export default function Exam() {
   const {
@@ -115,11 +116,13 @@ export default function Exam() {
   const q = questions[currentIdx];
   const audioRef = React.useRef<HTMLAudioElement | null>(null);
 
-  const playAudio = () => {
-    if (audioRef.current) {
+  const handlePlay = () => {
+    if (q.audioUrl && audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
       audioRef.current.play().catch(e => console.error("Audio playback failed:", e));
+    } else if (q.script && nativeTTSAvailable()) {
+      speakNative(q.script);
     }
   };
 
@@ -146,15 +149,15 @@ export default function Exam() {
       </div>
 
       <div className="glass-card p-5 md:p-8 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800 space-y-6 md:space-y-8">
-        {q.type === "LC" && q.audioUrl && (
+        {q.type === "LC" && (q.audioUrl || q.script) && (
           <div className="flex flex-col gap-4">
             {q.imageUrl && (
                 <img src={q.imageUrl} loading="lazy" referrerPolicy="no-referrer" alt="TOEIC Part 1" className="w-full aspect-[4/3] max-w-lg mx-auto rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm object-cover grayscale" />
             )}
             <div className="flex items-center gap-4 p-4 bg-blue-50 dark:bg-blue-900/30 rounded-xl border border-blue-100 dark:border-blue-800">
-              <audio ref={audioRef} src={q.audioUrl} preload="auto" />
+              {q.audioUrl && <audio ref={audioRef} src={q.audioUrl} preload="auto" />}
               <button
-                onClick={playAudio}
+                onClick={handlePlay}
                 className="w-12 h-12 bg-blue-600 text-white dark:text-gray-900 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors shadow-sm"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>

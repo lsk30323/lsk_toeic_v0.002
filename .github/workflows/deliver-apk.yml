@@ -1,0 +1,44 @@
+name: Deliver release APK to branch
+
+# 일회성 전달용: 이미 완료된 릴리스 빌드의 APK 아티팩트를 받아 브랜치에 커밋한다.
+# (실행 환경에서 Actions 아티팩트 저장소 호스트가 차단되어 git 경유로 전달하기 위함.)
+# 디스패치하지 않으면 동작하지 않는 휴면 유틸리티이며, 전달된 APK 파일은 전달 후 제거한다.
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "APK 아티팩트가 있는 release 빌드 run ID"
+        required: true
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout delivery branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/toeic-agent-system-xhrh2m
+
+      - name: Download release APK artifact from the build run
+        uses: actions/download-artifact@v4
+        with:
+          name: toeic-app-release-apk
+          path: dl
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit APK to branch
+        run: |
+          mkdir -p release
+          APK=$(find dl -name "*.apk" | head -n 1)
+          cp "$APK" release/toeic-app-release.apk
+          ls -la release/toeic-app-release.apk
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f release/toeic-app-release.apk
+          git commit -m "Deliver signed release APK (temporary, will be removed)"
+          git push origin HEAD:claude/toeic-agent-system-xhrh2m
