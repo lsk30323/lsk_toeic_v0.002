@@ -17,6 +17,7 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
     selectedAnswer,
     showExplanation,
     audioUrl,
+    audioLoading,
     setType,
     fetchQuestion,
     handleAnswer,
@@ -31,6 +32,17 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
       audioRef.current.play().catch(e => console.error("Audio playback failed:", e));
     }
   };
+
+  // 오디오가 준비되면 자동 재생 (TOEIC LC처럼 듣기 먼저 시작)
+  useEffect(() => {
+    if (audioUrl) {
+      const t = setTimeout(() => playAudio(), 150);
+      return () => clearTimeout(t);
+    }
+  }, [audioUrl]);
+
+  // Part 1 등 사진 문제: 실제 이미지가 있으면 "[Photo: ...]" 텍스트 대신 안내문을 보여준다
+  const isPhotoText = !!question && /^\s*\[(Photo|Imagine)/i.test(question.question);
 
   const [subtype, setSubtype] = React.useState<'RANDOM' | 'PART1' | 'PART2' | 'PART3' | 'PART4' | 'PART5' | 'PART6' | 'PART7'>('RANDOM');
 
@@ -184,28 +196,33 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
           </div>
         ) : question ? (
           <div className="space-y-6 md:space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
-            {initialType === "LC" && audioUrl && (
+            {initialType === "LC" && (
               <div className="flex flex-col gap-4">
                 {question.imageUrl && (
-                   <img src={question.imageUrl} loading="lazy" referrerPolicy="no-referrer" alt="TOEIC Part 1" className="w-full aspect-[4/3] max-w-lg mx-auto rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm object-cover grayscale" />
+                   <img src={question.imageUrl} loading="lazy" referrerPolicy="no-referrer" alt="TOEIC Part 1 사진" className="w-full aspect-[4/3] max-w-lg mx-auto rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm object-cover" />
                 )}
-                <div className="flex items-center gap-4 p-4 bg-blue-50 dark:bg-blue-900/30 rounded-xl border border-blue-100 dark:border-blue-800">
-                  <audio ref={audioRef} src={audioUrl} preload="auto" />
-                  <button
-                    onClick={playAudio}
-                    className="w-12 h-12 bg-blue-600 text-white dark:text-gray-900 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors shadow-sm"
-                  >
-                    <Volume2 className="w-6 h-6" />
-                  </button>
-                  <div>
-                    <div className="font-bold text-blue-900 dark:text-blue-100 text-sm md:text-base">
-                      오디오 재생
-                    </div>
-                    <div className="text-xs md:text-sm text-blue-700 dark:text-blue-300">
-                      대화문을 잘 듣고 문제를 푸세요.
+                {(question.script || audioUrl || audioLoading) && (
+                  <div className="flex items-center gap-4 p-4 bg-blue-50 dark:bg-blue-900/30 rounded-xl border border-blue-100 dark:border-blue-800">
+                    {audioUrl && <audio ref={audioRef} src={audioUrl} preload="auto" />}
+                    <button
+                      onClick={playAudio}
+                      disabled={!audioUrl}
+                      className="w-12 h-12 bg-blue-600 text-white dark:text-gray-900 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors shadow-sm disabled:opacity-60"
+                    >
+                      {audioUrl ? <Volume2 className="w-6 h-6" /> : <Loader2 className="w-6 h-6 animate-spin" />}
+                    </button>
+                    <div>
+                      <div className="font-bold text-blue-900 dark:text-blue-100 text-sm md:text-base">
+                        {audioUrl ? "오디오 재생" : "오디오 준비 중..."}
+                      </div>
+                      <div className="text-xs md:text-sm text-blue-700 dark:text-blue-300">
+                        {audioUrl
+                          ? "대화문을 잘 듣고 문제를 푸세요. (자동 재생)"
+                          : "음성을 생성하고 있습니다. 잠시만 기다려 주세요."}
+                      </div>
                     </div>
                   </div>
-                </div>
+                )}
               </div>
             )}
 
@@ -222,7 +239,9 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
             )}
 
             <div className="text-base md:text-lg font-medium text-gray-900 leading-relaxed">
-              {question.question}
+              {initialType === "LC" && question.imageUrl && isPhotoText
+                ? "사진을 보고 가장 잘 묘사한 문장을 고르세요."
+                : question.question}
             </div>
 
             <div className="space-y-2 md:space-y-3">

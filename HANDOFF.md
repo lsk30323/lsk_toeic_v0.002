@@ -34,17 +34,19 @@ TOEIC 학습 안드로이드 앱. **Capacitor 8 + React + Vite 6 + TypeScript** 
 
 **데이터 흐름**: 조사 에이전트 → `question_pipeline/staging/*.json` → 검수 에이전트 → `question_pipeline/reviewed/*.json` → `npm run build:bank` → `src/data/questionBank/part1~7.ts`
 
-**문제 은행 현황 (총 3,034문제, 전수 검수 완료)**:
+**문제 은행 현황 (총 4,004문제, 전수 검수 완료)**:
 
 | 파트 | 수량 | 비고 |
 |---|---|---|
-| LC Part 1 | 40 | 사진 묘사 (question에 `[Photo: ...]` 텍스트 묘사) |
+| LC Part 1 | 40 | 사진 묘사. 앱에서는 **AI Vision 생성(실제 사진+오디오)을 우선**, 은행은 오프라인 폴백 |
 | LC Part 2 | 80 | options 3개, 간접응답 다수 |
 | LC Part 3 | 72 | 대화 24개 × 3문제 (같은 script 반복 = 의도된 설계) |
 | LC Part 4 | 72 | 담화 24개 × 3문제 |
-| RC Part 5 | 150 | 문법 60% / 어휘 40% |
+| RC Part 5 | **1,120** | 문법/어휘 7개 도메인. 보기 셔플로 정답 위치 균등 분산 |
 | RC Part 6 | 80 | 빈칸 마커는 `_______` (7개 언더스코어) |
 | RC Part 7 | **2,540** | 지문 세트 603개 (단일·이중·삼중 지문), 중복 0 |
+
+**LC 오디오/사진 & AI 생성 (2026-06-13 추가)**: Part 1~4는 런타임 TTS로 오디오 재생(자동재생+로딩표시). Part 1은 `generateQuestion('LC','PART1')` Vision 경로로 실제 사진+일치 문장+오디오를 함께 생성(은행은 폴백). `generateQuestion(type, subtype, examples?)`는 은행 문제를 few-shot 예시로 주입해 "넣어준 데이터 기반" 생성을 한다(`getBankExamples`).
 
 검수 품질: 전 문항 풀이 검증, 검수 중 정답 키 오류 2건·금액 불일치 1건·문장삽입 마커 1건 등 적발·수정. ETS 기출 복제 금지 — 전량 오리지널.
 

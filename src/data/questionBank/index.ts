@@ -60,3 +60,19 @@ export function getRandomBankQuestion(type: 'LC' | 'RC', subtype?: Subtype): Ban
 export function getBankCounts(): Record<number, number> {
   return Object.fromEntries(Object.entries(BANK).map(([part, list]) => [part, list.length]));
 }
+
+// AI 문제 생성 시 "넣어준 데이터를 바탕으로" 스타일·난이도를 맞추기 위한 few-shot 예시 추출.
+// 해당 파트(또는 RANDOM이면 타입 전체)에서 무작위 n개를 골라 프롬프트 예시로 사용한다.
+export function getBankExamples(type: 'LC' | 'RC', subtype?: Subtype, n = 2): BankQuestion[] {
+  let parts: number[];
+  if (subtype && subtype !== 'RANDOM') {
+    const part = Number(subtype.replace('PART', ''));
+    parts = (type === 'LC' ? LC_PARTS : RC_PARTS).includes(part) ? [part] : (type === 'LC' ? LC_PARTS : RC_PARTS);
+  } else {
+    parts = type === 'LC' ? LC_PARTS : RC_PARTS;
+  }
+  const pool = parts.flatMap(p => BANK[p]);
+  if (pool.length === 0) return [];
+  const shuffled = [...pool].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, Math.min(n, pool.length));
+}
