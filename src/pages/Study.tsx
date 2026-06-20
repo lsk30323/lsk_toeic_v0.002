@@ -9,6 +9,7 @@ import {
   XCircle,
 } from "lucide-react";
 import { cn } from "../lib/utils";
+import { speakNative, cancelNativeTTS } from "../lib/speech";
 
 export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
   const {
@@ -18,15 +19,19 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
     showExplanation,
     audioUrl,
     audioLoading,
+    audioMode,
     setType,
     fetchQuestion,
     handleAnswer,
   } = useStudy();
 
   const audioRef = React.useRef<HTMLAudioElement | null>(null);
+  const audioReady = audioMode === "native" || !!audioUrl;
 
-  const playAudio = () => {
-    if (audioRef.current) {
+  const handlePlay = () => {
+    if (audioMode === "native" && question?.script) {
+      speakNative(question.script);
+    } else if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
       audioRef.current.play().catch(e => console.error("Audio playback failed:", e));
@@ -35,11 +40,19 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
 
   // 오디오가 준비되면 자동 재생 (TOEIC LC처럼 듣기 먼저 시작)
   useEffect(() => {
-    if (audioUrl) {
-      const t = setTimeout(() => playAudio(), 150);
+    if (audioMode === "native" && question?.script) {
+      const t = setTimeout(() => speakNative(question.script!), 150);
       return () => clearTimeout(t);
     }
-  }, [audioUrl]);
+    if (audioMode === "file" && audioUrl) {
+      const t = setTimeout(() => handlePlay(), 150);
+      return () => clearTimeout(t);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [audioMode, audioUrl, question]);
+
+  // 페이지를 떠날 때 내장 음성 정지
+  useEffect(() => () => cancelNativeTTS(), []);
 
   // Part 1 등 사진 문제: 실제 이미지가 있으면 "[Photo: ...]" 텍스트 대신 안내문을 보여준다
   const isPhotoText = !!question && /^\s*\[(Photo|Imagine)/i.test(question.question);
@@ -199,24 +212,24 @@ export default function Study({ type: initialType }: { type: "LC" | "RC" }) {
             {initialType === "LC" && (
               <div className="flex flex-col gap-4">
                 {question.imageUrl && (
-                   <img src={question.imageUrl} loading="lazy" referrerPolicy="no-referrer" alt="TOEIC Part 1 사진" className="w-full aspect-[4/3] max-w-lg mx-auto rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm object-cover" />
+                   <img src={question.imageUrl} loading="lazy" referrerPolicy="no-referrer" alt="TOEIC Part 1 사진" className="w-full aspect-[4/3] max-w-lg mx-auto rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm object-cover grayscale" />
                 )}
-                {(question.script || audioUrl || audioLoading) && (
+                {(question.script || audioReady || audioLoading) && (
                   <div className="flex items-center gap-4 p-4 bg-blue-50 dark:bg-blue-900/30 rounded-xl border border-blue-100 dark:border-blue-800">
-                    {audioUrl && <audio ref={audioRef} src={audioUrl} preload="auto" />}
+                    {audioMode === "file" && audioUrl && <audio ref={audioRef} src={audioUrl} preload="auto" />}
                     <button
-                      onClick={playAudio}
-                      disabled={!audioUrl}
+                      onClick={handlePlay}
+                      disabled={!audioReady}
                       className="w-12 h-12 bg-blue-600 text-white dark:text-gray-900 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors shadow-sm disabled:opacity-60"
                     >
-                      {audioUrl ? <Volume2 className="w-6 h-6" /> : <Loader2 className="w-6 h-6 animate-spin" />}
+                      {audioReady ? <Volume2 className="w-6 h-6" /> : <Loader2 className="w-6 h-6 animate-spin" />}
                     </button>
                     <div>
                       <div className="font-bold text-blue-900 dark:text-blue-100 text-sm md:text-base">
-                        {audioUrl ? "오디오 재생" : "오디오 준비 중..."}
+                        {audioReady ? "오디오 재생" : "오디오 준비 중..."}
                       </div>
                       <div className="text-xs md:text-sm text-blue-700 dark:text-blue-300">
-                        {audioUrl
+                        {audioReady
                           ? "대화문을 잘 듣고 문제를 푸세요. (자동 재생)"
                           : "음성을 생성하고 있습니다. 잠시만 기다려 주세요."}
                       </div>

@@ -9,6 +9,7 @@ interface StudyState {
   showExplanation: boolean;
   audioUrl: string | null;
   audioLoading: boolean;
+  audioMode: 'native' | 'file' | null;
 
   // Actions
   setType: (type: 'LC' | 'RC' | null) => void;
@@ -18,6 +19,7 @@ interface StudyState {
   setShowExplanation: (show: boolean) => void;
   setAudioUrl: (url: string | null) => void;
   setAudioLoading: (loading: boolean) => void;
+  setAudioMode: (mode: 'native' | 'file' | null) => void;
   reset: () => void;
 }
 
@@ -29,6 +31,7 @@ export const useStudyStore = create<StudyState>((set) => ({
   showExplanation: false,
   audioUrl: null,
   audioLoading: false,
+  audioMode: null,
 
   setType: (type) => set({ type }),
   setLoading: (loading) => set({ loading }),
@@ -37,6 +40,7 @@ export const useStudyStore = create<StudyState>((set) => ({
   setShowExplanation: (showExplanation) => set({ showExplanation }),
   setAudioUrl: (audioUrl) => set({ audioUrl }),
   setAudioLoading: (audioLoading) => set({ audioLoading }),
+  setAudioMode: (audioMode) => set({ audioMode }),
   reset: () => set({
     type: null,
     loading: false,
@@ -44,6 +48,7 @@ export const useStudyStore = create<StudyState>((set) => ({
     selectedAnswer: null,
     showExplanation: false,
     audioUrl: null,
-    audioLoading: false
+    audioLoading: false,
+    audioMode: null
   })
 }));

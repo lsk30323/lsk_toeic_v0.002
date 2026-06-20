@@ -1,5 +1,6 @@
 import { useExamStore } from '../store';
 import { generateQuestion, getAICoachFeedback, generateTTS } from '../../../lib/gemini';
+import { nativeTTSAvailable } from '../../../lib/speech';
 import { getRandomBankQuestion, getBankExamples } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
@@ -38,17 +39,19 @@ export function useExam() {
         fetchOne('RC')
       ]);
       
-      // Generate audio in parallel for LC questions.
-      // TTS 실패는 시험 시작을 막지 않도록 격리한다 (오디오 없이 진행 가능).
-      const safeTTS = async (q: { script?: string; audioUrl?: string }) => {
-        if (!q.script) return;
-        try {
-          q.audioUrl = await generateTTS(q.script);
-        } catch (e) {
-          console.warn("TTS generation skipped or failed", e);
-        }
-      };
-      await Promise.all([safeTTS(q1), safeTTS(q2)]);
+      // 오디오: 기기 내장 음성이 가능하면 시험 화면에서 즉시 읽어주므로 생성 단계를 건너뛴다(빠른 시작).
+      // 내장 음성이 없을 때만 서버(Gemini) TTS로 미리 음성 파일을 만든다. (TTS 실패는 시험 시작을 막지 않음)
+      if (!nativeTTSAvailable()) {
+        const safeTTS = async (q: { script?: string; audioUrl?: string }) => {
+          if (!q.script) return;
+          try {
+            q.audioUrl = await generateTTS(q.script);
+          } catch (e) {
+            console.warn("TTS generation skipped or failed", e);
+          }
+        };
+        await Promise.all([safeTTS(q1), safeTTS(q2)]);
+      }
 
       store.startExam([q1, q2, q3, q4, q5]);
     } catch (error: any) {

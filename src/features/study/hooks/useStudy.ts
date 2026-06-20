@@ -1,5 +1,6 @@
 import { useStudyStore } from '../store';
 import { generateQuestion, generateTTS } from '../../../lib/gemini';
+import { nativeTTSAvailable, cancelNativeTTS } from '../../../lib/speech';
 import { getRandomBankQuestion, getBankExamples } from '../../../data/questionBank';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../../lib/firebase';
@@ -15,6 +16,8 @@ export function useStudy() {
     store.setShowExplanation(false);
     store.setAudioUrl(null);
     store.setAudioLoading(false);
+    store.setAudioMode(null);
+    cancelNativeTTS();
 
     try {
       const examples = getBankExamples(type, subtype, 2);
@@ -39,14 +42,21 @@ export function useStudy() {
       store.setLoading(false);
 
       if (type === 'LC' && q.script) {
-        store.setAudioLoading(true);
-        try {
-          const audio = await generateTTS(q.script);
-          store.setAudioUrl(audio);
-        } catch (ttsErr) {
-          console.warn("TTS Generation skipped or failed", ttsErr);
-        } finally {
-          store.setAudioLoading(false);
+        if (nativeTTSAvailable()) {
+          // 기기 내장 음성: 생성 대기 없이 즉시 재생 가능 (빠름)
+          store.setAudioMode('native');
+        } else {
+          // 폴백: 서버(Gemini) TTS로 음성 파일 생성
+          store.setAudioLoading(true);
+          try {
+            const audio = await generateTTS(q.script);
+            store.setAudioUrl(audio);
+            store.setAudioMode('file');
+          } catch (ttsErr) {
+            console.warn("TTS Generation skipped or failed", ttsErr);
+          } finally {
+            store.setAudioLoading(false);
+          }
         }
       }
     } catch (error: any) {

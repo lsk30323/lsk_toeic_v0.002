@@ -1,0 +1,76 @@
+name: Deploy Gemini Proxy (Firebase Functions)
+
+# 폰에서 버튼만 눌러 Gemini 프록시 함수(functions/geminiProxy)를 배포한다 (HANDOFF C단계).
+#
+# 사전 준비 (GitHub Secrets, 폰 브라우저에서 1회 등록):
+#   FIREBASE_SERVICE_ACCOUNT  — Firebase 콘솔 > 프로젝트 설정 > 서비스 계정 >
+#                               "새 비공개 키 생성"으로 받은 JSON 전체를 붙여넣기.
+#                               (해당 서비스 계정에 Editor + Cloud Functions Admin +
+#                                Service Account User + Secret Manager Admin 권한 필요)
+#   GEMINI_API_KEY            — 이미 등록되어 있음 (프록시가 서버에서만 사용)
+# 사전 조건: Firebase 프로젝트가 Blaze(종량제) 요금제여야 Functions 배포가 됩니다.
+#
+# 실행: Actions 탭 > "Deploy Gemini Proxy" > Run workflow > project_id 입력.
+# 끝나면 로그 맨 아래 "PROXY URL"을 복사해 GitHub Secret VITE_GEMINI_PROXY_URL 로 등록한 뒤,
+# "Build Release AAB"를 다시 실행하면 API 키가 앱에 포함되지 않는 빌드가 나옵니다.
+on:
+  workflow_dispatch:
+    inputs:
+      project_id:
+        description: "Firebase 프로젝트 ID (예: my-toeic-app)"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PID: ${{ inputs.project_id }}
+      REGION: asia-northeast3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install functions dependencies
+        run: cd functions && npm install --no-audit
+
+      - name: Write service account key
+        run: |
+          if [ -z "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}" ]; then
+            echo "::error::FIREBASE_SERVICE_ACCOUNT secret이 없습니다. Firebase 콘솔에서 서비스 계정 키(JSON)를 받아 등록하세요." >&2
+            exit 1
+          fi
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/sa.json" >> "$GITHUB_ENV"
+
+      - name: Install Firebase CLI
+        run: npm i -g firebase-tools
+
+      - name: Set GEMINI_API_KEY secret (Secret Manager)
+        run: |
+          printf '%s' "${{ secrets.GEMINI_API_KEY }}" | \
+            firebase functions:secrets:set GEMINI_API_KEY --project "$PID" --force --data-file=- || \
+            printf '%s' "${{ secrets.GEMINI_API_KEY }}" | \
+            firebase functions:secrets:set GEMINI_API_KEY --project "$PID" --data-file=-
+
+      - name: Deploy functions
+        run: firebase deploy --only functions --project "$PID" --non-interactive --force
+
+      - name: Print proxy URL
+        run: |
+          gcloud auth activate-service-account --key-file="$GOOGLE_APPLICATION_CREDENTIALS" >/dev/null 2>&1 || true
+          URL=$(gcloud functions describe geminiProxy --region="$REGION" --gen2 --project="$PID" --format='value(serviceConfig.uri)' 2>/dev/null)
+          echo "============================================================"
+          echo "PROXY URL: ${URL:-(URL 조회 실패 - 'firebase functions:list'로 확인하세요)}"
+          echo "이 값을 GitHub Secret 'VITE_GEMINI_PROXY_URL' 로 등록한 뒤"
+          echo "'Build Release AAB' 워크플로를 다시 실행하세요."
+          echo "============================================================"
+          echo "::notice title=VITE_GEMINI_PROXY_URL::${URL}"
