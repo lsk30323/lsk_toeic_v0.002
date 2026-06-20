@@ -9,12 +9,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The marketing team made a _______ decision to postpone the product launch until early next year.",
     "options": [
-      "strategic",
       "strategy",
       "strategically",
+      "strategic",
       "strategize"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "빈칸은 명사 decision을 수식하는 형용사 자리입니다. 따라서 형용사 strategic(전략적인)이 정답입니다. strategy는 명사, strategically는 부사, strategize는 동사이므로 명사를 수식할 수 없습니다. [문법 포인트: 품사 - 명사를 수식하는 형용사 자리]",
     "difficulty": "easy"
   },
@@ -24,12 +24,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Ms. Park's _______ to detail has earned her several design awards over the years.",
     "options": [
-      "attentive",
       "attention",
+      "attentive",
       "attentively",
       "attend"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "소유격(Ms. Park's) 뒤에는 명사가 와야 하며, 빈칸은 문장의 주어 역할을 하는 명사 자리입니다. attention to detail(세부 사항에 대한 주의력)은 빈출 표현으로, 명사 attention이 정답입니다. attentive는 형용사, attentively는 부사, attend는 동사입니다. [문법 포인트: 품사 - 소유격 뒤 명사 자리]",
     "difficulty": "easy"
   },
@@ -40,11 +40,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The new software update installs _______ without any action required from the user.",
     "options": [
       "automatic",
-      "automation",
       "automatically",
+      "automation",
       "automated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "빈칸은 자동사 installs를 수식하는 부사 자리입니다. 따라서 부사 automatically(자동으로)가 정답입니다. automatic은 형용사, automation은 명사, automated는 과거분사로 동사를 수식할 수 없습니다. [문법 포인트: 품사 - 동사를 수식하는 부사 자리]",
     "difficulty": "easy"
   },
@@ -55,11 +55,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Customers remained _______ to the brand despite the recent price increase.",
     "options": [
       "loyalties",
-      "loyalty",
+      "loyal",
       "loyally",
-      "loyal"
+      "loyalty"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "remain은 2형식 동사로 뒤에 주격 보어인 형용사를 취합니다. 따라서 형용사 loyal(충성스러운)이 정답이며, be loyal to(~에 충성하다) 형태로 쓰입니다. loyalty/loyalties는 명사, loyally는 부사로 보어 자리에 적절하지 않습니다. [문법 포인트: 품사 - 2형식 동사(remain)의 형용사 보어]",
     "difficulty": "easy"
   },
@@ -69,12 +69,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The _______ of the new branch office will take place next Friday morning.",
     "options": [
-      "opening",
-      "openly",
+      "open",
       "opened",
-      "open"
+      "opening",
+      "openly"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "정관사 The와 전치사 of 사이는 명사 자리입니다. opening은 '개장, 개점(식)'이라는 뜻의 명사로 정답입니다. open은 동사/형용사, openly는 부사, opened는 과거분사이므로 주어 자리에 올 수 없습니다. [문법 포인트: 품사 - 관사와 전치사 사이의 명사 자리]",
     "difficulty": "medium"
   },
@@ -84,12 +84,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The proposal was _______ detailed, covering every aspect of the project budget.",
     "options": [
-      "remark",
       "remarkably",
+      "remark",
       "remarkable",
       "remarked"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "빈칸은 형용사 detailed를 수식하는 부사 자리입니다. 따라서 부사 remarkably(놀랄 만큼, 매우)가 정답입니다. remarkable은 형용사로 형용사를 수식할 수 없으며, remark는 명사/동사, remarked는 과거분사입니다. [문법 포인트: 품사 - 형용사를 수식하는 부사 자리]",
     "difficulty": "medium"
   },
@@ -99,8 +99,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "All visitors must wear a _______ badge while they are on the premises.",
     "options": [
-      "secure",
       "securely",
+      "secure",
       "security",
       "secured"
     ],
@@ -114,9 +114,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Employees who manage their time _______ are eligible for the quarterly productivity bonus.",
     "options": [
+      "more efficient",
       "efficient",
       "efficiency",
-      "more efficient",
       "efficiently"
     ],
     "answer": 3,
@@ -129,12 +129,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "After three hours of discussion, the committee finally reached an _______.",
     "options": [
-      "agreement",
-      "agree",
       "agreeable",
-      "agreed"
+      "agree",
+      "agreed",
+      "agreement"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "관사 an 뒤이자 타동사 reached의 목적어 자리이므로 명사가 필요합니다. reach an agreement(합의에 도달하다)는 빈출 표현으로 명사 agreement가 정답입니다. agree는 동사, agreeable은 형용사, agreed는 과거분사입니다. [문법 포인트: 품사 - 관사 뒤 명사 자리(목적어)]",
     "difficulty": "easy"
   },
@@ -144,12 +144,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Discounted tickets for the annual gala are _______ only to registered members.",
     "options": [
-      "avail",
-      "available",
+      "availably",
       "availability",
-      "availably"
+      "available",
+      "avail"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "be동사 are 뒤의 주격 보어 자리이므로 형용사 available(구할 수 있는, 이용 가능한)이 정답입니다. be available to(~에게 제공되다)의 형태로 쓰였습니다. avail은 동사/명사, availability는 명사이며, availably는 거의 쓰이지 않는 부사 형태입니다. [문법 포인트: 품사 - be동사 뒤 형용사 보어]",
     "difficulty": "medium"
   },
@@ -159,12 +159,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______, the shipment arrived two days ahead of schedule despite the port strike.",
     "options": [
-      "Surprise",
+      "Surprised",
       "Surprising",
-      "Surprisingly",
-      "Surprised"
+      "Surprise",
+      "Surprisingly"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "빈칸은 콤마 뒤의 문장 전체를 수식하는 문장 부사 자리입니다. 따라서 부사 Surprisingly(놀랍게도)가 정답입니다. 명사 Surprise나 분사 Surprising/Surprised는 뒤 문장과 연결될 문법적 근거가 없습니다. [문법 포인트: 품사 - 문장 전체를 수식하는 부사]",
     "difficulty": "medium"
   },
@@ -174,12 +174,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The factory passed its annual safety _______ without a single violation.",
     "options": [
-      "inspect",
-      "inspector",
       "inspected",
-      "inspection"
+      "inspection",
+      "inspector",
+      "inspect"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "safety inspection(안전 점검)은 복합명사 표현이며, 빈칸은 passed의 목적어가 되는 명사 자리입니다. inspector(검사관)는 사람 명사로 '검사를 통과하다'라는 문맥에 맞지 않습니다. inspect는 동사, inspected는 과거분사입니다. [문법 포인트: 품사 - 복합명사 및 사물명사 vs 사람명사 구별]",
     "difficulty": "medium"
   },
@@ -189,12 +189,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please review the attached contract _______ before signing both copies.",
     "options": [
+      "care",
       "carefully",
       "careful",
-      "care",
       "caring"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "빈칸은 동사 review를 수식하는 부사 자리입니다. 따라서 부사 carefully(주의 깊게)가 정답입니다. careful은 형용사, care는 명사/동사, caring은 분사·형용사로 동사를 수식할 수 없습니다. [문법 포인트: 품사 - 동사를 수식하는 부사 자리]",
     "difficulty": "easy"
   },
@@ -204,12 +204,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The hotel offers _______ rates for guests who stay longer than a week.",
     "options": [
-      "reduce",
-      "reduced",
       "reduction",
-      "reducing"
+      "reducing",
+      "reduce",
+      "reduced"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "빈칸은 명사 rates를 수식하는 자리이며, '인하된 요금'이라는 수동의 의미이므로 과거분사형 형용사 reduced가 정답입니다. reducing은 능동(줄이고 있는)의 의미라 어색하고, reduce는 동사, reduction은 명사입니다. [문법 포인트: 분사 - 명사를 수식하는 과거분사(수동)]",
     "difficulty": "medium"
   },
@@ -220,11 +220,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The keynote speech was so _______ that many attendees requested a recording afterward.",
     "options": [
       "inspired",
+      "inspire",
       "inspiration",
-      "inspiring",
-      "inspire"
+      "inspiring"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "감정을 유발하는 주체(연설)가 주어이므로 현재분사형 형용사 inspiring(감동을 주는, 고무적인)이 정답입니다. inspired는 감정을 느끼는 대상(사람)에 쓰입니다. inspiration은 명사, inspire는 동사입니다. [문법 포인트: 감정 분사 -ing(원인) vs -ed(경험자) 구별]",
     "difficulty": "hard"
   },
@@ -234,12 +234,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Ms. Alvarez responded _______ to the customer's complaint about the delayed order.",
     "options": [
+      "promptly",
       "prompt",
       "promptness",
-      "prompted",
-      "promptly"
+      "prompted"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "빈칸은 자동사 responded를 수식하는 부사 자리입니다. 따라서 부사 promptly(신속하게)가 정답입니다. respond promptly to(~에 신속히 대응하다)는 빈출 표현입니다. prompt는 형용사/동사, promptness는 명사, prompted는 과거분사입니다. [문법 포인트: 품사 - 자동사를 수식하는 부사]",
     "difficulty": "medium"
   },
@@ -249,12 +249,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Each _______ in the design contest must submit a portfolio by May 1.",
     "options": [
-      "entrant",
       "entry",
-      "enter",
-      "entered"
+      "entrant",
+      "entered",
+      "enter"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "포트폴리오를 제출하는 주체는 사람이어야 하므로 사람 명사 entrant(참가자)가 정답입니다. entry(출품작, 응모)는 사물 명사로 '제출해야 한다'의 주어로 의미가 맞지 않습니다. enter는 동사, entered는 과거분사입니다. [문법 포인트: 품사 - 사람명사 vs 사물명사 구별]",
     "difficulty": "hard"
   },
@@ -265,11 +265,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The company's rapid _______ into Southeast Asian markets exceeded analysts' expectations.",
     "options": [
       "expand",
-      "expansion",
+      "expansive",
       "expanded",
-      "expansive"
+      "expansion"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "소유격(company's)과 형용사(rapid) 뒤에 오는 주어 자리이므로 명사 expansion(확장)이 정답입니다. expansion into(~로의 진출·확장)는 빈출 표현입니다. expand는 동사, expanded는 과거분사, expansive는 형용사입니다. [문법 포인트: 품사 - 형용사의 수식을 받는 명사 자리]",
     "difficulty": "medium"
   },
@@ -294,9 +294,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The _______ revised employee manual now includes a detailed remote-work policy.",
     "options": [
+      "newness",
       "new",
       "newer",
-      "newness",
       "newly"
     ],
     "answer": 3,
@@ -309,12 +309,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ of the quarterly financial report is restricted to senior managers.",
     "options": [
-      "Distribution",
       "Distributed",
+      "Distribution",
       "Distributing",
       "Distribute"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "빈칸은 문장의 주어 자리이며 뒤에 of 전치사구가 연결되므로 명사 Distribution(배포)이 정답입니다. 동명사 Distributing은 of 없이 목적어를 바로 취해야 하므로(Distributing the report) 부적절합니다. Distribute는 동사, Distributed는 과거분사입니다. [문법 포인트: 품사 - 주어 자리의 명사 vs 동명사]",
     "difficulty": "medium"
   },
@@ -339,10 +339,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The sales director delivered a _______ presentation on next year's revenue targets.",
     "options": [
+      "persuasively",
       "persuade",
-      "persuasion",
       "persuasive",
-      "persuasively"
+      "persuasion"
     ],
     "answer": 2,
     "explanation": "빈칸은 명사 presentation을 수식하는 형용사 자리입니다. 따라서 형용사 persuasive(설득력 있는)가 정답입니다. persuade는 동사, persuasion은 명사, persuasively는 부사입니다. [문법 포인트: 품사 - 명사를 수식하는 형용사]",
@@ -354,8 +354,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Applicants for the interpreter position must demonstrate _______ in at least two foreign languages.",
     "options": [
-      "proficient",
       "proficiently",
+      "proficient",
       "proficiencies",
       "proficiency"
     ],
@@ -369,12 +369,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The museum relies heavily on private _______ to fund its special exhibitions.",
     "options": [
-      "donations",
-      "donates",
       "donate",
+      "donates",
+      "donations",
       "donated"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "형용사 private의 수식을 받는 전치사 on의 목적어 자리이므로 명사 donations(기부금)가 정답입니다. rely on(~에 의존하다) 뒤에는 명사가 와야 합니다. donate/donates는 동사, donated는 과거분사입니다. [문법 포인트: 품사 - 전치사의 목적어인 명사 자리]",
     "difficulty": "medium"
   },
@@ -384,12 +384,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Mr. Chen _______ the company in 2015 and has served as its lead engineer ever since.",
     "options": [
-      "joins",
       "joined",
+      "joins",
       "has joined",
       "will join"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "in 2015라는 명확한 과거 시점이 있으므로 과거시제 joined가 정답입니다. 특정 과거 시점 표현과 현재완료(has joined)는 함께 쓸 수 없으며, 현재시제 joins와 미래 will join도 시점이 맞지 않습니다. [문법 포인트: 시제 - 명확한 과거 시점 부사구와 과거시제]",
     "difficulty": "easy"
   },
@@ -401,10 +401,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "options": [
       "review",
       "reviews",
-      "are reviewed",
-      "are reviewing"
+      "are reviewing",
+      "are reviewed"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "주어 applications(지원서)는 검토 행위의 대상이며 뒤에 by 행위자가 있으므로 수동태 are reviewed가 정답입니다. 능동형 review/reviews/are reviewing은 목적어가 없고 의미상 주어가 검토를 '하는' 것이 되어 어색합니다. [문법 포인트: 태 - 능동태 vs 수동태]",
     "difficulty": "medium"
   },
@@ -414,12 +414,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Over the past decade, Hartwell Industries _______ its workforce by nearly 40 percent.",
     "options": [
+      "has expanded",
       "expands",
-      "expanded",
       "is expanding",
-      "has expanded"
+      "expanded"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "over the past decade(지난 10년 동안)는 과거부터 현재까지의 기간을 나타내므로 현재완료 has expanded가 정답입니다. 단순 과거나 현재, 현재진행은 이러한 기간 표현과 어울리지 않습니다. [문법 포인트: 시제 - 기간 표현(over the past ~)과 현재완료]",
     "difficulty": "medium"
   },
@@ -430,9 +430,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Each of the conference rooms _______ equipped with a projector and a whiteboard.",
     "options": [
       "is",
-      "are",
       "were",
-      "being"
+      "being",
+      "are"
     ],
     "answer": 0,
     "explanation": "each of + 복수명사는 단수 취급하므로 단수 동사 is가 정답입니다. are/were는 복수 동사이고, being은 정동사가 아니므로 문장의 동사 자리에 올 수 없습니다. [문법 포인트: 수 일치 - each of + 복수명사 + 단수동사]",
@@ -444,10 +444,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Once the contract _______ signed, construction on the new wing will begin immediately.",
     "options": [
-      "will be",
-      "is",
       "has",
-      "be"
+      "is",
+      "be",
+      "will be"
     ],
     "answer": 1,
     "explanation": "once가 이끄는 시간 부사절에서는 미래의 일이라도 현재시제가 미래를 대신합니다. 따라서 is가 정답이며 is signed의 수동태가 완성됩니다. will be는 부사절에서 미래시제를 쓸 수 없어 오답이고, has는 signed와 결합하면 능동 완료가 되어 목적어가 없으며, be는 정동사가 아닙니다. [문법 포인트: 시제 - 시간 부사절에서 현재시제의 미래 대용]",
@@ -459,12 +459,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "By the time the auditors arrive next week, the finance team _______ all the required documents.",
     "options": [
+      "has prepared",
       "prepares",
       "prepared",
-      "will have prepared",
-      "has prepared"
+      "will have prepared"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "by the time + 현재시제 절이 미래 시점을 나타내므로, 주절에는 그 시점까지의 완료를 나타내는 미래완료 will have prepared가 정답입니다. 단순 현재·과거·현재완료는 미래 기준 시점과 어울리지 않습니다. [문법 포인트: 시제 - by the time과 미래완료]",
     "difficulty": "hard"
   },
@@ -475,8 +475,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Refunds _______ within five business days of our receiving the returned merchandise.",
     "options": [
       "issue",
-      "issued",
       "are issuing",
+      "issued",
       "are issued"
     ],
     "answer": 3,
@@ -489,12 +489,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The store _______ its opening hours during the holiday season every year.",
     "options": [
-      "extends",
-      "extend",
       "extending",
-      "to extend"
+      "extends",
+      "to extend",
+      "extend"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "주어 The store가 3인칭 단수이고 every year(매년)라는 반복 표현이 있으므로 현재시제 단수형 extends가 정답입니다. extend는 수 일치가 맞지 않고, extending과 to extend는 정동사가 아닙니다. [문법 포인트: 수 일치와 현재시제(반복적 습관)]",
     "difficulty": "easy"
   },
@@ -504,12 +504,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The director requested that the final report _______ submitted no later than Friday.",
     "options": [
-      "is",
       "be",
+      "been",
       "was",
-      "been"
+      "is"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "request, demand, insist 등 요구·제안 동사 뒤의 that절에는 '(should) + 동사원형'을 쓰므로 동사원형 be가 정답입니다(가정법 현재). is/was는 시제가 있는 형태라 오답이고, been은 단독으로 쓸 수 없습니다. [문법 포인트: 가정법 현재 - 요구·제안 동사 + that + 주어 + (should) 동사원형]",
     "difficulty": "hard"
   },
@@ -519,10 +519,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "When the power went out, the technicians _______ the new server in the data center.",
     "options": [
+      "are installing",
       "install",
-      "have installed",
       "were installing",
-      "are installing"
+      "have installed"
     ],
     "answer": 2,
     "explanation": "과거의 한 시점(정전이 발생했을 때)에 진행 중이던 동작을 나타내므로 과거진행 were installing이 정답입니다. 현재시제·현재완료·현재진행은 과거 시점 부사절(went out)과 어울리지 않습니다. [문법 포인트: 시제 - 과거진행(과거 시점에 진행 중인 동작)]",
@@ -534,12 +534,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The annual charity dinner _______ by the community outreach team last month.",
     "options": [
-      "organized",
+      "was organized",
       "organizes",
       "has organized",
-      "was organized"
+      "organized"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "주어 dinner는 주최되는 대상이고 뒤에 by 행위자가 있으므로 수동태가 필요하며, last month라는 과거 시점이 있으므로 과거 수동태 was organized가 정답입니다. 능동형들은 목적어가 없고 의미가 맞지 않습니다. [문법 포인트: 태와 시제 - 과거 수동태]",
     "difficulty": "medium"
   },
@@ -549,12 +549,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Ms. Ito _______ to the regional office in Osaka next Monday.",
     "options": [
-      "will transfer",
-      "transferring",
       "to transfer",
-      "transfer"
+      "transfer",
+      "will transfer",
+      "transferring"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "next Monday라는 미래 시점이 있으므로 미래시제 will transfer가 정답입니다. transferring과 to transfer는 정동사가 아니어서 문장의 동사가 될 수 없고, transfer는 3인칭 단수 주어와 수가 일치하지 않습니다. [문법 포인트: 시제 - 미래 시점 부사와 미래시제]",
     "difficulty": "easy"
   },
@@ -564,12 +564,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Had the supplier notified us earlier, we _______ alternative shipping arrangements.",
     "options": [
-      "made",
       "would have made",
+      "have made",
       "will make",
-      "have made"
+      "made"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Had the supplier notified는 If the supplier had notified의 if 생략 도치 구문으로 가정법 과거완료입니다. 따라서 주절에는 would have p.p. 형태인 would have made가 정답입니다. [문법 포인트: 가정법 과거완료와 if 생략 도치]",
     "difficulty": "hard"
   },
@@ -579,12 +579,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The list of approved vendors _______ updated at the beginning of every quarter.",
     "options": [
-      "have been",
       "are",
       "is",
-      "were"
+      "were",
+      "have been"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "주어는 of approved vendors의 수식을 받는 단수 명사 The list이므로 단수 동사 is가 정답입니다. 주어와 동사 사이의 수식어구(of + 복수명사)에 속지 않아야 합니다. are/have been/were는 복수형 또는 시제가 맞지 않습니다. [문법 포인트: 수 일치 - 전치사구 수식을 받는 주어]",
     "difficulty": "medium"
   },
@@ -595,8 +595,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The IT department _______ the cause of the network outage since early this morning.",
     "options": [
       "investigates",
-      "investigated",
       "will investigate",
+      "investigated",
       "has been investigating"
     ],
     "answer": 3,
@@ -609,12 +609,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The orientation session is scheduled to begin _______ 9:30 A.M. sharp.",
     "options": [
+      "by",
       "at",
       "on",
-      "in",
-      "by"
+      "in"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "구체적인 시각(9:30 A.M.) 앞에는 전치사 at을 씁니다. in은 월·연도·기간, on은 날짜·요일에 쓰며, by는 '~까지(완료)'의 의미로 시작 시각 표현에 맞지 않습니다. [문법 포인트: 시간 전치사 - at + 시각]",
     "difficulty": "easy"
   },
@@ -624,12 +624,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please submit your expense reports _______ Friday afternoon at the latest.",
     "options": [
-      "until",
-      "by",
+      "from",
       "since",
-      "from"
+      "by",
+      "until"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "submit(제출하다)처럼 일회성 완료 동작에는 '늦어도 ~까지'를 뜻하는 by를 씁니다. until은 동작·상태가 그 시점까지 계속될 때 쓰므로 오답입니다. since는 '~ 이후로', from은 '~부터'로 기한 표현이 아닙니다. [문법 포인트: 전치사 - by(완료 기한) vs until(지속)]",
     "difficulty": "easy"
   },
@@ -639,12 +639,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The photography exhibition will remain open _______ the end of September.",
     "options": [
-      "by",
       "within",
       "until",
-      "at"
+      "at",
+      "by"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "remain open(계속 열려 있다)이라는 지속적인 상태와 함께 쓰여 '~까지 계속'을 의미하는 until이 정답입니다. by는 일회성 완료 기한에 쓰므로 지속 동사와 어울리지 않습니다. within은 '~ 이내에', at은 시각 앞에 씁니다. [문법 포인트: 전치사 - until(지속) vs by(완료)]",
     "difficulty": "medium"
   },
@@ -654,12 +654,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Conveniently located _______ the airport and the convention center, the hotel is popular with business travelers.",
     "options": [
-      "within",
+      "between",
       "among",
-      "along",
-      "between"
+      "within",
+      "along"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "between A and B(A와 B 사이에)는 둘 사이의 위치를 나타내며, 빈칸 뒤에 and로 연결된 두 장소가 있으므로 between이 정답입니다. among은 셋 이상 사이에 쓰고, along은 '~을 따라', within은 '~ 이내에'의 뜻입니다. [문법 포인트: 전치사 - between A and B]",
     "difficulty": "medium"
   },
@@ -669,12 +669,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ its compact size, the new printer can handle high-volume printing jobs.",
     "options": [
-      "Despite",
       "Although",
-      "Even",
-      "Nevertheless"
+      "Nevertheless",
+      "Despite",
+      "Even"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "빈칸 뒤에 명사구(its compact size)가 오므로 전치사 Despite(~에도 불구하고)가 정답입니다. Although는 접속사라서 뒤에 절이 와야 하고, Even은 부사, Nevertheless는 접속부사로 명사구를 이끌 수 없습니다. [문법 포인트: 전치사 vs 접속사 - despite + 명사구]",
     "difficulty": "medium"
   },
@@ -684,10 +684,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The main elevator is out of service; please use the stairs _______ the meantime.",
     "options": [
-      "on",
-      "in",
       "at",
-      "for"
+      "in",
+      "for",
+      "on"
     ],
     "answer": 1,
     "explanation": "in the meantime(그동안에, 그 사이에)은 하나의 굳어진 관용 표현으로 전치사 in을 씁니다. on/at/for는 이 표현에 쓰이지 않습니다. [문법 포인트: 전치사 관용 표현 - in the meantime]",
@@ -699,10 +699,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The merger was finalized two months _______ schedule, surprising many industry analysts.",
     "options": [
+      "early",
       "prior",
-      "in front",
       "ahead of",
-      "early"
+      "in front"
     ],
     "answer": 2,
     "explanation": "ahead of schedule(예정보다 앞당겨)은 빈출 관용 표현입니다. in front는 of가 빠져 있고, prior는 prior to 형태로 써야 하며, early는 부사/형용사라서 명사 schedule을 목적어로 취할 수 없습니다. [문법 포인트: 전치사 관용 표현 - ahead of schedule]",
@@ -729,12 +729,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The revised dress code applies to all employees _______ exception.",
     "options": [
+      "within",
       "without",
       "except",
-      "within",
       "besides"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "without exception(예외 없이)은 굳어진 관용 표현으로 without이 정답입니다. except(~을 제외하고)를 쓰면 'exception을 제외하고'가 되어 의미가 통하지 않으며, within과 besides도 문맥에 맞지 않습니다. [문법 포인트: 전치사 관용 표현 - without exception]",
     "difficulty": "medium"
   },
@@ -744,12 +744,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Mr. Doyle has worked in the accounting department _______ 2019.",
     "options": [
-      "for",
       "since",
+      "during",
       "from",
-      "during"
+      "for"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "현재완료(has worked)와 함께 과거의 시작 시점(2019)을 나타낼 때는 since(~ 이래로)를 씁니다. for는 기간의 길이(for five years), during은 특정 기간 명사와 쓰며, from은 일반적으로 완료시제와 함께 시작점을 나타내는 데 쓰지 않습니다. [문법 포인트: 전치사 - since + 시점 vs for + 기간]",
     "difficulty": "easy"
   },
@@ -759,12 +759,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "March sales figures were well _______ the company's initial projections.",
     "options": [
+      "beside",
       "onto",
       "among",
-      "beyond",
-      "beside"
+      "beyond"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "well beyond(~을 훨씬 뛰어넘어)는 예상·기준을 초과했다는 의미의 빈출 표현으로 beyond가 정답입니다. among(~ 사이에), onto(~ 위로), beside(~ 옆에)는 '예상치를 넘어섰다'는 문맥에 맞지 않습니다. [문법 포인트: 전치사 - beyond(초과·능가)]",
     "difficulty": "hard"
   },
@@ -774,12 +774,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ the duration of the lobby renovation, guests should use the side entrance on Pine Street.",
     "options": [
-      "While",
       "Since",
       "As",
-      "For"
+      "For",
+      "While"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "for the duration of(~ 기간 내내)는 굳어진 전치사 표현으로 For가 정답입니다. While은 접속사로 뒤에 절이 와야 하고, As와 Since도 명사구 the duration of와 결합해 '기간 내내'의 의미를 만들 수 없습니다. [문법 포인트: 전치사 관용 표현 - for the duration of]",
     "difficulty": "medium"
   },
@@ -789,12 +789,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ the weather forecast predicted rain, the outdoor job fair proceeded as planned.",
     "options": [
-      "Although",
-      "Because of",
+      "Owing to",
       "Despite",
-      "Owing to"
+      "Although",
+      "Because of"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "빈칸 뒤에 주어와 동사를 갖춘 절(the forecast predicted)이 오므로 접속사 Although(비록 ~이지만)가 정답입니다. Despite, Because of, Owing to는 모두 전치사(구)라서 절을 이끌 수 없습니다. [문법 포인트: 접속사 vs 전치사 - 절 앞에는 접속사]",
     "difficulty": "easy"
   },
@@ -819,8 +819,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Employees may park in Lot B _______ the main garage is being repaved.",
     "options": [
-      "during",
       "despite",
+      "during",
       "while",
       "upon"
     ],
@@ -835,11 +835,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "_______ completing the online training module, new hires must pass a short assessment.",
     "options": [
       "Afterward",
-      "Then",
       "Later",
-      "After"
+      "After",
+      "Then"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "빈칸 뒤에 동명사구(completing ~)가 오므로 전치사 After(~한 후에)가 정답입니다. Afterward, Then, Later는 모두 부사라서 동명사를 목적어로 취할 수 없습니다. [문법 포인트: 전치사 + 동명사 vs 부사]",
     "difficulty": "hard"
   },
@@ -849,12 +849,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The product launch will proceed on schedule _______ the marketing materials are approved by Friday.",
     "options": [
-      "provided that",
       "in case of",
+      "provided that",
       "due to",
       "despite"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "빈칸 뒤에 절이 오고 '~라는 조건이라면'의 의미가 필요하므로 조건 접속사 provided that(~라는 조건하에)이 정답입니다. in case of, due to, despite는 전치사(구)라서 절을 이끌 수 없습니다. [문법 포인트: 조건 접속사 provided that]",
     "difficulty": "medium"
   },
@@ -864,12 +864,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Questions about payroll may be directed to either Ms. Lane _______ Mr. Ortiz.",
     "options": [
+      "but",
       "and",
       "or",
-      "nor",
-      "but"
+      "nor"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "상관접속사 either는 or와 짝을 이루어 'either A or B(A 또는 B)'로 씁니다. 따라서 or가 정답입니다. nor는 neither와, and/but은 either와 짝을 이루지 않습니다. [문법 포인트: 상관접속사 either A or B]",
     "difficulty": "easy"
   },
@@ -880,11 +880,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "_______ the unexpectedly high demand, the manufacturer doubled its production capacity.",
     "options": [
       "Because",
+      "Even though",
       "Now that",
-      "Due to",
-      "Even though"
+      "Due to"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "빈칸 뒤에 명사구(the unexpectedly high demand)가 오므로 전치사구 Due to(~ 때문에)가 정답입니다. Because, Now that, Even though는 모두 접속사라서 뒤에 절이 필요합니다. [문법 포인트: 접속사 vs 전치사 - due to + 명사구]",
     "difficulty": "medium"
   },
@@ -894,12 +894,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The board has not yet decided _______ to hold next year's conference in Seoul or in Busan.",
     "options": [
-      "if",
+      "whether",
       "that",
-      "what",
-      "whether"
+      "if",
+      "what"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "to부정사 앞에서 '~할지 (말지)'의 의미를 만들 수 있는 것은 whether뿐입니다(whether to hold). if는 to부정사와 함께 쓸 수 없고, that과 what도 이 구조에 맞지 않습니다. 뒤의 or와 호응하는 점도 단서입니다. [문법 포인트: whether + to부정사 (if 불가)]",
     "difficulty": "hard"
   },
@@ -910,8 +910,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "_______ neither candidate met the minimum requirements, the position was advertised again.",
     "options": [
       "Since",
-      "During",
       "Despite",
+      "During",
       "Owing to"
     ],
     "answer": 0,
@@ -924,12 +924,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "All imported goods must be inspected _______ they can be released from customs.",
     "options": [
+      "ago",
       "prior",
       "before",
-      "ago",
       "previously"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "빈칸 뒤에 절(they can be released)이 오므로 접속사 before(~하기 전에)가 정답입니다. prior는 prior to 형태로 써야 하고, ago와 previously는 부사라서 절을 연결할 수 없습니다. [문법 포인트: 시간 접속사 before + 절]",
     "difficulty": "medium"
   },
@@ -939,12 +939,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Employees _______ wish to attend the leadership workshop should register by Thursday.",
     "options": [
-      "whose",
+      "whom",
       "which",
-      "who",
-      "whom"
+      "whose",
+      "who"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "선행사 Employees가 사람이고 빈칸 뒤에 동사(wish)가 바로 오므로 주격 관계대명사 who가 정답입니다. which는 사물 선행사에 쓰고, whose는 뒤에 명사가, whom 뒤에는 주어+동사가 와야 합니다. [문법 포인트: 주격 관계대명사 who]",
     "difficulty": "easy"
   },
@@ -954,9 +954,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The candidate _______ résumé most impressed the panel was offered the position.",
     "options": [
-      "who",
       "whom",
       "which",
+      "who",
       "whose"
     ],
     "answer": 3,
@@ -969,12 +969,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The conference room, _______ overlooks the harbor, can accommodate up to fifty people.",
     "options": [
-      "which",
       "that",
+      "who",
       "where",
-      "who"
+      "which"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "콤마가 있는 계속적 용법에서는 that을 쓸 수 없으므로 which가 정답입니다. 선행사가 사물(conference room)이고 빈칸 뒤에 동사(overlooks)가 오는 주격 자리입니다. where는 관계부사라서 뒤에 완전한 절이 와야 하고, who는 사람 선행사에 씁니다. [문법 포인트: 계속적 용법의 관계대명사 which (that 불가)]",
     "difficulty": "medium"
   },
@@ -984,12 +984,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The consultant _______ the firm hired last spring has greatly streamlined the billing process.",
     "options": [
-      "whose",
-      "whom",
       "which",
-      "what"
+      "what",
+      "whom",
+      "whose"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "선행사 The consultant가 사람이고, 빈칸 뒤 절(the firm hired)에서 hired의 목적어가 빠져 있으므로 목적격 관계대명사 whom이 정답입니다. whose 뒤에는 명사가 와야 하고, which는 사물에, what은 선행사를 포함하므로 선행사와 함께 쓸 수 없습니다. [문법 포인트: 목적격 관계대명사 whom]",
     "difficulty": "hard"
   },
@@ -999,12 +999,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The hotel _______ we stayed during the trade show offered a complimentary airport shuttle.",
     "options": [
-      "which",
       "what",
-      "where",
-      "whom"
+      "whom",
+      "which",
+      "where"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "빈칸 뒤의 절(we stayed)이 주어·동사를 모두 갖춘 완전한 절이므로 관계부사 where(= at which)가 정답입니다. 관계대명사 which를 쓰려면 stayed 뒤에 전치사가 필요합니다(in which). what은 선행사와 함께 쓸 수 없고, whom은 사람 선행사의 목적격입니다. [문법 포인트: 관계부사 where vs 관계대명사 which]",
     "difficulty": "medium"
   },
@@ -1014,9 +1014,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The review board received several proposals, most of _______ exceeded the allocated budget.",
     "options": [
-      "them",
-      "that",
       "whom",
+      "that",
+      "them",
       "which"
     ],
     "answer": 3,
@@ -1029,12 +1029,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The training session, _______ was originally scheduled for Monday, has been moved to Wednesday.",
     "options": [
+      "what",
       "which",
-      "that",
       "it",
-      "what"
+      "that"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "콤마 사이의 삽입절을 이끌면서 사물 선행사(training session)를 받는 주격 관계대명사 which가 정답입니다. that은 계속적 용법에 쓸 수 없고, it은 관계대명사가 아니라 절을 연결할 수 없으며, what은 선행사를 포함하는 관계대명사입니다. [문법 포인트: 계속적 용법의 주격 관계대명사 which]",
     "difficulty": "medium"
   },
@@ -1045,11 +1045,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Ms. Tran asked the interns to send the completed files directly to _______.",
     "options": [
       "she",
-      "her",
+      "herself",
       "hers",
-      "herself"
+      "her"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "전치사 to의 목적어 자리이므로 목적격 대명사 her가 정답입니다. she는 주격, hers는 소유대명사입니다. herself(재귀대명사)는 보내는 주체(the interns)와 대상이 달라 쓸 수 없습니다. [문법 포인트: 인칭대명사의 격 - 전치사 뒤 목적격]",
     "difficulty": "easy"
   },
@@ -1059,12 +1059,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The director prefers to review all press releases _______ before they are sent to the media.",
     "options": [
-      "him",
-      "his",
       "himself",
-      "he"
+      "him",
+      "he",
+      "his"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "주어 The director를 강조하여 '직접, 몸소'의 의미를 더하는 재귀대명사의 강조 용법으로 himself가 정답입니다. 문장 구조가 이미 완전하므로 격을 가진 him/his/he는 들어갈 자리가 없습니다. [문법 포인트: 재귀대명사의 강조 용법]",
     "difficulty": "medium"
   },
@@ -1074,12 +1074,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Employees should keep _______ identification badges visible at all times.",
     "options": [
-      "they",
       "them",
       "theirs",
-      "their"
+      "their",
+      "they"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "빈칸 뒤 명사(identification badges)를 수식하는 자리이므로 소유격 their가 정답입니다. they는 주격, them은 목적격, theirs는 소유대명사로 뒤에 명사를 취할 수 없습니다. [문법 포인트: 소유격 대명사 + 명사]",
     "difficulty": "easy"
   },
@@ -1089,12 +1089,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The Boston branch outperformed all the others; _______ sales rose by nearly 20 percent.",
     "options": [
-      "its",
+      "their",
       "it",
       "itself",
-      "their"
+      "its"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "빈칸은 명사 sales를 수식하는 소유격 자리이며, 단수 명사 The Boston branch를 받으므로 its가 정답입니다. it은 주격/목적격, itself는 재귀대명사이고, their는 복수 명사를 받는 소유격이라 수가 맞지 않습니다. [문법 포인트: 소유격 대명사의 수 일치]",
     "difficulty": "medium"
   },
@@ -1104,12 +1104,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ of the two proposals was approved, so the team must draft an entirely new one.",
     "options": [
-      "None",
       "Neither",
+      "None",
       "Both",
       "Every"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "'둘 중 어느 것도 ~ 않다'는 Neither of the two로 표현하며 단수 동사 was와도 일치하므로 Neither가 정답입니다. None은 셋 이상에 쓰고, Both는 복수 동사가 필요하며 뒤 문맥(새로 작성해야 함)과도 모순됩니다. Every는 of 구문에 바로 쓸 수 없습니다. [문법 포인트: 부정대명사 neither of the two + 단수동사]",
     "difficulty": "hard"
   },
@@ -1119,12 +1119,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The final decision is not mine to make; it is entirely _______.",
     "options": [
-      "you",
-      "your",
       "yours",
-      "yourself"
+      "yourself",
+      "you",
+      "your"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "앞의 mine(나의 것)과 대구를 이루는 소유대명사 자리이므로 yours(당신의 것)가 정답입니다. your는 소유격이라 뒤에 명사가 필요하고, you는 주격/목적격, yourself는 재귀대명사입니다. [문법 포인트: 소유대명사 - 소유격+명사를 대신하는 형태]",
     "difficulty": "medium"
   },
@@ -1134,12 +1134,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "_______ who registered before May 1 will receive a complimentary tote bag at the door.",
     "options": [
-      "They",
       "Them",
-      "These",
-      "Those"
+      "They",
+      "Those",
+      "These"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "관계대명사 who의 수식을 받아 '~하는 사람들'을 뜻하는 지시대명사는 Those입니다(those who: ~하는 사람들). They/Them은 관계절의 수식을 받을 수 없고, These는 이 구문에 쓰이지 않습니다. [문법 포인트: those who(~하는 사람들)]",
     "difficulty": "medium"
   },
@@ -1149,12 +1149,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The new laptop model is significantly _______ than its predecessor.",
     "options": [
-      "lighter",
-      "light",
       "lightest",
-      "most light"
+      "light",
+      "most light",
+      "lighter"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "뒤에 than이 있으므로 비교급 lighter가 정답입니다. 원급 light, 최상급 lightest/most light는 than과 함께 쓸 수 없습니다. significantly는 비교급을 강조하는 부사입니다. [문법 포인트: 비교급 + than]",
     "difficulty": "easy"
   },
@@ -1165,11 +1165,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Of all our retail locations, the downtown store reported the _______ quarterly earnings.",
     "options": [
       "high",
-      "highest",
       "higher",
+      "highest",
       "most highly"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "Of all ~(모든 ~ 중에서)이라는 비교 범위와 정관사 the가 있으므로 최상급 highest가 정답입니다. 원급 high와 비교급 higher는 최상급 문맥에 맞지 않고, most highly는 부사라서 명사 earnings를 수식할 수 없습니다. [문법 포인트: the + 최상급 + of all]",
     "difficulty": "medium"
   },
@@ -1179,12 +1179,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The sooner we confirm the venue, the _______ the rental rates will be.",
     "options": [
-      "good",
       "well",
-      "better",
-      "best"
+      "best",
+      "good",
+      "better"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "'the + 비교급, the + 비교급(~할수록 더 ~하다)' 구문이므로 비교급 better가 정답입니다. 앞의 The sooner와 짝을 이룹니다. 원급 good/well이나 최상급 best는 이 구문에 쓸 수 없습니다. [문법 포인트: the 비교급, the 비교급 구문]",
     "difficulty": "medium"
   },
@@ -1194,9 +1194,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The upgraded security system is far _______ to the one installed five years ago.",
     "options": [
+      "most superior",
       "superiorly",
       "more superior",
-      "most superior",
       "superior"
     ],
     "answer": 3,
@@ -1209,12 +1209,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "This year's trade fair attracted twice _______ visitors as last year's event.",
     "options": [
-      "as many",
-      "more",
       "as much",
-      "many more"
+      "many more",
+      "more",
+      "as many"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "배수사 twice는 'twice as many + 복수명사 + as(~의 두 배나 많은)' 구문으로 씁니다. visitors가 가산 복수명사이므로 as many가 정답입니다. as much는 불가산명사에 쓰며, more/many more는 뒤의 as와 호응하지 않습니다. [문법 포인트: 배수사 + as many/much ~ as 원급 비교]",
     "difficulty": "medium"
   },
@@ -1224,10 +1224,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "No other logistics provider in the region offers _______ delivery options than Lexware.",
     "options": [
-      "flexible",
-      "more flexible",
       "flexibly",
-      "most flexible"
+      "more flexible",
+      "most flexible",
+      "flexible"
     ],
     "answer": 1,
     "explanation": "뒤에 than이 있으므로 비교급 more flexible이 정답입니다. 'No other + 단수명사 ~ 비교급 + than'은 최상급의 의미를 나타내는 빈출 구문입니다. 원급 flexible과 최상급 most flexible은 than과 쓸 수 없고, flexibly는 부사입니다. [문법 포인트: no other ~ 비교급 than(최상급 대용)]",
@@ -1239,12 +1239,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The project manager agreed _______ the submission deadline by one week.",
     "options": [
-      "extending",
       "extend",
       "to extend",
+      "extending",
       "extended"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "agree는 to부정사를 목적어로 취하는 동사이므로 to extend가 정답입니다(agree to do: ~하기로 동의하다). 동명사 extending은 agree의 목적어로 쓸 수 없으며, extend/extended는 정동사 형태라 연결될 수 없습니다. [문법 포인트: to부정사를 목적어로 취하는 동사 agree]",
     "difficulty": "easy"
   },
@@ -1256,10 +1256,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "options": [
       "hear",
       "be heard",
-      "heard",
-      "hearing"
+      "hearing",
+      "heard"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "look forward to에서 to는 전치사이므로 뒤에 동명사가 와야 합니다. 따라서 hearing이 정답입니다(look forward to -ing: ~하기를 고대하다). 동사원형 hear를 쓰는 실수가 잦은 빈출 포인트입니다. [문법 포인트: 전치사 to + 동명사 (look forward to -ing)]",
     "difficulty": "medium"
   },
@@ -1269,12 +1269,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Before _______ the building, all visitors must return their guest passes to the front desk.",
     "options": [
-      "leaving",
-      "left",
+      "to leave",
       "leave",
-      "to leave"
+      "leaving",
+      "left"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "전치사 Before 뒤에는 동명사가 와야 하므로 leaving이 정답입니다(before -ing: ~하기 전에). 동사원형 leave, 과거형 left, to부정사 to leave는 전치사의 목적어가 될 수 없습니다. [문법 포인트: 전치사 + 동명사]",
     "difficulty": "medium"
   },
@@ -1286,8 +1286,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "options": [
       "Founding",
       "Founded",
-      "Found",
-      "Founder"
+      "Founder",
+      "Found"
     ],
     "answer": 1,
     "explanation": "주어 Calloway & Sons는 '설립된' 대상이므로 수동의 의미를 갖는 과거분사 Founded가 이끄는 분사구문이 정답입니다(= Since it was founded in 1982). Founding은 능동이라 목적어가 필요하고, Found는 동사원형/과거형, Founder는 명사입니다. [문법 포인트: 분사구문 - 수동 의미의 과거분사]",
@@ -1299,12 +1299,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The advisory committee recommended _______ the budget vote until more data becomes available.",
     "options": [
-      "postpone",
+      "postponed",
       "to postpone",
-      "postponing",
-      "postponed"
+      "postpone",
+      "postponing"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "recommend는 동명사를 목적어로 취하는 동사이므로 postponing이 정답입니다(recommend -ing: ~할 것을 권고하다). to부정사 to postpone은 recommend의 목적어로 쓰지 않으며, postpone/postponed는 연결될 수 없는 형태입니다. [문법 포인트: 동명사를 목적어로 취하는 동사 recommend]",
     "difficulty": "medium"
   },
@@ -1314,12 +1314,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please remember _______ your laptop and charger to the off-site training session.",
     "options": [
+      "to bring",
       "bringing",
       "brought",
-      "bring",
-      "to bring"
+      "bring"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "아직 하지 않은 미래의 일을 기억하라는 의미이므로 remember + to부정사 형태인 to bring이 정답입니다. remember -ing는 '(과거에) ~했던 것을 기억하다'라는 뜻이라 문맥에 맞지 않습니다. [문법 포인트: remember to V(미래) vs remember -ing(과거)]",
     "difficulty": "easy"
   },
@@ -1329,12 +1329,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The assembly instructions were difficult _______ without the accompanying diagrams.",
     "options": [
-      "to follow",
+      "followed",
       "following",
-      "follow",
-      "followed"
+      "to follow",
+      "follow"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "difficult, easy, hard 등의 난이 형용사 뒤에는 to부정사가 와서 '~하기 어렵다/쉽다'를 나타내므로 to follow가 정답입니다. 동명사 following이나 동사 형태 follow/followed는 이 구문에 쓸 수 없습니다. [문법 포인트: 난이 형용사 + to부정사]",
     "difficulty": "hard"
   },
@@ -1344,12 +1344,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "While _______ the quarterly sales report, Ms. Gupta noticed several discrepancies in the totals.",
     "options": [
+      "reviews",
       "reviewed",
       "reviewing",
-      "reviews",
       "to review"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "While she was reviewing에서 주어와 be동사가 생략된 분사구문으로, 주어 Ms. Gupta가 직접 검토하는 능동의 의미이므로 현재분사 reviewing이 정답입니다. 빈칸 뒤에 목적어(the report)가 있다는 점도 능동의 단서입니다. [문법 포인트: 접속사가 남은 분사구문(While -ing)]",
     "difficulty": "medium"
   },
@@ -1361,10 +1361,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "options": [
       "compete",
       "comply",
-      "complete",
-      "conclude"
+      "conclude",
+      "complete"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "문맥상 '동봉된 신청서를 작성하여 반송해 달라'는 의미이므로 complete(작성하다, 기입하다)가 정답입니다. comply는 '(규정을) 준수하다'로 자동사이며, compete는 '경쟁하다', conclude는 '결론짓다, 마치다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - complete a form]",
     "difficulty": "easy"
   },
@@ -1389,12 +1389,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The airline will _______ passengers for hotel expenses incurred during the lengthy delay.",
     "options": [
-      "reimburse",
       "replace",
-      "remind",
-      "retrieve"
+      "retrieve",
+      "reimburse",
+      "remind"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'승객에게 호텔 비용을 변상해 준다'는 문맥이므로 reimburse(변상하다, 상환하다)가 정답입니다. reimburse A for B(A에게 B를 변상하다) 구조가 단서입니다. remind는 '상기시키다', replace는 '교체하다', retrieve는 '회수하다'입니다. [어휘 포인트: 동사 어휘 - reimburse A for B]",
     "difficulty": "medium"
   },
@@ -1404,12 +1404,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The manufacturer will _______ the defective blender free of charge within the warranty period.",
     "options": [
+      "rehearse",
       "respond",
       "replace",
-      "resign",
-      "rehearse"
+      "resign"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'보증 기간 내에 결함 있는 제품을 무상으로 교체해 준다'는 문맥이므로 replace(교체하다)가 정답입니다. respond는 자동사로 '응답하다', resign은 '사임하다', rehearse는 '예행연습하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - replace(교체하다)]",
     "difficulty": "easy"
   },
@@ -1419,12 +1419,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Construction noise may _______ guests staying on the lower floors of the hotel.",
     "options": [
-      "deposit",
+      "distribute",
       "dismiss",
-      "disturb",
-      "distribute"
+      "deposit",
+      "disturb"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "'공사 소음이 투숙객을 방해할 수 있다'는 문맥이므로 disturb(방해하다, 불편을 주다)가 정답입니다. deposit은 '예치하다', dismiss는 '해고하다, 일축하다', distribute는 '배포하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - disturb(방해하다)]",
     "difficulty": "medium"
   },
@@ -1434,12 +1434,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The streamlined approval process is intended to _______ unnecessary paperwork.",
     "options": [
-      "evacuate",
-      "elevate",
       "elaborate",
-      "eliminate"
+      "eliminate",
+      "evacuate",
+      "elevate"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "'간소화된 절차로 불필요한 서류 작업을 없앤다'는 문맥이므로 eliminate(없애다, 제거하다)가 정답입니다. elevate는 '높이다', elaborate는 '상술하다', evacuate는 '대피시키다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - eliminate(제거하다)]",
     "difficulty": "hard"
   },
@@ -1449,12 +1449,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Ms. Ko will _______ the duties of office manager while Mr. Bell is on parental leave.",
     "options": [
-      "assume",
-      "consume",
+      "presume",
       "resume",
-      "presume"
+      "assume",
+      "consume"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'벨 씨가 휴직하는 동안 사무장 업무를 맡는다'는 문맥이므로 assume(직책·책임을 맡다)이 정답입니다(assume the duties of). resume은 '재개하다'로 본인이 하던 일을 다시 시작할 때 쓰고, consume은 '소비하다', presume은 '추정하다'입니다. [어휘 포인트: 형태가 유사한 동사 구별 - assume vs resume]",
     "difficulty": "hard"
   },
@@ -1464,12 +1464,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please _______ your seat belt whenever the aircraft is taxiing, taking off, or landing.",
     "options": [
-      "loosen",
       "fasten",
+      "soften",
       "lengthen",
-      "soften"
+      "loosen"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "'좌석벨트를 매 달라'는 기내 안내 문맥이므로 fasten(매다, 채우다)이 정답입니다(fasten one's seat belt). loosen은 '느슨하게 하다', lengthen은 '길게 하다', soften은 '부드럽게 하다'로 의미가 반대이거나 맞지 않습니다. [어휘 포인트: 동사 어휘 - fasten one's seat belt]",
     "difficulty": "easy"
   },
@@ -1480,11 +1480,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "A panel of industry experts will _______ the finalists' business plans next Tuesday.",
     "options": [
       "graduate",
+      "circulate",
       "hesitate",
-      "evaluate",
-      "circulate"
+      "evaluate"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "'전문가 심사단이 사업 계획서를 평가한다'는 문맥이므로 evaluate(평가하다)가 정답입니다. graduate는 '졸업하다', hesitate는 '주저하다', circulate는 '회람시키다, 순환하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - evaluate(평가하다)]",
     "difficulty": "medium"
   },
@@ -1494,12 +1494,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The beverage company plans to _______ its product line by adding a range of herbal teas.",
     "options": [
-      "notify",
-      "verify",
       "testify",
-      "diversify"
+      "verify",
+      "diversify",
+      "notify"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'허브차 제품군을 추가해 제품 라인을 다양화한다'는 문맥이므로 diversify(다양화하다)가 정답입니다(diversify a product line). notify는 '통지하다', testify는 '증언하다', verify는 '확인·검증하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - diversify(다양화하다)]",
     "difficulty": "hard"
   },
@@ -1509,12 +1509,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Organizers were forced to _______ the outdoor concert because of the approaching storm.",
     "options": [
-      "postpone",
-      "prolong",
       "proceed",
+      "prolong",
+      "postpone",
       "pretend"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'폭풍 때문에 야외 공연을 연기할 수밖에 없었다'는 문맥이므로 postpone(연기하다)이 정답입니다. prolong은 '(기간을) 연장하다', proceed는 자동사로 '진행하다', pretend는 '~인 척하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - postpone(연기하다) vs prolong(연장하다)]",
     "difficulty": "medium"
   },
@@ -1524,12 +1524,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Employees can _______ the updated handbook from the company intranet at any time.",
     "options": [
-      "decline",
-      "download",
       "deliver",
-      "decrease"
+      "decline",
+      "decrease",
+      "download"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "'사내 인트라넷에서 안내서를 내려받을 수 있다'는 문맥이므로 download(내려받다)가 정답입니다. decline은 '거절하다, 감소하다', deliver는 '배달하다', decrease는 '감소시키다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - download from]",
     "difficulty": "easy"
   },
@@ -1540,11 +1540,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The loyalty program was launched to _______ repeat customers to the online store.",
     "options": [
       "attach",
-      "attend",
       "attract",
+      "attend",
       "attempt"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "'단골 고객을 온라인 매장으로 끌어들이기 위해'라는 문맥이므로 attract(끌어들이다, 유치하다)가 정답입니다(attract customers). attach는 '첨부하다', attend는 '참석하다', attempt는 '시도하다'로 의미가 맞지 않습니다. [어휘 포인트: 형태가 유사한 동사 구별 - attract(유치하다)]",
     "difficulty": "medium"
   },
@@ -1554,12 +1554,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Market analysts _______ that demand for electric vehicles will double within five years.",
     "options": [
+      "predict",
       "prescribe",
-      "prevent",
       "preserve",
-      "predict"
+      "prevent"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "'수요가 두 배가 될 것이라고 전망한다'는 문맥이므로 predict(예측하다)가 정답입니다(predict that절). prevent는 '막다', preserve는 '보존하다', prescribe는 '처방하다, 규정하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - predict(예측하다)]",
     "difficulty": "medium"
   },
@@ -1569,12 +1569,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Audience members are asked to _______ from using flash photography during the performance.",
     "options": [
-      "refrain",
-      "remain",
       "retain",
-      "restrain"
+      "refrain",
+      "restrain",
+      "remain"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "빈칸 뒤의 from -ing와 결합해 '~하는 것을 삼가다'를 뜻하는 refrain이 정답입니다(refrain from -ing). retain은 '보유하다', remain은 '남아 있다', restrain은 '저지하다'로 타동사라 목적어가 필요합니다. [어휘 포인트: 형태가 유사한 동사 구별 - refrain from -ing]",
     "difficulty": "hard"
   },
@@ -1584,12 +1584,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "All food processing facilities must _______ with the revised safety regulations by July 1.",
     "options": [
-      "reply",
-      "comply",
+      "imply",
       "supply",
-      "imply"
+      "comply",
+      "reply"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "빈칸 뒤의 with와 결합해 '(규정을) 준수하다'를 뜻하는 comply가 정답입니다(comply with regulations). reply는 reply to(~에 답하다), imply는 '암시하다', supply는 '공급하다'로 의미와 전치사 결합이 맞지 않습니다. [어휘 포인트: 형태가 유사한 동사 구별 - comply with]",
     "difficulty": "hard"
   },
@@ -1599,12 +1599,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Technicians will _______ the updated accounting software on all office computers this weekend.",
     "options": [
-      "inquire",
       "instruct",
-      "install",
-      "insert"
+      "inquire",
+      "insert",
+      "install"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "'모든 사무용 컴퓨터에 소프트웨어를 설치한다'는 문맥이므로 install(설치하다)이 정답입니다. instruct는 '지시하다, 가르치다', inquire는 '문의하다', insert는 '끼워 넣다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - install software]",
     "difficulty": "easy"
   },
@@ -1614,12 +1614,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "At the shareholders' meeting, the CEO will _______ the company's five-year growth strategy.",
     "options": [
-      "outweigh",
-      "outnumber",
       "outlast",
-      "outline"
+      "outweigh",
+      "outline",
+      "outnumber"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'주주총회에서 5개년 성장 전략의 개요를 설명한다'는 문맥이므로 outline(개요를 설명하다)이 정답입니다. outweigh는 '~보다 중요하다', outlast는 '~보다 오래가다', outnumber는 '수적으로 우세하다'로 의미가 맞지 않습니다. [어휘 포인트: 동사 어휘 - outline a strategy]",
     "difficulty": "medium"
   },
@@ -1629,12 +1629,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please retain your _______ as proof of purchase in case you need to return the item.",
     "options": [
-      "receipt",
-      "reception",
       "recipe",
-      "receiver"
+      "receiver",
+      "receipt",
+      "reception"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'구매 증빙으로 영수증을 보관하라'는 문맥이므로 receipt(영수증)가 정답입니다. recipe는 '조리법', reception은 '접수처, 환영회', receiver는 '수신자, 수화기'로 형태는 비슷하지만 의미가 전혀 다릅니다. [어휘 포인트: 형태가 유사한 명사 구별 - receipt(영수증)]",
     "difficulty": "easy"
   },
@@ -1645,11 +1645,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The resort received outstanding reviews for the _______ of its front-desk staff.",
     "options": [
       "currency",
-      "courtesy",
       "ceremony",
-      "category"
+      "category",
+      "courtesy"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "'프런트 직원들의 정중함으로 호평을 받았다'는 문맥이므로 courtesy(공손함, 정중함)가 정답입니다. currency는 '통화', ceremony는 '의식', category는 '범주'로 의미가 맞지 않습니다. [어휘 포인트: 명사 어휘 - courtesy(정중함)]",
     "difficulty": "medium"
   },
@@ -1659,12 +1659,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Owing to a scheduling _______, the budget meeting has been moved to 3:00 P.M.",
     "options": [
-      "comfort",
       "contract",
       "conflict",
+      "comfort",
       "concept"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "scheduling conflict(일정 겹침, 일정 충돌)는 빈출 복합 표현으로 conflict가 정답입니다. contract는 '계약', comfort는 '편안함', concept는 '개념'으로 일정 변경의 이유가 될 수 없습니다. [어휘 포인트: 명사 어휘 - scheduling conflict]",
     "difficulty": "medium"
   },
@@ -1674,12 +1674,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The lease includes a _______ allowing either party to terminate the agreement with 60 days' notice.",
     "options": [
-      "profession",
+      "provision",
       "possession",
       "procession",
-      "provision"
+      "profession"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "'계약을 해지할 수 있도록 허용하는 조항'이라는 문맥이므로 provision(조항, 규정)이 정답입니다. profession은 '직업', possession은 '소유', procession은 '행렬'로 형태는 비슷하지만 의미가 다릅니다. [어휘 포인트: 형태가 유사한 명사 구별 - provision(조항)]",
     "difficulty": "hard"
   },
@@ -1719,8 +1719,8 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The city council has approved additional funding for the _______ of the historic library building.",
     "options": [
-      "resignation",
       "reservation",
+      "resignation",
       "renovation",
       "repetition"
     ],
@@ -1734,12 +1734,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Under the new flexible-work _______, staff may work remotely up to three days per week.",
     "options": [
-      "appliance",
       "applause",
-      "appearance",
-      "arrangement"
+      "appliance",
+      "arrangement",
+      "appearance"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'새로운 유연 근무 제도하에서'라는 문맥이므로 arrangement(제도, 방식, 합의)가 정답입니다(work arrangement: 근무 방식). appliance는 '가전제품', appearance는 '외모, 출현', applause는 '박수'로 의미가 맞지 않습니다. [어휘 포인트: 명사 어휘 - work arrangement(근무 방식)]",
     "difficulty": "hard"
   },
@@ -1749,12 +1749,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Inquiries about benefits and vacation time should be sent to the human resources _______.",
     "options": [
-      "department",
       "departure",
+      "department",
       "dependence",
       "deposit"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'복리후생 관련 문의는 인사부로 보내라'는 문맥이므로 department(부서)가 정답입니다(human resources department: 인사부). departure는 '출발', dependence는 '의존', deposit은 '보증금, 예치금'으로 의미가 맞지 않습니다. [어휘 포인트: 형태가 유사한 명사 구별 - department vs departure]",
     "difficulty": "easy"
   },
@@ -1764,12 +1764,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The visiting violinist received a lengthy standing _______ at the close of the concert.",
     "options": [
-      "operation",
-      "ovation",
       "occupation",
-      "obligation"
+      "operation",
+      "obligation",
+      "ovation"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "standing ovation(기립 박수)은 굳어진 표현으로 ovation이 정답입니다. operation은 '운영, 수술', occupation은 '직업', obligation은 '의무'로 의미가 맞지 않습니다. [어휘 포인트: 명사 콜로케이션 - standing ovation]",
     "difficulty": "hard"
   },
@@ -1781,10 +1781,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "options": [
       "apparel",
       "appraisal",
-      "approval",
-      "applause"
+      "applause",
+      "approval"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "regulatory approval(규제 당국의 승인)은 빈출 콜로케이션으로 approval(승인)이 정답입니다. appraisal은 '감정, 평가'로 합병 완료의 조건이라는 문맥에 맞지 않고, apparel은 '의류', applause는 '박수'입니다. [어휘 포인트: 명사 콜로케이션 - regulatory approval]",
     "difficulty": "hard"
   },
@@ -1809,12 +1809,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The workshop is free of charge, but advance _______ is required because seating is limited.",
     "options": [
+      "repetition",
       "registration",
-      "regulation",
       "restoration",
-      "repetition"
+      "regulation"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'좌석이 한정되어 사전 등록이 필요하다'는 문맥이므로 registration(등록)이 정답입니다(advance registration: 사전 등록). restoration은 '복원', regulation은 '규정', repetition은 '반복'으로 의미가 맞지 않습니다. [어휘 포인트: 형태가 유사한 명사 구별 - registration(등록)]",
     "difficulty": "medium"
   },
@@ -1824,10 +1824,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Citing the _______ of the ongoing negotiations, the spokesperson declined to give any details.",
     "options": [
-      "configuration",
+      "congratulation",
       "confidentiality",
       "confirmation",
-      "congratulation"
+      "configuration"
     ],
     "answer": 1,
     "explanation": "'협상의 기밀성을 이유로 세부 사항을 밝히지 않았다'는 문맥이므로 confidentiality(기밀성)가 정답입니다. configuration은 '구성, 배치', confirmation은 '확인', congratulation은 '축하'로 의미가 맞지 않습니다. [어휘 포인트: 명사 어휘 - confidentiality(기밀성)]",
@@ -1840,9 +1840,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Flight attendants gave brief safety _______ before the aircraft pushed back from the gate.",
     "options": [
       "instruments",
-      "instructors",
+      "institutions",
       "instructions",
-      "institutions"
+      "instructors"
     ],
     "answer": 2,
     "explanation": "'이륙 전 안전 수칙을 안내했다'는 문맥이므로 instructions(지시, 안내 사항)가 정답입니다(safety instructions: 안전 수칙). instructors는 '강사들', instruments는 '기구, 악기', institutions는 '기관'으로 의미가 맞지 않습니다. [어휘 포인트: 사람명사 vs 사물명사 - instructions(안내)]",
@@ -1854,9 +1854,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The assembly instructions were so _______ that even first-time users finished the job in minutes.",
     "options": [
+      "urgent",
       "spacious",
       "narrow",
-      "urgent",
       "clear"
     ],
     "answer": 3,
@@ -1869,12 +1869,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Tickets for the summer festival are _______ online and at the stadium box office.",
     "options": [
-      "available",
-      "agreeable",
       "avoidable",
-      "adjustable"
+      "available",
+      "adjustable",
+      "agreeable"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'입장권은 온라인과 매표소에서 구할 수 있다'는 문맥이므로 available(구매 가능한, 이용 가능한)이 정답입니다. avoidable은 '피할 수 있는', agreeable은 '쾌적한, 동의하는', adjustable은 '조절 가능한'으로 의미가 맞지 않습니다. [어휘 포인트: 형용사 어휘 - available(구입 가능한)]",
     "difficulty": "easy"
   },
@@ -1884,12 +1884,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Parking near the arena is extremely _______ on event days, so early arrival is advised.",
     "options": [
-      "literal",
-      "limited",
+      "lengthy",
       "liable",
-      "lengthy"
+      "limited",
+      "literal"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'행사 당일에는 주차 공간이 매우 부족하므로 일찍 도착하라'는 문맥이므로 limited(한정된, 제한된)가 정답입니다. literal은 '문자 그대로의', liable은 '책임이 있는, ~하기 쉬운', lengthy는 '장황한, 긴'으로 의미가 맞지 않습니다. [어휘 포인트: 형용사 어휘 - limited(한정된)]",
     "difficulty": "medium"
   },
@@ -1899,12 +1899,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The figures in the appendix are fully _______ with those cited in the main report.",
     "options": [
-      "constant",
       "continuous",
-      "consistent",
-      "considerate"
+      "considerate",
+      "constant",
+      "consistent"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "빈칸 뒤의 with와 결합해 '~와 일치하는'을 뜻하는 consistent가 정답입니다(be consistent with). constant는 '끊임없는', continuous는 '연속적인', considerate는 '배려심 있는'으로 형태는 비슷하지만 의미와 전치사 결합이 다릅니다. [어휘 포인트: 형태가 유사한 형용사 구별 - consistent with]",
     "difficulty": "hard"
   },
@@ -1915,11 +1915,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Ms. Romero is _______ for overseeing all warehouse operations during the night shift.",
     "options": [
       "responsive",
+      "responsible",
       "respectful",
-      "respective",
-      "responsible"
+      "respective"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "빈칸 뒤의 for와 결합해 '~을 담당하는'을 뜻하는 responsible이 정답입니다(be responsible for). responsive는 '반응이 빠른(responsive to)', respectful은 '공손한', respective는 '각각의'로 의미가 맞지 않습니다. [어휘 포인트: 형태가 유사한 형용사 구별 - responsible for]",
     "difficulty": "easy"
   },
@@ -1929,12 +1929,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The departure lounge became _______ after three afternoon flights were canceled.",
     "options": [
-      "crowded",
-      "courteous",
       "curious",
-      "casual"
+      "casual",
+      "courteous",
+      "crowded"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'세 편의 항공편이 결항되어 대합실이 붐비게 되었다'는 문맥이므로 crowded(붐비는, 혼잡한)가 정답입니다. courteous는 '공손한', curious는 '호기심 많은', casual은 '격식 없는'으로 장소를 묘사하기에 적절하지 않습니다. [어휘 포인트: 형용사 어휘 - crowded(붐비는)]",
     "difficulty": "easy"
   },
@@ -1944,10 +1944,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The judges found the design _______ but ultimately selected a more affordable concept.",
     "options": [
-      "appalling",
+      "applying",
       "appealing",
-      "appointing",
-      "applying"
+      "appalling",
+      "appointing"
     ],
     "answer": 1,
     "explanation": "'심사위원들이 그 디자인을 매력적이라고 평가했지만 더 저렴한 안을 택했다'는 문맥이므로 appealing(매력적인)이 정답입니다. appalling은 '끔찍한'으로 뒤 문맥과 모순되고, appointing과 applying은 형용사로 쓰여 대상을 평가하는 의미를 만들 수 없습니다. [어휘 포인트: 형태가 유사한 형용사 구별 - appealing vs appalling]",
@@ -1959,12 +1959,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Customer feedback on the redesigned mobile app has been overwhelmingly _______.",
     "options": [
-      "punctual",
       "portable",
       "positive",
-      "previous"
+      "previous",
+      "punctual"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "'개편된 앱에 대한 고객 반응이 압도적으로 긍정적이었다'는 문맥이므로 positive(긍정적인)가 정답입니다. portable은 '휴대 가능한', punctual은 '시간을 지키는', previous는 '이전의'로 피드백을 묘사할 수 없습니다. [어휘 포인트: 형용사 어휘 - positive feedback]",
     "difficulty": "medium"
   },
@@ -1974,12 +1974,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "With the submission deadline _______, the grant-writing team has canceled all nonessential meetings.",
     "options": [
-      "immune",
-      "immense",
+      "imminent",
       "immediate",
-      "imminent"
+      "immense",
+      "immune"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation": "'마감일이 임박하여 불필요한 회의를 모두 취소했다'는 문맥이므로 imminent(임박한)가 정답입니다. immediate(즉각적인)는 '곧 닥칠'이라는 의미가 아니라 '지체 없는'의 뜻이라 어색하며, immune은 '면역의', immense는 '거대한'입니다. [어휘 포인트: 형태가 유사한 형용사 구별 - imminent(임박한)]",
     "difficulty": "hard"
   },
@@ -1990,9 +1990,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "Thanks to its sliding-scale fees, the clinic is _______ to patients on almost any budget.",
     "options": [
       "accessible",
+      "abundant",
       "accidental",
-      "adjacent",
-      "abundant"
+      "adjacent"
     ],
     "answer": 0,
     "explanation": "'차등 요금제 덕분에 거의 모든 형편의 환자가 이용할 수 있다'는 문맥이므로 accessible(이용 가능한, 접근 가능한)이 정답입니다(accessible to). accidental은 '우연한', adjacent는 '인접한', abundant는 '풍부한'으로 의미가 맞지 않습니다. [어휘 포인트: 형용사 어휘 - accessible to]",
@@ -2004,12 +2004,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Mr. Okafor is _______ about renewable energy and frequently speaks at community events.",
     "options": [
+      "punctual",
       "partial",
-      "passionate",
       "peculiar",
-      "punctual"
+      "passionate"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation": "빈칸 뒤의 about과 결합해 '~에 열정적인'을 뜻하는 passionate가 정답입니다(be passionate about). partial은 '부분적인, 편파적인', peculiar는 '기이한', punctual은 '시간을 지키는'으로 의미가 맞지 않습니다. [어휘 포인트: 형용사 어휘 - passionate about]",
     "difficulty": "medium"
   },
@@ -2020,11 +2020,11 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "question": "The salary listed in the offer is _______, so candidates may discuss it during the final interview.",
     "options": [
       "noticeable",
-      "notable",
       "negotiable",
-      "numerous"
+      "numerous",
+      "notable"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation": "'제시된 급여는 협상 가능하므로 최종 면접에서 논의할 수 있다'는 문맥이므로 negotiable(협상 가능한)이 정답입니다. notable은 '주목할 만한', noticeable은 '눈에 띄는', numerous는 '수많은'으로 의미가 맞지 않습니다. [어휘 포인트: 형용사 어휘 - negotiable(협상 가능한)]",
     "difficulty": "hard"
   },
@@ -2034,12 +2034,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Please use the _______ entrance on Pine Street while the main lobby is being repaired.",
     "options": [
-      "rude",
-      "raw",
       "ripe",
-      "rear"
+      "rude",
+      "rear",
+      "raw"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'본관 로비 수리 중에는 뒤쪽 출입구를 이용하라'는 문맥이므로 rear(뒤쪽의)가 정답입니다(rear entrance: 후문). raw는 '날것의', ripe는 '익은', rude는 '무례한'으로 출입구를 수식할 수 없습니다. [어휘 포인트: 형용사 어휘 - rear entrance(후문)]",
     "difficulty": "easy"
   },
@@ -2064,12 +2064,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Despite the severe weather, the express shipment arrived _______ on time.",
     "options": [
+      "equally",
       "eagerly",
       "exactly",
-      "evenly",
-      "equally"
+      "evenly"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "'악천후에도 정확히 제시간에 도착했다'는 문맥이므로 exactly(정확히)가 정답입니다(exactly on time). eagerly는 '열심히', evenly는 '고르게', equally는 '똑같이'로 on time을 강조하는 표현으로 쓸 수 없습니다. [어휘 포인트: 부사 어휘 - exactly on time]",
     "difficulty": "medium"
   },
@@ -2079,12 +2079,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The Maple Street branch is _______ closed for renovations and will reopen in early May.",
     "options": [
-      "typically",
-      "terribly",
       "temporarily",
-      "tightly"
+      "typically",
+      "tightly",
+      "terribly"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "'보수 공사로 일시적으로 문을 닫았고 5월 초에 다시 연다'는 문맥이므로 temporarily(일시적으로)가 정답입니다. typically는 '일반적으로', terribly는 '몹시', tightly는 '단단히'로 의미가 맞지 않습니다. [어휘 포인트: 부사 어휘 - temporarily closed]",
     "difficulty": "medium"
   },
@@ -2094,9 +2094,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Because seats fill quickly, we _______ recommend reserving your spot at least two weeks in advance.",
     "options": [
+      "widely",
       "deeply",
       "closely",
-      "widely",
       "highly"
     ],
     "answer": 3,
@@ -2109,12 +2109,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The procurement and finance teams work _______ to ensure invoices are processed without delay.",
     "options": [
-      "closely",
-      "lately",
       "nearly",
+      "lately",
+      "closely",
       "shortly"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "work closely (with/together)(긴밀히 협력하다)는 빈출 콜로케이션으로 closely(긴밀하게)가 정답입니다. lately는 '최근에', nearly는 '거의', shortly는 '곧'으로 work를 수식해 협력의 의미를 만들 수 없습니다. [어휘 포인트: 부사 콜로케이션 - work closely]",
     "difficulty": "hard"
   },
@@ -2124,9 +2124,9 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Ms. Lee checks the customer support inbox _______ throughout the business day.",
     "options": [
-      "fluently",
-      "frequently",
       "firmly",
+      "frequently",
+      "fluently",
       "faintly"
     ],
     "answer": 1,
@@ -2139,12 +2139,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Including the question-and-answer session, the seminar lasted _______ two hours.",
     "options": [
-      "apparently",
-      "appropriately",
       "approximately",
+      "appropriately",
+      "apparently",
       "approvingly"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation": "숫자 표현(two hours) 앞에서 '대략, 약'을 뜻하는 approximately가 정답입니다(approximately + 수치). apparently는 '보아하니', appropriately는 '적절하게', approvingly는 '만족스러운 듯이'로 수치를 수식하기에 적절하지 않습니다. [어휘 포인트: 부사 어휘 - approximately + 수치]",
     "difficulty": "medium"
   },
@@ -2154,12 +2154,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The skincare line has sold well domestically and is now being marketed _______ as well.",
     "options": [
-      "internally",
-      "intentionally",
       "initially",
-      "internationally"
+      "internally",
+      "internationally",
+      "intentionally"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation": "'국내에서 잘 팔렸고 이제 해외에서도 판매된다'는 문맥으로, domestically(국내에서)와 대비되는 internationally(국제적으로, 해외에서)가 정답입니다. internally는 '내부적으로', intentionally는 '의도적으로', initially는 '처음에'입니다. [어휘 포인트: 형태가 유사한 부사 구별 - internationally vs internally]",
     "difficulty": "medium"
   },
@@ -2169,12 +2169,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Invoices that are not settled _______ will incur a 2 percent late-payment fee.",
     "options": [
-      "promptly",
       "possibly",
       "previously",
-      "primarily"
+      "primarily",
+      "promptly"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'제때 결제되지 않은 청구서에는 연체료가 부과된다'는 문맥이므로 promptly(신속히, 제때)가 정답입니다. possibly는 '아마도', previously는 '이전에', primarily는 '주로'로 의미가 맞지 않습니다. [어휘 포인트: 부사 어휘 - promptly(신속히)]",
     "difficulty": "hard"
   },
@@ -2184,10 +2184,10 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "Thanks to careful cost control, the renovation project came in well _______ budget.",
     "options": [
-      "inside",
-      "under",
       "among",
-      "beside"
+      "under",
+      "beside",
+      "inside"
     ],
     "answer": 1,
     "explanation": "come in under budget(예산보다 적게 들다)은 굳어진 관용 표현으로 under가 정답입니다. inside/among/beside는 budget과 결합해 '예산 미만으로'라는 관용적 의미를 만들지 못합니다. [어휘 포인트: 관용 표현 - under budget]",
@@ -2199,12 +2199,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The freight elevator will be out of _______ until further notice while repairs are made.",
     "options": [
-      "serving",
+      "server",
       "servant",
-      "service",
-      "server"
+      "serving",
+      "service"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation": "out of service(운행 중지, 사용 불가)는 굳어진 관용 표현으로 service가 정답입니다. serving(제공, 1인분), servant(하인), server(서버, 종업원)는 이 표현에 쓸 수 없습니다. [어휘 포인트: 관용 표현 - out of service]",
     "difficulty": "hard"
   },
@@ -2214,12 +2214,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "In _______ to your inquiry, we have attached our current wholesale price list.",
     "options": [
-      "addition",
-      "case",
       "order",
-      "response"
+      "response",
+      "case",
+      "addition"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation": "in response to(~에 대한 회신으로, ~에 응하여)는 비즈니스 서신의 빈출 관용 표현으로 response가 정답입니다. in addition to는 '~에 더하여'로 문맥이 맞지 않고, in case는 of나 절과 결합하며, in order는 to부정사(동사원형)와 결합합니다. [어휘 포인트: 관용 표현 - in response to]",
     "difficulty": "hard"
   },
@@ -2229,12 +2229,12 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "All staff must attend the safety briefing _______ of their department or seniority.",
     "options": [
-      "regardless",
       "regards",
-      "regarding",
-      "regarded"
+      "regardless",
+      "regarded",
+      "regarding"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "빈칸 뒤의 of와 결합해 '~에 상관없이'를 뜻하는 regardless가 정답입니다(regardless of). regarding은 '~에 관하여'로 of 없이 쓰며, regards는 명사(안부), regarded는 과거분사입니다. [어휘 포인트: 관용 표현 - regardless of]",
     "difficulty": "hard"
   },
@@ -2244,13 +2244,14563 @@ export const PART5_QUESTIONS: BankQuestion[] = [
     "type": "RC",
     "question": "The café is directly _______ the street from the train station's north exit.",
     "options": [
-      "among",
       "across",
-      "behind",
-      "beneath"
+      "beneath",
+      "among",
+      "behind"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "across the street from(~의 길 건너편에)은 위치를 나타내는 굳어진 표현으로 across가 정답입니다. among은 '~ 사이에(셋 이상)', behind는 '~ 뒤에', beneath는 '~ 아래에'로 from과 결합하는 이 관용 표현을 만들 수 없습니다. [어휘 포인트: 관용 표현 - across the street from]",
     "difficulty": "medium"
+  },
+  {
+    "id": "p5-0151",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing team completed the _______ of the new product line ahead of schedule.",
+    "options": [
+      "analyze",
+      "analysis",
+      "analytically",
+      "analytical"
+    ],
+    "answer": 1,
+    "explanation": "관사 the와 전치사 of 사이의 자리는 명사 자리이다. 'analysis(분석)'가 명사이므로 정답. analyze는 동사, analytical은 형용사, analytically는 부사로 모두 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0152",
+    "part": 5,
+    "type": "RC",
+    "question": "All visitors must wear their identification badges _______ while inside the building.",
+    "options": [
+      "visibility",
+      "visible",
+      "vision",
+      "visibly"
+    ],
+    "answer": 3,
+    "explanation": "동사 wear와 그 목적어 뒤에서 동작 방식을 꾸미는 부사가 필요하다. 'visibly(눈에 띄게)'가 부사이므로 정답. visible은 형용사, visibility/vision은 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0153",
+    "part": 5,
+    "type": "RC",
+    "question": "The new accounting software has greatly improved the _______ of our monthly reports.",
+    "options": [
+      "accuracy",
+      "accurate",
+      "accurately",
+      "accurateness"
+    ],
+    "answer": 0,
+    "explanation": "the와 of 사이는 명사 자리. 'accuracy(정확성)'가 가장 자연스러운 명사로 정답. accurate는 형용사, accurately는 부사. accurateness는 거의 쓰이지 않는 형태로 정답이 아니다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0154",
+    "part": 5,
+    "type": "RC",
+    "question": "Ms. Tanaka was praised for her _______ handling of the customer complaint.",
+    "options": [
+      "professional",
+      "profession",
+      "professionalism",
+      "professionally"
+    ],
+    "answer": 0,
+    "explanation": "소유격 her와 명사 handling 사이는 명사를 수식하는 형용사 자리. 'professional(전문적인)'이 형용사로 정답. profession/professionalism은 명사, professionally는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0155",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will review the proposal _______ before making a final decision.",
+    "options": [
+      "thoroughness",
+      "thoroughly",
+      "thorough",
+      "more thorough"
+    ],
+    "answer": 1,
+    "explanation": "동사 review를 수식하는 자리이므로 부사가 필요하다. 'thoroughly(철저히)'가 부사로 정답. thorough는 형용사, thoroughness는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0156",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees who exceed their sales targets will receive a _______ bonus.",
+    "options": [
+      "substance",
+      "substantially",
+      "substantiate",
+      "substantial"
+    ],
+    "answer": 3,
+    "explanation": "명사 bonus를 수식하는 형용사 자리. 'substantial(상당한)'이 정답. substance는 명사, substantially는 부사, substantiate는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0157",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory operates with remarkable _______ during peak production periods.",
+    "options": [
+      "more efficient",
+      "efficient",
+      "efficiently",
+      "efficiency"
+    ],
+    "answer": 3,
+    "explanation": "형용사 remarkable의 수식을 받는 명사 자리. 'efficiency(효율성)'가 명사로 정답. efficient는 형용사, efficiently는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0158",
+    "part": 5,
+    "type": "RC",
+    "question": "The director made the announcement _______ to avoid any confusion among staff.",
+    "options": [
+      "clearness",
+      "clear",
+      "clarity",
+      "clearly"
+    ],
+    "answer": 3,
+    "explanation": "동사 made the announcement(완전한 구조) 뒤에서 동작을 수식하는 부사 자리. 'clearly(명확하게)'가 정답. clear는 형용사, clarity/clearness는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0159",
+    "part": 5,
+    "type": "RC",
+    "question": "Our company is committed to the _______ of high-quality customer service.",
+    "options": [
+      "provider",
+      "provision",
+      "provided",
+      "provide"
+    ],
+    "answer": 1,
+    "explanation": "the와 of 사이는 명사 자리. 'provision(제공)'이 추상명사로 정답. provide는 동사, provider는 '제공자'로 의미상 부적절, provided는 분사/접속사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0160",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation project was _______ delayed due to unexpected supply shortages.",
+    "options": [
+      "significance",
+      "significantly",
+      "signify",
+      "significant"
+    ],
+    "answer": 1,
+    "explanation": "be동사와 과거분사 delayed 사이에서 동사(분사)를 수식하는 부사 자리. 'significantly(상당히)'가 정답. significant는 형용사, significance는 명사, signify는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0161",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar provided valuable _______ for first-time managers.",
+    "options": [
+      "guidance",
+      "guided",
+      "guide",
+      "guiding"
+    ],
+    "answer": 0,
+    "explanation": "형용사 valuable의 수식을 받는 명사 자리. 'guidance(지도, 안내)'가 불가산명사로 정답. guide는 가산명사(셀 수 있음)로 a guide가 되어야 자연스럽고, guided/guiding은 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0162",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy applies to all departments _______ of their location.",
+    "options": [
+      "regard",
+      "regardless",
+      "regarded",
+      "regarding"
+    ],
+    "answer": 1,
+    "explanation": "'regardless of(~에 상관없이)'는 고정 표현이다. 'regardless'가 정답. regarding은 '~에 관하여'로 of와 함께 쓰지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0163",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician explained the procedure as _______ as possible to the new hires.",
+    "options": [
+      "simply",
+      "simplicity",
+      "simple",
+      "simplify"
+    ],
+    "answer": 0,
+    "explanation": "동사 explained를 수식하는 'as ___ as' 구조에서 동작 방식을 꾸미므로 부사가 필요하다. 'simply(간단하게)'가 정답. simple은 형용사, simplicity는 명사, simplify는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0164",
+    "part": 5,
+    "type": "RC",
+    "question": "Investors expressed _______ about the company's long-term growth strategy.",
+    "options": [
+      "confidential",
+      "confidence",
+      "confident",
+      "confidently"
+    ],
+    "answer": 1,
+    "explanation": "동사 expressed의 목적어가 되는 명사 자리. 'confidence(확신)'가 정답. confident/confidential은 형용사, confidently는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0165",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor reviewed each application _______ before approving it.",
+    "options": [
+      "carefully",
+      "careful",
+      "careless",
+      "care"
+    ],
+    "answer": 0,
+    "explanation": "동사 reviewed를 수식하는 부사 자리. 'carefully(신중하게)'가 정답. careful/careless는 형용사, care는 명사/동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0166",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference room is equipped with the latest presentation _______.",
+    "options": [
+      "technologically",
+      "technology",
+      "technologist",
+      "technological"
+    ],
+    "answer": 1,
+    "explanation": "명사 presentation과 복합명사를 이루는 명사 자리. 'technology(기술)'가 정답. technological은 형용사, technologically는 부사, technologist는 '기술자'로 의미상 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0167",
+    "part": 5,
+    "type": "RC",
+    "question": "The board approved the merger _______, with all members voting in favor.",
+    "options": [
+      "unanimity",
+      "unanimous",
+      "unanimously",
+      "unanimousness"
+    ],
+    "answer": 2,
+    "explanation": "동사 approved를 수식하는 부사 자리. 'unanimously(만장일치로)'가 정답. unanimous는 형용사, unanimity는 명사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0168",
+    "part": 5,
+    "type": "RC",
+    "question": "Customer satisfaction remains the _______ priority for our service department.",
+    "options": [
+      "height",
+      "highest",
+      "highly",
+      "high"
+    ],
+    "answer": 1,
+    "explanation": "the와 명사 priority 사이에서 최상의 의미를 나타내는 형용사 최상급 자리. 'highest(가장 높은)'가 정답. highly는 부사, height는 명사. the top/highest priority가 자연스럽다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0169",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions were written so _______ that even beginners could follow them.",
+    "options": [
+      "clear",
+      "clearly",
+      "clarity",
+      "clearness"
+    ],
+    "answer": 1,
+    "explanation": "be동사 + 과거분사 written을 수식하는 자리로 부사가 필요하다. 'clearly(명확하게)'가 정답. clear는 형용사, clarity/clearness는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0170",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm's _______ to environmental standards earned it an industry award.",
+    "options": [
+      "adherent",
+      "adherence",
+      "adhering",
+      "adhere"
+    ],
+    "answer": 1,
+    "explanation": "소유격 firm's와 전치사 to 사이는 명사 자리. 'adherence(준수)'가 정답. adhere는 동사, adherent는 '지지자'로 의미상 부적절, adhering은 분사/동명사이나 소유격 뒤 명사로는 adherence가 적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0171",
+    "part": 5,
+    "type": "RC",
+    "question": "The new intern works _______ and rarely needs supervision.",
+    "options": [
+      "independently",
+      "independent",
+      "depend",
+      "independence"
+    ],
+    "answer": 0,
+    "explanation": "동사 works를 수식하는 부사 자리. 'independently(독립적으로)'가 정답. independent는 형용사, independence는 명사, depend는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0172",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager emphasized the _______ of meeting all project deadlines.",
+    "options": [
+      "more important",
+      "importantly",
+      "importance",
+      "important"
+    ],
+    "answer": 2,
+    "explanation": "the와 of 사이는 명사 자리. 'importance(중요성)'가 정답. important는 형용사, importantly는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0173",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was rejected because it lacked sufficient _______.",
+    "options": [
+      "detail",
+      "details",
+      "detailed",
+      "detailing"
+    ],
+    "answer": 0,
+    "explanation": "형용사 sufficient의 수식을 받는 명사 자리. 'detail(세부사항)'은 불가산으로 sufficient detail이 자연스럽다. detailed는 분사형용사, detailing은 동명사. details(복수)는 sufficient와 함께 쓰면 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0174",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales figures rose _______ after the launch of the advertising campaign.",
+    "options": [
+      "dramatic",
+      "dramatize",
+      "dramatically",
+      "drama"
+    ],
+    "answer": 2,
+    "explanation": "자동사 rose를 수식하는 부사 자리. 'dramatically(극적으로)'가 정답. dramatic은 형용사, drama는 명사, dramatize는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0175",
+    "part": 5,
+    "type": "RC",
+    "question": "The company offers _______ training programs to all newly hired staff.",
+    "options": [
+      "extensive",
+      "extensively",
+      "extend",
+      "extension"
+    ],
+    "answer": 0,
+    "explanation": "명사 training programs를 수식하는 형용사 자리. 'extensive(광범위한)'가 정답. extend는 동사, extensively는 부사, extension은 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0176",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor's report highlighted several _______ in the financial records.",
+    "options": [
+      "discrepant",
+      "discrepancy",
+      "discrepantly",
+      "discrepancies"
+    ],
+    "answer": 3,
+    "explanation": "several 뒤에는 복수 가산명사가 온다. 'discrepancies(불일치)'가 복수명사로 정답. discrepancy는 단수, discrepant는 형용사, discrepantly는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0177",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO spoke _______ about the company's plans for international expansion.",
+    "options": [
+      "enthusiastic",
+      "enthusiast",
+      "enthusiasm",
+      "enthusiastically"
+    ],
+    "answer": 3,
+    "explanation": "동사 spoke를 수식하는 부사 자리. 'enthusiastically(열정적으로)'가 정답. enthusiastic은 형용사, enthusiasm/enthusiast는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0178",
+    "part": 5,
+    "type": "RC",
+    "question": "A _______ increase in demand forced the warehouse to expand its storage capacity.",
+    "options": [
+      "steady",
+      "steadily",
+      "steadiness",
+      "steadied"
+    ],
+    "answer": 0,
+    "explanation": "명사 increase를 수식하는 형용사 자리. 'steady(꾸준한)'가 정답. steadily는 부사, steadiness는 명사, steadied는 동사 과거형.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0179",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiations proceeded _______ despite some initial disagreements.",
+    "options": [
+      "smooth",
+      "smoothness",
+      "smoothing",
+      "smoothly"
+    ],
+    "answer": 3,
+    "explanation": "자동사 proceeded를 수식하는 부사 자리. 'smoothly(순조롭게)'가 정답. smooth는 형용사, smoothness는 명사, smoothing은 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0180",
+    "part": 5,
+    "type": "RC",
+    "question": "The HR department handles all matters related to employee _______.",
+    "options": [
+      "retentive",
+      "retain",
+      "retained",
+      "retention"
+    ],
+    "answer": 3,
+    "explanation": "명사 employee와 복합명사를 이루는 명사 자리. 'retention(유지)'이 정답. retain은 동사, retentive는 형용사, retained는 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0181",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation was both informative and highly _______.",
+    "options": [
+      "engagement",
+      "engage",
+      "engaging",
+      "engagingly"
+    ],
+    "answer": 2,
+    "explanation": "be동사 보어로 형용사가 필요하고, both A and B 구조에서 informative(형용사)와 병렬되는 형용사 자리. 'engaging(흥미를 끄는)'이 분사형용사로 정답. engage는 동사, engagement는 명사, engagingly는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0182",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager has shown great _______ in resolving team conflicts.",
+    "options": [
+      "skillful",
+      "skillfully",
+      "skill",
+      "skilled"
+    ],
+    "answer": 2,
+    "explanation": "형용사 great의 수식을 받는 명사 자리. 'skill(능력)'이 정답. skillful/skilled는 형용사, skillfully는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0183",
+    "part": 5,
+    "type": "RC",
+    "question": "Our products are designed to be both durable and _______ priced.",
+    "options": [
+      "competitively",
+      "competitive",
+      "competition",
+      "compete"
+    ],
+    "answer": 0,
+    "explanation": "과거분사 priced를 수식하는 부사 자리. 'competitively(경쟁력 있게)'가 정답. competitive는 형용사, competition은 명사, compete는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0184",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee evaluated the candidates' qualifications _______.",
+    "options": [
+      "objectively",
+      "object",
+      "objective",
+      "objectivity"
+    ],
+    "answer": 0,
+    "explanation": "동사 evaluated를 수식하는 부사 자리. 'objectively(객관적으로)'가 정답. object/objectivity는 명사, objective는 형용사/명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0185",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment arrived on time, much to the _______ of the warehouse staff.",
+    "options": [
+      "relieved",
+      "relieve",
+      "relief",
+      "relieving"
+    ],
+    "answer": 2,
+    "explanation": "the와 of 사이는 명사 자리. 'relief(안도)'가 정답. relieve는 동사, relieved/relieving은 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0186",
+    "part": 5,
+    "type": "RC",
+    "question": "The training session helped employees become more _______ with the new system.",
+    "options": [
+      "familiarize",
+      "familiarity",
+      "familiarly",
+      "familiar"
+    ],
+    "answer": 3,
+    "explanation": "become의 보어로 형용사가 필요하다. 'familiar(익숙한)'가 정답. familiarly는 부사, familiarity는 명사, familiarize는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0187",
+    "part": 5,
+    "type": "RC",
+    "question": "The financial report was prepared with great _______ to detail.",
+    "options": [
+      "attentively",
+      "attention",
+      "attentive",
+      "attend"
+    ],
+    "answer": 1,
+    "explanation": "형용사 great의 수식을 받고 to와 연결되는 명사 자리. 'attention(주의)'이 정답이며 attention to detail은 흔한 표현. attentive는 형용사, attentively는 부사, attend는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0188",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor responded _______ to the urgent request from the client.",
+    "options": [
+      "promptness",
+      "prompted",
+      "prompt",
+      "promptly"
+    ],
+    "answer": 3,
+    "explanation": "동사 responded를 수식하는 부사 자리. 'promptly(즉시)'가 정답. prompt는 형용사, promptness는 명사, prompted는 동사 과거형.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0189",
+    "part": 5,
+    "type": "RC",
+    "question": "The agency provides _______ services to clients in over twenty countries.",
+    "options": [
+      "consultation",
+      "consulting",
+      "consult",
+      "consultant"
+    ],
+    "answer": 1,
+    "explanation": "명사 services를 수식하여 복합명사를 이루는 동명사/형용사 자리. 'consulting(컨설팅)'이 services와 결합해 자연스럽다. consult는 동사, consultant는 사람명사, consultation은 행위명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0190",
+    "part": 5,
+    "type": "RC",
+    "question": "The manual explains the assembly process in a step-by-step _______.",
+    "options": [
+      "manners",
+      "mannered",
+      "mannerly",
+      "manner"
+    ],
+    "answer": 3,
+    "explanation": "형용사 step-by-step의 수식을 받는 단수 명사 자리. 'manner(방식)'가 정답. in a ___ manner는 흔한 표현이며 단수 a manner여야 한다. manners(복수)는 '예절', mannerly/mannered는 형용사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0191",
+    "part": 5,
+    "type": "RC",
+    "question": "The new equipment significantly reduced the _______ of workplace accidents.",
+    "options": [
+      "frequency",
+      "frequently",
+      "frequented",
+      "frequent"
+    ],
+    "answer": 0,
+    "explanation": "the와 of 사이는 명사 자리. 'frequency(빈도)'가 정답. frequent는 형용사/동사, frequently는 부사, frequented는 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0192",
+    "part": 5,
+    "type": "RC",
+    "question": "The architect's design was praised for its _______ and functionality.",
+    "options": [
+      "create",
+      "creative",
+      "creativity",
+      "creatively"
+    ],
+    "answer": 2,
+    "explanation": "its와 and functionality(명사)와 병렬되는 명사 자리. 'creativity(창의성)'가 정답. create는 동사, creative는 형용사, creatively는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0193",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment was delayed, _______ affecting the production schedule.",
+    "options": [
+      "consequent",
+      "consequential",
+      "consequently",
+      "consequence"
+    ],
+    "answer": 2,
+    "explanation": "분사구문 affecting을 수식하는 부사 자리. 'consequently(결과적으로)'가 정답. consequent/consequential은 형용사, consequence는 명사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0194",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's _______ to innovation has kept it ahead of competitors.",
+    "options": [
+      "committed",
+      "commit",
+      "committing",
+      "commitment"
+    ],
+    "answer": 3,
+    "explanation": "소유격 company's와 전치사 to 사이는 명사 자리. 'commitment(헌신)'가 정답. commit은 동사, committed/committing은 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0195",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees are encouraged to share their ideas _______ during meetings.",
+    "options": [
+      "openly",
+      "open",
+      "openness",
+      "opened"
+    ],
+    "answer": 0,
+    "explanation": "동사 share를 수식하는 부사 자리. 'openly(공개적으로)'가 정답. open은 형용사, openness는 명사, opened는 동사 과거형.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0196",
+    "part": 5,
+    "type": "RC",
+    "question": "The report provides a _______ overview of the regional market trends.",
+    "options": [
+      "comprehend",
+      "comprehension",
+      "comprehensive",
+      "comprehensively"
+    ],
+    "answer": 2,
+    "explanation": "명사 overview를 수식하는 형용사 자리. 'comprehensive(포괄적인)'가 정답. comprehend는 동사, comprehensively는 부사, comprehension은 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0197",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO's speech was delivered with great _______ and conviction.",
+    "options": [
+      "passion",
+      "passions",
+      "passionately",
+      "passionate"
+    ],
+    "answer": 0,
+    "explanation": "형용사 great의 수식을 받고 and conviction(명사)과 병렬되는 명사 자리. 'passion(열정)'이 정답. passionate는 형용사, passionately는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0198",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel staff treated every guest with the utmost _______.",
+    "options": [
+      "courteousness",
+      "courtesy",
+      "courteous",
+      "courteously"
+    ],
+    "answer": 1,
+    "explanation": "the utmost의 수식을 받는 명사 자리. 'courtesy(예의)'가 정답. courteous는 형용사, courteously는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0199",
+    "part": 5,
+    "type": "RC",
+    "question": "The new procedures were implemented _______ across all branch offices.",
+    "options": [
+      "uniform",
+      "uniformity",
+      "uniforms",
+      "uniformly"
+    ],
+    "answer": 3,
+    "explanation": "동사 were implemented를 수식하는 부사 자리. 'uniformly(균일하게)'가 정답. uniform은 형용사/명사, uniformity는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0200",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager's _______ instructions left no room for misunderstanding.",
+    "options": [
+      "preciseness",
+      "precision",
+      "precise",
+      "precisely"
+    ],
+    "answer": 2,
+    "explanation": "명사 instructions를 수식하는 형용사 자리. 'precise(정확한)'가 정답. precisely는 부사, precision/preciseness는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0201",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference attracted a _______ of industry professionals from around the world.",
+    "options": [
+      "diverse",
+      "diversity",
+      "diversely",
+      "diversify"
+    ],
+    "answer": 1,
+    "explanation": "부정관사 a와 전치사 of 사이는 명사 자리. 'diversity(다양성)'가 정답이며 a diversity of는 '다양한'의 의미. diverse는 형용사, diversely는 부사, diversify는 동사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0202",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician fixed the machine _______, minimizing downtime.",
+    "options": [
+      "quickly",
+      "quicker",
+      "quick",
+      "quickness"
+    ],
+    "answer": 0,
+    "explanation": "동사 fixed를 수식하는 부사 자리. 'quickly(빠르게)'가 정답. quick은 형용사, quickness는 명사, quicker는 비교급 형용사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0203",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software offers improved _______ with mobile devices.",
+    "options": [
+      "compatibles",
+      "compatibly",
+      "compatibility",
+      "compatible"
+    ],
+    "answer": 2,
+    "explanation": "형용사 improved의 수식을 받는 명사 자리. 'compatibility(호환성)'가 정답. compatible은 형용사, compatibly는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0204",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing strategy proved highly _______ in increasing brand awareness.",
+    "options": [
+      "effect",
+      "effective",
+      "effectively",
+      "effectiveness"
+    ],
+    "answer": 1,
+    "explanation": "proved의 보어로 형용사가 필요하고 부사 highly의 수식을 받는다. 'effective(효과적인)'가 정답. effect/effectiveness는 명사, effectively는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0205",
+    "part": 5,
+    "type": "RC",
+    "question": "The audit was conducted _______ to ensure full compliance with regulations.",
+    "options": [
+      "rigorous",
+      "rigorously",
+      "rigorousness",
+      "rigor"
+    ],
+    "answer": 1,
+    "explanation": "동사 was conducted를 수식하는 부사 자리. 'rigorously(엄격하게)'가 정답. rigorous는 형용사, rigor/rigorousness는 명사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0206",
+    "part": 5,
+    "type": "RC",
+    "question": "The department head delegated the task to her most _______ assistant.",
+    "options": [
+      "reliability",
+      "rely",
+      "reliably",
+      "reliable"
+    ],
+    "answer": 3,
+    "explanation": "most의 수식을 받고 명사 assistant를 꾸미는 형용사 자리. 'reliable(믿을 만한)'이 정답. rely는 동사, reliably는 부사, reliability는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0207",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers appreciated the _______ response from the support team.",
+    "options": [
+      "timeliness",
+      "time",
+      "timed",
+      "timely"
+    ],
+    "answer": 3,
+    "explanation": "명사 response를 수식하는 형용사 자리. 'timely(시기적절한)'는 -ly로 끝나지만 형용사이다. timeliness/time은 명사, timed는 분사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0208",
+    "part": 5,
+    "type": "RC",
+    "question": "The new branch manager quickly gained the _______ of her team.",
+    "options": [
+      "respect",
+      "respectable",
+      "respectful",
+      "respectfully"
+    ],
+    "answer": 0,
+    "explanation": "동사 gained의 목적어가 되는 명사 자리. 'respect(존경)'가 정답. respectful/respectable은 형용사, respectfully는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0209",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions must be followed _______ to avoid equipment damage.",
+    "options": [
+      "exact",
+      "exactly",
+      "exacting",
+      "exactness"
+    ],
+    "answer": 1,
+    "explanation": "동사 be followed를 수식하는 부사 자리. 'exactly(정확히)'가 정답. exact는 형용사, exactness는 명사, exacting은 분사형용사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0210",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy aims to improve the overall _______ of the workplace.",
+    "options": [
+      "safely",
+      "safest",
+      "safe",
+      "safety"
+    ],
+    "answer": 3,
+    "explanation": "형용사 overall의 수식을 받고 the와 of 사이에 오는 명사 자리. 'safety(안전)'가 정답. safe/safest는 형용사, safely는 부사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0211",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation slides were designed to be visually _______.",
+    "options": [
+      "appealing",
+      "appealingly",
+      "appeal",
+      "appealed"
+    ],
+    "answer": 0,
+    "explanation": "be동사 보어로 부사 visually의 수식을 받는 형용사 자리. 'appealing(매력적인)'이 분사형용사로 정답. appeal은 동사/명사, appealingly는 부사, appealed는 과거형.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0212",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm has built a strong _______ for delivering projects on time.",
+    "options": [
+      "reputedly",
+      "reputable",
+      "reputation",
+      "repute"
+    ],
+    "answer": 2,
+    "explanation": "형용사 strong의 수식을 받는 명사 자리. 'reputation(명성)'이 정답. repute는 명사/동사이나 빈도가 낮고, reputable은 형용사, reputedly는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0213",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor monitored the production line _______ throughout the shift.",
+    "options": [
+      "constant",
+      "constancy",
+      "constantly",
+      "constants"
+    ],
+    "answer": 2,
+    "explanation": "동사 monitored를 수식하는 부사 자리. 'constantly(끊임없이)'가 정답. constant는 형용사, constancy는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0214",
+    "part": 5,
+    "type": "RC",
+    "question": "The company values the _______ of its long-term employees.",
+    "options": [
+      "loyal",
+      "loyalist",
+      "loyalty",
+      "loyally"
+    ],
+    "answer": 2,
+    "explanation": "the와 of 사이는 명사 자리. 'loyalty(충성심)'가 정답. loyal은 형용사, loyally는 부사, loyalist는 사람명사로 의미상 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0215",
+    "part": 5,
+    "type": "RC",
+    "question": "The keynote speaker addressed the audience _______ and held their attention.",
+    "options": [
+      "confidential",
+      "confidently",
+      "confidence",
+      "confident"
+    ],
+    "answer": 1,
+    "explanation": "동사 addressed를 수식하는 부사 자리. 'confidently(자신 있게)'가 정답. confident/confidential은 형용사, confidence는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0216",
+    "part": 5,
+    "type": "RC",
+    "question": "The new model offers greater fuel _______ than previous versions.",
+    "options": [
+      "economical",
+      "economize",
+      "economically",
+      "economy"
+    ],
+    "answer": 3,
+    "explanation": "명사 fuel과 복합명사를 이루는 명사 자리. 'economy(경제성, 절약)'가 정답이며 fuel economy는 흔한 표현. economical은 형용사, economically는 부사, economize는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0217",
+    "part": 5,
+    "type": "RC",
+    "question": "The board members discussed the matter _______ before reaching a consensus.",
+    "options": [
+      "extensively",
+      "extend",
+      "extension",
+      "extensive"
+    ],
+    "answer": 0,
+    "explanation": "동사 discussed를 수식하는 부사 자리. 'extensively(광범위하게)'가 정답. extensive는 형용사, extension은 명사, extend는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0218",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer expressed _______ with the quality of the service.",
+    "options": [
+      "satisfied",
+      "satisfaction",
+      "satisfactory",
+      "satisfy"
+    ],
+    "answer": 1,
+    "explanation": "동사 expressed의 목적어가 되는 명사 자리. 'satisfaction(만족)'이 정답. satisfy는 동사, satisfied는 분사, satisfactory는 형용사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0219",
+    "part": 5,
+    "type": "RC",
+    "question": "The training program is designed to enhance the _______ of new employees.",
+    "options": [
+      "productive",
+      "productivity",
+      "produce",
+      "productively"
+    ],
+    "answer": 1,
+    "explanation": "the와 of 사이는 명사 자리. 'productivity(생산성)'가 정답. productive는 형용사, productively는 부사, produce는 동사/명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0220",
+    "part": 5,
+    "type": "RC",
+    "question": "The consultant offered _______ advice on improving operational efficiency.",
+    "options": [
+      "valuable",
+      "valued",
+      "valuably",
+      "value"
+    ],
+    "answer": 0,
+    "explanation": "명사 advice를 수식하는 형용사 자리. 'valuable(가치 있는)'이 정답. value는 명사/동사, valuably는 부사, valued는 분사이나 valuable이 더 자연스럽다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0221",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations were communicated _______ to all employees.",
+    "options": [
+      "effectiveness",
+      "effect",
+      "effectively",
+      "effective"
+    ],
+    "answer": 2,
+    "explanation": "동사 were communicated를 수식하는 부사 자리. 'effectively(효과적으로)'가 정답. effective는 형용사, effectiveness/effect는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0222",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal received _______ support from the executive committee.",
+    "options": [
+      "overwhelmed",
+      "overwhelm",
+      "overwhelmingly",
+      "overwhelming"
+    ],
+    "answer": 3,
+    "explanation": "명사 support를 수식하는 형용사(분사) 자리. 'overwhelming(압도적인)'이 정답. overwhelm은 동사, overwhelmingly는 부사, overwhelmed는 '압도된'으로 support를 수식하기에 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0223",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager handled the difficult situation with great _______.",
+    "options": [
+      "composedly",
+      "compose",
+      "composure",
+      "composed"
+    ],
+    "answer": 2,
+    "explanation": "형용사 great의 수식을 받는 명사 자리. 'composure(침착함)'가 정답. compose는 동사, composed는 분사, composedly는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0224",
+    "part": 5,
+    "type": "RC",
+    "question": "The new hire demonstrated a _______ understanding of the company's goals.",
+    "options": [
+      "clarify",
+      "clarity",
+      "clear",
+      "clearly"
+    ],
+    "answer": 2,
+    "explanation": "명사 understanding을 수식하는 형용사 자리. 'clear(명확한)'가 정답. clearly는 부사, clarity는 명사, clarify는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0225",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was _______ revised to address the client's concerns.",
+    "options": [
+      "substantial",
+      "substantiate",
+      "substantially",
+      "substance"
+    ],
+    "answer": 2,
+    "explanation": "과거분사 revised를 수식하는 부사 자리. 'substantially(상당히)'가 정답. substantial은 형용사, substance는 명사, substantiate는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0226",
+    "part": 5,
+    "type": "RC",
+    "question": "The department achieved a notable _______ in customer retention this quarter.",
+    "options": [
+      "improvement",
+      "improved",
+      "improve",
+      "improving"
+    ],
+    "answer": 0,
+    "explanation": "형용사 notable의 수식을 받는 명사 자리. 'improvement(개선)'가 정답. improve는 동사, improved/improving은 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0227",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions should be read _______ before operating the machine.",
+    "options": [
+      "caring",
+      "careful",
+      "carefully",
+      "carefulness"
+    ],
+    "answer": 2,
+    "explanation": "동사 be read를 수식하는 부사 자리. 'carefully(신중히)'가 정답. careful은 형용사, carefulness는 명사, caring은 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0228",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiation required a high degree of _______ from both parties.",
+    "options": [
+      "flexibly",
+      "flexible",
+      "flex",
+      "flexibility"
+    ],
+    "answer": 3,
+    "explanation": "of 뒤의 명사 자리. 'flexibility(유연성)'가 정답. flexible은 형용사, flexibly는 부사, flex는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0229",
+    "part": 5,
+    "type": "RC",
+    "question": "The advertising campaign was _______ targeted at young professionals.",
+    "options": [
+      "specification",
+      "specific",
+      "specify",
+      "specifically"
+    ],
+    "answer": 3,
+    "explanation": "과거분사 targeted를 수식하는 부사 자리. 'specifically(특별히)'가 정답. specific은 형용사, specify는 동사, specification은 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0230",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee's decision was based on a _______ review of the data.",
+    "options": [
+      "careful",
+      "care",
+      "cared",
+      "carefully"
+    ],
+    "answer": 0,
+    "explanation": "명사 review를 수식하는 형용사 자리. 'careful(신중한)'이 정답. carefully는 부사, care는 명사/동사, cared는 과거형.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0231",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory's output increased _______ after the new machinery was installed.",
+    "options": [
+      "considerably",
+      "considering",
+      "consideration",
+      "considerable"
+    ],
+    "answer": 0,
+    "explanation": "자동사 increased를 수식하는 부사 자리. 'considerably(상당히)'가 정답. considerable은 형용사, consideration은 명사, considering은 분사/전치사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0232",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager brought a fresh _______ to the marketing team.",
+    "options": [
+      "perspective",
+      "perspectives",
+      "perceptive",
+      "perceptively"
+    ],
+    "answer": 0,
+    "explanation": "부정관사 a와 형용사 fresh의 수식을 받는 단수 명사 자리. 'perspective(관점)'가 정답. perspectives는 복수라 a와 충돌, perceptive는 형용사, perceptively는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0233",
+    "part": 5,
+    "type": "RC",
+    "question": "The company responded to the crisis _______ and minimized the damage.",
+    "options": [
+      "decision",
+      "decisive",
+      "decide",
+      "decisively"
+    ],
+    "answer": 3,
+    "explanation": "동사 responded를 수식하는 부사 자리. 'decisively(단호하게)'가 정답. decisive는 형용사, decision은 명사, decide는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0234",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar covered topics ranging from leadership to financial _______.",
+    "options": [
+      "management",
+      "manage",
+      "manager",
+      "managed"
+    ],
+    "answer": 0,
+    "explanation": "명사 financial과 복합명사를 이루는 명사 자리. 'management(관리)'가 정답. manage는 동사, manager는 사람명사로 의미상 부적절, managed는 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0235",
+    "part": 5,
+    "type": "RC",
+    "question": "The team worked _______ to meet the tight deadline.",
+    "options": [
+      "collaboration",
+      "collaboratively",
+      "collaborative",
+      "collaborate"
+    ],
+    "answer": 1,
+    "explanation": "동사 worked를 수식하는 부사 자리. 'collaboratively(협력하여)'가 정답. collaborative는 형용사, collaboration은 명사, collaborate는 동사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0236",
+    "part": 5,
+    "type": "RC",
+    "question": "The report must be submitted with the _______ of all required documents.",
+    "options": [
+      "attaching",
+      "attach",
+      "attachment",
+      "attached"
+    ],
+    "answer": 2,
+    "explanation": "the와 of 사이는 명사 자리. 'attachment(첨부)'가 정답. attach는 동사, attached/attaching은 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0237",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor praised the team for their _______ work ethic.",
+    "options": [
+      "except",
+      "exception",
+      "exceptional",
+      "exceptionally"
+    ],
+    "answer": 2,
+    "explanation": "명사 work ethic을 수식하는 형용사 자리. 'exceptional(뛰어난)'이 정답. exception은 명사, exceptionally는 부사, except는 전치사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0238",
+    "part": 5,
+    "type": "RC",
+    "question": "The new app allows users to manage their finances more _______.",
+    "options": [
+      "convenience",
+      "conveniently",
+      "convenient",
+      "conveniences"
+    ],
+    "answer": 1,
+    "explanation": "동사 manage를 수식하는 부사 자리이며 more의 수식을 받는다. 'conveniently(편리하게)'가 정답. convenient는 형용사, convenience는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0239",
+    "part": 5,
+    "type": "RC",
+    "question": "The merger is expected to bring significant _______ to both companies.",
+    "options": [
+      "beneficial",
+      "benefits",
+      "beneficially",
+      "benefit"
+    ],
+    "answer": 1,
+    "explanation": "형용사 significant의 수식을 받는 명사 자리. bring 뒤 목적어로 'benefits(이익들)' 복수가 자연스럽다. benefit(단수)는 관사가 필요해 부적절. beneficial은 형용사, beneficially는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0240",
+    "part": 5,
+    "type": "RC",
+    "question": "The architect presented the design plans _______ to the city council.",
+    "options": [
+      "formalize",
+      "formality",
+      "formally",
+      "formal"
+    ],
+    "answer": 2,
+    "explanation": "동사 presented를 수식하는 부사 자리. 'formally(공식적으로)'가 정답. formal은 형용사, formality는 명사, formalize는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0241",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's growth has been _______ over the past five years.",
+    "options": [
+      "consistent",
+      "consist",
+      "consistency",
+      "consistently"
+    ],
+    "answer": 0,
+    "explanation": "be동사 보어로 형용사가 필요하다. 'consistent(일관된)'가 정답. consist는 동사, consistently는 부사, consistency는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0242",
+    "part": 5,
+    "type": "RC",
+    "question": "All managers are required to attend the _______ training session.",
+    "options": [
+      "mandated",
+      "mandatory",
+      "mandate",
+      "mandatorily"
+    ],
+    "answer": 1,
+    "explanation": "명사 training session을 수식하는 형용사 자리. 'mandatory(의무적인)'가 정답. mandate는 명사/동사, mandatorily는 부사, mandated는 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0243",
+    "part": 5,
+    "type": "RC",
+    "question": "The financial advisor explained the investment options _______.",
+    "options": [
+      "thorough",
+      "thoroughly",
+      "thoroughness",
+      "more thorough"
+    ],
+    "answer": 1,
+    "explanation": "동사 explained를 수식하는 부사 자리. 'thoroughly(철저히)'가 정답. thorough는 형용사, thoroughness는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0244",
+    "part": 5,
+    "type": "RC",
+    "question": "The new packaging design received _______ feedback from focus groups.",
+    "options": [
+      "favored",
+      "favorable",
+      "favor",
+      "favorably"
+    ],
+    "answer": 1,
+    "explanation": "명사 feedback을 수식하는 형용사 자리. 'favorable(호의적인)'이 정답. favor는 명사/동사, favorably는 부사, favored는 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0245",
+    "part": 5,
+    "type": "RC",
+    "question": "The team leader assigned the tasks _______ among the members.",
+    "options": [
+      "equal",
+      "equalize",
+      "equality",
+      "equally"
+    ],
+    "answer": 3,
+    "explanation": "동사 assigned를 수식하는 부사 자리. 'equally(균등하게)'가 정답. equal은 형용사, equality는 명사, equalize는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0246",
+    "part": 5,
+    "type": "RC",
+    "question": "The company prides itself on the _______ of its customer service.",
+    "options": [
+      "excel",
+      "excellently",
+      "excellence",
+      "excellent"
+    ],
+    "answer": 2,
+    "explanation": "the와 of 사이는 명사 자리. 'excellence(우수성)'가 정답. excellent는 형용사, excellently는 부사, excel은 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0247",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions were _______ enough for anyone to understand.",
+    "options": [
+      "simply",
+      "simplified",
+      "simplicity",
+      "simple"
+    ],
+    "answer": 3,
+    "explanation": "be동사 보어로 형용사가 필요하다. 'simple(간단한)'이 정답. simply는 부사, simplicity는 명사, simplified는 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0248",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing director approved the budget _______ after reviewing the figures.",
+    "options": [
+      "immediately",
+      "immediate",
+      "immediacy",
+      "immediated"
+    ],
+    "answer": 0,
+    "explanation": "동사 approved를 수식하는 부사 자리. 'immediately(즉시)'가 정답. immediate는 형용사, immediacy는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0249",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal outlined several _______ for reducing operational costs.",
+    "options": [
+      "strategically",
+      "strategy",
+      "strategies",
+      "strategic"
+    ],
+    "answer": 2,
+    "explanation": "several 뒤에는 복수 가산명사가 온다. 'strategies(전략들)'가 정답. strategy는 단수, strategic은 형용사, strategically는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0250",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician explained the issue in a _______ understandable way.",
+    "options": [
+      "ready",
+      "readiness",
+      "read",
+      "readily"
+    ],
+    "answer": 3,
+    "explanation": "형용사 understandable을 수식하는 부사 자리. 'readily(쉽게)'가 정답. read는 동사, readiness는 명사, ready는 형용사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0251",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy ensures the fair _______ of resources across departments.",
+    "options": [
+      "distribution",
+      "distributive",
+      "distributed",
+      "distribute"
+    ],
+    "answer": 0,
+    "explanation": "형용사 fair의 수식을 받고 the와 of 사이의 명사 자리. 'distribution(분배)'이 정답. distribute는 동사, distributive는 형용사, distributed는 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0252",
+    "part": 5,
+    "type": "RC",
+    "question": "The staff handled the increased workload _______ during the busy season.",
+    "options": [
+      "efficient",
+      "efficiently",
+      "efficiencies",
+      "efficiency"
+    ],
+    "answer": 1,
+    "explanation": "동사 handled를 수식하는 부사 자리. 'efficiently(효율적으로)'가 정답. efficient는 형용사, efficiency/efficiencies는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0253",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee gave _______ consideration to each application.",
+    "options": [
+      "care",
+      "cared",
+      "carefully",
+      "careful"
+    ],
+    "answer": 3,
+    "explanation": "명사 consideration을 수식하는 형용사 자리. 'careful(신중한)'이 정답. care는 명사/동사, carefully는 부사, cared는 과거형.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0254",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's website was redesigned to improve _______ for all users.",
+    "options": [
+      "access",
+      "accessibility",
+      "accessibly",
+      "accessible"
+    ],
+    "answer": 1,
+    "explanation": "동사 improve의 목적어가 되는 명사 자리. 'accessibility(접근성)'가 정답. accessible은 형용사, accessibly는 부사, access도 명사이나 accessibility가 문맥상 더 자연스럽다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0255",
+    "part": 5,
+    "type": "RC",
+    "question": "To remain competitive, the firm decided _______ in new technology.",
+    "options": [
+      "to invest",
+      "invest",
+      "invested",
+      "investing"
+    ],
+    "answer": 0,
+    "explanation": "동사 decide는 to부정사를 목적어로 취한다. 'to invest'가 정답. decide + to부정사 형태가 올바르다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0256",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager suggested _______ the meeting to next week.",
+    "options": [
+      "postpone",
+      "postponed",
+      "postponing",
+      "to postpone"
+    ],
+    "answer": 2,
+    "explanation": "동사 suggest는 동명사를 목적어로 취한다. 'postponing'이 정답. suggest는 to부정사를 직접 목적어로 취하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0257",
+    "part": 5,
+    "type": "RC",
+    "question": "The report _______ by the finance team is due next Monday.",
+    "options": [
+      "prepared",
+      "prepare",
+      "preparing",
+      "prepares"
+    ],
+    "answer": 0,
+    "explanation": "명사 report를 뒤에서 수식하는 분사 자리로, report는 '준비되는' 대상이므로 수동의 과거분사가 필요하다. 'prepared(준비된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0258",
+    "part": 5,
+    "type": "RC",
+    "question": "The employees _______ in the workshop received certificates of completion.",
+    "options": [
+      "participating",
+      "participation",
+      "participated",
+      "participate"
+    ],
+    "answer": 0,
+    "explanation": "명사 employees를 뒤에서 수식하는 분사 자리로, employees가 '참가하는' 능동 주체이므로 현재분사가 필요하다. 'participating(참가하는)'이 정답. participate in은 자동사 구조라 능동이므로 participated(수동 불가)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0259",
+    "part": 5,
+    "type": "RC",
+    "question": "The contract must be _______ by both parties before it becomes valid.",
+    "options": [
+      "signed",
+      "signing",
+      "signs",
+      "sign"
+    ],
+    "answer": 0,
+    "explanation": "조동사 must be 뒤에서 수동태를 이루는 과거분사 자리. contract는 '서명되는' 대상이므로 'signed'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0260",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager is responsible for _______ the quarterly budget reports.",
+    "options": [
+      "preparing",
+      "to prepare",
+      "prepared",
+      "prepare"
+    ],
+    "answer": 0,
+    "explanation": "전치사 for 뒤에는 동명사가 온다. 'preparing'이 정답. 전치사 다음에는 to부정사나 동사원형이 올 수 없다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0261",
+    "part": 5,
+    "type": "RC",
+    "question": "The newly _______ employees attended an orientation session this morning.",
+    "options": [
+      "hired",
+      "hires",
+      "hire",
+      "hiring"
+    ],
+    "answer": 0,
+    "explanation": "명사 employees를 수식하는 분사 자리로, employees는 '고용된' 대상이므로 과거분사가 필요하다. 'hired(고용된)'가 정답. 부사 newly의 수식을 받는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0262",
+    "part": 5,
+    "type": "RC",
+    "question": "The company plans _______ its operations to three new countries next year.",
+    "options": [
+      "expand",
+      "to expand",
+      "expanding",
+      "expanded"
+    ],
+    "answer": 1,
+    "explanation": "동사 plan은 to부정사를 목적어로 취한다. 'to expand'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0263",
+    "part": 5,
+    "type": "RC",
+    "question": "The figures _______ in the presentation were updated this morning.",
+    "options": [
+      "show",
+      "showing",
+      "shows",
+      "shown"
+    ],
+    "answer": 3,
+    "explanation": "명사 figures를 뒤에서 수식하는 분사 자리로, figures는 '보여지는' 대상이므로 과거분사가 필요하다. 'shown(제시된)'이 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0264",
+    "part": 5,
+    "type": "RC",
+    "question": "All staff members are encouraged _______ in the annual feedback survey.",
+    "options": [
+      "participated",
+      "participate",
+      "participating",
+      "to participate"
+    ],
+    "answer": 3,
+    "explanation": "be encouraged 뒤에는 to부정사가 온다(encourage + 목적어 + to부정사의 수동형). 'to participate'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0265",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation _______ by the sales director impressed all the investors.",
+    "options": [
+      "given",
+      "giving",
+      "gives",
+      "give"
+    ],
+    "answer": 0,
+    "explanation": "명사 presentation을 뒤에서 수식하는 분사 자리로, presentation은 '주어지는' 대상이므로 과거분사가 필요하다. 'given(이루어진)'이 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0266",
+    "part": 5,
+    "type": "RC",
+    "question": "The board postponed _______ a final decision until the next meeting.",
+    "options": [
+      "to make",
+      "making",
+      "made",
+      "make"
+    ],
+    "answer": 1,
+    "explanation": "동사 postpone은 동명사를 목적어로 취한다. 'making'이 정답. postpone은 to부정사를 취하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0267",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions _______ in the manual should be followed precisely.",
+    "options": [
+      "provides",
+      "provided",
+      "provide",
+      "providing"
+    ],
+    "answer": 1,
+    "explanation": "명사 instructions를 뒤에서 수식하는 분사 자리로, instructions는 '제공되는' 대상이므로 과거분사가 필요하다. 'provided(제공된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0268",
+    "part": 5,
+    "type": "RC",
+    "question": "The new system is designed _______ data entry errors significantly.",
+    "options": [
+      "reducing",
+      "reduced",
+      "to reduce",
+      "reduce"
+    ],
+    "answer": 2,
+    "explanation": "be designed 뒤에는 목적을 나타내는 to부정사가 온다. 'to reduce'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0269",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovations _______ next month will modernize the entire lobby.",
+    "options": [
+      "scheduled",
+      "scheduling",
+      "schedules",
+      "schedule"
+    ],
+    "answer": 0,
+    "explanation": "명사 renovations를 뒤에서 수식하는 분사 자리로, renovations는 '예정된' 대상이므로 과거분사가 필요하다. 'scheduled(예정된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0270",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager avoided _______ any comments until the investigation was complete.",
+    "options": [
+      "to make",
+      "make",
+      "making",
+      "made"
+    ],
+    "answer": 2,
+    "explanation": "동사 avoid는 동명사를 목적어로 취한다. 'making'이 정답. avoid는 to부정사를 취하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0271",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal, _______ by the entire committee, was forwarded to the CEO.",
+    "options": [
+      "approve",
+      "approving",
+      "approves",
+      "approved"
+    ],
+    "answer": 3,
+    "explanation": "명사 proposal을 수식하는 분사구로, proposal은 '승인된' 대상이므로 과거분사가 필요하다. 'approved(승인된)'가 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0272",
+    "part": 5,
+    "type": "RC",
+    "question": "The company has decided _______ its headquarters to a larger building.",
+    "options": [
+      "relocate",
+      "relocated",
+      "to relocate",
+      "relocating"
+    ],
+    "answer": 2,
+    "explanation": "동사 decide는 to부정사를 목적어로 취한다. 'to relocate'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0273",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors are not permitted _______ photographs inside the gallery.",
+    "options": [
+      "taking",
+      "take",
+      "to take",
+      "taken"
+    ],
+    "answer": 2,
+    "explanation": "be permitted 뒤에는 to부정사가 온다(permit + 목적어 + to부정사의 수동형). 'to take'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0274",
+    "part": 5,
+    "type": "RC",
+    "question": "The documents _______ for the audit must be submitted by Friday.",
+    "options": [
+      "required",
+      "requiring",
+      "requires",
+      "require"
+    ],
+    "answer": 0,
+    "explanation": "명사 documents를 뒤에서 수식하는 분사 자리로, documents는 '요구되는' 대상이므로 과거분사가 필요하다. 'required(요구되는)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0275",
+    "part": 5,
+    "type": "RC",
+    "question": "The team finished _______ the project two days ahead of the deadline.",
+    "options": [
+      "to complete",
+      "completing",
+      "completed",
+      "complete"
+    ],
+    "answer": 1,
+    "explanation": "동사 finish는 동명사를 목적어로 취한다. 'completing'이 정답. finish는 to부정사를 취하지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0276",
+    "part": 5,
+    "type": "RC",
+    "question": "The strategy _______ by the consultants increased revenue by 20 percent.",
+    "options": [
+      "recommends",
+      "recommended",
+      "recommending",
+      "recommend"
+    ],
+    "answer": 1,
+    "explanation": "명사 strategy를 뒤에서 수식하는 분사 자리로, strategy는 '추천된' 대상이므로 과거분사가 필요하다. 'recommended(추천된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0277",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager hopes _______ the negotiations by the end of the week.",
+    "options": [
+      "to conclude",
+      "concluding",
+      "concluded",
+      "conclude"
+    ],
+    "answer": 0,
+    "explanation": "동사 hope는 to부정사를 목적어로 취한다. 'to conclude'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0278",
+    "part": 5,
+    "type": "RC",
+    "question": "The equipment _______ in the laboratory requires regular maintenance.",
+    "options": [
+      "using",
+      "uses",
+      "use",
+      "used"
+    ],
+    "answer": 3,
+    "explanation": "명사 equipment를 뒤에서 수식하는 분사 자리로, equipment는 '사용되는' 대상이므로 과거분사가 필요하다. 'used(사용되는)'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0279",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee considered _______ the deadline due to the technical issues.",
+    "options": [
+      "to extend",
+      "extended",
+      "extending",
+      "extend"
+    ],
+    "answer": 2,
+    "explanation": "동사 consider는 동명사를 목적어로 취한다. 'extending'이 정답. consider는 to부정사를 직접 목적어로 취하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0280",
+    "part": 5,
+    "type": "RC",
+    "question": "The guests _______ at the gala were treated to a five-course dinner.",
+    "options": [
+      "attend",
+      "attended",
+      "attending",
+      "attends"
+    ],
+    "answer": 2,
+    "explanation": "명사 guests를 뒤에서 수식하는 분사 자리로, guests가 '참석하는' 능동 주체이며 attend는 능동의 현재분사가 자연스럽다. 'attending(참석한)'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0281",
+    "part": 5,
+    "type": "RC",
+    "question": "The company aims _______ its market share within the next two years.",
+    "options": [
+      "to increase",
+      "increased",
+      "increase",
+      "increasing"
+    ],
+    "answer": 0,
+    "explanation": "동사 aim은 to부정사를 목적어로 취한다. 'to increase'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0282",
+    "part": 5,
+    "type": "RC",
+    "question": "The data _______ during the study will be published next month.",
+    "options": [
+      "collects",
+      "collected",
+      "collecting",
+      "collect"
+    ],
+    "answer": 1,
+    "explanation": "명사 data를 뒤에서 수식하는 분사 자리로, data는 '수집되는' 대상이므로 과거분사가 필요하다. 'collected(수집된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0283",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee quickly learned _______ the company's software efficiently.",
+    "options": [
+      "used",
+      "to use",
+      "using",
+      "use"
+    ],
+    "answer": 1,
+    "explanation": "동사 learn은 to부정사를 목적어로 취한다. 'to use'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0284",
+    "part": 5,
+    "type": "RC",
+    "question": "The package _______ this morning contained the samples we requested.",
+    "options": [
+      "deliver",
+      "delivering",
+      "delivers",
+      "delivered"
+    ],
+    "answer": 3,
+    "explanation": "명사 package를 뒤에서 수식하는 분사 자리로, package는 '배달되는' 대상이므로 과거분사가 필요하다. 'delivered(배달된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0285",
+    "part": 5,
+    "type": "RC",
+    "question": "The director insisted on _______ the report before the deadline.",
+    "options": [
+      "to finish",
+      "finishing",
+      "finished",
+      "finish"
+    ],
+    "answer": 1,
+    "explanation": "전치사 on 뒤에는 동명사가 온다. 'finishing'이 정답. insist on + 동명사 구조이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0286",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation included several charts _______ the sales growth.",
+    "options": [
+      "illustrate",
+      "illustrated",
+      "illustrating",
+      "illustrates"
+    ],
+    "answer": 2,
+    "explanation": "명사 charts를 뒤에서 수식하는 분사 자리로, charts가 '설명하는' 능동 주체이며 뒤에 목적어 the sales growth가 있으므로 현재분사가 필요하다. 'illustrating(설명하는)'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0287",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm expects _______ its annual targets despite the economic downturn.",
+    "options": [
+      "to meet",
+      "met",
+      "meet",
+      "meeting"
+    ],
+    "answer": 0,
+    "explanation": "동사 expect는 to부정사를 목적어로 취한다. 'to meet'이 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0288",
+    "part": 5,
+    "type": "RC",
+    "question": "The customers _______ a refund were asked to fill out a form.",
+    "options": [
+      "requesting",
+      "request",
+      "requests",
+      "requested"
+    ],
+    "answer": 0,
+    "explanation": "명사 customers를 뒤에서 수식하는 분사 자리로, customers가 '요청하는' 능동 주체이며 뒤에 목적어 a refund가 있으므로 현재분사가 필요하다. 'requesting(요청하는)'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0289",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal _______ to the board last week was unanimously rejected.",
+    "options": [
+      "submits",
+      "submitting",
+      "submit",
+      "submitted"
+    ],
+    "answer": 3,
+    "explanation": "명사 proposal을 뒤에서 수식하는 분사 자리로, proposal은 '제출된' 대상이므로 과거분사가 필요하다. 'submitted(제출된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0290",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor recommended _______ the workflow to improve efficiency.",
+    "options": [
+      "streamlining",
+      "streamline",
+      "to streamline",
+      "streamlined"
+    ],
+    "answer": 0,
+    "explanation": "동사 recommend는 동명사를 목적어로 취한다. 'streamlining'이 정답. recommend는 to부정사를 직접 목적어로 취하지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0291",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicants _______ for the position must have at least five years of experience.",
+    "options": [
+      "considered",
+      "consider",
+      "considering",
+      "considers"
+    ],
+    "answer": 0,
+    "explanation": "명사 applicants를 뒤에서 수식하는 분사 자리로, applicants는 '고려되는' 대상이므로 과거분사가 필요하다. 'considered(고려되는)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0292",
+    "part": 5,
+    "type": "RC",
+    "question": "The organization is dedicated to _______ educational opportunities for youth.",
+    "options": [
+      "to provide",
+      "provide",
+      "providing",
+      "provided"
+    ],
+    "answer": 2,
+    "explanation": "be dedicated to에서 to는 전치사이므로 동명사가 온다. 'providing'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0293",
+    "part": 5,
+    "type": "RC",
+    "question": "The machine _______ in the new facility doubled the production rate.",
+    "options": [
+      "installed",
+      "installs",
+      "install",
+      "installing"
+    ],
+    "answer": 0,
+    "explanation": "명사 machine을 뒤에서 수식하는 분사 자리로, machine은 '설치되는' 대상이므로 과거분사가 필요하다. 'installed(설치된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0294",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager refused _______ the request without proper documentation.",
+    "options": [
+      "approved",
+      "approving",
+      "to approve",
+      "approve"
+    ],
+    "answer": 2,
+    "explanation": "동사 refuse는 to부정사를 목적어로 취한다. 'to approve'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0295",
+    "part": 5,
+    "type": "RC",
+    "question": "The employees _______ overtime received additional compensation.",
+    "options": [
+      "working",
+      "work",
+      "works",
+      "worked"
+    ],
+    "answer": 0,
+    "explanation": "명사 employees를 뒤에서 수식하는 분사 자리로, employees가 '일하는' 능동 주체이며 뒤에 목적어 overtime이 있으므로 현재분사가 필요하다. 'working(일하는)'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0296",
+    "part": 5,
+    "type": "RC",
+    "question": "The company is considering _______ its operating hours during the holidays.",
+    "options": [
+      "to extend",
+      "extended",
+      "extend",
+      "extending"
+    ],
+    "answer": 3,
+    "explanation": "동사 consider는 동명사를 목적어로 취한다. 'extending'이 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0297",
+    "part": 5,
+    "type": "RC",
+    "question": "The report _______ several key findings was distributed to all managers.",
+    "options": [
+      "contain",
+      "contains",
+      "containing",
+      "contained"
+    ],
+    "answer": 2,
+    "explanation": "명사 report를 뒤에서 수식하는 분사 자리로, report가 '포함하는' 능동 주체이며 뒤에 목적어 several key findings가 있으므로 현재분사가 필요하다. 'containing(포함하는)'이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0298",
+    "part": 5,
+    "type": "RC",
+    "question": "The staff agreed _______ on the project over the weekend.",
+    "options": [
+      "work",
+      "worked",
+      "working",
+      "to work"
+    ],
+    "answer": 3,
+    "explanation": "동사 agree는 to부정사를 목적어로 취한다. 'to work'가 정답.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0299",
+    "part": 5,
+    "type": "RC",
+    "question": "The products _______ at the trade show attracted many potential buyers.",
+    "options": [
+      "displaying",
+      "displays",
+      "display",
+      "displayed"
+    ],
+    "answer": 3,
+    "explanation": "명사 products를 뒤에서 수식하는 분사 자리로, products는 '전시되는' 대상이므로 과거분사가 필요하다. 'displayed(전시된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0300",
+    "part": 5,
+    "type": "RC",
+    "question": "The intern was responsible for _______ the daily mail to each department.",
+    "options": [
+      "to distribute",
+      "distribute",
+      "distributed",
+      "distributing"
+    ],
+    "answer": 3,
+    "explanation": "전치사 for 뒤에는 동명사가 온다. 'distributing'이 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0301",
+    "part": 5,
+    "type": "RC",
+    "question": "The candidate _______ for the interview arrived ten minutes early.",
+    "options": [
+      "selected",
+      "selects",
+      "select",
+      "selecting"
+    ],
+    "answer": 0,
+    "explanation": "명사 candidate를 뒤에서 수식하는 분사 자리로, candidate는 '선발된' 대상이므로 과거분사가 필요하다. 'selected(선발된)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0302",
+    "part": 5,
+    "type": "RC",
+    "question": "The findings _______ in the survey will guide future marketing decisions.",
+    "options": [
+      "revealed",
+      "reveals",
+      "revealing",
+      "reveal"
+    ],
+    "answer": 0,
+    "explanation": "명사 findings를 뒤에서 수식하는 분사 자리로, findings는 '드러난' 대상이므로 과거분사가 필요하다. 'revealed(드러난)'가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0303",
+    "part": 5,
+    "type": "RC",
+    "question": "All employees must complete the safety training _______ to operating heavy machinery.",
+    "options": [
+      "prior",
+      "priorly",
+      "priority",
+      "prioritize"
+    ],
+    "answer": 0,
+    "explanation": "'prior to(~에 앞서)'는 고정 전치사구이다. 'prior'가 정답. priority는 명사, prioritize는 동사, priorly는 거의 쓰이지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0304",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager has been _______ effective in motivating the team.",
+    "options": [
+      "remarkable",
+      "remarkably",
+      "remark",
+      "remarked"
+    ],
+    "answer": 1,
+    "explanation": "형용사 effective를 수식하는 부사 자리. 'remarkably(현저히)'가 정답. remarkable은 형용사, remark/remarked는 명사/동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0305",
+    "part": 5,
+    "type": "RC",
+    "question": "The quarterly results exceeded the company's _______ expectations.",
+    "options": [
+      "initially",
+      "initial",
+      "initiative",
+      "initiate"
+    ],
+    "answer": 1,
+    "explanation": "명사 expectations를 수식하는 형용사 자리. 'initial(처음의)'이 정답. initially는 부사, initiate는 동사, initiative는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0306",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations will be enforced _______ starting next month.",
+    "options": [
+      "strictness",
+      "strictly",
+      "strict",
+      "stricter"
+    ],
+    "answer": 1,
+    "explanation": "동사 be enforced를 수식하는 부사 자리. 'strictly(엄격하게)'가 정답. strict는 형용사, strictness는 명사, stricter는 비교급.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0307",
+    "part": 5,
+    "type": "RC",
+    "question": "The success of the campaign depended _______ on social media engagement.",
+    "options": [
+      "heavy",
+      "heaviness",
+      "heavily",
+      "heavier"
+    ],
+    "answer": 2,
+    "explanation": "동사 depended를 수식하는 부사 자리. 'heavily(크게, 많이)'가 정답. heavy는 형용사, heaviness는 명사, heavier는 비교급.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0308",
+    "part": 5,
+    "type": "RC",
+    "question": "The training emphasized the _______ of clear communication in teamwork.",
+    "options": [
+      "significance",
+      "significantly",
+      "signify",
+      "significant"
+    ],
+    "answer": 0,
+    "explanation": "the와 of 사이는 명사 자리. 'significance(중요성)'가 정답. significant는 형용사, significantly는 부사, signify는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0309",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software was _______ tested before being released to customers.",
+    "options": [
+      "extensive",
+      "extension",
+      "extend",
+      "extensively"
+    ],
+    "answer": 3,
+    "explanation": "과거분사 tested를 수식하는 부사 자리. 'extensively(광범위하게)'가 정답. extensive는 형용사, extension은 명사, extend는 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0310",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO addressed the employees' concerns _______ during the town hall meeting.",
+    "options": [
+      "direct",
+      "direction",
+      "directed",
+      "directly"
+    ],
+    "answer": 3,
+    "explanation": "동사 addressed를 수식하는 부사 자리. 'directly(직접적으로)'가 정답. direct는 형용사/동사, direction은 명사, directed는 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0311",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee made a _______ effort to include all stakeholders in the process.",
+    "options": [
+      "consciousness",
+      "conscience",
+      "consciously",
+      "conscious"
+    ],
+    "answer": 3,
+    "explanation": "명사 effort를 수식하는 형용사 자리. 'conscious(의식적인)'가 정답. consciousness/conscience는 명사, consciously는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0312",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor distributed the workload _______ to prevent employee burnout.",
+    "options": [
+      "even",
+      "evenly",
+      "evened",
+      "evenness"
+    ],
+    "answer": 1,
+    "explanation": "동사 distributed를 수식하는 부사 자리. 'evenly(고르게)'가 정답. even은 형용사/부사이나 여기서는 evenly가 정확, evenness는 명사, evened는 과거형.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0313",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm's _______ growth strategy attracted significant investor interest.",
+    "options": [
+      "aggressive",
+      "aggressively",
+      "aggression",
+      "aggressiveness"
+    ],
+    "answer": 0,
+    "explanation": "명사 growth strategy를 수식하는 형용사 자리. 'aggressive(공격적인)'가 정답. aggression/aggressiveness는 명사, aggressively는 부사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0314",
+    "part": 5,
+    "type": "RC",
+    "question": "The new procedures were explained _______ to ensure everyone understood them.",
+    "options": [
+      "repeat",
+      "repeatedly",
+      "repeated",
+      "repetition"
+    ],
+    "answer": 1,
+    "explanation": "동사 were explained를 수식하는 부사 자리. 'repeatedly(반복적으로)'가 정답. repeat은 동사, repeated는 분사, repetition은 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0315",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager praised the team for their _______ to the project.",
+    "options": [
+      "devotedly",
+      "devote",
+      "devoted",
+      "devotion"
+    ],
+    "answer": 3,
+    "explanation": "소유격 their와 전치사 to 사이는 명사 자리. 'devotion(헌신)'이 정답. devote는 동사, devoted는 분사, devotedly는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0316",
+    "part": 5,
+    "type": "RC",
+    "question": "The product launch was _______ successful, exceeding all sales projections.",
+    "options": [
+      "highly",
+      "height",
+      "high",
+      "higher"
+    ],
+    "answer": 0,
+    "explanation": "형용사 successful을 수식하는 부사 자리. 'highly(매우)'가 정답. high는 형용사/부사이나 '매우'의 뜻으로 형용사를 수식할 때는 highly, height는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0317",
+    "part": 5,
+    "type": "RC",
+    "question": "The report's conclusions were supported by _______ evidence.",
+    "options": [
+      "convince",
+      "convincing",
+      "convinced",
+      "convincingly"
+    ],
+    "answer": 1,
+    "explanation": "명사 evidence를 수식하는 형용사(분사) 자리. 'convincing(설득력 있는)'이 정답. convince는 동사, convincingly는 부사, convinced는 '확신하는'으로 evidence를 수식하기에 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0318",
+    "part": 5,
+    "type": "RC",
+    "question": "The company implemented the changes _______ to minimize disruption.",
+    "options": [
+      "gradually",
+      "graduate",
+      "graduation",
+      "gradual"
+    ],
+    "answer": 0,
+    "explanation": "동사 implemented를 수식하는 부사 자리. 'gradually(점진적으로)'가 정답. gradual은 형용사, graduate는 동사/명사, graduation은 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0319",
+    "part": 5,
+    "type": "RC",
+    "question": "The orientation provided new hires with a _______ understanding of company policies.",
+    "options": [
+      "basic",
+      "basically",
+      "base",
+      "basis"
+    ],
+    "answer": 0,
+    "explanation": "명사 understanding을 수식하는 형용사 자리. 'basic(기본적인)'이 정답. base는 명사/동사, basically는 부사, basis는 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0320",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiations concluded _______ with an agreement that satisfied both sides.",
+    "options": [
+      "successfully",
+      "succeed",
+      "successful",
+      "success"
+    ],
+    "answer": 0,
+    "explanation": "동사 concluded를 수식하는 부사 자리. 'successfully(성공적으로)'가 정답. success는 명사, successful은 형용사, succeed는 동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0321",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditors examined the records with great _______.",
+    "options": [
+      "diligences",
+      "diligently",
+      "diligent",
+      "diligence"
+    ],
+    "answer": 3,
+    "explanation": "형용사 great의 수식을 받고 with와 함께 쓰이는 명사 자리. 'diligence(근면, 성실)'가 정답. diligent는 형용사, diligently는 부사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0322",
+    "part": 5,
+    "type": "RC",
+    "question": "The new design significantly improved the product's _______ appeal.",
+    "options": [
+      "aesthete",
+      "aesthetic",
+      "aesthetics",
+      "aesthetically"
+    ],
+    "answer": 1,
+    "explanation": "명사 appeal을 수식하는 형용사 자리. 'aesthetic(미적인)'이 정답. aesthetically는 부사, aesthetics/aesthete는 명사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0323",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager responded to the inquiry _______ and resolved the issue quickly.",
+    "options": [
+      "courteousness",
+      "courteously",
+      "courteous",
+      "courtesy"
+    ],
+    "answer": 1,
+    "explanation": "동사 responded를 수식하는 부사 자리. 'courteously(정중하게)'가 정답. courteous는 형용사, courtesy/courteousness는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0324",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's _______ in renewable energy has reduced its carbon footprint.",
+    "options": [
+      "investor",
+      "invested",
+      "investment",
+      "invest"
+    ],
+    "answer": 2,
+    "explanation": "소유격 company's와 전치사 in 사이는 명사 자리. 'investment(투자)'가 정답. invest는 동사, investor는 사람명사, invested는 분사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0325",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar was designed to be both practical and intellectually _______.",
+    "options": [
+      "stimulate",
+      "stimulation",
+      "stimulating",
+      "stimulated"
+    ],
+    "answer": 2,
+    "explanation": "부사 intellectually의 수식을 받고 practical(형용사)과 병렬되는 형용사 자리. 'stimulating(자극적인, 흥미로운)'이 분사형용사로 정답. stimulate는 동사, stimulation은 명사, stimulated는 '자극받은'으로 의미상 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0326",
+    "part": 5,
+    "type": "RC",
+    "question": "The new hire adapted to the corporate culture _______ quickly.",
+    "options": [
+      "surprise",
+      "surprisingly",
+      "surprised",
+      "surprising"
+    ],
+    "answer": 1,
+    "explanation": "부사 quickly를 수식하는 부사 자리. 'surprisingly(놀랍게도)'가 정답. surprise는 명사/동사, surprising/surprised는 분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0327",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician identified the source of the malfunction _______.",
+    "options": [
+      "correction",
+      "correctness",
+      "correct",
+      "correctly"
+    ],
+    "answer": 3,
+    "explanation": "동사 identified를 수식하는 부사 자리. 'correctly(정확하게)'가 정답. correct는 형용사/동사, correctness/correction은 명사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0328",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal demonstrated a _______ understanding of the client's needs.",
+    "options": [
+      "deeply",
+      "deepen",
+      "depth",
+      "deep"
+    ],
+    "answer": 3,
+    "explanation": "명사 understanding을 수식하는 형용사 자리. 'deep(깊은)'이 정답. deeply는 부사, depth는 명사, deepen은 동사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0329",
+    "part": 5,
+    "type": "RC",
+    "question": "The staff worked _______ to resolve the customer's complaint by the end of the day.",
+    "options": [
+      "tirelessly",
+      "tire",
+      "tirelessness",
+      "tireless"
+    ],
+    "answer": 0,
+    "explanation": "동사 worked를 수식하는 부사 자리. 'tirelessly(지칠 줄 모르고)'가 정답. tireless는 형용사, tire는 동사/명사.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0330",
+    "part": 5,
+    "type": "RC",
+    "question": "By the time the auditors arrive next week, the finance team _______ all of the quarterly statements.",
+    "options": [
+      "has completed",
+      "completed",
+      "is completing",
+      "will have completed"
+    ],
+    "answer": 3,
+    "explanation": "'By the time + 미래' 구문에서 미래의 특정 시점까지 완료될 동작은 미래완료(will have p.p.)로 표현한다. 'next week'와 'by the time'이 미래완료 단서다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0331",
+    "part": 5,
+    "type": "RC",
+    "question": "The new safety manual _______ to all employees before the renovation began last month.",
+    "options": [
+      "has distributed",
+      "distributed",
+      "was distributed",
+      "distributes"
+    ],
+    "answer": 2,
+    "explanation": "매뉴얼은 배포되는 대상이므로 수동태가 필요하고, 'last month'와 'before ~ began'은 과거 시점을 나타내므로 과거 수동태 was distributed가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0332",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither the manager nor her assistants _______ available to comment on the merger at this time.",
+    "options": [
+      "are",
+      "has been",
+      "is",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "neither A nor B 구문에서 동사는 가까운 주어(assistants, 복수)에 일치시킨다. 따라서 복수동사 are가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0333",
+    "part": 5,
+    "type": "RC",
+    "question": "If the shipment _______ on schedule, we would not have had to apologize to the client.",
+    "options": [
+      "had arrived",
+      "arrives",
+      "arrived",
+      "has arrived"
+    ],
+    "answer": 0,
+    "explanation": "주절이 would not have had(would have p.p.)이므로 과거 사실의 반대를 가정하는 가정법 과거완료다. if절은 had p.p.(had arrived)를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0334",
+    "part": 5,
+    "type": "RC",
+    "question": "Each of the applicants _______ required to submit two letters of recommendation.",
+    "options": [
+      "is",
+      "are",
+      "have been",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'each of the + 복수명사'는 단수 취급한다. 따라서 단수동사 is가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0335",
+    "part": 5,
+    "type": "RC",
+    "question": "Since 2018, the company _______ its production capacity by nearly forty percent.",
+    "options": [
+      "has increased",
+      "increased",
+      "had increased",
+      "increases"
+    ],
+    "answer": 0,
+    "explanation": "'since + 과거시점'은 과거부터 현재까지 이어지는 현재완료의 대표 단서다. 따라서 has increased가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0336",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal _______ by the board of directors before it can be implemented.",
+    "options": [
+      "must be approved",
+      "approves",
+      "is approving",
+      "must approve"
+    ],
+    "answer": 0,
+    "explanation": "제안서는 승인받는 대상이므로 수동태가 필요하다. 조동사 must 뒤에는 be p.p.(must be approved)가 온다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0337",
+    "part": 5,
+    "type": "RC",
+    "question": "The number of customers requesting refunds _______ steadily over the past three quarters.",
+    "options": [
+      "has declined",
+      "have declined",
+      "decline",
+      "are declining"
+    ],
+    "answer": 0,
+    "explanation": "'the number of + 복수명사'는 단수 취급한다. 'over the past three quarters'는 현재완료 단서이므로 has declined가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0338",
+    "part": 5,
+    "type": "RC",
+    "question": "Were the prices to rise sharply, the company _______ forced to reconsider its expansion plans.",
+    "options": [
+      "is",
+      "will be",
+      "would be",
+      "had been"
+    ],
+    "answer": 2,
+    "explanation": "if 생략 도치(Were S to V)는 가정법 미래/현재의 표현이다. 주절은 would + 동사원형(would be)을 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0339",
+    "part": 5,
+    "type": "RC",
+    "question": "All visitors _______ to sign in at the front desk upon entering the building.",
+    "options": [
+      "asking",
+      "have asked",
+      "are asked",
+      "ask"
+    ],
+    "answer": 2,
+    "explanation": "방문객은 요청받는 대상이므로 수동태 are asked가 필요하다. 능동태 ask는 의미가 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0340",
+    "part": 5,
+    "type": "RC",
+    "question": "The technicians _______ the server when the power outage suddenly occurred yesterday.",
+    "options": [
+      "repaired",
+      "have repaired",
+      "were repairing",
+      "are repairing"
+    ],
+    "answer": 2,
+    "explanation": "과거의 한 시점(power outage occurred)에 진행 중이던 동작은 과거진행(were repairing)으로 표현한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0341",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Tanaka, along with his colleagues, _______ attending the conference in Berlin next month.",
+    "options": [
+      "are",
+      "have been",
+      "is",
+      "were"
+    ],
+    "answer": 2,
+    "explanation": "'along with ~'는 주어의 수에 영향을 주지 않는다. 주어는 단수 Mr. Tanaka이므로 단수동사 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0342",
+    "part": 5,
+    "type": "RC",
+    "question": "If you _______ any difficulty accessing the portal, please contact the help desk immediately.",
+    "options": [
+      "had experienced",
+      "experience",
+      "experienced",
+      "would experience"
+    ],
+    "answer": 1,
+    "explanation": "현실적으로 일어날 수 있는 조건을 나타내는 단순조건문(if + 현재, 명령문)이다. if절에 현재형 experience를 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0343",
+    "part": 5,
+    "type": "RC",
+    "question": "The annual report _______ next Friday, so please ensure all data is finalized beforehand.",
+    "options": [
+      "will be released",
+      "has been released",
+      "released",
+      "releases"
+    ],
+    "answer": 0,
+    "explanation": "'next Friday'는 미래 단서이고 보고서는 발표되는 대상이므로 미래 수동태 will be released가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0344",
+    "part": 5,
+    "type": "RC",
+    "question": "Had the supplier notified us earlier, we _______ alternative arrangements in time.",
+    "options": [
+      "made",
+      "could have made",
+      "could make",
+      "can make"
+    ],
+    "answer": 1,
+    "explanation": "Had + S + p.p.는 if 생략 도치로 가정법 과거완료다. 주절은 could have p.p.(could have made)를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0345",
+    "part": 5,
+    "type": "RC",
+    "question": "Either the director or the producers _______ going to make the final casting decision.",
+    "options": [
+      "was",
+      "has been",
+      "is",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "either A or B 구문에서 동사는 가까운 주어(producers, 복수)에 일치시키므로 are가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0346",
+    "part": 5,
+    "type": "RC",
+    "question": "The construction crew _______ working on the bridge for over six months now.",
+    "options": [
+      "was",
+      "had been",
+      "has been",
+      "is"
+    ],
+    "answer": 2,
+    "explanation": "'for + 기간 + now'는 과거부터 현재까지 계속되는 현재완료진행의 단서다. has been (working)이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0347",
+    "part": 5,
+    "type": "RC",
+    "question": "Defective items _______ to the manufacturer at no additional cost to the customer.",
+    "options": [
+      "are returning",
+      "will be returned",
+      "returns",
+      "will return"
+    ],
+    "answer": 1,
+    "explanation": "결함 제품은 반품되는 대상이므로 수동태가 필요하다. 미래 수동태 will be returned가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0348",
+    "part": 5,
+    "type": "RC",
+    "question": "Statistics _______ that consumer confidence has improved markedly since the policy change.",
+    "options": [
+      "indicates",
+      "indicate",
+      "has indicated",
+      "is indicating"
+    ],
+    "answer": 1,
+    "explanation": "여기서 statistics는 '통계 자료(데이터)'라는 복수 의미로 쓰여 복수동사 indicate를 취한다. (학문명일 때만 단수)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0349",
+    "part": 5,
+    "type": "RC",
+    "question": "By the end of this year, Ms. Lopez _______ with the firm for two decades.",
+    "options": [
+      "will have been",
+      "has been",
+      "will be",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "'by the end of this year'(미래 시점)까지 지속된 상태를 나타내므로 미래완료 will have been이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0350",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee _______ its recommendations to the council at last week's meeting.",
+    "options": [
+      "presents",
+      "is presenting",
+      "has presented",
+      "presented"
+    ],
+    "answer": 3,
+    "explanation": "'last week's meeting'은 명백한 과거 시점이므로 과거시제 presented가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0351",
+    "part": 5,
+    "type": "RC",
+    "question": "I wish the budget _______ large enough to hire two more designers this quarter.",
+    "options": [
+      "were",
+      "is",
+      "has been",
+      "was being"
+    ],
+    "answer": 0,
+    "explanation": "'I wish + 가정법 과거(were)'는 현재 사실과 반대되는 소망을 나타낸다. 가정법에서는 인칭과 무관하게 were를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0352",
+    "part": 5,
+    "type": "RC",
+    "question": "The keys to the storage room _______ usually kept in the supervisor's office.",
+    "options": [
+      "was",
+      "is",
+      "has been",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "주어는 복수 명사 keys이고 'to the storage room'은 수식어구다. 따라서 복수동사 are가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0353",
+    "part": 5,
+    "type": "RC",
+    "question": "Once the contract _______ signed, the project will commence the following Monday.",
+    "options": [
+      "will be",
+      "is",
+      "has",
+      "was"
+    ],
+    "answer": 1,
+    "explanation": "시간 부사절(once)에서는 미래의 의미라도 현재시제로 미래를 대신한다. 수동의 의미로 is (signed)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0354",
+    "part": 5,
+    "type": "RC",
+    "question": "Our records show that the invoice _______ already paid in full last March.",
+    "options": [
+      "will be",
+      "has been",
+      "is",
+      "was"
+    ],
+    "answer": 3,
+    "explanation": "'last March'는 과거 시점 단서다. 송장은 지불되는 대상이므로 과거 수동태 was (paid)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0355",
+    "part": 5,
+    "type": "RC",
+    "question": "If the market conditions _______ favorable, the firm plans to launch its IPO next spring.",
+    "options": [
+      "remained",
+      "will remain",
+      "remain",
+      "had remained"
+    ],
+    "answer": 2,
+    "explanation": "실현 가능성이 있는 미래 조건을 나타내는 단순조건문에서 if절은 현재시제 remain을 쓴다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0356",
+    "part": 5,
+    "type": "RC",
+    "question": "Every department head _______ expected to submit a budget proposal by Thursday.",
+    "options": [
+      "have been",
+      "were",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "'every + 단수명사'는 단수 취급한다. 따라서 단수동사 is가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0357",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovated lobby _______ to the public since the grand reopening in April.",
+    "options": [
+      "has been open",
+      "was open",
+      "opened",
+      "is opening"
+    ],
+    "answer": 0,
+    "explanation": "'since + 시점'은 현재완료 단서다. 로비가 열려 있는 상태가 4월 이후 계속되므로 has been open이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0358",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations _______ enforced beginning next quarter, according to the announcement.",
+    "options": [
+      "will be",
+      "are",
+      "have been",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'beginning next quarter'는 미래 단서이고 규정은 시행되는 대상이므로 미래 수동태 will be (enforced)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0359",
+    "part": 5,
+    "type": "RC",
+    "question": "Should you require further assistance, our support team _______ available around the clock.",
+    "options": [
+      "is",
+      "would have been",
+      "were",
+      "had been"
+    ],
+    "answer": 0,
+    "explanation": "'Should you ~'는 if you should의 도치로 가정법 미래다. 주절은 현재시제나 명령문이 가능하며, 사실을 진술하는 is가 자연스럽다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0360",
+    "part": 5,
+    "type": "RC",
+    "question": "Two-thirds of the budget _______ already been allocated to marketing initiatives.",
+    "options": [
+      "has",
+      "have",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "분수 of + 불가산명사(budget)는 단수 취급한다. 따라서 has가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0361",
+    "part": 5,
+    "type": "RC",
+    "question": "The keynote speaker _______ her presentation when the projector malfunctioned.",
+    "options": [
+      "has delivered",
+      "delivers",
+      "was delivering",
+      "delivered"
+    ],
+    "answer": 2,
+    "explanation": "과거의 한 시점(projector malfunctioned)에 진행 중이던 동작은 과거진행 was delivering으로 나타낸다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0362",
+    "part": 5,
+    "type": "RC",
+    "question": "All software updates _______ automatically every night to ensure system security.",
+    "options": [
+      "are installing",
+      "are installed",
+      "install",
+      "have installed"
+    ],
+    "answer": 1,
+    "explanation": "업데이트는 설치되는 대상이고 반복되는 일상은 현재시제로 표현하므로 수동태 현재 are installed가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0363",
+    "part": 5,
+    "type": "RC",
+    "question": "If we had invested in the new equipment last year, our output _______ much higher today.",
+    "options": [
+      "will be",
+      "would have been",
+      "would be",
+      "is"
+    ],
+    "answer": 2,
+    "explanation": "if절은 과거완료(had invested)지만 주절에 'today'가 있어 현재의 결과를 나타내는 혼합가정법이다. 주절은 would + 동사원형(would be)을 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0364",
+    "part": 5,
+    "type": "RC",
+    "question": "The mayor, as well as several city officials, _______ scheduled to attend the ceremony.",
+    "options": [
+      "is",
+      "were",
+      "have been",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "'as well as ~'는 주어의 수에 영향을 주지 않는다. 주어는 단수 the mayor이므로 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0365",
+    "part": 5,
+    "type": "RC",
+    "question": "By next March, the new branch office _______ for nearly a full year.",
+    "options": [
+      "operated",
+      "will have operated",
+      "operates",
+      "has operated"
+    ],
+    "answer": 1,
+    "explanation": "'by next March'(미래 시점)까지 지속된 기간을 나타내므로 미래완료 will have operated가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0366",
+    "part": 5,
+    "type": "RC",
+    "question": "The samples _______ to the laboratory for analysis as soon as they arrive tomorrow.",
+    "options": [
+      "send",
+      "are sent",
+      "will be sent",
+      "have sent"
+    ],
+    "answer": 2,
+    "explanation": "'tomorrow'는 미래 단서이고 샘플은 보내지는 대상이므로 미래 수동태 will be sent가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0367",
+    "part": 5,
+    "type": "RC",
+    "question": "Mathematics _______ a required course for all first-year business students.",
+    "options": [
+      "have been",
+      "were",
+      "is",
+      "are"
+    ],
+    "answer": 2,
+    "explanation": "-ics로 끝나는 학문명(mathematics)은 단수 취급한다. 따라서 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0368",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers who _______ before noon will receive same-day delivery on their orders.",
+    "options": [
+      "ordering",
+      "order",
+      "are ordered",
+      "orders"
+    ],
+    "answer": 1,
+    "explanation": "관계대명사 who의 선행사가 복수 Customers이므로 동사는 복수형 order를 쓴다. 능동의 의미여야 한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0369",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory _______ down for maintenance twice already this year.",
+    "options": [
+      "was shut",
+      "shuts",
+      "is shutting",
+      "has been shut"
+    ],
+    "answer": 3,
+    "explanation": "'twice already this year'는 과거부터 현재까지의 경험/횟수를 나타내는 현재완료 단서다. 수동의 의미로 has been shut이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0370",
+    "part": 5,
+    "type": "RC",
+    "question": "Unless the weather _______, the outdoor event will proceed as planned this weekend.",
+    "options": [
+      "had worsened",
+      "worsened",
+      "will worsen",
+      "worsens"
+    ],
+    "answer": 3,
+    "explanation": "unless가 이끄는 조건절에서는 미래 의미라도 현재시제를 쓴다. 단수 주어 weather에 맞춰 worsens가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0371",
+    "part": 5,
+    "type": "RC",
+    "question": "The findings of the research _______ that the new drug significantly reduces recovery time.",
+    "options": [
+      "is suggesting",
+      "suggest",
+      "has suggested",
+      "suggests"
+    ],
+    "answer": 1,
+    "explanation": "주어는 복수 the findings이고 'of the research'는 수식어구다. 따라서 복수동사 suggest가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0372",
+    "part": 5,
+    "type": "RC",
+    "question": "Last quarter, the sales team _______ its highest revenue figures in the company's history.",
+    "options": [
+      "is achieving",
+      "achieved",
+      "has achieved",
+      "achieves"
+    ],
+    "answer": 1,
+    "explanation": "'last quarter'는 명백한 과거 시점 단서이므로 과거시제 achieved가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0373",
+    "part": 5,
+    "type": "RC",
+    "question": "If the CEO _______ here, she would undoubtedly approve of the proposed changes.",
+    "options": [
+      "was",
+      "had been",
+      "is",
+      "were"
+    ],
+    "answer": 3,
+    "explanation": "주절이 would approve이므로 현재 사실의 반대를 가정하는 가정법 과거다. if절은 인칭과 무관하게 were를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0374",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions clearly state that the device _______ before the warranty period expires.",
+    "options": [
+      "registers",
+      "must register",
+      "must be registered",
+      "is registering"
+    ],
+    "answer": 2,
+    "explanation": "기기는 등록되는 대상이므로 수동태가 필요하다. 조동사 must 뒤에 be p.p.(must be registered)가 온다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0375",
+    "part": 5,
+    "type": "RC",
+    "question": "Ms. Park _______ for the same accounting firm since she graduated from university.",
+    "options": [
+      "works",
+      "is working",
+      "worked",
+      "has worked"
+    ],
+    "answer": 3,
+    "explanation": "'since + 과거 동작'은 현재완료 단서다. 과거부터 현재까지 계속된 근무를 나타내므로 has worked가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0376",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither of the two proposals _______ fully addresses the company's long-term needs.",
+    "options": [
+      "more adequate",
+      "adequacy",
+      "adequately",
+      "adequate"
+    ],
+    "answer": 2,
+    "explanation": "동사 addresses를 수식하는 자리이므로 부사 adequately가 필요하다. (neither of는 단수 취급되어 addresses가 적절히 사용됨)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0377",
+    "part": 5,
+    "type": "RC",
+    "question": "The bridge _______ to traffic until the structural inspection has been completed.",
+    "options": [
+      "is not reopening",
+      "will not reopen",
+      "will not be reopened",
+      "does not reopen"
+    ],
+    "answer": 2,
+    "explanation": "다리는 재개방되는 대상이므로 수동태가 필요하다. 미래 부정 수동태 will not be reopened가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0378",
+    "part": 5,
+    "type": "RC",
+    "question": "There _______ several discrepancies in the financial report that need to be corrected.",
+    "options": [
+      "are",
+      "was",
+      "is",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "there be 구문에서는 뒤의 명사에 동사를 일치시킨다. 복수 discrepancies이므로 are가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0379",
+    "part": 5,
+    "type": "RC",
+    "question": "Had it not been for the generous donation, the museum _______ its doors years ago.",
+    "options": [
+      "closed",
+      "would close",
+      "will close",
+      "would have closed"
+    ],
+    "answer": 3,
+    "explanation": "Had it not been for ~는 if 생략 도치로 가정법 과거완료다. 주절은 would have p.p.(would have closed)를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0380",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment of office supplies _______ expected to arrive sometime next week.",
+    "options": [
+      "is",
+      "have been",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "주어는 단수 the shipment이고 'of office supplies'는 수식어구다. 따라서 단수동사 is가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0381",
+    "part": 5,
+    "type": "RC",
+    "question": "The terms of the agreement _______ before either party can proceed with the transaction.",
+    "options": [
+      "must review",
+      "are reviewing",
+      "reviews",
+      "must be reviewed"
+    ],
+    "answer": 3,
+    "explanation": "조건은 검토되는 대상이므로 수동태가 필요하다. 조동사 must 뒤에 be p.p.(must be reviewed)가 온다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0382",
+    "part": 5,
+    "type": "RC",
+    "question": "Profits _______ consistently every year since the company restructured its operations.",
+    "options": [
+      "are rising",
+      "rise",
+      "have risen",
+      "rose"
+    ],
+    "answer": 2,
+    "explanation": "'since + 과거 동작'은 현재완료 단서다. 복수 주어 profits에 맞춰 have risen이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0383",
+    "part": 5,
+    "type": "RC",
+    "question": "It is essential that every employee _______ the new compliance training by month's end.",
+    "options": [
+      "complete",
+      "completes",
+      "is completing",
+      "completed"
+    ],
+    "answer": 0,
+    "explanation": "'It is essential that + 주어 + (should) 동사원형' 구조의 가정법 현재(should 생략)다. 따라서 동사원형 complete가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0384",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference rooms on the third floor _______ being remodeled this week.",
+    "options": [
+      "is",
+      "has been",
+      "was",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "주어는 복수 conference rooms이고 'on the third floor'는 수식어구다. 따라서 복수동사 are가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0385",
+    "part": 5,
+    "type": "RC",
+    "question": "If the system _______ overloaded, it automatically reroutes traffic to a backup server.",
+    "options": [
+      "became",
+      "will become",
+      "had become",
+      "becomes"
+    ],
+    "answer": 3,
+    "explanation": "일반적 사실/습관을 나타내는 0조건문(if + 현재, 현재)이다. if절과 주절 모두 현재시제이므로 becomes가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0386",
+    "part": 5,
+    "type": "RC",
+    "question": "The merger _______ finalized by the end of the fiscal year, pending regulatory approval.",
+    "options": [
+      "is",
+      "was",
+      "will be",
+      "has been"
+    ],
+    "answer": 2,
+    "explanation": "'by the end of the fiscal year'는 미래 단서이고 합병은 완결되는 대상이므로 미래 수동태 will be (finalized)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0387",
+    "part": 5,
+    "type": "RC",
+    "question": "The economics of the proposed plant _______ being carefully evaluated by the consultants.",
+    "options": [
+      "was",
+      "are",
+      "has been",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "여기서 economics는 '경제성/경제적 측면'이라는 복수 의미로 쓰여 복수동사 are를 취한다. (학문명일 때만 단수)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0388",
+    "part": 5,
+    "type": "RC",
+    "question": "Once the documents _______ verified, they will be forwarded to the legal department.",
+    "options": [
+      "have been",
+      "will be",
+      "are being",
+      "had been"
+    ],
+    "answer": 0,
+    "explanation": "시간 부사절(once)에서는 미래완료의 의미를 현재완료로 대신한다. 수동의 의미로 have been (verified)이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0389",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Reyes _______ the department for nearly a decade before he retired last spring.",
+    "options": [
+      "leads",
+      "had led",
+      "has led",
+      "led"
+    ],
+    "answer": 1,
+    "explanation": "과거 시점(retired last spring) 이전까지 계속된 동작은 과거완료(had led)로 나타낸다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0390",
+    "part": 5,
+    "type": "RC",
+    "question": "All passengers _______ to fasten their seatbelts during takeoff and landing.",
+    "options": [
+      "have required",
+      "require",
+      "requiring",
+      "are required"
+    ],
+    "answer": 3,
+    "explanation": "승객은 요구받는 대상이므로 수동태 are required가 필요하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0391",
+    "part": 5,
+    "type": "RC",
+    "question": "Each of the proposals submitted yesterday _______ thoroughly evaluated before a decision is made.",
+    "options": [
+      "are",
+      "were",
+      "will",
+      "will be"
+    ],
+    "answer": 3,
+    "explanation": "'each of the + 복수명사'는 단수 취급하고, 제안서는 평가되는 대상이므로 미래 수동태 will be (evaluated)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0392",
+    "part": 5,
+    "type": "RC",
+    "question": "Were it not for the company's loyal customers, the brand _______ long ago.",
+    "options": [
+      "would disappear",
+      "will disappear",
+      "disappeared",
+      "would have disappeared"
+    ],
+    "answer": 3,
+    "explanation": "Were it not for ~는 if 생략 도치인데, 'long ago'가 과거를 가리키므로 과거 결과를 나타내는 would have p.p.(would have disappeared)가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0393",
+    "part": 5,
+    "type": "RC",
+    "question": "The board members _______ to a unanimous agreement after several hours of debate yesterday.",
+    "options": [
+      "have come",
+      "come",
+      "came",
+      "are coming"
+    ],
+    "answer": 2,
+    "explanation": "'yesterday'는 명백한 과거 시점 단서이므로 과거시제 came이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0394",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy stipulates that overtime _______ approved by a supervisor in advance.",
+    "options": [
+      "be",
+      "will be",
+      "was",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "stipulate(규정하다) 같은 요구/주장 동사의 that절에서는 (should) + 동사원형을 쓰는 가정법 현재다. 수동의 의미로 (should) be (approved)에서 be가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0395",
+    "part": 5,
+    "type": "RC",
+    "question": "Production at the plant _______ temporarily halted while the new machinery is installed.",
+    "options": [
+      "will be",
+      "is being",
+      "has",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "생산은 중단되는 대상이므로 수동태가 필요하다. 미래 수동태 will be (halted)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0396",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither the instructions nor the diagram _______ clear about how to assemble the unit.",
+    "options": [
+      "is",
+      "have been",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "neither A nor B 구문에서 동사는 가까운 주어(diagram, 단수)에 일치시킨다. 따라서 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0397",
+    "part": 5,
+    "type": "RC",
+    "question": "The company _______ its headquarters to a larger facility downtown next year.",
+    "options": [
+      "has relocated",
+      "relocated",
+      "will relocate",
+      "is relocating"
+    ],
+    "answer": 2,
+    "explanation": "'next year'는 미래 단서다. 미래 계획을 나타내는 will relocate가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0398",
+    "part": 5,
+    "type": "RC",
+    "question": "If interest rates _______ to drop next month, the firm would refinance its loans.",
+    "options": [
+      "will be",
+      "had been",
+      "were",
+      "are"
+    ],
+    "answer": 2,
+    "explanation": "'were to + 동사원형'은 미래에 대한 강한 가정을 나타내는 가정법 미래다. 주절이 would refinance이므로 were가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0399",
+    "part": 5,
+    "type": "RC",
+    "question": "The results of the survey _______ released to the press later this afternoon.",
+    "options": [
+      "is",
+      "was",
+      "will be",
+      "has been"
+    ],
+    "answer": 2,
+    "explanation": "주어는 복수 the results이고 'later this afternoon'은 미래 단서다. 결과는 발표되는 대상이므로 미래 수동태 will be (released)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0400",
+    "part": 5,
+    "type": "RC",
+    "question": "A list of approved vendors _______ posted on the company intranet each quarter.",
+    "options": [
+      "is",
+      "have been",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "주어는 단수 a list이고 'of approved vendors'는 수식어구다. 따라서 단수동사 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0401",
+    "part": 5,
+    "type": "RC",
+    "question": "We _______ for the train when we noticed that the departure had been delayed.",
+    "options": [
+      "wait",
+      "waited",
+      "were waiting",
+      "have waited"
+    ],
+    "answer": 2,
+    "explanation": "과거의 한 시점(noticed)에 진행 중이던 동작은 과거진행 were waiting으로 나타낸다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0402",
+    "part": 5,
+    "type": "RC",
+    "question": "All defective products _______ recalled immediately following the safety inspection last month.",
+    "options": [
+      "have been",
+      "will be",
+      "were",
+      "are"
+    ],
+    "answer": 2,
+    "explanation": "'last month'는 과거 시점 단서이고 제품은 회수되는 대상이므로 과거 수동태 were (recalled)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0403",
+    "part": 5,
+    "type": "RC",
+    "question": "It is recommended that the report _______ submitted no later than Friday afternoon.",
+    "options": [
+      "be",
+      "was",
+      "is",
+      "will be"
+    ],
+    "answer": 0,
+    "explanation": "recommend의 that절에서는 (should) + 동사원형을 쓰는 가정법 현재다. 수동 의미로 (should) be (submitted)에서 be가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0404",
+    "part": 5,
+    "type": "RC",
+    "question": "The price of raw materials _______ significantly over the last several months.",
+    "options": [
+      "have increased",
+      "increase",
+      "are increasing",
+      "has increased"
+    ],
+    "answer": 3,
+    "explanation": "주어는 단수 the price이고 'over the last several months'는 현재완료 단서다. 따라서 has increased가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0405",
+    "part": 5,
+    "type": "RC",
+    "question": "If the prototype _______ the safety tests, it will be approved for mass production.",
+    "options": [
+      "passed",
+      "passes",
+      "had passed",
+      "will pass"
+    ],
+    "answer": 1,
+    "explanation": "실현 가능한 미래 조건의 단순조건문이다. if절은 현재시제, 단수 주어에 맞춰 passes가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0406",
+    "part": 5,
+    "type": "RC",
+    "question": "The award-winning architect _______ several iconic buildings throughout her career.",
+    "options": [
+      "is designing",
+      "designed",
+      "designs",
+      "has designed"
+    ],
+    "answer": 3,
+    "explanation": "'throughout her career'는 과거부터 현재까지 이어지는 경력을 나타내는 현재완료 단서다. 따라서 has designed가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0407",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors _______ not permitted to take photographs inside the gallery.",
+    "options": [
+      "are",
+      "was",
+      "has been",
+      "is"
+    ],
+    "answer": 0,
+    "explanation": "주어가 복수 visitors이고 방문객은 허가받는 대상이므로 복수 수동태 are (not permitted)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0408",
+    "part": 5,
+    "type": "RC",
+    "question": "By the time you read this message, I _______ already left for the airport.",
+    "options": [
+      "will have",
+      "have",
+      "had",
+      "am having"
+    ],
+    "answer": 0,
+    "explanation": "'by the time + 현재(read)'는 미래의 시점을 나타내고, 그 시점까지 완료될 동작은 미래완료(will have left)로 표현한다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0409",
+    "part": 5,
+    "type": "RC",
+    "question": "The quality of the products _______ improved noticeably since the new manager took over.",
+    "options": [
+      "were",
+      "have",
+      "are",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "주어는 단수 the quality이고 'of the products'는 수식어구다. 'since'는 현재완료 단서이므로 has (improved)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0410",
+    "part": 5,
+    "type": "RC",
+    "question": "Refunds _______ processed within five business days of receiving the returned item.",
+    "options": [
+      "is",
+      "have",
+      "has been",
+      "are"
+    ],
+    "answer": 3,
+    "explanation": "복수 주어 refunds이고 환불은 처리되는 대상이므로 복수 수동태 are (processed)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0411",
+    "part": 5,
+    "type": "RC",
+    "question": "Had the negotiations succeeded, the two companies _______ a joint venture by now.",
+    "options": [
+      "would have formed",
+      "formed",
+      "would form",
+      "will form"
+    ],
+    "answer": 0,
+    "explanation": "Had + S + p.p.는 가정법 과거완료 도치다. 'by now'가 있어도 과거의 사건을 가정하므로 주절은 would have p.p.(would have formed)를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0412",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO together with the board _______ reviewing the annual performance figures.",
+    "options": [
+      "have been",
+      "were",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": "'together with ~'는 주어의 수에 영향을 주지 않는다. 주어는 단수 the CEO이므로 is가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0413",
+    "part": 5,
+    "type": "RC",
+    "question": "The employees _______ their badges before they may enter the secure area.",
+    "options": [
+      "presents",
+      "must be presented",
+      "are presenting",
+      "must present"
+    ],
+    "answer": 3,
+    "explanation": "직원이 배지를 제시하는 능동의 동작이므로 must present가 정답이다. 수동태는 의미가 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0414",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales of the new smartphone _______ all expectations during its first week on the market.",
+    "options": [
+      "exceeds",
+      "exceeded",
+      "has exceeded",
+      "is exceeding"
+    ],
+    "answer": 1,
+    "explanation": "'during its first week'는 과거의 특정 기간을 나타내고 복수 주어 sales에 맞춰 과거시제 exceeded가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0415",
+    "part": 5,
+    "type": "RC",
+    "question": "If she _______ harder for the certification exam, she might have passed it.",
+    "options": [
+      "had studied",
+      "studied",
+      "studies",
+      "would study"
+    ],
+    "answer": 0,
+    "explanation": "주절이 might have passed이므로 과거 사실의 반대를 가정하는 가정법 과거완료다. if절은 had p.p.(had studied)를 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0416",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee _______ to announce the winner of the design competition tomorrow.",
+    "options": [
+      "expects",
+      "is expected",
+      "have expected",
+      "expecting"
+    ],
+    "answer": 1,
+    "explanation": "'be expected to'는 '~할 것으로 예상되다'라는 수동 표현이다. 단수 주어 the committee에 맞춰 is expected가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0417",
+    "part": 5,
+    "type": "RC",
+    "question": "Both the warehouse and the showroom _______ closed for inventory next Monday.",
+    "options": [
+      "was",
+      "will be",
+      "has been",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "'both A and B'는 복수 취급하고 'next Monday'는 미래 단서다. 닫히는 대상이므로 미래 수동태 will be (closed)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0418",
+    "part": 5,
+    "type": "RC",
+    "question": "The clients _______ on the revised contract for over an hour when the lawyer finally arrived.",
+    "options": [
+      "had been waiting",
+      "waited",
+      "wait",
+      "have waited"
+    ],
+    "answer": 0,
+    "explanation": "과거 시점(arrived) 이전부터 계속 진행 중이던 동작은 과거완료진행(had been waiting)으로 나타낸다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0419",
+    "part": 5,
+    "type": "RC",
+    "question": "A new set of guidelines _______ issued to all branch offices last week.",
+    "options": [
+      "were",
+      "have been",
+      "are",
+      "was"
+    ],
+    "answer": 3,
+    "explanation": "주어는 단수 a set이고 'last week'는 과거 단서다. 지침은 발행되는 대상이므로 과거 수동태 was (issued)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0420",
+    "part": 5,
+    "type": "RC",
+    "question": "Please note that the elevator _______ undergoing repairs and is currently out of service.",
+    "options": [
+      "is",
+      "have been",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "주어는 단수 the elevator이므로 단수동사 is가 정답이다. 진행형(is undergoing) 구조다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0421",
+    "part": 5,
+    "type": "RC",
+    "question": "The orders _______ shipped as soon as payment confirmation is received.",
+    "options": [
+      "will be",
+      "is",
+      "has been",
+      "will"
+    ],
+    "answer": 0,
+    "explanation": "복수 주어 orders이고 주문은 배송되는 대상이므로 미래 수동태 will be (shipped)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0422",
+    "part": 5,
+    "type": "RC",
+    "question": "Ten percent of the workforce _______ been affected by the recent restructuring.",
+    "options": [
+      "were",
+      "have",
+      "has",
+      "are"
+    ],
+    "answer": 2,
+    "explanation": "'percent of + 불가산/집합명사(workforce)'는 단수 취급한다. 따라서 has가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0423",
+    "part": 5,
+    "type": "RC",
+    "question": "When the inspectors arrived, the workers _______ already finished installing the panels.",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "과거 시점(arrived)보다 더 이전에 완료된 동작은 과거완료(had finished)로 나타낸다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0424",
+    "part": 5,
+    "type": "RC",
+    "question": "The data collected from the trial _______ being analyzed by the research team.",
+    "options": [
+      "is",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "주어 the data는 현대 영어에서 집합적 단수로도 자주 쓰이며, 'collected from the trial'은 수식어구다. 단수동사 is가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0425",
+    "part": 5,
+    "type": "RC",
+    "question": "All maintenance requests _______ submitted through the online portal from now on.",
+    "options": [
+      "is",
+      "has been",
+      "must be",
+      "must"
+    ],
+    "answer": 2,
+    "explanation": "요청은 제출되는 대상이므로 수동태가 필요하다. 조동사 must 뒤에 be p.p.(must be submitted)가 온다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0426",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee _______ for the company for only three weeks but already shows great promise.",
+    "options": [
+      "works",
+      "is working",
+      "worked",
+      "has worked"
+    ],
+    "answer": 3,
+    "explanation": "'for + 기간'과 함께 과거부터 현재까지 계속된 동작을 나타내므로 현재완료 has worked가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0427",
+    "part": 5,
+    "type": "RC",
+    "question": "Should the package arrive damaged, customers _______ contact our service center for a replacement.",
+    "options": [
+      "were",
+      "should",
+      "had",
+      "would"
+    ],
+    "answer": 1,
+    "explanation": "Should the package ~는 가정법 미래의 도치다. 주절은 조언/지시를 나타내는 should + 동사원형(should contact)이 자연스럽다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0428",
+    "part": 5,
+    "type": "RC",
+    "question": "The orientation session _______ held in the main auditorium last Tuesday.",
+    "options": [
+      "is",
+      "was",
+      "will be",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": "'last Tuesday'는 과거 단서이고 세션은 개최되는 대상이므로 과거 수동태 was (held)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0429",
+    "part": 5,
+    "type": "RC",
+    "question": "A variety of payment options _______ available to customers at checkout.",
+    "options": [
+      "are",
+      "is",
+      "has been",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": "'a variety of + 복수명사'는 복수 취급한다. 따라서 복수동사 are가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0430",
+    "part": 5,
+    "type": "RC",
+    "question": "The contractor assured us that the building _______ completed by the agreed deadline.",
+    "options": [
+      "would be",
+      "is",
+      "will be",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "주절이 과거(assured)이므로 종속절은 시제 일치에 따라 미래의 의미를 would로 표현한다. 건물은 완공되는 대상이므로 would be (completed)가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0431",
+    "part": 5,
+    "type": "RC",
+    "question": "Half of the documents _______ already been translated into Spanish.",
+    "options": [
+      "was",
+      "have",
+      "is",
+      "has"
+    ],
+    "answer": 1,
+    "explanation": "'half of + 복수명사(documents)'는 복수 취급한다. 따라서 have가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0432",
+    "part": 5,
+    "type": "RC",
+    "question": "The store _______ its hours during the holiday season to accommodate more shoppers.",
+    "options": [
+      "extends",
+      "is extended",
+      "has extended",
+      "extend"
+    ],
+    "answer": 2,
+    "explanation": "현재까지 영향을 미치는 완료된 동작을 나타내며, 가게가 시간을 연장하는 능동의 의미이므로 has extended가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0433",
+    "part": 5,
+    "type": "RC",
+    "question": "Were the company to expand overseas, it _______ a substantial increase in revenue.",
+    "options": [
+      "will see",
+      "would see",
+      "had seen",
+      "saw"
+    ],
+    "answer": 1,
+    "explanation": "'Were S to V'는 if 생략 도치로 가정법 미래/현재다. 주절은 would + 동사원형(would see)을 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0434",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions on the package _______ confusing to many first-time users.",
+    "options": [
+      "was",
+      "are",
+      "has been",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "주어는 복수 the instructions이고 'on the package'는 수식어구다. 따라서 복수동사 are가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0435",
+    "part": 5,
+    "type": "RC",
+    "question": "By next month, the renovation of the lobby _______ for nearly half a year.",
+    "options": [
+      "continued",
+      "will have continued",
+      "continues",
+      "has continued"
+    ],
+    "answer": 1,
+    "explanation": "'by next month'(미래 시점)까지 지속된 기간을 나타내므로 미래완료 will have continued가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0436",
+    "part": 5,
+    "type": "RC",
+    "question": "The vendors _______ to deliver the goods no later than the fifteenth of each month.",
+    "options": [
+      "requiring",
+      "require",
+      "are required",
+      "have required"
+    ],
+    "answer": 2,
+    "explanation": "공급업체는 요구받는 대상이므로 수동태 are required (to deliver)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0437",
+    "part": 5,
+    "type": "RC",
+    "question": "If the team _______ the deadline, the client may cancel the entire contract.",
+    "options": [
+      "missed",
+      "would miss",
+      "misses",
+      "had missed"
+    ],
+    "answer": 2,
+    "explanation": "실현 가능성이 있는 미래 조건의 단순조건문이다. if절은 현재시제, 단수 주어 the team에 맞춰 misses가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0438",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee insists that the budget _______ reduced by at least ten percent.",
+    "options": [
+      "was",
+      "is",
+      "be",
+      "will be"
+    ],
+    "answer": 2,
+    "explanation": "insist의 that절에서는 (should) + 동사원형을 쓰는 가정법 현재다. 수동 의미로 (should) be (reduced)에서 be가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0439",
+    "part": 5,
+    "type": "RC",
+    "question": "Our company _______ celebrating its fiftieth anniversary at this time next year.",
+    "options": [
+      "was",
+      "has been",
+      "will be",
+      "is"
+    ],
+    "answer": 2,
+    "explanation": "'at this time next year'는 미래의 특정 시점에 진행 중일 동작을 나타내므로 미래진행 will be (celebrating)이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0440",
+    "part": 5,
+    "type": "RC",
+    "question": "Several errors _______ detected in the system during the routine audit yesterday.",
+    "options": [
+      "was",
+      "were",
+      "has been",
+      "are"
+    ],
+    "answer": 1,
+    "explanation": "'yesterday'는 과거 단서이고 오류는 발견되는 대상이다. 복수 주어 errors에 맞춰 과거 수동태 were (detected)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0441",
+    "part": 5,
+    "type": "RC",
+    "question": "The branch manager, as well as two senior analysts, _______ been promoted this year.",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explanation": "'as well as ~'는 주어의 수에 영향을 주지 않는다. 주어는 단수 the branch manager이므로 has가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0442",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors who _______ to the restricted zone must be accompanied by an authorized escort.",
+    "options": [
+      "are gone",
+      "goes",
+      "go",
+      "going"
+    ],
+    "answer": 2,
+    "explanation": "관계대명사 who의 선행사가 복수 visitors이므로 복수동사 go를 쓴다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0443",
+    "part": 5,
+    "type": "RC",
+    "question": "The bridge _______ for nearly a century before it was finally replaced in 2015.",
+    "options": [
+      "has stood",
+      "had stood",
+      "stood",
+      "stands"
+    ],
+    "answer": 1,
+    "explanation": "과거 시점(replaced in 2015) 이전까지 계속된 상태는 과거완료(had stood)로 나타낸다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0444",
+    "part": 5,
+    "type": "RC",
+    "question": "Refund requests _______ no longer be accepted after the thirty-day return window closes.",
+    "options": [
+      "has",
+      "is",
+      "are",
+      "will"
+    ],
+    "answer": 3,
+    "explanation": "'after ~ closes'는 미래의 일을 나타내며, 환불 요청은 받아들여지지 않을 것이므로 미래 수동태 will (no longer be accepted)의 will이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0445",
+    "part": 5,
+    "type": "RC",
+    "question": "It is vital that each candidate _______ a valid form of identification to the interview.",
+    "options": [
+      "bring",
+      "brings",
+      "is bringing",
+      "brought"
+    ],
+    "answer": 0,
+    "explanation": "'It is vital that + 주어 + (should) 동사원형' 구조의 가정법 현재다. 따라서 동사원형 bring이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0446",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment _______ at the warehouse two days earlier than originally scheduled.",
+    "options": [
+      "arrived",
+      "arrives",
+      "has arrived",
+      "is arriving"
+    ],
+    "answer": 0,
+    "explanation": "'two days earlier than scheduled'는 이미 일어난 과거의 사건을 나타내므로 과거시제 arrived가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0447",
+    "part": 5,
+    "type": "RC",
+    "question": "All of the equipment in the laboratory _______ to be calibrated before each experiment.",
+    "options": [
+      "needs",
+      "need",
+      "are needing",
+      "have needed"
+    ],
+    "answer": 0,
+    "explanation": "'all of the + 불가산명사(equipment)'는 단수 취급한다. 따라서 단수동사 needs가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0448",
+    "part": 5,
+    "type": "RC",
+    "question": "If the firm _______ adopted the technology sooner, it would be a market leader today.",
+    "options": [
+      "would have",
+      "did",
+      "had",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "if절은 과거완료(had adopted)지만 주절에 'today'가 있어 현재 결과를 나타내는 혼합가정법이다. if절에 had가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0449",
+    "part": 5,
+    "type": "RC",
+    "question": "The notices _______ posted on every floor to inform employees of the schedule change.",
+    "options": [
+      "has been",
+      "is",
+      "were",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "복수 주어 the notices이고 공지는 게시되는 대상이므로 과거 수동태 were (posted)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0450",
+    "part": 5,
+    "type": "RC",
+    "question": "The board has decided that the new factory _______ built in the eastern district.",
+    "options": [
+      "is",
+      "will",
+      "be",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "decide의 that절이 제안/결정의 의미를 가질 때 (should) + 동사원형을 쓰는 가정법 현재다. 수동 의미로 (should) be (built)에서 be가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0451",
+    "part": 5,
+    "type": "RC",
+    "question": "Productivity in the department _______ noticeably since the new software was introduced.",
+    "options": [
+      "have improved",
+      "improve",
+      "are improving",
+      "has improved"
+    ],
+    "answer": 3,
+    "explanation": "주어는 단수 productivity이고 'since'는 현재완료 단서다. 따라서 has improved가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0452",
+    "part": 5,
+    "type": "RC",
+    "question": "The tickets for the concert _______ out within minutes of going on sale yesterday.",
+    "options": [
+      "sold",
+      "are selling",
+      "sells",
+      "have sold"
+    ],
+    "answer": 0,
+    "explanation": "'yesterday'는 과거 단서다. 'sell out'은 자동사적으로 쓰여 능동형을 취하며, 과거시제 sold가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0453",
+    "part": 5,
+    "type": "RC",
+    "question": "Were she more experienced, the manager _______ her to lead the project.",
+    "options": [
+      "had appointed",
+      "would appoint",
+      "appointed",
+      "will appoint"
+    ],
+    "answer": 1,
+    "explanation": "'Were she ~'는 if 생략 도치로 현재 사실 반대 가정법 과거다. 주절은 would + 동사원형(would appoint)을 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0454",
+    "part": 5,
+    "type": "RC",
+    "question": "The number of online transactions _______ grown rapidly in recent years.",
+    "options": [
+      "are",
+      "have",
+      "has",
+      "were"
+    ],
+    "answer": 2,
+    "explanation": "'the number of + 복수명사'는 단수 취급하고, 'in recent years'는 현재완료 단서다. 따라서 has가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0455",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal _______ to the investors during the meeting scheduled for next Wednesday.",
+    "options": [
+      "presents",
+      "has presented",
+      "presented",
+      "will be presented"
+    ],
+    "answer": 3,
+    "explanation": "'next Wednesday'는 미래 단서이고 제안은 발표되는 대상이므로 미래 수동태 will be presented가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0456",
+    "part": 5,
+    "type": "RC",
+    "question": "Not only the employees but also the manager _______ satisfied with the new arrangement.",
+    "options": [
+      "have been",
+      "is",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": "'not only A but also B' 구문에서 동사는 가까운 주어(the manager, 단수)에 일치시킨다. 따라서 is가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0457",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicants _______ informed of the hiring decision by the end of this week.",
+    "options": [
+      "will be",
+      "will",
+      "are",
+      "has been"
+    ],
+    "answer": 0,
+    "explanation": "'by the end of this week'는 미래 단서이고 지원자는 통지받는 대상이므로 미래 수동태 will be (informed)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0458",
+    "part": 5,
+    "type": "RC",
+    "question": "All staff members are expected to complete the safety training _______ the end of next week.",
+    "options": [
+      "by",
+      "for",
+      "until",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "기한(deadline)을 나타내므로 '~까지(완료)'를 뜻하는 by가 정답이다. until은 동작이 그 시점까지 '계속'됨을 나타낼 때 쓰며, complete(완료)처럼 한 번에 끝나는 동작과는 어울리지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0459",
+    "part": 5,
+    "type": "RC",
+    "question": "The reception desk will remain open _______ 9 P.M. for late arrivals.",
+    "options": [
+      "within",
+      "to",
+      "by",
+      "until"
+    ],
+    "answer": 3,
+    "explanation": "remain open(계속 열려 있다)은 상태의 '지속'을 나타내므로 '~까지 계속'을 뜻하는 until이 정답이다. by는 마감 기한에 한 번 일어나는 동작에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0460",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the heavy rain, the outdoor concert was postponed until the following weekend.",
+    "options": [
+      "Because of",
+      "Although",
+      "Because",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the heavy rain이라는 명사구가 오므로 전치사 Because of가 정답이다. Because, Although, While은 모두 「주어+동사」 절을 이끄는 접속사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0461",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the road was closed for repairs, commuters had to find an alternate route.",
+    "options": [
+      "Because of",
+      "Because",
+      "Despite",
+      "During"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the road was closed라는 완전한 절이 오므로 접속사 Because가 정답이다. Because of, Despite, During은 명사(구)를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0462",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the long delay, all passengers remained calm and cooperative.",
+    "options": [
+      "While",
+      "Despite",
+      "Even though",
+      "Although"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the long delay라는 명사구가 오므로 전치사 Despite가 정답이다. 나머지는 모두 절을 이끄는 접속사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0463",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the proposal was well prepared, the board decided to delay its approval.",
+    "options": [
+      "In spite of",
+      "Although",
+      "Despite",
+      "Because of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the proposal was well prepared라는 완전한 절이 오므로 양보의 접속사 Although가 정답이다. Despite, In spite of, Because of는 명사구를 취한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0464",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory operated continuously _______ the holiday season to meet rising demand.",
+    "options": [
+      "when",
+      "since",
+      "during",
+      "while"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the holiday season이라는 명사구가 오므로 전치사 during이 정답이다. while과 when은 절을 이끄는 접속사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0465",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the technician was repairing the server, the staff used backup laptops.",
+    "options": [
+      "Because of",
+      "While",
+      "During",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the technician was repairing이라는 완전한 절이 오므로 접속사 While이 정답이다. During은 명사구를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0466",
+    "part": 5,
+    "type": "RC",
+    "question": "Please return the signed contract _______ Friday so that we can process your order.",
+    "options": [
+      "by",
+      "in",
+      "until",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "return(반납하다)은 한 번에 완료되는 동작이고 마감 기한을 나타내므로 by가 정답이다. until은 동작의 지속에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0467",
+    "part": 5,
+    "type": "RC",
+    "question": "The new branch will be located _______ the corner of Fifth Avenue and Main Street.",
+    "options": [
+      "of",
+      "in",
+      "at",
+      "to"
+    ],
+    "answer": 2,
+    "explanation": "특정 지점(모퉁이)을 가리킬 때는 at the corner를 쓴다. in the corner는 방 안의 구석을 뜻한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0468",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference room is located _______ the third floor, next to the main elevator.",
+    "options": [
+      "on",
+      "at",
+      "by",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "층을 나타낼 때는 전치사 on을 쓴다(on the third floor). in은 공간 내부, at은 한 지점을 가리킨다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0469",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment is expected to arrive _______ three business days of placing the order.",
+    "options": [
+      "until",
+      "within",
+      "during",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": "'~이내에'라는 기간의 한계를 나타낼 때는 within을 쓴다. within three business days(3영업일 이내).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0470",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ submitting the application, candidates should review all required documents carefully.",
+    "options": [
+      "While",
+      "Before",
+      "During",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": "동명사(submitting)를 목적어로 취하면서 '~하기 전에'라는 시간 관계를 나타내는 전치사 Before가 정답이다. While은 절을 이끌고, During은 명사를 취하지만 의미가 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0471",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing team worked overtime _______ they could finish the campaign before the launch.",
+    "options": [
+      "so that",
+      "in order to",
+      "despite",
+      "because of"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 they could finish라는 절이 오고 목적을 나타내므로 so that이 정답이다. in order to는 동사원형을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0472",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors must wear identification badges _______ they are inside the laboratory.",
+    "options": [
+      "whenever",
+      "because of",
+      "during",
+      "despite"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 they are라는 절이 오고 '~할 때마다/~하는 동안 언제든' 의미가 적절하므로 접속사 whenever가 정답이다. during과 because of는 명사를 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0473",
+    "part": 5,
+    "type": "RC",
+    "question": "The company offered a discount _______ encouraging customers to renew their subscriptions early.",
+    "options": [
+      "although",
+      "aimed at",
+      "because",
+      "while"
+    ],
+    "answer": 1,
+    "explanation": "동명사(encouraging)를 취하는 전치사구 aimed at(~을 목표로 한)이 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0474",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees may take their lunch break _______ noon and 2 P.M. at their convenience.",
+    "options": [
+      "during",
+      "within",
+      "among",
+      "between"
+    ],
+    "answer": 3,
+    "explanation": "두 시점 사이를 나타낼 때는 between A and B를 쓴다. between noon and 2 P.M.(정오와 오후 2시 사이).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0475",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ his lack of experience, Mr. Okafor was promoted to department head.",
+    "options": [
+      "Although",
+      "Even though",
+      "While",
+      "In spite of"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 his lack of experience라는 명사구가 오므로 양보의 전치사구 In spite of가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0476",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar will cover several topics, _______ time management and effective communication.",
+    "options": [
+      "including",
+      "to include",
+      "include",
+      "included"
+    ],
+    "answer": 0,
+    "explanation": "명사구를 이끌며 '~을 포함하여'를 뜻하는 전치사 including이 정답이다. including은 전치사로 굳어진 분사 형태다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0477",
+    "part": 5,
+    "type": "RC",
+    "question": "The store will be closed for renovation _______ further notice.",
+    "options": [
+      "by",
+      "since",
+      "for",
+      "until"
+    ],
+    "answer": 3,
+    "explanation": "'추후 통지가 있을 때까지 계속 닫혀 있다'는 지속의 의미이므로 until이 정답이다. until further notice는 관용 표현이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0478",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the budget was approved, the project team began purchasing equipment immediately.",
+    "options": [
+      "Because of",
+      "Once",
+      "During",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the budget was approved라는 절이 오고 '일단 ~하자' 의미가 적절하므로 접속사 Once가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0479",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Tanaka has been with the firm _______ it opened its first overseas office in 2010.",
+    "options": [
+      "by",
+      "since",
+      "during",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 it opened라는 절이 오고 과거 시점부터의 계속을 나타내므로 접속사 since가 정답이다. for, during, by는 전치사로 절을 이끌 수 없다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0480",
+    "part": 5,
+    "type": "RC",
+    "question": "The two companies merged _______ they could compete more effectively in the global market.",
+    "options": [
+      "so as to",
+      "because of",
+      "despite",
+      "so that"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 they could compete라는 절이 오고 목적을 나타내므로 so that이 정답이다. so as to는 동사원형을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0481",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ you have any questions about the policy, please contact the human resources department.",
+    "options": [
+      "During",
+      "Because of",
+      "Despite",
+      "If"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 you have라는 절이 오고 조건을 나타내므로 접속사 If가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0482",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor reviewed every transaction _______ great attention to detail.",
+    "options": [
+      "with",
+      "for",
+      "by",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "수단·방식을 나타내며 '~을 가지고/~하게'를 뜻하는 with가 정답이다. with great attention(세심한 주의를 기울여).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0483",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales increased significantly _______ the launch of the redesigned website.",
+    "options": [
+      "while",
+      "although",
+      "following",
+      "because"
+    ],
+    "answer": 2,
+    "explanation": "명사구(the launch)를 취하며 '~한 후에'를 뜻하는 전치사 following이 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0484",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the renovation is complete, the lobby will feature a new information desk.",
+    "options": [
+      "Because of",
+      "When",
+      "During",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the renovation is complete라는 절이 오고 시간을 나타내므로 접속사 When이 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0485",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions must be followed exactly _______ the warranty will be voided.",
+    "options": [
+      "and",
+      "or",
+      "so",
+      "but"
+    ],
+    "answer": 1,
+    "explanation": "'정확히 따라야 한다, 그렇지 않으면 보증이 무효가 된다'는 의미로 명령문 뒤의 or(그렇지 않으면)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0486",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither the manager _______ the assistant was available to answer the phone.",
+    "options": [
+      "but",
+      "nor",
+      "or",
+      "and"
+    ],
+    "answer": 1,
+    "explanation": "neither와 짝을 이루는 상관접속사는 nor다. neither A nor B(A도 B도 아니다).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0487",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicant was qualified _______ the position but declined the offer for personal reasons.",
+    "options": [
+      "for",
+      "at",
+      "to",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "be qualified for(~에 자격이 있다)라는 관용 표현이 쓰이므로 전치사 for가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0488",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ both candidates were impressive, the committee could select only one.",
+    "options": [
+      "Because of",
+      "Even though",
+      "Despite",
+      "In spite of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 both candidates were impressive라는 절이 오고 양보 의미가 적절하므로 접속사 Even though가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0489",
+    "part": 5,
+    "type": "RC",
+    "question": "The package should be delivered _______ noon tomorrow at the latest.",
+    "options": [
+      "since",
+      "until",
+      "during",
+      "by"
+    ],
+    "answer": 3,
+    "explanation": "'늦어도 내일 정오까지' 배달 완료라는 마감 기한이므로 by가 정답이다. at the latest는 by와 자주 함께 쓰인다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0490",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers can park free of charge _______ they are shopping at the mall.",
+    "options": [
+      "during",
+      "despite",
+      "because of",
+      "as long as"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 they are shopping이라는 절이 오고 조건('~하는 한')을 나타내므로 as long as가 정답이다. during, because of는 명사를 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0491",
+    "part": 5,
+    "type": "RC",
+    "question": "The report was delayed _______ a shortage of available data.",
+    "options": [
+      "because",
+      "although",
+      "owing to",
+      "owing"
+    ],
+    "answer": 2,
+    "explanation": "명사구(a shortage)를 취하며 '~때문에'를 뜻하는 전치사구 owing to가 정답이다. because, although는 절을 이끈다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0492",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ leaving the office, employees should ensure that all computers are turned off.",
+    "options": [
+      "Upon",
+      "Because",
+      "Despite",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": "동명사(leaving)를 취하며 '~하자마자/~할 때'를 뜻하는 전치사 Upon이 정답이다. While, Because는 절을 이끈다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0493",
+    "part": 5,
+    "type": "RC",
+    "question": "The product is popular _______ teenagers and young adults alike.",
+    "options": [
+      "between",
+      "in",
+      "at",
+      "among"
+    ],
+    "answer": 3,
+    "explanation": "셋 이상의 집단 사이에서를 나타낼 때는 among을 쓴다. between은 보통 둘 사이에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0494",
+    "part": 5,
+    "type": "RC",
+    "question": "The flight was canceled, _______ the airline offered passengers a full refund.",
+    "options": [
+      "nor",
+      "for",
+      "or",
+      "so"
+    ],
+    "answer": 3,
+    "explanation": "'취소되었다, 그래서 환불을 제공했다'는 결과를 나타내므로 등위접속사 so가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0495",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will announce the results _______ the votes have been counted.",
+    "options": [
+      "during",
+      "as soon as",
+      "despite",
+      "because of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the votes have been counted라는 절이 오고 '~하자마자'를 뜻하므로 as soon as가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0496",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Lee will be working from home _______ the next two weeks.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "기간의 길이(two weeks)를 나타낼 때는 for를 쓴다. during은 특정 기간을 가리키는 명사와 함께 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0497",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the survey results, customer satisfaction has improved over the past year.",
+    "options": [
+      "According to",
+      "Although",
+      "Because",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": "명사구(the survey results)를 취하며 '~에 따르면'을 뜻하는 전치사구 According to가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0498",
+    "part": 5,
+    "type": "RC",
+    "question": "The training session will continue _______ all participants have completed the exercises.",
+    "options": [
+      "until",
+      "for",
+      "by",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 all participants have completed라는 절이 오고 '~할 때까지 계속'을 뜻하므로 접속사 until이 정답이다. by, during, for는 절을 이끌 수 없다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0499",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor praised the team _______ their dedication to the project.",
+    "options": [
+      "on",
+      "with",
+      "for",
+      "to"
+    ],
+    "answer": 2,
+    "explanation": "praise A for B(B에 대해 A를 칭찬하다)라는 관용 구문이 쓰이므로 전치사 for가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0500",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the merger was finalized, the two firms operated as independent companies.",
+    "options": [
+      "During",
+      "Despite",
+      "Before",
+      "Because of"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the merger was finalized라는 절이 오고 시간 관계가 적절하므로 접속사 Before가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0501",
+    "part": 5,
+    "type": "RC",
+    "question": "Profits remained stable _______ the economic downturn that affected the entire industry.",
+    "options": [
+      "despite",
+      "while",
+      "although",
+      "even though"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the economic downturn이라는 명사구가 오므로 양보의 전치사 despite가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0502",
+    "part": 5,
+    "type": "RC",
+    "question": "The keynote speaker arrived just _______ time for the opening ceremony.",
+    "options": [
+      "on",
+      "by",
+      "in",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "in time(시간에 맞게, 늦지 않게)이라는 관용 표현이 쓰인다. on time은 '정시에'를 뜻한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0503",
+    "part": 5,
+    "type": "RC",
+    "question": "All deliveries must be made _______ business hours, between 9 A.M. and 5 P.M.",
+    "options": [
+      "since",
+      "during",
+      "until",
+      "while"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 business hours라는 명사구가 오므로 전치사 during이 정답이다. while은 절을 이끈다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0504",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the high cost, the company decided to invest in the new software system.",
+    "options": [
+      "Although",
+      "While",
+      "Notwithstanding",
+      "Even though"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the high cost라는 명사구가 오므로 양보의 전치사 Notwithstanding(~에도 불구하고)이 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0505",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy applies to all employees _______ of their job title or department.",
+    "options": [
+      "despite",
+      "regardless",
+      "instead",
+      "because"
+    ],
+    "answer": 1,
+    "explanation": "regardless of(~에 상관없이)라는 전치사구가 쓰이므로 regardless가 정답이다. of와 결합하여 명사구를 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0506",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales representatives must submit their reports _______ each month without exception.",
+    "options": [
+      "until",
+      "at the end of",
+      "by the end",
+      "during end"
+    ],
+    "answer": 1,
+    "explanation": "'매월 말에'를 뜻하는 전치사구 at the end of가 정답이다. 시점을 정확히 나타내는 관용 표현이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0507",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ working at the headquarters, Ms. Patel commuted from a nearby suburb.",
+    "options": [
+      "While",
+      "Despite",
+      "Because of",
+      "During"
+    ],
+    "answer": 0,
+    "explanation": "동명사(working)를 취할 수 있으면서 '~하는 동안'을 뜻하는 접속사 While이 정답이다(주어 생략 분사구문). During은 명사만 취한다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0508",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar was so informative _______ many attendees requested a follow-up session.",
+    "options": [
+      "as",
+      "which",
+      "than",
+      "that"
+    ],
+    "answer": 3,
+    "explanation": "so + 형용사 + that 구문으로 '너무 ~해서 ...하다'를 나타내므로 that이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0509",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations will take effect _______ January 1, as announced last week.",
+    "options": [
+      "by",
+      "at",
+      "in",
+      "on"
+    ],
+    "answer": 3,
+    "explanation": "구체적인 날짜 앞에는 전치사 on을 쓴다(on January 1). in은 월·연도, at은 시각에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0510",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees can choose _______ working remotely and coming to the office.",
+    "options": [
+      "of",
+      "for",
+      "between",
+      "among"
+    ],
+    "answer": 2,
+    "explanation": "두 가지 선택지 사이를 나타내며 choose between A and B(A와 B 중에서 선택하다)가 쓰이므로 between이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0511",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the manual carefully, the technician was able to fix the machine quickly.",
+    "options": [
+      "Despite",
+      "Having read",
+      "During",
+      "Because of"
+    ],
+    "answer": 1,
+    "explanation": "분사구문 Having read(~을 읽은 후)가 주절의 동작보다 앞선 일을 나타내므로 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0512",
+    "part": 5,
+    "type": "RC",
+    "question": "The bridge will be closed to traffic _______ repairs are being carried out.",
+    "options": [
+      "during",
+      "while",
+      "despite",
+      "because of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 repairs are being carried out이라는 절이 오므로 접속사 while이 정답이다. during, because of는 명사를 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0513",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel is conveniently located _______ walking distance of the train station.",
+    "options": [
+      "in",
+      "by",
+      "within",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "within walking distance(걸어갈 수 있는 거리 내에)라는 관용 표현이 쓰이므로 within이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0514",
+    "part": 5,
+    "type": "RC",
+    "question": "Ms. Romano will lead the workshop _______ Mr. Diaz handles the registration.",
+    "options": [
+      "because of",
+      "while",
+      "despite",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 Mr. Diaz handles라는 절이 오고 동시·대조를 나타내므로 접속사 while이 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0515",
+    "part": 5,
+    "type": "RC",
+    "question": "The contract is valid _______ a period of three years from the date of signing.",
+    "options": [
+      "during",
+      "by",
+      "for",
+      "since"
+    ],
+    "answer": 2,
+    "explanation": "기간의 길이(a period of three years)를 나타낼 때는 for를 쓴다. during은 특정 기간 명사와 함께 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0516",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ his busy schedule, the CEO always finds time to meet with new employees.",
+    "options": [
+      "Despite",
+      "While",
+      "Even though",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 his busy schedule이라는 명사구가 오므로 양보의 전치사 Despite가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0517",
+    "part": 5,
+    "type": "RC",
+    "question": "The figures in the report are accurate _______ the most recent quarter.",
+    "options": [
+      "since",
+      "by",
+      "as",
+      "as of"
+    ],
+    "answer": 3,
+    "explanation": "as of(~현재 기준으로)라는 전치사구가 쓰이므로 as of가 정답이다. as of the most recent quarter(가장 최근 분기 기준).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0518",
+    "part": 5,
+    "type": "RC",
+    "question": "The store stays open late on weekends _______ accommodate working customers.",
+    "options": [
+      "in order to",
+      "because",
+      "so that",
+      "despite"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 동사원형(accommodate)이 오고 목적을 나타내므로 in order to가 정답이다. so that은 절을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0519",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation must be completed _______ the grand reopening scheduled for May.",
+    "options": [
+      "before",
+      "since",
+      "until",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "명사구(the grand reopening)를 취하며 '~전에'를 뜻하는 전치사 before가 정답이다. until은 지속, since는 시작점에 쓴다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0520",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the instructions were unclear, the assembly took longer than expected.",
+    "options": [
+      "Since",
+      "Despite",
+      "Because of",
+      "During"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the instructions were unclear라는 절이 오고 이유를 나타내므로 접속사 Since(~때문에)가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0521",
+    "part": 5,
+    "type": "RC",
+    "question": "The award is given to the employee _______ contributions are most valued by the team.",
+    "options": [
+      "whom",
+      "who",
+      "which",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 명사(contributions)가 오고 소유 관계를 나타내므로 소유격 관계대명사 whose가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0522",
+    "part": 5,
+    "type": "RC",
+    "question": "Tickets can be purchased online _______ at the box office on the day of the event.",
+    "options": [
+      "so",
+      "but",
+      "nor",
+      "or"
+    ],
+    "answer": 3,
+    "explanation": "두 가지 구매 방법 중 하나를 선택하므로 등위접속사 or가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0523",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Yamada plans to expand the business _______ he secures additional funding.",
+    "options": [
+      "during",
+      "despite",
+      "once",
+      "because of"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 he secures라는 절이 오고 '일단 ~하면'을 뜻하므로 접속사 once가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0524",
+    "part": 5,
+    "type": "RC",
+    "question": "The library provides quiet study areas _______ students who need to concentrate.",
+    "options": [
+      "at",
+      "for",
+      "to",
+      "with"
+    ],
+    "answer": 1,
+    "explanation": "'~을 위해'라는 대상을 나타내며 provide A for B(B를 위해 A를 제공하다)가 쓰이므로 for가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0525",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ heavy traffic, the delivery driver managed to arrive ahead of schedule.",
+    "options": [
+      "Although",
+      "Even though",
+      "While",
+      "In spite of"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 heavy traffic이라는 명사구가 오므로 양보의 전치사구 In spite of가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0526",
+    "part": 5,
+    "type": "RC",
+    "question": "The board meeting was rescheduled _______ several members were unable to attend.",
+    "options": [
+      "because",
+      "despite",
+      "because of",
+      "during"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 several members were unable이라는 절이 오고 이유를 나타내므로 접속사 because가 정답이다. because of, despite, during은 명사를 취한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0527",
+    "part": 5,
+    "type": "RC",
+    "question": "Construction of the new wing will be finished _______ the end of the fiscal year.",
+    "options": [
+      "by",
+      "for",
+      "since",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "be finished(완료되다)는 한 번에 끝나는 동작이고 마감 기한을 나타내므로 by가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0528",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions should be read carefully _______ operating the equipment.",
+    "options": [
+      "before",
+      "while",
+      "despite",
+      "because"
+    ],
+    "answer": 0,
+    "explanation": "동명사(operating)를 취하며 '~하기 전에'를 뜻하는 전치사 before가 정답이다. while은 동시 동작, because는 절을 취한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0529",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the demand for the product increases, the company will need to hire more staff.",
+    "options": [
+      "If",
+      "Because of",
+      "During",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the demand increases라는 절이 오고 조건을 나타내므로 접속사 If가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0530",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee will report _______ the regional sales manager starting next Monday.",
+    "options": [
+      "with",
+      "to",
+      "for",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "report to(~에게 보고하다, ~의 지휘를 받다)라는 관용 표현이 쓰이므로 전치사 to가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0531",
+    "part": 5,
+    "type": "RC",
+    "question": "Refunds will be processed _______ five to seven business days after the request is received.",
+    "options": [
+      "until",
+      "during",
+      "by",
+      "within"
+    ],
+    "answer": 3,
+    "explanation": "'~이내에'라는 기간의 한계를 나타내므로 within이 정답이다. within five to seven business days(5~7영업일 이내).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0532",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was rejected _______ it lacked sufficient supporting evidence.",
+    "options": [
+      "despite",
+      "because",
+      "during",
+      "because of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 it lacked라는 절이 오고 이유를 나타내므로 접속사 because가 정답이다. because of는 명사를 취한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0533",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors are not allowed _______ the restricted area without proper authorization.",
+    "options": [
+      "for",
+      "on",
+      "into",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "안으로 들어가는 방향·이동을 나타내므로 into가 정답이다. allowed into(~안으로 들어가는 것이 허용되다).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0534",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the new system is installed, employees will receive comprehensive training.",
+    "options": [
+      "After",
+      "Because of",
+      "During",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the new system is installed라는 절이 오고 시간을 나타내므로 접속사 After가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0535",
+    "part": 5,
+    "type": "RC",
+    "question": "The discount is available only _______ customers who sign up for the newsletter.",
+    "options": [
+      "with",
+      "for",
+      "to",
+      "at"
+    ],
+    "answer": 2,
+    "explanation": "available to(~에게 이용 가능한)라는 표현이 쓰이며 대상을 나타내므로 to가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0536",
+    "part": 5,
+    "type": "RC",
+    "question": "The meeting cannot begin _______ the chairperson arrives at the conference room.",
+    "options": [
+      "for",
+      "until",
+      "during",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the chairperson arrives라는 절이 오고 '~할 때까지'를 뜻하므로 접속사 until이 정답이다. by, during, for는 절을 이끌 수 없다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0537",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm has expanded rapidly _______ it opened its second office two years ago.",
+    "options": [
+      "during",
+      "by",
+      "for",
+      "since"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 it opened라는 절이 오고 과거 시점부터의 계속을 나타내므로 접속사 since가 정답이다. for, during, by는 절을 이끌 수 없다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0538",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the rising costs, the company maintained its commitment to quality.",
+    "options": [
+      "Because",
+      "Despite",
+      "Even though",
+      "Although"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the rising costs라는 명사구가 오므로 양보의 전치사 Despite가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0539",
+    "part": 5,
+    "type": "RC",
+    "question": "The documents were sent _______ overnight courier to ensure prompt delivery.",
+    "options": [
+      "at",
+      "on",
+      "by",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": "수단·방법을 나타낼 때는 by를 쓴다. by overnight courier(익일 배송 택배로).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0540",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the presentation, the speaker addressed several questions from the audience.",
+    "options": [
+      "Although",
+      "While",
+      "Despite",
+      "During"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 the presentation이라는 명사구가 오므로 전치사 During이 정답이다. While, Although는 절을 이끈다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0541",
+    "part": 5,
+    "type": "RC",
+    "question": "The product comes _______ a two-year warranty and free technical support.",
+    "options": [
+      "at",
+      "by",
+      "for",
+      "with"
+    ],
+    "answer": 3,
+    "explanation": "come with(~이 딸려 오다, ~을 포함하다)라는 관용 표현이 쓰이므로 with가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0542",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ both options have merits, the committee favored the more affordable plan.",
+    "options": [
+      "Because of",
+      "In spite of",
+      "While",
+      "Despite"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 both options have merits라는 절이 오고 대조·양보를 나타내므로 접속사 While이 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0543",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees should save their work frequently _______ avoid losing important data.",
+    "options": [
+      "because",
+      "so that",
+      "although",
+      "in order to"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 동사원형(avoid)이 오고 목적을 나타내므로 in order to가 정답이다. so that은 절을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0544",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment arrived a day late _______ a delay at the customs office.",
+    "options": [
+      "although",
+      "because",
+      "while",
+      "due to"
+    ],
+    "answer": 3,
+    "explanation": "명사구(a delay)를 취하며 '~때문에'를 뜻하는 전치사구 due to가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0545",
+    "part": 5,
+    "type": "RC",
+    "question": "Please complete the registration form _______ blue or black ink only.",
+    "options": [
+      "in",
+      "by",
+      "with",
+      "on"
+    ],
+    "answer": 0,
+    "explanation": "필기 도구·언어로 작성할 때는 in을 쓴다. in blue or black ink(파란색 또는 검은색 잉크로).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0546",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference will be held _______ the Grand Plaza Hotel from June 5 to June 7.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": 2,
+    "explanation": "특정 건물·장소(행사 개최지)를 가리킬 때는 at을 쓴다. at the Grand Plaza Hotel.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0547",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the report is finished, please forward a copy to the accounting department.",
+    "options": [
+      "Because of",
+      "During",
+      "Once",
+      "Despite"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the report is finished라는 절이 오고 '일단 ~하면'을 뜻하므로 접속사 Once가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0548",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's profits grew steadily _______ the difficult economic conditions.",
+    "options": [
+      "while",
+      "although",
+      "despite",
+      "even though"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the difficult economic conditions라는 명사구가 오므로 양보의 전치사 despite가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0549",
+    "part": 5,
+    "type": "RC",
+    "question": "All entries must be submitted _______ midnight on June 30 to be considered.",
+    "options": [
+      "since",
+      "during",
+      "by",
+      "until"
+    ],
+    "answer": 2,
+    "explanation": "submit(제출하다)은 한 번에 완료되는 동작이고 마감 기한을 나타내므로 by가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0550",
+    "part": 5,
+    "type": "RC",
+    "question": "The new café is situated _______ the bookstore and the pharmacy on Oak Street.",
+    "options": [
+      "among",
+      "at",
+      "between",
+      "in"
+    ],
+    "answer": 2,
+    "explanation": "두 대상 사이를 나타내므로 between A and B가 쓰여 between이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0551",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the warranty has expired, repairs will be charged at the standard rate.",
+    "options": [
+      "During",
+      "Because of",
+      "Despite",
+      "If"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 the warranty has expired라는 절이 오고 조건을 나타내므로 접속사 If가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0552",
+    "part": 5,
+    "type": "RC",
+    "question": "The training program is designed _______ improve employees' communication skills.",
+    "options": [
+      "in order",
+      "to",
+      "so that",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "be designed to + 동사원형(~하도록 설계되다)이라는 구문이 쓰이므로 to가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0553",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Choi reviewed the figures _______ ensuring they matched the original estimates.",
+    "options": [
+      "because of",
+      "despite",
+      "during",
+      "while"
+    ],
+    "answer": 3,
+    "explanation": "동명사(ensuring)를 취하며 '~하면서'를 뜻하는 접속사 while(주어 생략 분사 구문)이 정답이다. during은 명사만 취한다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0554",
+    "part": 5,
+    "type": "RC",
+    "question": "The orientation will cover company policies _______ workplace safety procedures.",
+    "options": [
+      "as much",
+      "as well",
+      "well as",
+      "as well as"
+    ],
+    "answer": 3,
+    "explanation": "A as well as B(B뿐만 아니라 A도)라는 상관 표현이 쓰이므로 as well as가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0555",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the customer's complaint, the manager offered a full refund and an apology.",
+    "options": [
+      "While",
+      "In response to",
+      "Because",
+      "Although"
+    ],
+    "answer": 1,
+    "explanation": "명사구(the customer's complaint)를 취하며 '~에 대응하여'를 뜻하는 전치사구 In response to가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0556",
+    "part": 5,
+    "type": "RC",
+    "question": "The store offers free delivery _______ orders over fifty dollars.",
+    "options": [
+      "by",
+      "at",
+      "in",
+      "on"
+    ],
+    "answer": 3,
+    "explanation": "특정 대상에 대한 적용을 나타낼 때는 on을 쓴다. free delivery on orders(주문에 대한 무료 배송).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0557",
+    "part": 5,
+    "type": "RC",
+    "question": "The decision was postponed _______ the committee could gather more information.",
+    "options": [
+      "because of",
+      "so that",
+      "in order to",
+      "despite"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the committee could gather라는 절이 오고 목적을 나타내므로 so that이 정답이다. in order to는 동사원형을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0558",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicants will be notified of the results _______ two weeks of the interview.",
+    "options": [
+      "within",
+      "during",
+      "by",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "'~이내에'라는 기간의 한계를 나타내므로 within이 정답이다. within two weeks of(~로부터 2주 이내에).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0559",
+    "part": 5,
+    "type": "RC",
+    "question": "The new model is more energy-efficient _______ the previous version.",
+    "options": [
+      "then",
+      "that",
+      "as",
+      "than"
+    ],
+    "answer": 3,
+    "explanation": "비교급 more energy-efficient 뒤에는 than이 와야 하므로 than이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0560",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the storm passed, the airport resumed normal operations.",
+    "options": [
+      "Because of",
+      "During",
+      "Despite",
+      "After"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 the storm passed라는 절이 오고 시간 관계를 나타내므로 접속사 After가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0561",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will review the applications _______ a first-come, first-served basis.",
+    "options": [
+      "on",
+      "at",
+      "by",
+      "in"
+    ],
+    "answer": 0,
+    "explanation": "on a ~ basis(~한 방식으로)라는 관용 표현이 쓰이므로 on이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0562",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Adebayo could not attend the meeting _______ a scheduling conflict.",
+    "options": [
+      "because",
+      "due to",
+      "although",
+      "while"
+    ],
+    "answer": 1,
+    "explanation": "명사구(a scheduling conflict)를 취하며 '~때문에'를 뜻하는 전치사구 due to가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0563",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions are written clearly _______ even new users can follow them easily.",
+    "options": [
+      "despite",
+      "because of",
+      "so that",
+      "in order to"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 even new users can follow라는 절이 오고 결과·목적을 나타내므로 so that이 정답이다. in order to는 동사원형을 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0564",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the renovation, the restaurant will operate from a temporary location.",
+    "options": [
+      "While",
+      "Throughout",
+      "Although",
+      "Because"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 the renovation이라는 명사구가 오므로 '~동안 내내'를 뜻하는 전치사 Throughout이 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0565",
+    "part": 5,
+    "type": "RC",
+    "question": "The package was left _______ the front desk while the recipient was out.",
+    "options": [
+      "in",
+      "at",
+      "of",
+      "to"
+    ],
+    "answer": 1,
+    "explanation": "특정 지점(front desk)을 가리킬 때는 at을 쓴다. at the front desk.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0566",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ being a small firm, the agency has won several international awards.",
+    "options": [
+      "Because",
+      "Even though",
+      "Despite",
+      "Although"
+    ],
+    "answer": 2,
+    "explanation": "동명사(being)를 취하며 양보를 나타내는 전치사 Despite가 정답이다. Although, Even though, Because는 절을 이끈다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0567",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar is open to all employees _______ they have registered in advance.",
+    "options": [
+      "despite",
+      "during",
+      "because of",
+      "provided that"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 they have registered라는 절이 오고 조건('~한다는 조건으로')을 나타내므로 provided that이 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0568",
+    "part": 5,
+    "type": "RC",
+    "question": "The two departments will collaborate _______ the upcoming product launch.",
+    "options": [
+      "on",
+      "by",
+      "in",
+      "at"
+    ],
+    "answer": 0,
+    "explanation": "collaborate on(~에 대해 협력하다)이라는 관용 표현이 쓰이므로 on이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0569",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the budget constraints, the team completed the project ahead of schedule.",
+    "options": [
+      "Notwithstanding",
+      "Even though",
+      "Because",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the budget constraints라는 명사구가 오므로 양보의 전치사 Notwithstanding이 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0570",
+    "part": 5,
+    "type": "RC",
+    "question": "The lecture will begin promptly _______ 10 A.M., so please arrive early.",
+    "options": [
+      "in",
+      "at",
+      "by",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": "구체적인 시각 앞에는 at을 쓴다. at 10 A.M.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0571",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment was delayed _______ the warehouse staff worked overtime to recover.",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "for"
+    ],
+    "answer": 2,
+    "explanation": "'지연되었다, 그러나 회복을 위해 초과 근무했다'는 대조를 나타내므로 등위접속사 but이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0572",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers must present a valid receipt _______ requesting a refund or exchange.",
+    "options": [
+      "when",
+      "during",
+      "despite",
+      "because of"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 requesting이라는 동명사가 오며 '~할 때'를 뜻하는 접속사 when(주어+be 생략)이 정답이다. during은 명사만 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0573",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel offers a shuttle service _______ guests traveling to the airport.",
+    "options": [
+      "at",
+      "for",
+      "with",
+      "to"
+    ],
+    "answer": 1,
+    "explanation": "'~을 위한'이라는 대상을 나타내며 a service for guests(투숙객을 위한 서비스)가 쓰이므로 for가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0574",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ careful planning, the event would not have been such a great success.",
+    "options": [
+      "Although",
+      "Because",
+      "Despite",
+      "Without"
+    ],
+    "answer": 3,
+    "explanation": "명사구(careful planning)를 취하며 '~없이'를 뜻하는 전치사 Without이 정답이다(가정의 의미). 나머지는 의미·구조가 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0575",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory has increased production _______ meeting the growing customer demand.",
+    "options": [
+      "with a view to",
+      "so that",
+      "because",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "동명사(meeting)를 취하며 '~할 목적으로'를 뜻하는 전치사구 with a view to가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0576",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Sato will give the presentation _______ the regular manager is on leave.",
+    "options": [
+      "during",
+      "because of",
+      "despite",
+      "while"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 the regular manager is on leave라는 절이 오므로 접속사 while이 정답이다. during, because of는 명사를 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0577",
+    "part": 5,
+    "type": "RC",
+    "question": "All visitors must sign in _______ arrival at the security checkpoint.",
+    "options": [
+      "despite",
+      "while",
+      "upon",
+      "because"
+    ],
+    "answer": 2,
+    "explanation": "명사(arrival)를 취하며 '~하자마자/~할 때'를 뜻하는 전치사 upon이 정답이다. while, because는 절을 이끈다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0578",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the manager nor the supervisor was aware of the scheduling error.",
+    "options": [
+      "Both",
+      "Not only",
+      "Neither",
+      "Either"
+    ],
+    "answer": 2,
+    "explanation": "뒤에 nor가 있으므로 짝을 이루는 Neither가 정답이다. Neither A nor B(A도 B도 아니다).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0579",
+    "part": 5,
+    "type": "RC",
+    "question": "The software update will be released _______ the next few days, according to the developer.",
+    "options": [
+      "over",
+      "until",
+      "by",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "기간에 걸쳐 진행됨을 나타낼 때는 over를 쓴다. over the next few days(앞으로 며칠에 걸쳐).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0580",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was approved _______ a few minor revisions were requested by the board.",
+    "options": [
+      "despite",
+      "although",
+      "in spite of",
+      "because of"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤에 a few minor revisions were requested라는 절이 오고 양보를 나타내므로 접속사 although가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0581",
+    "part": 5,
+    "type": "RC",
+    "question": "Refreshments will be served _______ the intermission of the performance.",
+    "options": [
+      "during",
+      "until",
+      "while",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤에 the intermission이라는 명사구가 오므로 전치사 during이 정답이다. while은 절을 이끈다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0582",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicant has experience _______ both marketing and finance, making her a strong candidate.",
+    "options": [
+      "for",
+      "in",
+      "on",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "experience in(~분야의 경험)이라는 표현이 쓰이므로 in이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0583",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the equipment was outdated, the technicians managed to keep it running.",
+    "options": [
+      "Despite",
+      "Because of",
+      "Even though",
+      "In spite of"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 the equipment was outdated라는 절이 오고 양보를 나타내므로 접속사 Even though가 정답이다. 나머지는 명사를 취하는 전치사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0584",
+    "part": 5,
+    "type": "RC",
+    "question": "The form should be filled out completely _______ it will be returned to the applicant.",
+    "options": [
+      "or",
+      "and",
+      "nor",
+      "but"
+    ],
+    "answer": 0,
+    "explanation": "'완전히 작성해야 한다, 그렇지 않으면 반송된다'는 의미로 명령적 진술 뒤의 or(그렇지 않으면)가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0585",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy was implemented _______ improving overall workplace efficiency.",
+    "options": [
+      "because",
+      "although",
+      "with the aim of",
+      "so that"
+    ],
+    "answer": 2,
+    "explanation": "동명사(improving)를 취하며 '~할 목적으로'를 뜻하는 전치사구 with the aim of가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0586",
+    "part": 5,
+    "type": "RC",
+    "question": "The store remains profitable _______ increased competition in the local market.",
+    "options": [
+      "while",
+      "although",
+      "even though",
+      "in spite of"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 increased competition이라는 명사구가 오므로 양보의 전치사구 in spite of가 정답이다. 나머지는 절을 이끄는 접속사다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0587",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Kim will continue to lead the project _______ a replacement is found.",
+    "options": [
+      "by",
+      "during",
+      "until",
+      "for"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤에 a replacement is found라는 절이 오고 '~할 때까지 계속'을 뜻하므로 접속사 until이 정답이다. by, during, for는 절을 이끌 수 없다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0588",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing director _______ presentation impressed the board has been promoted.",
+    "options": [
+      "whom",
+      "which",
+      "who",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤에 명사(presentation)가 이어지고 소유 관계(이사의 발표)를 나타내므로 소유격 관계대명사 'whose'가 정답이다. who/whom은 소유격을 표현할 수 없고, which는 사람 선행사에 쓰지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0589",
+    "part": 5,
+    "type": "RC",
+    "question": "Applicants _______ submit their forms after the deadline will not be considered.",
+    "options": [
+      "whom",
+      "who",
+      "which",
+      "whose"
+    ],
+    "answer": 1,
+    "explanation": "선행사 Applicants(사람)가 동사 submit의 주어 역할을 하므로 주격 관계대명사 'who'가 정답이다. whose는 소유격, whom은 목적격, which는 사물에 쓰인다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0590",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference room _______ we held the meeting is on the third floor.",
+    "options": [
+      "where",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "선행사 room(장소)이고 뒤 문장(we held the meeting)이 완전하므로 관계부사 'where'가 정답이다. which는 뒤에 불완전한 절이 와야 한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0591",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software, _______ was installed last week, has improved efficiency.",
+    "options": [
+      "what",
+      "that",
+      "who",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "콤마 뒤 계속적 용법에서는 that을 쓸 수 없고, 사물 선행사(software)이므로 'which'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0592",
+    "part": 5,
+    "type": "RC",
+    "question": "We are looking for an assistant _______ can speak both English and Japanese.",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "answer": 1,
+    "explanation": "사람 선행사(assistant)가 동사 can speak의 주어이므로 주격 관계대명사 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0593",
+    "part": 5,
+    "type": "RC",
+    "question": "The year _______ the company was founded was 1998.",
+    "options": [
+      "which",
+      "when",
+      "where",
+      "whose"
+    ],
+    "answer": 1,
+    "explanation": "선행사 year(시간)이고 뒤 절이 완전하므로 관계부사 'when'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0594",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Lee is the colleague _______ I trust the most in our department.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "answer": 3,
+    "explanation": "선행사 colleague(사람)가 동사 trust의 목적어 역할을 하므로 목적격 관계대명사 'whom'이 정답이다. 격식체 문장에서는 whom을 선호한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0595",
+    "part": 5,
+    "type": "RC",
+    "question": "The reason _______ the project was delayed remains unclear.",
+    "options": [
+      "why",
+      "who",
+      "where",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "선행사 reason이고 뒤 절이 완전하므로 관계부사 'why'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0596",
+    "part": 5,
+    "type": "RC",
+    "question": "This is the report _______ contains all the quarterly figures.",
+    "options": [
+      "where",
+      "who",
+      "that",
+      "whose"
+    ],
+    "answer": 2,
+    "explanation": "사물 선행사(report)가 동사 contains의 주어이므로 주격 관계대명사 'that'이 정답이다. who는 사람에만 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0597",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier _______ products we rely on has raised its prices.",
+    "options": [
+      "which",
+      "who",
+      "that",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(products)가 오고 '공급업체의 제품'이라는 소유 관계이므로 소유격 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0598",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers _______ orders exceed $100 receive free shipping.",
+    "options": [
+      "whose",
+      "whom",
+      "who",
+      "which"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(orders)가 오므로 소유격 관계대명사 'whose'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0599",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory _______ our parts are manufactured is located overseas.",
+    "options": [
+      "whose",
+      "which",
+      "where",
+      "that"
+    ],
+    "answer": 2,
+    "explanation": "선행사 factory(장소)이고 뒤 절(our parts are manufactured)이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0600",
+    "part": 5,
+    "type": "RC",
+    "question": "The employees _______ attended the seminar received certificates.",
+    "options": [
+      "whom",
+      "whose",
+      "who",
+      "which"
+    ],
+    "answer": 2,
+    "explanation": "사람 선행사(employees)가 동사 attended의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0601",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal _______ the committee rejected will be revised next month.",
+    "options": [
+      "who",
+      "that",
+      "whose",
+      "where"
+    ],
+    "answer": 1,
+    "explanation": "사물 선행사(proposal)가 동사 rejected의 목적어이므로 목적격 관계대명사 'that'(또는 which)이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0602",
+    "part": 5,
+    "type": "RC",
+    "question": "Our CEO, _______ has led the company for a decade, will retire soon.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "콤마 뒤 계속적 용법이고 사람 선행사(CEO)가 주어이므로 'who'가 정답이다. that은 계속적 용법에 못 쓴다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0603",
+    "part": 5,
+    "type": "RC",
+    "question": "The day _______ the store reopens will be announced shortly.",
+    "options": [
+      "whose",
+      "when",
+      "which",
+      "where"
+    ],
+    "answer": 1,
+    "explanation": "선행사 day(시간)이고 뒤 절이 완전하므로 관계부사 'when'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0604",
+    "part": 5,
+    "type": "RC",
+    "question": "The clients with _______ we signed the contract are based in Berlin.",
+    "options": [
+      "which",
+      "that",
+      "whom",
+      "who"
+    ],
+    "answer": 2,
+    "explanation": "전치사 with 뒤에는 목적격 관계대명사가 와야 하고 사람 선행사이므로 'whom'이 정답이다. 전치사 뒤에는 that이나 who를 쓸 수 없다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0605",
+    "part": 5,
+    "type": "RC",
+    "question": "The building _______ roof was damaged is being repaired.",
+    "options": [
+      "whose",
+      "which",
+      "that",
+      "where"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(roof)가 오므로 소유격 관계대명사 'whose'가 정답이다. whose는 사물에도 쓸 수 있다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0606",
+    "part": 5,
+    "type": "RC",
+    "question": "The candidate _______ we interviewed yesterday accepted the offer.",
+    "options": [
+      "whom",
+      "which",
+      "where",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "사람 선행사(candidate)가 interviewed의 목적어이므로 목적격 'whom'(또는 who/that)이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0607",
+    "part": 5,
+    "type": "RC",
+    "question": "The city _______ the headquarters are located has excellent infrastructure.",
+    "options": [
+      "where",
+      "that",
+      "which",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "선행사 city(장소)이고 뒤 절이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0608",
+    "part": 5,
+    "type": "RC",
+    "question": "All of the documents _______ were submitted have been reviewed.",
+    "options": [
+      "who",
+      "where",
+      "whose",
+      "that"
+    ],
+    "answer": 3,
+    "explanation": "사물 선행사(documents)가 주어 역할을 하므로 주격 관계대명사 'that'이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0609",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager _______ office is next to mine is on vacation.",
+    "options": [
+      "whom",
+      "whose",
+      "who",
+      "which"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤 명사(office)가 오고 소유 관계이므로 소유격 'whose'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0610",
+    "part": 5,
+    "type": "RC",
+    "question": "Anyone _______ wishes to attend should register online.",
+    "options": [
+      "whom",
+      "which",
+      "who",
+      "whose"
+    ],
+    "answer": 2,
+    "explanation": "선행사 Anyone(사람)이 동사 wishes의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0611",
+    "part": 5,
+    "type": "RC",
+    "question": "The equipment _______ we purchased last year needs maintenance.",
+    "options": [
+      "where",
+      "whose",
+      "who",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "사물 선행사(equipment)가 purchased의 목적어이므로 목적격 'which'(또는 that)가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0612",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel _______ the delegates stayed offered a shuttle service.",
+    "options": [
+      "whose",
+      "where",
+      "that",
+      "which"
+    ],
+    "answer": 1,
+    "explanation": "선행사 hotel(장소)이고 뒤 절(the delegates stayed)이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0613",
+    "part": 5,
+    "type": "RC",
+    "question": "The vendor _______ delivered the goods late was fined.",
+    "options": [
+      "whose",
+      "where",
+      "that",
+      "whom"
+    ],
+    "answer": 2,
+    "explanation": "선행사 vendor가 동사 delivered의 주어이므로 주격 관계대명사 'that'(또는 who)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0614",
+    "part": 5,
+    "type": "RC",
+    "question": "Our firm hired three consultants, two of _______ have international experience.",
+    "options": [
+      "which",
+      "whom",
+      "who",
+      "that"
+    ],
+    "answer": 1,
+    "explanation": "'수량 표현 + of + 관계대명사' 구조에서 사람 선행사이므로 목적격 'whom'이 정답이다. 전치사 of 뒤에는 whom을 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0615",
+    "part": 5,
+    "type": "RC",
+    "question": "The article _______ you mentioned has been published online.",
+    "options": [
+      "who",
+      "whose",
+      "where",
+      "that"
+    ],
+    "answer": 3,
+    "explanation": "사물 선행사(article)가 mentioned의 목적어이므로 목적격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0616",
+    "part": 5,
+    "type": "RC",
+    "question": "She is the only employee _______ has completed all the training modules.",
+    "options": [
+      "whom",
+      "whose",
+      "which",
+      "who"
+    ],
+    "answer": 3,
+    "explanation": "사람 선행사(employee)가 주어 역할을 하므로 주격 'who'가 정답이다. 'the only' 뒤 선행사도 동일 규칙을 따른다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0617",
+    "part": 5,
+    "type": "RC",
+    "question": "The warehouse _______ goods are stored will be relocated next year.",
+    "options": [
+      "whose",
+      "that",
+      "where",
+      "which"
+    ],
+    "answer": 2,
+    "explanation": "선행사 warehouse(장소)이고 뒤 절이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0618",
+    "part": 5,
+    "type": "RC",
+    "question": "Investors _______ funds were lost demanded a full refund.",
+    "options": [
+      "whom",
+      "whose",
+      "who",
+      "which"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤 명사(funds)가 오므로 소유격 관계대명사 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0619",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician _______ fixed the server will be commended.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "answer": 0,
+    "explanation": "사람 선행사(technician)가 동사 fixed의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0620",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal, _______ details are still confidential, has been approved.",
+    "options": [
+      "that",
+      "where",
+      "whose",
+      "which"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤 명사(details)가 오는 계속적 용법이므로 소유격 'whose'가 정답이다. 사물에도 whose를 쓸 수 있다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0621",
+    "part": 5,
+    "type": "RC",
+    "question": "The moment _______ the contract was signed marked a new era for us.",
+    "options": [
+      "where",
+      "which",
+      "when",
+      "whose"
+    ],
+    "answer": 2,
+    "explanation": "선행사 moment(시간)이고 뒤 절이 완전하므로 관계부사 'when'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0622",
+    "part": 5,
+    "type": "RC",
+    "question": "The branch _______ recorded the highest sales received a bonus.",
+    "options": [
+      "that",
+      "whose",
+      "who",
+      "where"
+    ],
+    "answer": 0,
+    "explanation": "사물 선행사(branch)가 동사 recorded의 주어이므로 주격 관계대명사 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0623",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee selected the design _______ best reflected the brand.",
+    "options": [
+      "whose",
+      "that",
+      "where",
+      "who"
+    ],
+    "answer": 1,
+    "explanation": "사물 선행사(design)가 동사 reflected의 주어이므로 주격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0624",
+    "part": 5,
+    "type": "RC",
+    "question": "The way _______ he handled the crisis earned everyone's respect.",
+    "options": [
+      "whose",
+      "in which",
+      "where",
+      "when"
+    ],
+    "answer": 1,
+    "explanation": "방법을 나타내는 선행사 way 뒤에는 'in which'를 쓰거나 관계사를 생략한다. where/when은 방법에 쓰지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0625",
+    "part": 5,
+    "type": "RC",
+    "question": "The partners _______ we collaborated last quarter renewed the agreement.",
+    "options": [
+      "with whom",
+      "whom",
+      "which",
+      "who"
+    ],
+    "answer": 0,
+    "explanation": "동사 collaborate는 전치사 with와 함께 쓰이므로 'with whom'이 정답이다. 선행사가 사람이고 전치사가 필요하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0626",
+    "part": 5,
+    "type": "RC",
+    "question": "The product _______ features were upgraded sold out quickly.",
+    "options": [
+      "that",
+      "which",
+      "where",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(features)가 오므로 소유격 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0627",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees may contact the HR officer _______ is responsible for benefits.",
+    "options": [
+      "whose",
+      "which",
+      "who",
+      "whom"
+    ],
+    "answer": 2,
+    "explanation": "사람 선행사(officer)가 동사 is의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0628",
+    "part": 5,
+    "type": "RC",
+    "question": "The store offers a guarantee, _______ covers all repairs for two years.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "who"
+    ],
+    "answer": 1,
+    "explanation": "콤마 뒤 계속적 용법, 사물 선행사이므로 'which'가 정답이다. that은 계속적 용법 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0629",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor identified several errors, none of _______ were intentional.",
+    "options": [
+      "whom",
+      "who",
+      "that",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "수량 표현(none of) 뒤 사물 선행사(errors)이므로 'which'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0630",
+    "part": 5,
+    "type": "RC",
+    "question": "This is the laboratory _______ the experiments are conducted.",
+    "options": [
+      "where",
+      "whose",
+      "which",
+      "that"
+    ],
+    "answer": 0,
+    "explanation": "선행사 laboratory(장소)이고 뒤 절이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0631",
+    "part": 5,
+    "type": "RC",
+    "question": "The author _______ book won the award will speak tonight.",
+    "options": [
+      "which",
+      "whom",
+      "who",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(book)가 오므로 소유격 'whose'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0632",
+    "part": 5,
+    "type": "RC",
+    "question": "The funds _______ were allocated for marketing have been frozen.",
+    "options": [
+      "where",
+      "that",
+      "who",
+      "whose"
+    ],
+    "answer": 1,
+    "explanation": "사물 선행사(funds)가 주어 역할이므로 주격 관계대명사 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0633",
+    "part": 5,
+    "type": "RC",
+    "question": "The intern _______ we assigned to the project performed well.",
+    "options": [
+      "whose",
+      "which",
+      "where",
+      "whom"
+    ],
+    "answer": 3,
+    "explanation": "사람 선행사(intern)가 assigned의 목적어이므로 목적격 'whom'(또는 who/that)이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0634",
+    "part": 5,
+    "type": "RC",
+    "question": "The season _______ sales peak is usually the holiday period.",
+    "options": [
+      "whose",
+      "when",
+      "which",
+      "where"
+    ],
+    "answer": 1,
+    "explanation": "선행사 season(시간)이고 뒤 절이 완전하므로 관계부사 'when'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0635",
+    "part": 5,
+    "type": "RC",
+    "question": "The company provides services _______ meet the highest standards.",
+    "options": [
+      "where",
+      "who",
+      "whose",
+      "that"
+    ],
+    "answer": 3,
+    "explanation": "사물 선행사(services)가 동사 meet의 주어이므로 주격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0636",
+    "part": 5,
+    "type": "RC",
+    "question": "The shareholders, most of _______ approved the merger, gathered today.",
+    "options": [
+      "which",
+      "that",
+      "whom",
+      "who"
+    ],
+    "answer": 2,
+    "explanation": "수량 표현(most of) 뒤 사람 선행사이므로 목적격 'whom'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0637",
+    "part": 5,
+    "type": "RC",
+    "question": "The restaurant _______ we celebrated the launch was fully booked.",
+    "options": [
+      "which",
+      "where",
+      "that",
+      "whose"
+    ],
+    "answer": 1,
+    "explanation": "선행사 restaurant(장소)이고 뒤 절(we celebrated the launch)이 완전하므로 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0638",
+    "part": 5,
+    "type": "RC",
+    "question": "Staff members _______ exceed their targets will be recognized.",
+    "options": [
+      "which",
+      "whose",
+      "who",
+      "whom"
+    ],
+    "answer": 2,
+    "explanation": "사람 선행사(members)가 동사 exceed의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0639",
+    "part": 5,
+    "type": "RC",
+    "question": "The policy _______ implications were widely debated has been adopted.",
+    "options": [
+      "which",
+      "where",
+      "whose",
+      "that"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤 명사(implications)가 오므로 소유격 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0640",
+    "part": 5,
+    "type": "RC",
+    "question": "The trainer _______ the new hires were assigned has years of experience.",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "to whom"
+    ],
+    "answer": 3,
+    "explanation": "'be assigned to'에서 전치사 to가 필요하고 사람 선행사이므로 'to whom'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0641",
+    "part": 5,
+    "type": "RC",
+    "question": "The device _______ malfunctioned has been sent for repair.",
+    "options": [
+      "that",
+      "who",
+      "where",
+      "whose"
+    ],
+    "answer": 0,
+    "explanation": "사물 선행사(device)가 동사 malfunctioned의 주어이므로 주격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0642",
+    "part": 5,
+    "type": "RC",
+    "question": "We thanked the volunteers, without _______ the event would have failed.",
+    "options": [
+      "who",
+      "that",
+      "which",
+      "whom"
+    ],
+    "answer": 3,
+    "explanation": "전치사 without 뒤 사람 선행사이므로 목적격 'whom'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0643",
+    "part": 5,
+    "type": "RC",
+    "question": "The region _______ the new plant will be built is rich in resources.",
+    "options": [
+      "when",
+      "that",
+      "which",
+      "where"
+    ],
+    "answer": 3,
+    "explanation": "선행사 region(장소)이고 뒤 절이 완전하므로 관계부사 'where'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0644",
+    "part": 5,
+    "type": "RC",
+    "question": "The accountant _______ prepared the report was very thorough.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "사람 선행사(accountant)가 동사 prepared의 주어이므로 주격 'who'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0645",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm acquired two startups, both of _______ specialize in AI.",
+    "options": [
+      "who",
+      "whom",
+      "that",
+      "which"
+    ],
+    "answer": 3,
+    "explanation": "수량 표현(both of) 뒤 사물 선행사(startups)이므로 'which'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0646",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor _______ instructions we followed was promoted.",
+    "options": [
+      "whom",
+      "which",
+      "whose",
+      "who"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤 명사(instructions)가 오므로 소유격 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0647",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer _______ complaint we addressed left a positive review.",
+    "options": [
+      "whom",
+      "which",
+      "who",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(complaint)가 오므로 소유격 'whose'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0648",
+    "part": 5,
+    "type": "RC",
+    "question": "The road _______ leads to the factory is under construction.",
+    "options": [
+      "where",
+      "whose",
+      "that",
+      "who"
+    ],
+    "answer": 2,
+    "explanation": "사물 선행사(road)가 동사 leads의 주어이므로 주격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0649",
+    "part": 5,
+    "type": "RC",
+    "question": "The engineer _______ we recommended for the position declined the offer.",
+    "options": [
+      "where",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "answer": 3,
+    "explanation": "사람 선행사(engineer)가 recommended의 목적어이므로 목적격 'whom'(또는 who/that)이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0650",
+    "part": 5,
+    "type": "RC",
+    "question": "The department _______ handles complaints is on the second floor.",
+    "options": [
+      "whose",
+      "where",
+      "that",
+      "who"
+    ],
+    "answer": 2,
+    "explanation": "사물 선행사(department)가 동사 handles의 주어이므로 주격 'that'(또는 which)이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0651",
+    "part": 5,
+    "type": "RC",
+    "question": "This is the period _______ demand is at its lowest.",
+    "options": [
+      "where",
+      "which",
+      "when",
+      "whose"
+    ],
+    "answer": 2,
+    "explanation": "선행사 period(시간)이고 뒤 절이 완전하므로 관계부사 'when'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0652",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiators _______ we relied secured a favorable deal.",
+    "options": [
+      "who",
+      "on whom",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "'rely on'에서 전치사 on이 필요하고 사람 선행사이므로 'on whom'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0653",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager praised the team, _______ effort exceeded expectations.",
+    "options": [
+      "which",
+      "whose",
+      "that",
+      "who"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤 명사(effort)가 오는 계속적 용법이므로 소유격 'whose'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0654",
+    "part": 5,
+    "type": "RC",
+    "question": "All staff must complete the form by _______.",
+    "options": [
+      "theirselves",
+      "themselves",
+      "them",
+      "they"
+    ],
+    "answer": 1,
+    "explanation": "주어(staff)가 스스로 작성한다는 의미이며 'by oneself(혼자서)' 구문이므로 재귀대명사 'themselves'가 정답이다. theirselves는 비표준형이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0655",
+    "part": 5,
+    "type": "RC",
+    "question": "The director introduced _______ to the new employees.",
+    "options": [
+      "she",
+      "her",
+      "hers",
+      "herself"
+    ],
+    "answer": 3,
+    "explanation": "주어(director)와 목적어가 동일 인물이므로 재귀대명사 'herself'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0656",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy benefits the employees and _______ families.",
+    "options": [
+      "theirs",
+      "they",
+      "them",
+      "their"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(families)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0657",
+    "part": 5,
+    "type": "RC",
+    "question": "Please return the equipment to _______ as soon as possible.",
+    "options": [
+      "our",
+      "we",
+      "us",
+      "ours"
+    ],
+    "answer": 2,
+    "explanation": "전치사 to의 목적어 자리이므로 목적격 'us'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0658",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO and _______ assistant attended the gala.",
+    "options": [
+      "him",
+      "his",
+      "he",
+      "himself"
+    ],
+    "answer": 1,
+    "explanation": "빈칸 뒤 명사(assistant)가 오므로 소유격 'his'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0659",
+    "part": 5,
+    "type": "RC",
+    "question": "The award was given to the team whose project was better than _______.",
+    "options": [
+      "our",
+      "we",
+      "ours",
+      "us"
+    ],
+    "answer": 2,
+    "explanation": "'than' 뒤에서 our project를 대신하는 소유대명사 'ours'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0660",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee made the final decision _______.",
+    "options": [
+      "itself",
+      "it",
+      "themselves",
+      "its"
+    ],
+    "answer": 0,
+    "explanation": "단수 집합명사 committee를 강조하는 재귀대명사 'itself'가 정답이다. 강조 용법으로 문장 끝에 위치한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0661",
+    "part": 5,
+    "type": "RC",
+    "question": "Each of the participants received _______ own name tag.",
+    "options": [
+      "his or her",
+      "their",
+      "them",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "'Each of'는 단수 취급하므로 단수 소유격 'his or her'가 정답이다. their는 복수형이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0662",
+    "part": 5,
+    "type": "RC",
+    "question": "The clients expressed _______ satisfaction with the service.",
+    "options": [
+      "they",
+      "them",
+      "theirs",
+      "their"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(satisfaction)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0663",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Tan completed the audit by _______ without any help.",
+    "options": [
+      "he",
+      "his",
+      "him",
+      "himself"
+    ],
+    "answer": 3,
+    "explanation": "'by oneself(혼자서)' 구문이며 주어가 남성 단수이므로 'himself'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0664",
+    "part": 5,
+    "type": "RC",
+    "question": "The two managers shared _______ ideas during the workshop.",
+    "options": [
+      "them",
+      "they",
+      "their",
+      "theirs"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤 명사(ideas)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0665",
+    "part": 5,
+    "type": "RC",
+    "question": "This office is larger than _______ on the fifth floor.",
+    "options": [
+      "those",
+      "that",
+      "it",
+      "them"
+    ],
+    "answer": 1,
+    "explanation": "앞에 나온 단수명사 office를 대신하는 지시대명사 'that'이 정답이다. 단수이므로 those가 아니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0666",
+    "part": 5,
+    "type": "RC",
+    "question": "The sales figures of this quarter are higher than _______ of last quarter.",
+    "options": [
+      "them",
+      "those",
+      "that",
+      "it"
+    ],
+    "answer": 1,
+    "explanation": "앞에 나온 복수명사 figures를 대신하므로 복수 지시대명사 'those'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0667",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager reminded the staff to bring _______ identification cards.",
+    "options": [
+      "their",
+      "them",
+      "theirs",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(cards)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0668",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither of the proposals met _______ requirements.",
+    "options": [
+      "our",
+      "ours",
+      "us",
+      "we"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(requirements)가 오므로 소유격 'our'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0669",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician repaired the machine _______ in under an hour.",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "he"
+    ],
+    "answer": 0,
+    "explanation": "강조 용법의 재귀대명사 'himself'가 정답으로, '직접' 수리했음을 강조한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0670",
+    "part": 5,
+    "type": "RC",
+    "question": "The report was prepared by the analysts _______.",
+    "options": [
+      "they",
+      "theirselves",
+      "themselves",
+      "them"
+    ],
+    "answer": 2,
+    "explanation": "행위 주체를 강조하는 재귀대명사 'themselves'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0671",
+    "part": 5,
+    "type": "RC",
+    "question": "If you have any questions, please direct _______ to the front desk.",
+    "options": [
+      "their",
+      "they",
+      "them",
+      "theirs"
+    ],
+    "answer": 2,
+    "explanation": "동사 direct의 목적어로 questions를 대신하는 목적격 'them'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0672",
+    "part": 5,
+    "type": "RC",
+    "question": "The success of the campaign was due largely to _______ creativity.",
+    "options": [
+      "her",
+      "hers",
+      "herself",
+      "she"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(creativity)가 오므로 소유격 'her'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0673",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors are advised to keep _______ belongings with them at all times.",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(belongings)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0674",
+    "part": 5,
+    "type": "RC",
+    "question": "The new printer is faster than the one we had, but _______ is more expensive.",
+    "options": [
+      "its",
+      "itself",
+      "it",
+      "them"
+    ],
+    "answer": 2,
+    "explanation": "앞의 단수명사 printer를 대신하는 주격 'it'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0675",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees should familiarize _______ with the safety procedures.",
+    "options": [
+      "they",
+      "them",
+      "their",
+      "themselves"
+    ],
+    "answer": 3,
+    "explanation": "'familiarize oneself with' 표현으로 주어와 동일하므로 재귀대명사 'themselves'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0676",
+    "part": 5,
+    "type": "RC",
+    "question": "The board approved the plan, although some of _______ had reservations.",
+    "options": [
+      "them",
+      "they",
+      "their",
+      "theirs"
+    ],
+    "answer": 0,
+    "explanation": "'some of' 뒤 목적격이 필요하고 board 구성원을 가리키므로 'them'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0677",
+    "part": 5,
+    "type": "RC",
+    "question": "The decision is entirely _______ to make.",
+    "options": [
+      "you",
+      "yours",
+      "yourself",
+      "your"
+    ],
+    "answer": 1,
+    "explanation": "'your decision'을 대신하며 보어 자리이므로 소유대명사 'yours'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0678",
+    "part": 5,
+    "type": "RC",
+    "question": "The interns prepared the materials by _______.",
+    "options": [
+      "their",
+      "them",
+      "theirselves",
+      "themselves"
+    ],
+    "answer": 3,
+    "explanation": "'by oneself(스스로)' 구문이며 복수 주어이므로 'themselves'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0679",
+    "part": 5,
+    "type": "RC",
+    "question": "Each department submitted _______ budget proposal on time.",
+    "options": [
+      "it",
+      "their",
+      "its",
+      "theirs"
+    ],
+    "answer": 2,
+    "explanation": "단수 주어(Each department)에 대응하는 단수 소유격 'its'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0680",
+    "part": 5,
+    "type": "RC",
+    "question": "The customers were satisfied because the service exceeded _______ expectations.",
+    "options": [
+      "them",
+      "theirs",
+      "they",
+      "their"
+    ],
+    "answer": 3,
+    "explanation": "빈칸 뒤 명사(expectations)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0681",
+    "part": 5,
+    "type": "RC",
+    "question": "We completed the renovation _______, without hiring contractors.",
+    "options": [
+      "ourself",
+      "ourselves",
+      "our",
+      "us"
+    ],
+    "answer": 1,
+    "explanation": "강조 용법의 재귀대명사로 복수 주어(we)에 대응하는 'ourselves'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0682",
+    "part": 5,
+    "type": "RC",
+    "question": "The manual explains the procedure to anyone who reads _______.",
+    "options": [
+      "them",
+      "its",
+      "they",
+      "it"
+    ],
+    "answer": 3,
+    "explanation": "앞의 단수명사 manual을 대신하는 목적격 'it'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0683",
+    "part": 5,
+    "type": "RC",
+    "question": "The two firms compared _______ marketing strategies.",
+    "options": [
+      "their",
+      "they",
+      "them",
+      "theirs"
+    ],
+    "answer": 0,
+    "explanation": "빈칸 뒤 명사(strategies)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0684",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation was given by Ms. Kim and _______.",
+    "options": [
+      "my",
+      "me",
+      "mine",
+      "I"
+    ],
+    "answer": 1,
+    "explanation": "전치사 by의 목적어 자리이므로 목적격 'me'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0685",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal speaks for _______; no further explanation is needed.",
+    "options": [
+      "it",
+      "itself",
+      "themselves",
+      "its"
+    ],
+    "answer": 1,
+    "explanation": "'speak for itself(저절로 명백하다)' 관용구로 단수 사물 주어에 대응하는 재귀대명사 'itself'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0686",
+    "part": 5,
+    "type": "RC",
+    "question": "The clients prefer our products to _______ of competitors.",
+    "options": [
+      "that",
+      "those",
+      "it",
+      "them"
+    ],
+    "answer": 1,
+    "explanation": "복수명사 products를 대신하므로 복수 지시대명사 'those'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0687",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor asked the team to evaluate _______ performance.",
+    "options": [
+      "theirs",
+      "they",
+      "their",
+      "them"
+    ],
+    "answer": 2,
+    "explanation": "빈칸 뒤 명사(performance)가 오므로 소유격 'their'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0688",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Park took the responsibility upon _______.",
+    "options": [
+      "his",
+      "him",
+      "he",
+      "himself"
+    ],
+    "answer": 3,
+    "explanation": "'take ~ upon oneself(스스로 떠맡다)' 표현으로 주어와 동일하므로 재귀대명사 'himself'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0689",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ employee is required to wear an identification badge.",
+    "options": [
+      "All",
+      "Few",
+      "Every",
+      "Most"
+    ],
+    "answer": 2,
+    "explanation": "단수명사(employee)를 수식하므로 단수 취급하는 'Every'가 정답이다. All/Most/Few는 복수명사와 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0690",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the candidates was interviewed individually.",
+    "options": [
+      "All",
+      "Many",
+      "Each",
+      "Few"
+    ],
+    "answer": 2,
+    "explanation": "단수 동사(was)와 호응하므로 단수 취급하는 'Each'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0691",
+    "part": 5,
+    "type": "RC",
+    "question": "There were _______ complaints about the new software update.",
+    "options": [
+      "each",
+      "few",
+      "much",
+      "little"
+    ],
+    "answer": 1,
+    "explanation": "가산명사 복수(complaints)를 수식하므로 'few'가 정답이다. little/much는 불가산명사에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0692",
+    "part": 5,
+    "type": "RC",
+    "question": "We have _______ information about the merger at this time.",
+    "options": [
+      "little",
+      "each",
+      "few",
+      "many"
+    ],
+    "answer": 0,
+    "explanation": "불가산명사(information)를 수식하므로 'little'이 정답이다. few는 가산복수에 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0693",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the employees attended the training session.",
+    "options": [
+      "Each",
+      "Much",
+      "Every",
+      "Most"
+    ],
+    "answer": 3,
+    "explanation": "'of the + 복수명사' 앞에서 복수 취급이 가능한 'Most'가 정답이다. Every/Each는 단수, Much는 불가산이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0694",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager reviewed _______ application carefully.",
+    "options": [
+      "all",
+      "many",
+      "each",
+      "few"
+    ],
+    "answer": 2,
+    "explanation": "단수명사(application)를 수식하므로 'each'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0695",
+    "part": 5,
+    "type": "RC",
+    "question": "There is not _______ time left before the deadline.",
+    "options": [
+      "much",
+      "each",
+      "many",
+      "few"
+    ],
+    "answer": 0,
+    "explanation": "불가산명사(time)를 수식하므로 'much'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0696",
+    "part": 5,
+    "type": "RC",
+    "question": "One of the proposals was accepted; the _______ was rejected.",
+    "options": [
+      "each",
+      "other",
+      "another",
+      "others"
+    ],
+    "answer": 1,
+    "explanation": "둘 중 나머지 하나를 가리키므로 정관사 the와 함께 'other'가 정답이다. another는 부정관사 의미라 the와 충돌한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0697",
+    "part": 5,
+    "type": "RC",
+    "question": "If this model is unavailable, we can offer _______ one.",
+    "options": [
+      "another",
+      "each",
+      "others",
+      "other"
+    ],
+    "answer": 0,
+    "explanation": "'another + 단수명사'로 '또 다른 하나'를 뜻하므로 'another'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0698",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the two options has its advantages.",
+    "options": [
+      "Most",
+      "Many",
+      "All",
+      "Each"
+    ],
+    "answer": 3,
+    "explanation": "둘을 개별적으로 가리키며 단수 동사(has)와 호응하므로 'Each'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0699",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ employees received the memo about the schedule change.",
+    "options": [
+      "Much",
+      "All",
+      "Every",
+      "Each"
+    ],
+    "answer": 1,
+    "explanation": "복수명사(employees)를 수식하므로 'All'이 정답이다. Each/Every는 단수와 쓴다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0700",
+    "part": 5,
+    "type": "RC",
+    "question": "Some clients paid by card, while _______ paid in cash.",
+    "options": [
+      "others",
+      "other",
+      "another",
+      "each"
+    ],
+    "answer": 0,
+    "explanation": "'Some ~, others ~' 구문으로 '다른 사람들'을 뜻하는 대명사 'others'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0701",
+    "part": 5,
+    "type": "RC",
+    "question": "There are _______ vacancies in the accounting department this year.",
+    "options": [
+      "much",
+      "several",
+      "little",
+      "each"
+    ],
+    "answer": 1,
+    "explanation": "가산명사 복수(vacancies)를 수식하므로 'several'이 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0702",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the information provided was inaccurate.",
+    "options": [
+      "Much",
+      "Several",
+      "Few",
+      "Many"
+    ],
+    "answer": 0,
+    "explanation": "불가산명사(information)와 단수 동사(was)에 호응하므로 'Much'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0703",
+    "part": 5,
+    "type": "RC",
+    "question": "The store carries _______ products from local suppliers.",
+    "options": [
+      "little",
+      "each",
+      "much",
+      "many"
+    ],
+    "answer": 3,
+    "explanation": "가산명사 복수(products)를 수식하므로 'many'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0704",
+    "part": 5,
+    "type": "RC",
+    "question": "We interviewed ten applicants and hired _______ of them.",
+    "options": [
+      "every",
+      "most",
+      "each one",
+      "much"
+    ],
+    "answer": 1,
+    "explanation": "'most of them' 구조로 '대부분'을 뜻하는 'most'가 정답이다. every/much는 of them과 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0705",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the staff members has access to the secure area.",
+    "options": [
+      "Every",
+      "All",
+      "No",
+      "None"
+    ],
+    "answer": 3,
+    "explanation": "'of the + 복수명사' 앞에는 'None'을 쓴다. No는 of와 함께 쓰지 않고, Every는 of the 뒤에 단수만 가능하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0706",
+    "part": 5,
+    "type": "RC",
+    "question": "There was _______ enthusiasm among the team for the new initiative.",
+    "options": [
+      "several",
+      "few",
+      "little",
+      "many"
+    ],
+    "answer": 2,
+    "explanation": "불가산명사(enthusiasm)를 수식하므로 'little'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0707",
+    "part": 5,
+    "type": "RC",
+    "question": "The two reports differ from _______ in several respects.",
+    "options": [
+      "others",
+      "each other",
+      "themselves",
+      "one another"
+    ],
+    "answer": 1,
+    "explanation": "둘 사이의 상호 관계를 나타낼 때는 'each other'를 쓴다. one another는 셋 이상에 주로 쓴다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0708",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ candidate must submit a portfolio with the application.",
+    "options": [
+      "Many",
+      "Most",
+      "Each",
+      "All"
+    ],
+    "answer": 2,
+    "explanation": "단수명사(candidate)를 수식하므로 'Each'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0709",
+    "part": 5,
+    "type": "RC",
+    "question": "We received _______ feedback from customers after the launch.",
+    "options": [
+      "much",
+      "many",
+      "few",
+      "several"
+    ],
+    "answer": 0,
+    "explanation": "불가산명사(feedback)를 수식하므로 'much'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0710",
+    "part": 5,
+    "type": "RC",
+    "question": "Of the three vendors, _______ offered the lowest price.",
+    "options": [
+      "all of",
+      "every",
+      "one",
+      "each"
+    ],
+    "answer": 2,
+    "explanation": "셋 중 하나를 지칭하며 단수 동사(offered)와 호응하므로 대명사 'one'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0711",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the documents need to be signed by the manager.",
+    "options": [
+      "Each",
+      "Every",
+      "All",
+      "Much"
+    ],
+    "answer": 2,
+    "explanation": "복수 동사(need)와 호응하고 'of the + 복수명사'와 쓰이므로 'All'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0712",
+    "part": 5,
+    "type": "RC",
+    "question": "The first sample was defective, so we tested _______.",
+    "options": [
+      "others",
+      "the others",
+      "other",
+      "another"
+    ],
+    "answer": 3,
+    "explanation": "'또 다른 하나'를 뜻하는 단수 대명사 'another'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0713",
+    "part": 5,
+    "type": "RC",
+    "question": "Very _______ of the attendees left before the keynote ended.",
+    "options": [
+      "much",
+      "each",
+      "few",
+      "little"
+    ],
+    "answer": 2,
+    "explanation": "가산명사 복수(attendees)를 받으므로 'few'가 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0714",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ company has its own approach to customer service.",
+    "options": [
+      "Few",
+      "All",
+      "Most",
+      "Every"
+    ],
+    "answer": 3,
+    "explanation": "단수명사(company)와 단수 소유격(its)에 호응하므로 'Every'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0715",
+    "part": 5,
+    "type": "RC",
+    "question": "Some tasks were completed early, but _______ tasks required more time.",
+    "options": [
+      "another",
+      "other",
+      "others",
+      "each"
+    ],
+    "answer": 1,
+    "explanation": "복수명사(tasks)를 수식하는 형용사 'other'가 정답이다. others는 대명사라 명사 앞에 못 온다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0716",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ of the proposals were feasible, so the project was postponed.",
+    "options": [
+      "None",
+      "Each",
+      "No",
+      "Every"
+    ],
+    "answer": 0,
+    "explanation": "'of the + 복수명사' 앞에서 '아무것도 ~않다'를 뜻하는 'None'이 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0717",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager gave _______ employee a chance to speak.",
+    "options": [
+      "every",
+      "few",
+      "all",
+      "most"
+    ],
+    "answer": 0,
+    "explanation": "단수명사(employee)를 수식하므로 'every'가 정답이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0718",
+    "part": 5,
+    "type": "RC",
+    "question": "There is _______ doubt that the strategy will succeed.",
+    "options": [
+      "many",
+      "few",
+      "several",
+      "little"
+    ],
+    "answer": 3,
+    "explanation": "불가산명사(doubt)를 수식하므로 'little'이 정답이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0719",
+    "part": 5,
+    "type": "RC",
+    "question": "The team members supported _______ throughout the project.",
+    "options": [
+      "each",
+      "one another",
+      "themselves",
+      "others"
+    ],
+    "answer": 1,
+    "explanation": "셋 이상의 구성원 간 상호 지원을 뜻하므로 'one another'가 정답이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0720",
+    "part": 5,
+    "type": "RC",
+    "question": "All contractors must _______ with the new safety regulations before entering the construction site.",
+    "options": [
+      "comply",
+      "supply",
+      "reply",
+      "apply"
+    ],
+    "answer": 0,
+    "explanation": "'comply with'는 '~을 준수하다'라는 의미의 collocation으로, 규정(regulations)과 함께 쓰여 자연스럽다. reply(대답하다), apply(지원하다), supply(공급하다)는 의미상 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0721",
+    "part": 5,
+    "type": "RC",
+    "question": "The sudden drop in sales cannot _______ for the company's overall decline in profits.",
+    "options": [
+      "count",
+      "amount",
+      "account",
+      "mount"
+    ],
+    "answer": 2,
+    "explanation": "'account for'는 '~을 설명하다/차지하다'라는 collocation. count(세다), amount(달하다, amount to), mount(오르다)는 전치사 for와 결합해 이 의미를 만들지 못한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0722",
+    "part": 5,
+    "type": "RC",
+    "question": "Passengers are kindly asked to _______ from smoking anywhere inside the terminal building.",
+    "options": [
+      "restrain",
+      "retain",
+      "refrain",
+      "remain"
+    ],
+    "answer": 2,
+    "explanation": "'refrain from -ing'는 '~을 삼가다'라는 collocation. restrain(억제하다, 타동사), retain(유지하다), remain(남다)은 from과 결합한 이 의미가 아니다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0723",
+    "part": 5,
+    "type": "RC",
+    "question": "The new marketing campaign is expected to _______ in a significant increase in customer engagement.",
+    "options": [
+      "lead",
+      "cause",
+      "bring",
+      "result"
+    ],
+    "answer": 3,
+    "explanation": "'result in'은 '~을 초래하다'라는 collocation. lead는 'lead to', bring은 'bring about'을 써야 하며 in과는 결합하지 않는다. cause는 전치사 없이 목적어를 직접 취한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0724",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees who wish to attend the workshop must _______ in advance through the online portal.",
+    "options": [
+      "apply",
+      "enroll",
+      "subscribe",
+      "register"
+    ],
+    "answer": 3,
+    "explanation": "'register in advance through the portal'에서 register는 자동사로 '등록하다'가 자연스럽다. enroll은 보통 'enroll in', subscribe는 'subscribe to', apply는 'apply for/to'가 필요해 전치사 없이는 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0725",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician will _______ the malfunctioning equipment as soon as the replacement parts arrive.",
+    "options": [
+      "reform",
+      "repair",
+      "restore",
+      "repare"
+    ],
+    "answer": 1,
+    "explanation": "고장 난 장비를 '수리하다'는 repair가 적절하다. repare는 존재하지 않는 단어, reform(개혁하다), restore(복원하다)는 장비 수리 문맥에 부자연스럽다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0726",
+    "part": 5,
+    "type": "RC",
+    "question": "Management decided to _______ the meeting until next week due to the scheduling conflict.",
+    "options": [
+      "cancel",
+      "prevent",
+      "postpone",
+      "promote"
+    ],
+    "answer": 2,
+    "explanation": "'until next week(다음 주까지)'와 어울려 회의를 '연기하다'는 postpone이 정답. cancel(취소하다)은 시점을 미루는 것이 아니며, promote(승진/홍보), prevent(예방)는 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0727",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO asked the finance team to _______ the budget figures before the board presentation.",
+    "options": [
+      "verify",
+      "clarify",
+      "testify",
+      "notify"
+    ],
+    "answer": 0,
+    "explanation": "수치(figures)를 '검증/확인하다'는 verify가 정답. clarify(명확히 설명하다)는 수치 자체보다 설명에, notify(통지하다), testify(증언하다)는 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0728",
+    "part": 5,
+    "type": "RC",
+    "question": "Please _______ to the attached document for detailed instructions on installing the software.",
+    "options": [
+      "return",
+      "refer",
+      "reflect",
+      "refuse"
+    ],
+    "answer": 1,
+    "explanation": "'refer to'는 '~을 참조하다'라는 collocation. reflect(반영하다, reflect on), refuse(거절하다), return(돌아오다)은 문맥과 전치사 결합이 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0729",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ the proposal at its next regularly scheduled session.",
+    "options": [
+      "resolve",
+      "review",
+      "relieve",
+      "reveal"
+    ],
+    "answer": 1,
+    "explanation": "제안서를 '검토하다'는 review가 정답. reveal(드러내다), relieve(완화하다), resolve(해결하다)는 제안서 검토 문맥에 부자연스럽다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0730",
+    "part": 5,
+    "type": "RC",
+    "question": "New hires are required to _______ a mandatory orientation session during their first week.",
+    "options": [
+      "extend",
+      "intend",
+      "attend",
+      "pretend"
+    ],
+    "answer": 2,
+    "explanation": "오리엔테이션에 '참석하다'는 attend가 정답. intend(의도하다), extend(연장하다), pretend(~인 척하다)는 의미상 맞지 않는 혼동 동사이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0731",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor was unable to _______ the discrepancy between the two financial statements.",
+    "options": [
+      "exhaust",
+      "exclaim",
+      "explain",
+      "exhibit"
+    ],
+    "answer": 2,
+    "explanation": "불일치(discrepancy)를 '설명하다'는 explain이 정답. exclaim(외치다), exhaust(소진시키다), exhibit(전시하다)는 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0732",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory manager decided to _______ production temporarily because of the supply shortage.",
+    "options": [
+      "sustain",
+      "suspect",
+      "suspend",
+      "subside"
+    ],
+    "answer": 2,
+    "explanation": "생산을 일시적으로 '중단하다'는 suspend가 정답. suspect(의심하다), sustain(유지하다), subside(가라앉다)는 의미상 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0733",
+    "part": 5,
+    "type": "RC",
+    "question": "Our company strives to _______ excellent customer service in every interaction.",
+    "options": [
+      "deceive",
+      "deprive",
+      "derive",
+      "deliver"
+    ],
+    "answer": 3,
+    "explanation": "'deliver service'는 '서비스를 제공하다'라는 collocation. derive(유래하다), deprive(박탈하다), deceive(속이다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0734",
+    "part": 5,
+    "type": "RC",
+    "question": "The presenter will _______ the quarterly results to the shareholders this afternoon.",
+    "options": [
+      "present",
+      "represent",
+      "prevent",
+      "resent"
+    ],
+    "answer": 0,
+    "explanation": "결과를 '발표하다'는 present가 정답. prevent(막다), represent(대표하다), resent(분개하다)는 발표 문맥에 부자연스럽다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0735",
+    "part": 5,
+    "type": "RC",
+    "question": "Investors are advised to _______ the risks carefully before committing any capital.",
+    "options": [
+      "assist",
+      "assign",
+      "assess",
+      "assert"
+    ],
+    "answer": 2,
+    "explanation": "위험을 '평가하다'는 assess가 정답. assist(돕다), assert(주장하다), assign(배정하다)은 위험 평가 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0736",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor will _______ the new policy to all staff members at tomorrow's meeting.",
+    "options": [
+      "denounce",
+      "renounce",
+      "announce",
+      "pronounce"
+    ],
+    "answer": 2,
+    "explanation": "정책을 '발표/공지하다'는 announce가 정답. pronounce(발음하다), denounce(비난하다), renounce(포기하다)는 의미상 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0737",
+    "part": 5,
+    "type": "RC",
+    "question": "The two departments agreed to _______ resources in order to complete the project on time.",
+    "options": [
+      "confirm",
+      "confine",
+      "combine",
+      "conform"
+    ],
+    "answer": 2,
+    "explanation": "자원을 '결합/통합하다'는 combine이 정답. confine(가두다), confirm(확인하다), conform(따르다)은 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0738",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel staff will _______ to any special requests made by our guests.",
+    "options": [
+      "extend",
+      "intend",
+      "attend",
+      "contend"
+    ],
+    "answer": 2,
+    "explanation": "'attend to'는 '~을 돌보다/처리하다'라는 collocation. extend, intend, contend는 to와 결합해 이 의미를 만들지 못한다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0739",
+    "part": 5,
+    "type": "RC",
+    "question": "The legal team will _______ the contract to ensure all terms are favorable to the company.",
+    "options": [
+      "exempt",
+      "execute",
+      "exceed",
+      "examine"
+    ],
+    "answer": 3,
+    "explanation": "계약서를 '검토/조사하다'는 examine이 정답. execute(실행하다)는 이미 검토된 계약 체결에, exempt(면제하다), exceed(초과하다)는 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0740",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software update will _______ the overall performance of the system significantly.",
+    "options": [
+      "enclose",
+      "enlarge",
+      "enroll",
+      "enhance"
+    ],
+    "answer": 3,
+    "explanation": "성능을 '향상시키다'는 enhance가 정답. enlarge(확대하다), enclose(동봉하다), enroll(등록하다)은 성능 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0741",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees should _______ from using personal devices during confidential meetings.",
+    "options": [
+      "attain",
+      "retain",
+      "obtain",
+      "abstain"
+    ],
+    "answer": 3,
+    "explanation": "'abstain from'은 '~을 삼가다'라는 collocation. obtain(얻다), attain(달성하다), retain(유지하다)은 from과 이 의미로 결합하지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0742",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked the assistant to _______ copies of the report for all attendees.",
+    "options": [
+      "contribute",
+      "attribute",
+      "distribute",
+      "constitute"
+    ],
+    "answer": 2,
+    "explanation": "보고서를 '배포하다'는 distribute가 정답. contribute(기여하다), attribute(~의 탓으로 돌리다), constitute(구성하다)는 배포 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0743",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm plans to _______ its operations into the Asian market next year.",
+    "options": [
+      "expend",
+      "expand",
+      "expel",
+      "expose"
+    ],
+    "answer": 1,
+    "explanation": "사업을 '확장하다'는 expand가 정답. expend(소비하다), expel(추방하다), expose(노출시키다)는 시장 진출 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0744",
+    "part": 5,
+    "type": "RC",
+    "question": "Please _______ the form completely before submitting it to the human resources department.",
+    "options": [
+      "compete",
+      "complete",
+      "comply",
+      "compile"
+    ],
+    "answer": 1,
+    "explanation": "양식을 '작성/완성하다'는 complete가 정답. compete(경쟁하다), compile(편집하다), comply(준수하다)는 양식 작성 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0745",
+    "part": 5,
+    "type": "RC",
+    "question": "The board members will _______ on the merger proposal during the closed session.",
+    "options": [
+      "vary",
+      "vote",
+      "veto",
+      "value"
+    ],
+    "answer": 1,
+    "explanation": "'vote on'은 '~에 대해 투표하다'라는 collocation. veto(거부권)는 보통 타동사, value(평가하다), vary(다양하다)는 on과 이 의미로 결합하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0746",
+    "part": 5,
+    "type": "RC",
+    "question": "The warranty does not _______ damage caused by improper use of the product.",
+    "options": [
+      "cover",
+      "reveal",
+      "ensure",
+      "prevent"
+    ],
+    "answer": 0,
+    "explanation": "'cover damage'는 '손해를 보장/포함하다'라는 collocation. reveal(드러내다), prevent(막다), ensure(보장하다)는 보증 적용 범위 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0747",
+    "part": 5,
+    "type": "RC",
+    "question": "The training program is designed to _______ employees with the latest industry practices.",
+    "options": [
+      "memorize",
+      "summarize",
+      "apologize",
+      "familiarize"
+    ],
+    "answer": 3,
+    "explanation": "'familiarize A with B'는 'A에게 B를 숙지시키다'라는 collocation. memorize(암기하다), summarize(요약하다), apologize(사과하다)는 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0748",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulation will _______ all businesses operating within the city limits.",
+    "options": [
+      "infect",
+      "effect",
+      "affect",
+      "reflect"
+    ],
+    "answer": 2,
+    "explanation": "'affect'는 '~에 영향을 미치다'라는 동사. effect는 주로 명사(또는 '실현하다'의 동사), infect(감염시키다), reflect(반영하다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0749",
+    "part": 5,
+    "type": "RC",
+    "question": "The consultant was hired to _______ the inefficiencies in the current workflow.",
+    "options": [
+      "modify",
+      "clarify",
+      "identify",
+      "justify"
+    ],
+    "answer": 2,
+    "explanation": "비효율을 '찾아내다/식별하다'는 identify가 정답. clarify(명확히 하다), justify(정당화하다), modify(수정하다)는 발견 단계 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0750",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers who are dissatisfied may _______ for a full refund within thirty days.",
+    "options": [
+      "apply",
+      "imply",
+      "supply",
+      "reply"
+    ],
+    "answer": 0,
+    "explanation": "'apply for'는 '~을 신청하다'라는 collocation. supply(공급하다), reply(대답하다), imply(암시하다)는 for와 이 의미로 결합하지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0751",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiations were suspended after both parties failed to _______ an agreement.",
+    "options": [
+      "arrive",
+      "gain",
+      "achieve",
+      "reach"
+    ],
+    "answer": 3,
+    "explanation": "'reach an agreement'은 '합의에 도달하다'라는 고정 collocation. arrive는 'arrive at'이 필요하고, achieve/gain은 agreement와 자연스럽게 결합하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0752",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician will _______ the equipment to ensure it meets safety standards.",
+    "options": [
+      "expect",
+      "inspect",
+      "respect",
+      "suspect"
+    ],
+    "answer": 1,
+    "explanation": "장비를 '점검하다'는 inspect가 정답. suspect(의심하다), expect(기대하다), respect(존중하다)는 점검 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0753",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing director will _______ the launch of the new product line next quarter.",
+    "options": [
+      "oversee",
+      "overflow",
+      "overcome",
+      "overlook"
+    ],
+    "answer": 0,
+    "explanation": "출시를 '감독/관리하다'는 oversee가 정답. overlook(간과하다), overcome(극복하다), overflow(넘치다)는 의미상 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0754",
+    "part": 5,
+    "type": "RC",
+    "question": "The company decided to _______ the production process to reduce manufacturing costs.",
+    "options": [
+      "underline",
+      "headline",
+      "outline",
+      "streamline"
+    ],
+    "answer": 3,
+    "explanation": "공정을 '간소화/효율화하다'는 streamline이 정답. headline, outline(개요를 잡다), underline(밑줄 긋다)은 비용 절감 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0755",
+    "part": 5,
+    "type": "RC",
+    "question": "All visitors must _______ at the front desk before proceeding to the offices.",
+    "options": [
+      "check off",
+      "check out",
+      "check up",
+      "check in"
+    ],
+    "answer": 3,
+    "explanation": "'check in'은 '체크인/접수하다'. check out(나가다), check up(검사하다), check off(체크 표시하다)는 방문 접수 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0756",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager praised the team for its ability to _______ tight deadlines consistently.",
+    "options": [
+      "do",
+      "take",
+      "meet",
+      "make"
+    ],
+    "answer": 2,
+    "explanation": "'meet a deadline'은 '마감을 맞추다'라는 고정 collocation. make/do/take는 deadline과 자연스럽게 결합하지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0757",
+    "part": 5,
+    "type": "RC",
+    "question": "The IT department will _______ the data to a more secure server over the weekend.",
+    "options": [
+      "mitigate",
+      "negotiate",
+      "navigate",
+      "migrate"
+    ],
+    "answer": 3,
+    "explanation": "데이터를 '이전하다'는 migrate가 정답. navigate(탐색하다), mitigate(완화하다), negotiate(협상하다)는 데이터 이전 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0758",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier was unable to _______ the increased demand for raw materials.",
+    "options": [
+      "accommodate",
+      "accelerate",
+      "accumulate",
+      "accompany"
+    ],
+    "answer": 0,
+    "explanation": "수요를 '수용/맞추다'는 accommodate가 정답. accumulate(축적하다), accelerate(가속하다), accompany(동반하다)는 수요 대응 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0759",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees are encouraged to _______ feedback on the proposed changes to the policy.",
+    "options": [
+      "commit",
+      "admit",
+      "permit",
+      "submit"
+    ],
+    "answer": 3,
+    "explanation": "피드백을 '제출하다'는 submit이 정답. commit(저지르다), admit(인정하다), permit(허용하다)은 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0760",
+    "part": 5,
+    "type": "RC",
+    "question": "The contractor promised to _______ the renovation work by the end of August.",
+    "options": [
+      "complain",
+      "compose",
+      "complete",
+      "compete"
+    ],
+    "answer": 2,
+    "explanation": "공사를 '완료하다'는 complete가 정답. compete(경쟁하다), complain(불평하다), compose(작곡/구성하다)는 공사 완료 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0761",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy aims to _______ the gap between management and frontline workers.",
+    "options": [
+      "bridge",
+      "build",
+      "break",
+      "bring"
+    ],
+    "answer": 0,
+    "explanation": "'bridge the gap'은 '격차를 메우다'라는 고정 collocation. build/break/bring은 gap과 이 의미로 결합하지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0762",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditors will _______ whether the company has followed proper accounting procedures.",
+    "options": [
+      "terminate",
+      "determine",
+      "designate",
+      "dominate"
+    ],
+    "answer": 1,
+    "explanation": "여부를 '판단/결정하다'는 determine이 정답. terminate(종료하다), dominate(지배하다), designate(지정하다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0763",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm decided to _______ a portion of its profits to local charities each year.",
+    "options": [
+      "dominate",
+      "decorate",
+      "donate",
+      "dedicate"
+    ],
+    "answer": 2,
+    "explanation": "이익을 '기부하다'는 donate가 정답. dominate(지배하다), decorate(장식하다), dedicate(헌정하다)는 기부 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0764",
+    "part": 5,
+    "type": "RC",
+    "question": "Please _______ that the package is delivered to the correct address before the deadline.",
+    "options": [
+      "endure",
+      "enclose",
+      "endorse",
+      "ensure"
+    ],
+    "answer": 3,
+    "explanation": "'~을 확실히 하다'는 ensure가 정답. endure(견디다), enclose(동봉하다), endorse(지지하다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0765",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ each application based on the candidate's qualifications.",
+    "options": [
+      "escalate",
+      "eliminate",
+      "evaluate",
+      "elaborate"
+    ],
+    "answer": 2,
+    "explanation": "지원서를 '평가하다'는 evaluate가 정답. escalate(확대하다), eliminate(제거하다), elaborate(자세히 설명하다)는 심사 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0766",
+    "part": 5,
+    "type": "RC",
+    "question": "The airline apologized and agreed to _______ passengers for the lengthy delay.",
+    "options": [
+      "complicate",
+      "compete",
+      "compliment",
+      "compensate"
+    ],
+    "answer": 3,
+    "explanation": "'compensate (someone) for'는 '~에 대해 보상하다'라는 collocation. compete(경쟁하다), complicate(복잡하게 하다), compliment(칭찬하다)는 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0767",
+    "part": 5,
+    "type": "RC",
+    "question": "The research team will _______ a survey to gather opinions from customers nationwide.",
+    "options": [
+      "conceal",
+      "conclude",
+      "concede",
+      "conduct"
+    ],
+    "answer": 3,
+    "explanation": "'conduct a survey'는 '설문을 실시하다'라는 collocation. conclude(결론짓다), conceal(숨기다), concede(인정하다)는 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0768",
+    "part": 5,
+    "type": "RC",
+    "question": "The accounting software helps businesses _______ their expenses more efficiently.",
+    "options": [
+      "trail",
+      "trade",
+      "track",
+      "trace"
+    ],
+    "answer": 2,
+    "explanation": "지출을 '추적/관리하다'는 track이 정답. trace(추적하여 찾다, 과거 추적), trail(뒤따르다), trade(거래하다)는 지출 관리 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0769",
+    "part": 5,
+    "type": "RC",
+    "question": "The two companies agreed to _______ a partnership to develop the new technology.",
+    "options": [
+      "make",
+      "build",
+      "do",
+      "form"
+    ],
+    "answer": 3,
+    "explanation": "'form a partnership'은 '제휴를 맺다'라는 collocation. make/do/build는 partnership과 이 표준 표현으로 결합하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0770",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor reminded the staff to _______ their time cards at the end of each shift.",
+    "options": [
+      "submit",
+      "omit",
+      "admit",
+      "emit"
+    ],
+    "answer": 0,
+    "explanation": "카드를 '제출하다'는 submit이 정답. admit(인정하다), emit(방출하다), omit(생략하다)은 제출 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0771",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked everyone to _______ in the brainstorming session actively.",
+    "options": [
+      "precipitate",
+      "emancipate",
+      "participate",
+      "anticipate"
+    ],
+    "answer": 2,
+    "explanation": "'participate in'은 '~에 참여하다'라는 collocation. precipitate(촉발하다), anticipate(예상하다), emancipate(해방하다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0772",
+    "part": 5,
+    "type": "RC",
+    "question": "The company will _______ a recruitment drive to fill the vacant positions quickly.",
+    "options": [
+      "leech",
+      "launch",
+      "lunch",
+      "leach"
+    ],
+    "answer": 1,
+    "explanation": "채용을 '시작/개시하다'는 launch가 정답. lunch(점심), leech, leach는 의미상 맞지 않는 혼동어이다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0773",
+    "part": 5,
+    "type": "RC",
+    "question": "The HR manager will _______ the candidates before making the final hiring decision.",
+    "options": [
+      "interview",
+      "interact",
+      "interrupt",
+      "interfere"
+    ],
+    "answer": 0,
+    "explanation": "지원자를 '면접하다'는 interview가 정답. interrupt(방해하다), interfere(간섭하다), interact(상호작용하다)는 채용 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0774",
+    "part": 5,
+    "type": "RC",
+    "question": "The financial advisor recommended that the client _______ his investment portfolio.",
+    "options": [
+      "clarify",
+      "diversify",
+      "classify",
+      "verify"
+    ],
+    "answer": 1,
+    "explanation": "포트폴리오를 '다각화하다'는 diversify가 정답. classify(분류하다), clarify(명확히 하다), verify(검증하다)는 투자 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0775",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee was asked to _______ the responsibilities of the departing manager.",
+    "options": [
+      "resume",
+      "assume",
+      "presume",
+      "consume"
+    ],
+    "answer": 1,
+    "explanation": "'assume responsibilities'는 '책임을 맡다'라는 collocation. resume(재개하다), consume(소비하다), presume(추정하다)은 맞지 않는 혼동 동사이다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0776",
+    "part": 5,
+    "type": "RC",
+    "question": "The store will _______ all unsold seasonal items at a reduced price next month.",
+    "options": [
+      "sail",
+      "sale",
+      "sell",
+      "seal"
+    ],
+    "answer": 2,
+    "explanation": "물건을 '판매하다'는 동사 sell이 정답. sale(명사), sail(항해하다), seal(봉인하다)은 동사 자리/의미에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0777",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager will _______ the workload evenly among all members of the team.",
+    "options": [
+      "disrupt",
+      "disturb",
+      "dissolve",
+      "distribute"
+    ],
+    "answer": 3,
+    "explanation": "업무량을 '분배하다'는 distribute가 정답. disturb(방해하다), disrupt(붕괴시키다), dissolve(용해하다)는 분배 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0778",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee decided to _______ the deadline by two weeks to allow more submissions.",
+    "options": [
+      "intend",
+      "pretend",
+      "extend",
+      "attend"
+    ],
+    "answer": 2,
+    "explanation": "마감을 '연장하다'는 extend가 정답. attend(참석하다), intend(의도하다), pretend(~인 척하다)는 혼동 동사로 의미가 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0779",
+    "part": 5,
+    "type": "RC",
+    "question": "The spokesperson refused to _______ on the ongoing legal proceedings.",
+    "options": [
+      "comment",
+      "command",
+      "commend",
+      "commute"
+    ],
+    "answer": 0,
+    "explanation": "'comment on'은 '~에 대해 논평하다'라는 collocation. commend(칭찬하다), command(명령하다), commute(통근하다)는 맞지 않는 혼동 동사이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0780",
+    "part": 5,
+    "type": "RC",
+    "question": "The maintenance crew will _______ the elevators to comply with the latest codes.",
+    "options": [
+      "upload",
+      "upgrade",
+      "upset",
+      "uphold"
+    ],
+    "answer": 1,
+    "explanation": "설비를 '업그레이드/개선하다'는 upgrade가 정답. upload(업로드하다), uphold(지지하다), upset(뒤엎다)은 설비 개선 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0781",
+    "part": 5,
+    "type": "RC",
+    "question": "The startup managed to _______ enough funding to launch its first product.",
+    "options": [
+      "insure",
+      "assure",
+      "ensure",
+      "secure"
+    ],
+    "answer": 3,
+    "explanation": "'secure funding'은 '자금을 확보하다'라는 collocation. ensure(보장하다), insure(보험에 들다), assure(안심시키다)는 자금 확보 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0782",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor will _______ the new procedures to all employees during the training.",
+    "options": [
+      "denounce",
+      "demolish",
+      "demonstrate",
+      "denote"
+    ],
+    "answer": 2,
+    "explanation": "절차를 '시연/설명하다'는 demonstrate가 정답. demolish(철거하다), denote(나타내다), denounce(비난하다)는 교육 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0783",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ the funds to the departments that need them most.",
+    "options": [
+      "alleviate",
+      "allege",
+      "allocate",
+      "allude"
+    ],
+    "answer": 2,
+    "explanation": "자금을 '할당하다'는 allocate가 정답. allege(주장하다), alleviate(완화하다), allude(암시하다)는 자금 배분 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0784",
+    "part": 5,
+    "type": "RC",
+    "question": "The driver was instructed to _______ the goods to the warehouse before noon.",
+    "options": [
+      "delegate",
+      "delete",
+      "deliver",
+      "delay"
+    ],
+    "answer": 2,
+    "explanation": "물품을 '배달하다'는 deliver가 정답. delegate(위임하다), delete(삭제하다), delay(지연하다)는 배달 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0785",
+    "part": 5,
+    "type": "RC",
+    "question": "The team leader will _______ tasks to each member according to their strengths.",
+    "options": [
+      "assert",
+      "assign",
+      "assume",
+      "assist"
+    ],
+    "answer": 1,
+    "explanation": "업무를 '배정하다'는 assign이 정답. assist(돕다), assert(주장하다), assume(가정하다)은 업무 배정 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0786",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager decided to _______ the project after evaluating its limited potential.",
+    "options": [
+      "abound",
+      "abandon",
+      "abstain",
+      "absorb"
+    ],
+    "answer": 1,
+    "explanation": "프로젝트를 '포기/중단하다'는 abandon이 정답. abound(풍부하다), absorb(흡수하다), abstain(삼가다)은 프로젝트 중단 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0787",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers can _______ from a wide range of payment options at checkout.",
+    "options": [
+      "chase",
+      "choose",
+      "chose",
+      "cheat"
+    ],
+    "answer": 1,
+    "explanation": "'choose from'은 '~중에서 고르다'라는 collocation으로 현재형 choose가 정답. chose(과거형), chase(쫓다), cheat(속이다)은 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0788",
+    "part": 5,
+    "type": "RC",
+    "question": "The agency was hired to _______ public awareness of the environmental campaign.",
+    "options": [
+      "arise",
+      "arouse",
+      "rise",
+      "raise"
+    ],
+    "answer": 3,
+    "explanation": "'raise awareness'는 '인식을 높이다'라는 collocation이며 타동사 raise가 정답. rise/arise는 자동사, arouse는 감정 유발에 쓰여 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0789",
+    "part": 5,
+    "type": "RC",
+    "question": "The new system will automatically _______ users when their passwords are about to expire.",
+    "options": [
+      "notify",
+      "modify",
+      "ratify",
+      "nullify"
+    ],
+    "answer": 0,
+    "explanation": "사용자에게 '통지하다'는 notify가 정답. nullify(무효화하다), modify(수정하다), ratify(비준하다)는 알림 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0790",
+    "part": 5,
+    "type": "RC",
+    "question": "The director asked the team to _______ the report into a one-page summary.",
+    "options": [
+      "conceal",
+      "condense",
+      "condemn",
+      "conceive"
+    ],
+    "answer": 1,
+    "explanation": "보고서를 '압축/요약하다'는 condense가 정답. condemn(비난하다), conceal(숨기다), conceive(생각해내다)는 요약 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0791",
+    "part": 5,
+    "type": "RC",
+    "question": "The organization aims to _______ poverty in the region through education programs.",
+    "options": [
+      "accumulate",
+      "articulate",
+      "alleviate",
+      "accelerate"
+    ],
+    "answer": 2,
+    "explanation": "빈곤을 '완화하다'는 alleviate가 정답. accelerate(가속하다), accumulate(축적하다), articulate(명확히 표현하다)는 의미상 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0792",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician needs to _______ the printer settings before the document can be printed.",
+    "options": [
+      "adopt",
+      "adjust",
+      "admire",
+      "admit"
+    ],
+    "answer": 1,
+    "explanation": "설정을 '조정하다'는 adjust가 정답. adopt(채택하다), admire(감탄하다), admit(인정하다)은 설정 조정 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0793",
+    "part": 5,
+    "type": "RC",
+    "question": "The board has yet to _______ the proposed changes to the company's bylaws.",
+    "options": [
+      "appreciate",
+      "approach",
+      "apprehend",
+      "approve"
+    ],
+    "answer": 3,
+    "explanation": "변경안을 '승인하다'는 approve가 정답. approach(접근하다), appreciate(감사하다), apprehend(체포하다)는 승인 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0794",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager intends to _______ the morale of the team after the recent layoffs.",
+    "options": [
+      "burst",
+      "boast",
+      "boost",
+      "blast"
+    ],
+    "answer": 2,
+    "explanation": "사기를 '북돋우다'는 boost가 정답. boast(자랑하다), burst(터지다), blast(폭파하다)는 사기 향상 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0795",
+    "part": 5,
+    "type": "RC",
+    "question": "The company decided to _______ its outdated logo with a more modern design.",
+    "options": [
+      "misplace",
+      "displace",
+      "place",
+      "replace"
+    ],
+    "answer": 3,
+    "explanation": "'replace A with B'는 'A를 B로 교체하다'라는 collocation. place(놓다), displace(쫓아내다), misplace(잘못 두다)는 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0796",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier agreed to _______ the defective units at no additional cost.",
+    "options": [
+      "reply",
+      "repel",
+      "replace",
+      "repeal"
+    ],
+    "answer": 2,
+    "explanation": "불량품을 '교체하다'는 replace가 정답. reply(대답하다), repeal(폐지하다), repel(격퇴하다)은 교체 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0797",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy is expected to _______ employee productivity across all departments.",
+    "options": [
+      "induce",
+      "increase",
+      "incur",
+      "indulge"
+    ],
+    "answer": 1,
+    "explanation": "생산성을 '증가시키다'는 increase가 정답. incur(초래하다), induce(유도하다), indulge(탐닉하다)는 생산성 향상 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0798",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ on a final decision after reviewing all the evidence.",
+    "options": [
+      "argue",
+      "arrive",
+      "arise",
+      "agree"
+    ],
+    "answer": 3,
+    "explanation": "'agree on'은 '~에 대해 합의하다'라는 collocation. argue(논쟁하다), arise(발생하다), arrive(도착하다)는 on과 이 의미로 결합하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0799",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions clearly _______ how to assemble the furniture step by step.",
+    "options": [
+      "expire",
+      "exclaim",
+      "expand",
+      "explain"
+    ],
+    "answer": 3,
+    "explanation": "방법을 '설명하다'는 explain이 정답. exclaim(외치다), expand(확장하다), expire(만료되다)는 설명 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0800",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor was asked to _______ the source of the unexplained transactions.",
+    "options": [
+      "trail",
+      "track",
+      "trade",
+      "trace"
+    ],
+    "answer": 3,
+    "explanation": "출처를 '추적해 찾아내다'는 trace가 정답. track(지속 추적), trail(뒤따르다), trade(거래하다)는 출처 규명 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0801",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager will _______ the new hires to their respective departments next Monday.",
+    "options": [
+      "introduce",
+      "indicate",
+      "induce",
+      "induct"
+    ],
+    "answer": 0,
+    "explanation": "신입을 '소개하다'는 introduce가 정답. induce(유도하다), induct(취임시키다), indicate(나타내다)는 소개 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0802",
+    "part": 5,
+    "type": "RC",
+    "question": "The organization will _______ a fundraising event to support the new community center.",
+    "options": [
+      "haunt",
+      "host",
+      "hoist",
+      "hunt"
+    ],
+    "answer": 1,
+    "explanation": "행사를 '주최하다'는 host가 정답. hoist(들어올리다), haunt(출몰하다), hunt(사냥하다)는 행사 주최 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0803",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee was eager to _______ to the company's collaborative culture.",
+    "options": [
+      "contribute",
+      "substitute",
+      "attribute",
+      "distribute"
+    ],
+    "answer": 0,
+    "explanation": "'contribute to'는 '~에 기여하다'라는 collocation. distribute(배포하다), attribute(~의 탓으로 돌리다), substitute(대체하다)는 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0804",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment was delayed because customs officials needed to _______ the contents.",
+    "options": [
+      "inject",
+      "inspect",
+      "infect",
+      "insert"
+    ],
+    "answer": 1,
+    "explanation": "내용물을 '검사하다'는 inspect가 정답. inject(주입하다), infect(감염시키다), insert(삽입하다)는 통관 검사 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0805",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO will _______ the company's vision during the annual shareholder meeting.",
+    "options": [
+      "outline",
+      "underline",
+      "headline",
+      "sideline"
+    ],
+    "answer": 0,
+    "explanation": "비전을 '간략히 설명하다'는 outline이 정답. underline(밑줄 긋다/강조하다), headline(표제로 싣다), sideline(제외하다)은 의미상 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0806",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer service team is trained to _______ complaints in a timely manner.",
+    "options": [
+      "handel",
+      "hassle",
+      "handle",
+      "huddle"
+    ],
+    "answer": 2,
+    "explanation": "불만을 '처리하다'는 handle이 정답. handel은 존재하지 않는 단어, hassle(괴롭히다), huddle(모이다)은 불만 처리 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0807",
+    "part": 5,
+    "type": "RC",
+    "question": "The engineer was able to _______ the cause of the recurring system failure.",
+    "options": [
+      "appoint",
+      "pinpoint",
+      "disappoint",
+      "anoint"
+    ],
+    "answer": 1,
+    "explanation": "원인을 '정확히 찾아내다'는 pinpoint가 정답. appoint(임명하다), disappoint(실망시키다), anoint(기름을 바르다)는 원인 규명 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0808",
+    "part": 5,
+    "type": "RC",
+    "question": "The company plans to _______ its operations to a larger facility next year.",
+    "options": [
+      "locate",
+      "relocate",
+      "allocate",
+      "dislocate"
+    ],
+    "answer": 1,
+    "explanation": "사업장을 '이전하다'는 relocate가 정답. allocate(할당하다), dislocate(탈구시키다), locate(위치시키다)는 이전 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0809",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor will _______ the performance of each employee at the end of the year.",
+    "options": [
+      "evaluate",
+      "emulate",
+      "escalate",
+      "evacuate"
+    ],
+    "answer": 0,
+    "explanation": "성과를 '평가하다'는 evaluate가 정답. evacuate(대피시키다), escalate(확대하다), emulate(모방하다)는 성과 평가 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0810",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulation will _______ businesses to disclose their environmental impact.",
+    "options": [
+      "inquire",
+      "acquire",
+      "conquer",
+      "require"
+    ],
+    "answer": 3,
+    "explanation": "'require A to do'는 'A에게 ~할 것을 요구하다'라는 구조. inquire(문의하다), acquire(획득하다), conquer(정복하다)는 의무 부과 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0811",
+    "part": 5,
+    "type": "RC",
+    "question": "The accountant noticed that the figures did not _______ with the bank records.",
+    "options": [
+      "correlate",
+      "corrode",
+      "correct",
+      "correspond"
+    ],
+    "answer": 3,
+    "explanation": "'correspond with'는 '~와 일치하다'라는 collocation. correct(고치다), correlate(상관관계가 있다), corrode(부식하다)는 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0812",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked the staff to _______ the meeting room before the clients arrive.",
+    "options": [
+      "tide",
+      "tidy",
+      "tiny",
+      "tied"
+    ],
+    "answer": 1,
+    "explanation": "방을 '정돈하다'는 동사 tidy가 정답. tiny(작은, 형용사), tide(조수), tied(묶인)는 동사 자리/의미에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0813",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm hopes to _______ new clients through its expanded advertising efforts.",
+    "options": [
+      "attract",
+      "attain",
+      "attach",
+      "attack"
+    ],
+    "answer": 0,
+    "explanation": "고객을 '끌어들이다'는 attract가 정답. attack(공격하다), attach(첨부하다), attain(달성하다)은 고객 유치 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0814",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician will _______ the software to fix the security vulnerabilities.",
+    "options": [
+      "pitch",
+      "poach",
+      "patch",
+      "perch"
+    ],
+    "answer": 2,
+    "explanation": "소프트웨어를 '패치/수정하다'는 patch가 정답. pitch(던지다), perch(앉다), poach(밀렵하다)는 의미상 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0815",
+    "part": 5,
+    "type": "RC",
+    "question": "The board will _______ the proposal only if it aligns with the company's long-term goals.",
+    "options": [
+      "enroll",
+      "enforce",
+      "endorse",
+      "enclose"
+    ],
+    "answer": 2,
+    "explanation": "제안을 '지지/승인하다'는 endorse가 정답. enforce(시행하다), enclose(동봉하다), enroll(등록하다)은 제안 지지 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0816",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy will _______ employees to take additional paid leave for family emergencies.",
+    "options": [
+      "ally",
+      "allot",
+      "alloy",
+      "allow"
+    ],
+    "answer": 3,
+    "explanation": "'allow A to do'는 'A가 ~하도록 허용하다'라는 구조. alloy(합금), allot(할당하다), ally(동맹을 맺다)는 허용 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0817",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee asked the consultant to _______ on the feasibility of the new plan.",
+    "options": [
+      "evaporate",
+      "escalate",
+      "eliminate",
+      "elaborate"
+    ],
+    "answer": 3,
+    "explanation": "'elaborate on'은 '~을 상세히 설명하다'라는 collocation. eliminate(제거하다), escalate(확대하다), evaporate(증발하다)는 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0818",
+    "part": 5,
+    "type": "RC",
+    "question": "The store manager decided to _______ the prices of all winter clothing.",
+    "options": [
+      "reuse",
+      "refuse",
+      "reduce",
+      "reverse"
+    ],
+    "answer": 2,
+    "explanation": "가격을 '인하하다'는 reduce가 정답. reuse(재사용하다), refuse(거절하다), reverse(뒤집다)는 가격 인하 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0819",
+    "part": 5,
+    "type": "RC",
+    "question": "The team was praised for its ability to _______ creative solutions to complex problems.",
+    "options": [
+      "deprive",
+      "devise",
+      "derive",
+      "divide"
+    ],
+    "answer": 1,
+    "explanation": "해결책을 '고안하다'는 devise가 정답. divide(나누다), derive(유래하다), deprive(박탈하다)는 고안 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0820",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer was advised to _______ the receipt in case a refund is needed later.",
+    "options": [
+      "retain",
+      "obtain",
+      "attain",
+      "detain"
+    ],
+    "answer": 0,
+    "explanation": "영수증을 '보관/유지하다'는 retain이 정답. obtain(얻다), attain(달성하다), detain(억류하다)은 보관 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0821",
+    "part": 5,
+    "type": "RC",
+    "question": "The new system allows users to _______ their data automatically every hour.",
+    "options": [
+      "back out",
+      "back up",
+      "back down",
+      "back off"
+    ],
+    "answer": 1,
+    "explanation": "데이터를 '백업하다'는 back up이 정답. back off(물러서다), back out(철회하다), back down(굴복하다)은 데이터 저장 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0822",
+    "part": 5,
+    "type": "RC",
+    "question": "The director will _______ the importance of teamwork during her opening remarks.",
+    "options": [
+      "empathize",
+      "emphasize",
+      "emanate",
+      "embed"
+    ],
+    "answer": 1,
+    "explanation": "중요성을 '강조하다'는 emphasize가 정답. empathize(공감하다), emanate(발산하다), embed(끼워넣다)는 강조 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0823",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory was forced to _______ operations after the equipment malfunction.",
+    "options": [
+      "haul",
+      "hail",
+      "heal",
+      "halt"
+    ],
+    "answer": 3,
+    "explanation": "가동을 '중단하다'는 halt가 정답. hail(환호하다), heal(치유하다), haul(끌어당기다)은 가동 중단 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0824",
+    "part": 5,
+    "type": "RC",
+    "question": "The new branch manager will _______ all hiring decisions for the regional office.",
+    "options": [
+      "hamper",
+      "harness",
+      "handicap",
+      "handle"
+    ],
+    "answer": 3,
+    "explanation": "결정을 '처리/담당하다'는 handle이 정답. handicap(불리하게 하다), hamper(방해하다), harness(이용하다)는 채용 결정 처리 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0825",
+    "part": 5,
+    "type": "RC",
+    "question": "The company will _______ a comprehensive review of its hiring practices this year.",
+    "options": [
+      "undertake",
+      "underline",
+      "undermine",
+      "undergo"
+    ],
+    "answer": 0,
+    "explanation": "'undertake a review'는 '검토를 착수하다'라는 collocation. undergo(겪다), underline(강조하다), undermine(약화시키다)은 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0826",
+    "part": 5,
+    "type": "RC",
+    "question": "The new procedure will _______ the time required to process customer orders.",
+    "options": [
+      "mobilize",
+      "minimize",
+      "memorize",
+      "modernize"
+    ],
+    "answer": 1,
+    "explanation": "시간을 '최소화하다'는 minimize가 정답. memorize(암기하다), mobilize(동원하다), modernize(현대화하다)는 시간 단축 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0827",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager will _______ the project's progress to the executives every Friday.",
+    "options": [
+      "resort",
+      "retort",
+      "report",
+      "relay"
+    ],
+    "answer": 2,
+    "explanation": "진행 상황을 '보고하다'는 report가 정답. resort(의지하다), retort(반박하다), relay(중계하다)는 정기 보고 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0828",
+    "part": 5,
+    "type": "RC",
+    "question": "The agency will _______ the responsibility of managing the social media accounts.",
+    "options": [
+      "delegate",
+      "relegate",
+      "duplicate",
+      "dedicate"
+    ],
+    "answer": 0,
+    "explanation": "책임을 '위임하다'는 delegate가 정답. relegate(좌천시키다), dedicate(헌정하다), duplicate(복제하다)는 위임 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0829",
+    "part": 5,
+    "type": "RC",
+    "question": "The staff were asked to _______ to the emergency exits in an orderly manner.",
+    "options": [
+      "proceed",
+      "exceed",
+      "succeed",
+      "precede"
+    ],
+    "answer": 0,
+    "explanation": "'proceed to'는 '~로 나아가다'라는 collocation. precede(앞서다), exceed(초과하다), succeed(성공하다)는 이동 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0830",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing team will _______ a strategy to target younger consumers.",
+    "options": [
+      "facilitate",
+      "fabricate",
+      "formulate",
+      "fluctuate"
+    ],
+    "answer": 2,
+    "explanation": "전략을 '수립하다'는 formulate가 정답. fluctuate(변동하다), fabricate(날조하다), facilitate(촉진하다)는 전략 수립 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0831",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees must _______ their badges at all times while inside the facility.",
+    "options": [
+      "decay",
+      "delay",
+      "display",
+      "deploy"
+    ],
+    "answer": 2,
+    "explanation": "배지를 '드러내 보이다'는 display가 정답. delay(지연하다), decay(부패하다), deploy(배치하다)는 배지 착용 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0832",
+    "part": 5,
+    "type": "RC",
+    "question": "The department head will _______ the budget cuts before the end of the fiscal year.",
+    "options": [
+      "complement",
+      "supplement",
+      "implement",
+      "compliment"
+    ],
+    "answer": 2,
+    "explanation": "예산 삭감을 '시행하다'는 implement가 정답. compliment(칭찬하다), supplement(보충하다), complement(보완하다)는 시행 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0833",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier promised to _______ the shipment if the products were found defective.",
+    "options": [
+      "refute",
+      "refund",
+      "refer",
+      "refuse"
+    ],
+    "answer": 1,
+    "explanation": "금액을 '환불하다'는 refund가 정답. refuse(거절하다), refute(반박하다), refer(참조하다)는 환불 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0834",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager hopes to _______ stronger relationships with key clients.",
+    "options": [
+      "circulate",
+      "captivate",
+      "cultivate",
+      "calculate"
+    ],
+    "answer": 2,
+    "explanation": "관계를 '구축/발전시키다'는 cultivate가 정답. calculate(계산하다), circulate(순환시키다), captivate(매혹하다)는 관계 형성 문맥에 어색하다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0835",
+    "part": 5,
+    "type": "RC",
+    "question": "The team must _______ to the established guidelines when handling sensitive information.",
+    "options": [
+      "adhere",
+      "admire",
+      "adjust",
+      "admit"
+    ],
+    "answer": 0,
+    "explanation": "'adhere to'는 '~을 준수하다'라는 collocation. admire(감탄하다), adjust(조정하다), admit(인정하다)은 준수 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0836",
+    "part": 5,
+    "type": "RC",
+    "question": "The accountant will _______ the monthly statements to identify any errors.",
+    "options": [
+      "recommend",
+      "recover",
+      "recognize",
+      "reconcile"
+    ],
+    "answer": 3,
+    "explanation": "'reconcile statements'는 '명세서를 대조/정산하다'라는 collocation. recommend(추천하다), recognize(인식하다), recover(회복하다)는 정산 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0837",
+    "part": 5,
+    "type": "RC",
+    "question": "The company will _______ the launch event to coincide with the trade fair.",
+    "options": [
+      "schedule",
+      "scratch",
+      "scheme",
+      "scrap"
+    ],
+    "answer": 0,
+    "explanation": "행사 일정을 '잡다'는 schedule이 정답. scheme(꾀하다), scratch(긁다), scrap(폐기하다)은 일정 조정 문맥에 어색하다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0838",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor reminded the team to _______ all confidential documents securely.",
+    "options": [
+      "stare",
+      "stir",
+      "steer",
+      "store"
+    ],
+    "answer": 3,
+    "explanation": "문서를 '보관하다'는 store가 정답. stir(휘젓다), stare(응시하다), steer(조종하다)는 문서 보관 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0839",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ the candidates against a strict set of criteria.",
+    "options": [
+      "access",
+      "assess",
+      "assert",
+      "assist"
+    ],
+    "answer": 1,
+    "explanation": "후보를 '평가하다'는 assess가 정답. access(접근하다), assist(돕다), assert(주장하다)는 평가 문맥에 맞지 않는 혼동 동사이다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0840",
+    "part": 5,
+    "type": "RC",
+    "question": "The organization aims to _______ the public about the dangers of online fraud.",
+    "options": [
+      "elect",
+      "educate",
+      "emit",
+      "edit"
+    ],
+    "answer": 1,
+    "explanation": "대중을 '교육하다'는 educate가 정답. edit(편집하다), emit(방출하다), elect(선출하다)는 교육 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0841",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm decided to _______ its workforce in response to the growing demand.",
+    "options": [
+      "expend",
+      "expand",
+      "explode",
+      "expel"
+    ],
+    "answer": 1,
+    "explanation": "인력을 '확대하다'는 expand가 정답. expend(소비하다), expel(추방하다), explode(폭발하다)는 인력 확대 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0842",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician was asked to _______ the cause of the network outage immediately.",
+    "options": [
+      "invest",
+      "invent",
+      "investigate",
+      "invade"
+    ],
+    "answer": 2,
+    "explanation": "원인을 '조사하다'는 investigate가 정답. invest(투자하다), invade(침입하다), invent(발명하다)는 조사 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0843",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy will _______ the company to reduce its carbon emissions by half.",
+    "options": [
+      "unable",
+      "label",
+      "disable",
+      "enable"
+    ],
+    "answer": 3,
+    "explanation": "'enable A to do'는 'A가 ~할 수 있게 하다'라는 구조. unable(형용사), disable(무력화하다), label(라벨을 붙이다)은 의미/품사가 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0844",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor advised the trainee to _______ closely to the customer's instructions.",
+    "options": [
+      "echo",
+      "hear",
+      "listen",
+      "sound"
+    ],
+    "answer": 2,
+    "explanation": "'listen to'는 '~에 귀 기울이다'라는 collocation. hear(들리다, 자연스럽지 않음), sound(소리나다), echo(메아리치다)는 to와 이 의미로 결합하지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0845",
+    "part": 5,
+    "type": "RC",
+    "question": "The new initiative is intended to _______ collaboration between the two divisions.",
+    "options": [
+      "fluster",
+      "falter",
+      "foster",
+      "faster"
+    ],
+    "answer": 2,
+    "explanation": "협력을 '촉진/조성하다'는 foster가 정답. faster(더 빠른, 형용사/부사), falter(흔들리다), fluster(당황하게 하다)는 의미/품사가 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0846",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked the intern to _______ the data into the spreadsheet by Friday.",
+    "options": [
+      "alter",
+      "enter",
+      "utter",
+      "cater"
+    ],
+    "answer": 1,
+    "explanation": "데이터를 '입력하다'는 enter가 정답. alter(바꾸다), utter(말하다), cater(음식을 공급하다)는 데이터 입력 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0847",
+    "part": 5,
+    "type": "RC",
+    "question": "The company will _______ the new product extensively before releasing it to the market.",
+    "options": [
+      "twist",
+      "test",
+      "toast",
+      "taste"
+    ],
+    "answer": 1,
+    "explanation": "제품을 '시험하다'는 test가 정답. taste(맛보다), toast(건배하다), twist(비틀다)는 제품 검증 문맥에 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0848",
+    "part": 5,
+    "type": "RC",
+    "question": "The board members were asked to _______ from discussing the matter publicly.",
+    "options": [
+      "restrain",
+      "retrain",
+      "constrain",
+      "refrain"
+    ],
+    "answer": 3,
+    "explanation": "'refrain from'은 '~을 삼가다'라는 collocation. retrain(재교육하다), restrain(억제하다, 타동사), constrain(제약하다)은 from과 이 의미로 결합하지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0849",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager will _______ several changes to improve office efficiency.",
+    "options": [
+      "introduce",
+      "reduce",
+      "produce",
+      "induce"
+    ],
+    "answer": 0,
+    "explanation": "변화를 '도입하다'는 introduce가 정답. induce(유도하다), reduce(줄이다), produce(생산하다)는 변화 도입 문맥에 어색하다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0850",
+    "part": 5,
+    "type": "RC",
+    "question": "The agency will _______ a thorough background check on all job applicants.",
+    "options": [
+      "perform",
+      "preform",
+      "perfume",
+      "reform"
+    ],
+    "answer": 0,
+    "explanation": "'perform a check'는 '검사를 수행하다'라는 collocation. perfume(향수를 뿌리다), preform(미리 만들다, 드묾), reform(개혁하다)은 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0851",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee decided to _______ the meeting after the urgent issue was resolved.",
+    "options": [
+      "adjourn",
+      "adjust",
+      "adorn",
+      "admit"
+    ],
+    "answer": 0,
+    "explanation": "회의를 '휴회/산회하다'는 adjourn이 정답. adjust(조정하다), adorn(장식하다), admit(인정하다)은 회의 종료 문맥에 맞지 않는다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0852",
+    "part": 5,
+    "type": "RC",
+    "question": "The new accounting software has significantly _______ the time required to process invoices.",
+    "options": [
+      "reduced",
+      "lowered",
+      "declined",
+      "shortened"
+    ],
+    "answer": 0,
+    "explanation": "'시간을 줄이다'라는 의미로 목적어 'the time'을 직접 취하는 타동사는 reduce(reduce the time). decline은 자동사(감소하다)이며 목적어를 직접 줄인다는 뜻으로 쓰지 않고, lower는 보통 수준·가격을, shorten은 길이를 줄일 때 더 자연스럽다. 처리 시간을 '단축/감소'시키는 가장 표준적 collocation은 reduce the time.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0853",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference room is available; _______, please reserve it at least one day in advance.",
+    "options": [
+      "moreover",
+      "however",
+      "otherwise",
+      "therefore"
+    ],
+    "answer": 3,
+    "explanation": "'방이 이용 가능하다'는 사실에 대한 결과·요청('따라서 미리 예약하라')을 잇는 접속부사는 therefore(그러므로). however는 역접, otherwise는 '그렇지 않으면', moreover는 '게다가'로 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0854",
+    "part": 5,
+    "type": "RC",
+    "question": "The store offers a _______ discount to customers who pay in cash.",
+    "options": [
+      "considering",
+      "considerable",
+      "considerate",
+      "considered"
+    ],
+    "answer": 1,
+    "explanation": "혼동 형용사 문제. considerable은 '상당한(양·정도가 큰)'이고 considerate는 '사려 깊은(남을 배려하는)'. 할인 폭이 크다는 의미이므로 considerable discount가 정답.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0855",
+    "part": 5,
+    "type": "RC",
+    "question": "All visitors must wear an identification badge at _______ times while on the premises.",
+    "options": [
+      "every",
+      "whole",
+      "entire",
+      "all"
+    ],
+    "answer": 3,
+    "explanation": "'항상'이라는 관용표현은 at all times. every는 단수명사와, whole/entire는 'the whole/entire time'처럼 쓰이며 at ~ times 형태의 관용구에는 맞지 않는다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0856",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing team conducted _______ research before launching the new product.",
+    "options": [
+      "extending",
+      "extensive",
+      "extension",
+      "extensively"
+    ],
+    "answer": 1,
+    "explanation": "명사 research를 수식하는 형용사 extensive(광범위한)가 정답이며 'extensive research(광범위한 조사)'는 빈출 collocation. extension(명사), extensively(부사)는 명사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0857",
+    "part": 5,
+    "type": "RC",
+    "question": "Although the project was delayed, the team remained _______ about meeting the final deadline.",
+    "options": [
+      "optimum",
+      "optimistic",
+      "optimal",
+      "optional"
+    ],
+    "answer": 1,
+    "explanation": "'~에 대해 낙관적인'은 be optimistic about. optimal/optimum은 '최적의', optional은 '선택적인'으로 사람의 태도를 나타내지 못한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0858",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked employees to submit their reports in a _______ manner.",
+    "options": [
+      "timed",
+      "time",
+      "timely",
+      "timing"
+    ],
+    "answer": 2,
+    "explanation": "'시기적절한 방식으로'라는 collocation은 in a timely manner. timely는 -ly로 끝나지만 형용사로 manner를 수식한다. time/timing(명사), timed는 의미·형태상 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0859",
+    "part": 5,
+    "type": "RC",
+    "question": "Our company is committed to providing _______ customer service at all times.",
+    "options": [
+      "excepted",
+      "exceptional",
+      "exceptionable",
+      "exception"
+    ],
+    "answer": 1,
+    "explanation": "'뛰어난 고객 서비스'는 exceptional customer service. exceptional은 '특출난', exceptionable은 '이의를 제기할 만한(불쾌한)'으로 의미가 반대. exception은 명사로 수식 불가.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0860",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions were so _______ that even new employees could follow them easily.",
+    "options": [
+      "clearance",
+      "clearing",
+      "clear",
+      "cleared"
+    ],
+    "answer": 2,
+    "explanation": "so + 형용사 + that 구문에서 보어로 형용사 clear(명확한)가 필요. clearance(명사, 정리/통관), cleared/clearing은 형태상 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0861",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy will take _______ on the first of next month.",
+    "options": [
+      "effect",
+      "affect",
+      "effectively",
+      "effective"
+    ],
+    "answer": 0,
+    "explanation": "'시행되다, 효력을 발하다'라는 관용표현은 take effect. effect는 명사(효력), affect는 동사(영향을 미치다)로 혼동되는 짝. effective(형용사)는 take 뒤 목적어로 쓰지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0862",
+    "part": 5,
+    "type": "RC",
+    "question": "The flight was delayed due to _______ weather conditions in the region.",
+    "options": [
+      "adverse",
+      "adverb",
+      "advert",
+      "averse"
+    ],
+    "answer": 0,
+    "explanation": "'악천후'는 adverse weather conditions. adverse는 '불리한/악조건의', averse는 'be averse to(~을 꺼리는)'로 다른 단어. advert/adverb는 별개 단어.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0863",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees who wish to take vacation must obtain prior _______ from their supervisor.",
+    "options": [
+      "approving",
+      "approve",
+      "approved",
+      "approval"
+    ],
+    "answer": 3,
+    "explanation": "형용사 prior 뒤에 명사가 필요하며 'prior approval(사전 승인)'은 빈출 collocation. approve(동사), approving/approved(분사)는 명사 자리에 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0864",
+    "part": 5,
+    "type": "RC",
+    "question": "The two companies reached a mutually _______ agreement after months of negotiation.",
+    "options": [
+      "benefit",
+      "benefited",
+      "beneficial",
+      "beneficiary"
+    ],
+    "answer": 2,
+    "explanation": "'상호 이익이 되는 합의'는 mutually beneficial agreement. beneficial은 '유익한'(형용사), beneficiary는 '수혜자'(명사)로 다르다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0865",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory was forced to _______ production because of a shortage of raw materials.",
+    "options": [
+      "suspend",
+      "suspense",
+      "suspect",
+      "sustain"
+    ],
+    "answer": 0,
+    "explanation": "'생산을 중단하다'는 suspend production. suspend는 '중단/일시 정지', suspect는 '의심하다', sustain은 '유지하다'로 정반대 의미, suspense는 명사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0866",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar provided participants with _______ insights into market trends.",
+    "options": [
+      "value",
+      "valuables",
+      "valued",
+      "valuable"
+    ],
+    "answer": 3,
+    "explanation": "명사 insights를 수식하는 형용사로 valuable(귀중한)이 적절하며 'valuable insights'는 빈출 collocation. valued도 형용사지만 '소중히 여겨지는(고객 등)'으로 insights와는 valuable이 자연스럽다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0867",
+    "part": 5,
+    "type": "RC",
+    "question": "Please ensure that all data is entered _______ to avoid errors in the report.",
+    "options": [
+      "accurately",
+      "accurate",
+      "accurateness",
+      "accuracy"
+    ],
+    "answer": 0,
+    "explanation": "동사 is entered를 수식하는 부사 accurately(정확하게)가 정답. accurate(형용사), accuracy(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0868",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO emphasized the importance of maintaining a _______ work environment.",
+    "options": [
+      "production",
+      "produce",
+      "productive",
+      "producing"
+    ],
+    "answer": 2,
+    "explanation": "명사 environment를 수식하는 형용사 productive(생산적인)가 정답. 'productive work environment'는 자연스러운 collocation. production/produce는 명사·동사.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0869",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales figures for the third quarter exceeded all _______.",
+    "options": [
+      "expected",
+      "expectations",
+      "expecting",
+      "expectant"
+    ],
+    "answer": 1,
+    "explanation": "'기대를 뛰어넘다'는 exceed expectations. 동사 exceed의 목적어로 명사 expectations(복수)가 필요. 나머지는 형용사·분사.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0870",
+    "part": 5,
+    "type": "RC",
+    "question": "We apologize for any _______ caused by the temporary closure of the parking lot.",
+    "options": [
+      "inconveniently",
+      "inconvenient",
+      "inconvenience",
+      "convenience"
+    ],
+    "answer": 2,
+    "explanation": "'불편을 끼쳐 드려 죄송합니다'는 apologize for any inconvenience. any 뒤 명사 inconvenience(불편)가 필요하며 빈출 관용표현. inconvenient(형용사), inconveniently(부사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0871",
+    "part": 5,
+    "type": "RC",
+    "question": "The merger is expected to have a _______ impact on the company's profitability.",
+    "options": [
+      "signature",
+      "signifying",
+      "signify",
+      "significant"
+    ],
+    "answer": 3,
+    "explanation": "명사 impact를 수식하는 형용사 significant(상당한)가 정답이며 'significant impact'는 빈출 collocation. signify(동사), signature(명사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0872",
+    "part": 5,
+    "type": "RC",
+    "question": "The training program is designed to _______ employees with the new software.",
+    "options": [
+      "familiarly",
+      "familiar",
+      "familiarity",
+      "familiarize"
+    ],
+    "answer": 3,
+    "explanation": "to 뒤 동사원형이 필요하며 'familiarize A with B(A를 B에 익숙해지게 하다)'가 정답 collocation. familiar(형용사), familiarity(명사), familiarly(부사)는 동사 자리 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0873",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicant's qualifications were _______ with the requirements of the position.",
+    "options": [
+      "consistent",
+      "persistent",
+      "insistent",
+      "resistant"
+    ],
+    "answer": 0,
+    "explanation": "'~와 일치하는'은 be consistent with. consistent는 '일관된/부합하는', persistent는 '끈질긴', resistant는 '저항하는', insistent는 '고집하는'으로 모두 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0874",
+    "part": 5,
+    "type": "RC",
+    "question": "The company offers _______ benefits, including health insurance and paid leave.",
+    "options": [
+      "comprehend",
+      "comprehension",
+      "comprehensible",
+      "comprehensive"
+    ],
+    "answer": 3,
+    "explanation": "혼동 형용사. comprehensive는 '포괄적인/종합적인', comprehensible은 '이해할 수 있는'. 복리후생이 '포괄적'이라는 의미이므로 comprehensive benefits가 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0875",
+    "part": 5,
+    "type": "RC",
+    "question": "Attendance at the safety workshop is _______ for all factory workers.",
+    "options": [
+      "optional",
+      "arbitrary",
+      "mandatory",
+      "voluntary"
+    ],
+    "answer": 2,
+    "explanation": "'의무적인'은 mandatory. voluntary(자발적인), optional(선택적인)은 반대 의미, arbitrary(임의의)는 문맥에 맞지 않는다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0876",
+    "part": 5,
+    "type": "RC",
+    "question": "The report contains _______ information that should not be shared with outside parties.",
+    "options": [
+      "confidence",
+      "confidently",
+      "confident",
+      "confidential"
+    ],
+    "answer": 3,
+    "explanation": "명사 information을 수식하는 형용사 confidential(기밀의)이 정답. confident는 '자신감 있는'으로 의미가 다르고, confidence(명사)/confidently(부사)는 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0877",
+    "part": 5,
+    "type": "RC",
+    "question": "Due to high demand, the product is currently _______ of stock.",
+    "options": [
+      "over",
+      "out",
+      "away",
+      "off"
+    ],
+    "answer": 1,
+    "explanation": "'재고가 없는'은 out of stock. off/over/away는 stock과 이 관용표현을 만들지 못한다.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0878",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations will _______ affect how the company reports its earnings.",
+    "options": [
+      "directness",
+      "direct",
+      "directly",
+      "direction"
+    ],
+    "answer": 2,
+    "explanation": "동사 affect를 수식하는 부사 directly(직접적으로)가 정답. direct(형용사/동사), direction(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0879",
+    "part": 5,
+    "type": "RC",
+    "question": "The budget proposal was rejected because the costs were deemed _______.",
+    "options": [
+      "excessive",
+      "exceeding",
+      "exceedingly",
+      "excess"
+    ],
+    "answer": 0,
+    "explanation": "be deemed 뒤 보어로 형용사 excessive(과도한)가 정답. excess는 명사, exceeding/exceedingly는 의미·형태상 보어 자리에 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0880",
+    "part": 5,
+    "type": "RC",
+    "question": "We need to find a more _______ solution to reduce operating expenses.",
+    "options": [
+      "economical",
+      "economic",
+      "economics",
+      "economy"
+    ],
+    "answer": 0,
+    "explanation": "혼동 형용사. economical은 '경제적인/절약하는', economic은 '경제의(거시 경제 관련)'. 비용 절감을 위한 '돈을 아끼는' 해결책이므로 economical이 정답.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0881",
+    "part": 5,
+    "type": "RC",
+    "question": "The keynote speaker delivered a _______ presentation that captivated the audience.",
+    "options": [
+      "compulsion",
+      "compelling",
+      "compel",
+      "compelled"
+    ],
+    "answer": 1,
+    "explanation": "명사 presentation을 수식하는 형용사 compelling(흥미로운/설득력 있는)이 정답이며 'compelling presentation'은 빈출 collocation. compel(동사), compulsion(명사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0882",
+    "part": 5,
+    "type": "RC",
+    "question": "All machines should be inspected _______ to prevent unexpected breakdowns.",
+    "options": [
+      "regulars",
+      "regularly",
+      "regularity",
+      "regular"
+    ],
+    "answer": 1,
+    "explanation": "동사 be inspected를 수식하는 부사 regularly(정기적으로)가 정답. regular(형용사), regularity(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0883",
+    "part": 5,
+    "type": "RC",
+    "question": "The investment carries a _______ degree of risk, so caution is advised.",
+    "options": [
+      "tall",
+      "wide",
+      "high",
+      "large"
+    ],
+    "answer": 2,
+    "explanation": "'높은 위험도'는 a high degree of risk. degree와 어울리는 형용사는 high이며, tall/large/wide는 degree of risk와 collocation을 이루지 못한다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0884",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will _______ the proposal at its next meeting.",
+    "options": [
+      "preview",
+      "viewer",
+      "review",
+      "viewing"
+    ],
+    "answer": 2,
+    "explanation": "'제안서를 검토하다'는 review the proposal. review는 '검토/재검토', preview는 '미리 보기'로 다르며, viewer/viewing은 명사로 동사 자리에 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0885",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel staff were extremely _______ to the needs of their guests.",
+    "options": [
+      "attentive",
+      "attention",
+      "attendant",
+      "attended"
+    ],
+    "answer": 0,
+    "explanation": "'~에 세심한'은 be attentive to. attentive는 '세심한/주의 깊은', attendant는 '안내원'(명사)으로 다르다. attention(명사)도 보어 자리에 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0886",
+    "part": 5,
+    "type": "RC",
+    "question": "The deadline is approaching; _______, we must finalize the design today.",
+    "options": [
+      "however",
+      "nevertheless",
+      "therefore",
+      "instead"
+    ],
+    "answer": 2,
+    "explanation": "마감이 다가온다는 원인에 따른 결과·결론('따라서 오늘 마무리해야 한다')을 잇는 접속부사 therefore가 정답. however/nevertheless(역접), instead(대신에)는 부적합.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0887",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions must be followed _______; otherwise, the warranty will be void.",
+    "options": [
+      "precise",
+      "precision",
+      "precisely",
+      "preciseness"
+    ],
+    "answer": 2,
+    "explanation": "동사 be followed를 수식하는 부사 precisely(정확하게)가 정답. precise(형용사), precision(명사)는 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0888",
+    "part": 5,
+    "type": "RC",
+    "question": "The company has a _______ reputation for delivering high-quality products.",
+    "options": [
+      "rigid",
+      "solid",
+      "tough",
+      "stiff"
+    ],
+    "answer": 1,
+    "explanation": "'탄탄한 명성'은 a solid reputation. solid는 '확고한/탄탄한'으로 reputation과 어울리며, stiff/tough/rigid는 '뻣뻣한/엄격한' 의미로 reputation과 collocation을 이루지 못한다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0889",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers may return defective items _______ 30 days of purchase.",
+    "options": [
+      "during",
+      "within",
+      "since",
+      "while"
+    ],
+    "answer": 1,
+    "explanation": "'~이내에'는 within 30 days. during은 '~동안(특정 기간 내내)', since는 완료 시제와, while은 접속사로 명사구 앞에 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0890",
+    "part": 5,
+    "type": "RC",
+    "question": "The new employee showed a _______ willingness to learn and take on challenges.",
+    "options": [
+      "genius",
+      "generous",
+      "genuine",
+      "general"
+    ],
+    "answer": 2,
+    "explanation": "'진정한 의지'는 a genuine willingness. genuine은 '진정한', genius는 '천재'(명사), general은 '일반적인', generous는 '관대한'으로 의미가 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0891",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment will arrive _______, barring any unforeseen delays.",
+    "options": [
+      "shortness",
+      "shorten",
+      "short",
+      "shortly"
+    ],
+    "answer": 3,
+    "explanation": "동사 arrive를 수식하는 부사 shortly(곧)가 정답. short는 형용사/부사지만 '곧'의 의미가 아니며, shortness(명사)/shorten(동사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0892",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager made a _______ decision to postpone the product launch.",
+    "options": [
+      "wisely",
+      "wisdom",
+      "wise",
+      "wiser"
+    ],
+    "answer": 2,
+    "explanation": "명사 decision을 수식하는 형용사 wise(현명한)가 정답. wisdom(명사), wisely(부사)는 명사 수식 불가, wiser는 비교급으로 a 뒤 단독 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0893",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier failed to _______ the goods on the agreed date.",
+    "options": [
+      "delivered",
+      "delivery",
+      "deliverable",
+      "deliver"
+    ],
+    "answer": 3,
+    "explanation": "to 뒤 동사원형 deliver(배송하다)가 필요. delivery(명사), delivered(과거/분사), deliverable(형용사)은 부정사 자리에 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0894",
+    "part": 5,
+    "type": "RC",
+    "question": "The board approved the expansion plan _______ after a lengthy discussion.",
+    "options": [
+      "unanimity",
+      "unanimously",
+      "unanimous",
+      "unaniment"
+    ],
+    "answer": 1,
+    "explanation": "동사 approved를 수식하는 부사 unanimously(만장일치로)가 정답. unanimous(형용사), unanimity(명사)는 동사 수식 불가, unaniment는 존재하지 않는 단어.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0895",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm provides _______ training to ensure employees stay up to date.",
+    "options": [
+      "ongoing",
+      "outdated",
+      "outstanding",
+      "outgoing"
+    ],
+    "answer": 0,
+    "explanation": "'지속적인 교육'은 ongoing training. ongoing은 '진행 중인/지속적인', outgoing은 '외향적인/나가는', outstanding은 '뛰어난', outdated는 '구식의'로 의미가 다르다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0896",
+    "part": 5,
+    "type": "RC",
+    "question": "The candidate's experience makes her _______ qualified for the management role.",
+    "options": [
+      "heighten",
+      "height",
+      "highly",
+      "high"
+    ],
+    "answer": 2,
+    "explanation": "형용사 qualified를 수식하는 부사 highly(매우)가 정답이며 'highly qualified'는 빈출 collocation. high는 부사로 쓰일 때 물리적 높이를, height(명사)/heighten(동사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0897",
+    "part": 5,
+    "type": "RC",
+    "question": "Please review the contract _______ before signing it.",
+    "options": [
+      "thoroughness",
+      "through",
+      "thorough",
+      "thoroughly"
+    ],
+    "answer": 3,
+    "explanation": "동사 review를 수식하는 부사 thoroughly(철저하게)가 정답. thorough(형용사), thoroughness(명사), through(전치사/부사)는 의미·형태상 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0898",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's profits have grown _______ over the past five years.",
+    "options": [
+      "steadily",
+      "steadied",
+      "steadiness",
+      "steady"
+    ],
+    "answer": 0,
+    "explanation": "동사 have grown을 수식하는 부사 steadily(꾸준히)가 정답. steady(형용사), steadiness(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0899",
+    "part": 5,
+    "type": "RC",
+    "question": "The two departments must work in close _______ to complete the project.",
+    "options": [
+      "collaboration",
+      "collaborative",
+      "collaboratively",
+      "collaborate"
+    ],
+    "answer": 0,
+    "explanation": "'긴밀한 협력 속에서'는 in close collaboration. 형용사 close 뒤 명사 collaboration이 필요. collaborate(동사), collaborative(형용사), collaboratively(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0900",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy aims to _______ waste throughout the manufacturing process.",
+    "options": [
+      "minimize",
+      "minimum",
+      "minimal",
+      "minimally"
+    ],
+    "answer": 0,
+    "explanation": "to 뒤 동사원형 minimize(최소화하다)가 필요하며 'minimize waste'는 빈출 collocation. minimum(명사/형용사), minimal(형용사), minimally(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0901",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar was _______ informative, covering a wide range of topics.",
+    "options": [
+      "highly",
+      "highness",
+      "heighten",
+      "high"
+    ],
+    "answer": 0,
+    "explanation": "형용사 informative를 수식하는 부사 highly(매우)가 정답. high는 정도 부사로 형용사 앞에 쓰지 않으며, highness/heighten은 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0902",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager will _______ a meeting to discuss the quarterly results.",
+    "options": [
+      "conceive",
+      "converge",
+      "convene",
+      "convince"
+    ],
+    "answer": 2,
+    "explanation": "'회의를 소집하다'는 convene a meeting. convene은 '소집하다', convince는 '설득하다', conceive는 '구상하다', converge는 '모이다(자동사)'로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0903",
+    "part": 5,
+    "type": "RC",
+    "question": "The product received _______ reviews from both critics and customers.",
+    "options": [
+      "favorable",
+      "favor",
+      "favoring",
+      "favorite"
+    ],
+    "answer": 0,
+    "explanation": "명사 reviews를 수식하는 형용사 favorable(호의적인)이 정답이며 'favorable reviews'는 빈출 collocation. favorite는 '가장 좋아하는', favor(명사/동사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0904",
+    "part": 5,
+    "type": "RC",
+    "question": "All payments must be made _______ to the company's accounting department.",
+    "options": [
+      "directly",
+      "direct",
+      "direction",
+      "directing"
+    ],
+    "answer": 0,
+    "explanation": "동사 be made를 수식하는 부사 directly(직접)가 정답. direct(형용사/동사), direction(명사)은 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0905",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiation reached a _______ when neither side would compromise.",
+    "options": [
+      "standstill",
+      "standpoint",
+      "standard",
+      "standby"
+    ],
+    "answer": 0,
+    "explanation": "'교착 상태에 이르다'는 reach a standstill. standstill은 '정지/교착', standpoint는 '관점', standby는 '대기', standard는 '기준'으로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0906",
+    "part": 5,
+    "type": "RC",
+    "question": "The company has implemented _______ measures to protect customer data.",
+    "options": [
+      "stricter",
+      "strictness",
+      "strict",
+      "strictly"
+    ],
+    "answer": 2,
+    "explanation": "명사 measures를 수식하는 형용사 strict(엄격한)가 정답. strictly(부사), strictness(명사)는 수식 불가, stricter는 비교급으로 단독 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0907",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation will _______ the building's energy efficiency considerably.",
+    "options": [
+      "endure",
+      "enhance",
+      "enable",
+      "ensure"
+    ],
+    "answer": 1,
+    "explanation": "'효율을 향상시키다'는 enhance efficiency. enhance는 '높이다/향상시키다', ensure는 '보장하다', enable은 '가능하게 하다', endure는 '견디다'로 다르다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0908",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicant demonstrated _______ communication skills during the interview.",
+    "options": [
+      "excellently",
+      "excel",
+      "excellent",
+      "excellence"
+    ],
+    "answer": 2,
+    "explanation": "명사 skills를 수식하는 형용사 excellent(뛰어난)가 정답. excel(동사), excellence(명사), excellently(부사)는 명사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0909",
+    "part": 5,
+    "type": "RC",
+    "question": "The new system allows employees to access files _______ from any location.",
+    "options": [
+      "remotely",
+      "remoter",
+      "remote",
+      "remoteness"
+    ],
+    "answer": 0,
+    "explanation": "동사 access를 수식하는 부사 remotely(원격으로)가 정답. remote(형용사), remoteness(명사)는 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0910",
+    "part": 5,
+    "type": "RC",
+    "question": "The contract clearly _______ the responsibilities of each party.",
+    "options": [
+      "outlasts",
+      "overlooks",
+      "outlooks",
+      "outlines"
+    ],
+    "answer": 3,
+    "explanation": "'책임을 개략적으로 설명하다'는 outline the responsibilities. outline은 '개요를 서술하다', outlook은 '전망'(명사), overlook은 '간과하다', outlast는 '오래가다'로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0911",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales increased _______ after the company launched its advertising campaign.",
+    "options": [
+      "dramatize",
+      "dramatically",
+      "dramatic",
+      "drama"
+    ],
+    "answer": 1,
+    "explanation": "동사 increased를 수식하는 부사 dramatically(극적으로)가 정답. dramatic(형용사), drama(명사), dramatize(동사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0912",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was _______ rejected by the board of directors.",
+    "options": [
+      "ultimately",
+      "ultimatum",
+      "ultimate",
+      "ultimateness"
+    ],
+    "answer": 0,
+    "explanation": "동사 was rejected를 수식하는 부사 ultimately(궁극적으로/결국)가 정답. ultimate(형용사), ultimatum(명사)은 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0913",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees are encouraged to take _______ of the company's wellness programs.",
+    "options": [
+      "advantageous",
+      "advancement",
+      "advance",
+      "advantage"
+    ],
+    "answer": 3,
+    "explanation": "'~을 이용하다'는 take advantage of. 명사 advantage가 필요한 관용표현. advantageous(형용사), advance/advancement(명사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0914",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor provided _______ feedback to help the team improve.",
+    "options": [
+      "construction",
+      "constructive",
+      "constructively",
+      "constructed"
+    ],
+    "answer": 1,
+    "explanation": "명사 feedback을 수식하는 형용사 constructive(건설적인)가 정답이며 'constructive feedback'은 빈출 collocation. construction(명사), constructively(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0915",
+    "part": 5,
+    "type": "RC",
+    "question": "The store remains open on holidays; _______, it closes earlier than usual.",
+    "options": [
+      "however",
+      "therefore",
+      "likewise",
+      "moreover"
+    ],
+    "answer": 0,
+    "explanation": "'영업은 하지만 일찍 닫는다'라는 부분적 상반 정보를 잇는 접속부사 however(그러나)가 정답. therefore(결과), moreover(추가), likewise(마찬가지로)는 부적합.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0916",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO praised the team for their _______ effort on the project.",
+    "options": [
+      "collectively",
+      "collective",
+      "collected",
+      "collection"
+    ],
+    "answer": 1,
+    "explanation": "명사 effort를 수식하는 형용사 collective(공동의)가 정답이며 'collective effort'는 빈출 collocation. collection(명사), collectively(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0917",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor will examine the financial records _______ next week.",
+    "options": [
+      "throughout",
+      "thorough",
+      "thoroughly",
+      "thoroughness"
+    ],
+    "answer": 2,
+    "explanation": "동사 examine을 수식하는 부사 thoroughly(철저하게)가 정답. thorough(형용사), thoroughness(명사), throughout(전치사)은 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0918",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's success is largely _______ to its innovative marketing strategies.",
+    "options": [
+      "attributable",
+      "attribute",
+      "attribution",
+      "attributed"
+    ],
+    "answer": 0,
+    "explanation": "be 동사 뒤 보어로 형용사 attributable(~에 기인하는)이 필요하며 'be attributable to'가 정답 collocation. attribute(동사/명사), attribution(명사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0919",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software update significantly improved system _______.",
+    "options": [
+      "performance",
+      "perform",
+      "performing",
+      "performer"
+    ],
+    "answer": 0,
+    "explanation": "동사 improved의 목적어이자 system을 수식받는 명사 performance(성능)가 정답. 'system performance'는 빈출 collocation. perform(동사), performer(사람 명사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0920",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions are _______ enough for anyone to understand without assistance.",
+    "options": [
+      "simple",
+      "simplify",
+      "simplicity",
+      "simply"
+    ],
+    "answer": 0,
+    "explanation": "be 동사 뒤 보어 + enough 구조에서 형용사 simple(간단한)이 정답. simply(부사), simplicity(명사), simplify(동사)는 보어 자리 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0921",
+    "part": 5,
+    "type": "RC",
+    "question": "The new hire adapted to the company culture _______ quickly.",
+    "options": [
+      "remarkably",
+      "remark",
+      "remarkable",
+      "remarked"
+    ],
+    "answer": 0,
+    "explanation": "부사 quickly를 수식하는 부사 remarkably(놀랍도록)가 정답. remarkable(형용사), remark(명사/동사)는 부사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0922",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory operates at full _______ during the holiday season.",
+    "options": [
+      "capably",
+      "capacity",
+      "capable",
+      "capacious"
+    ],
+    "answer": 1,
+    "explanation": "'최대 가동률로'는 at full capacity. 명사 capacity가 필요한 관용표현. capable(형용사), capably(부사), capacious(형용사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0923",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation was informative; _______, it was a bit too long.",
+    "options": [
+      "nevertheless",
+      "therefore",
+      "thus",
+      "accordingly"
+    ],
+    "answer": 0,
+    "explanation": "'유익했지만 너무 길었다'라는 양보·역접을 잇는 접속부사 nevertheless(그럼에도 불구하고)가 정답. therefore/thus/accordingly는 모두 결과를 나타내 부적합.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0924",
+    "part": 5,
+    "type": "RC",
+    "question": "The company is seeking a _______ candidate with strong leadership skills.",
+    "options": [
+      "qualify",
+      "qualified",
+      "qualifying",
+      "qualification"
+    ],
+    "answer": 1,
+    "explanation": "명사 candidate를 수식하는 형용사 qualified(자격을 갖춘)가 정답이며 'qualified candidate'는 빈출 collocation. qualify(동사), qualification(명사)은 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0925",
+    "part": 5,
+    "type": "RC",
+    "question": "The new branch is expected to _______ significantly to the company's revenue.",
+    "options": [
+      "distribute",
+      "contribute",
+      "attribute",
+      "substitute"
+    ],
+    "answer": 1,
+    "explanation": "'~에 기여하다'는 contribute to. contribute는 '기여하다', attribute는 '~의 탓으로 돌리다', distribute는 '분배하다', substitute는 '대체하다'로 다르다.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0926",
+    "part": 5,
+    "type": "RC",
+    "question": "The warranty does not cover damage caused by _______ use of the product.",
+    "options": [
+      "improper",
+      "impartial",
+      "impolite",
+      "improbable"
+    ],
+    "answer": 0,
+    "explanation": "'부적절한 사용'은 improper use. improper는 '부적절한', improbable은 '있을 법하지 않은', impolite은 '무례한', impartial은 '공정한'으로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0927",
+    "part": 5,
+    "type": "RC",
+    "question": "The company conducts employee performance reviews on an annual _______.",
+    "options": [
+      "basics",
+      "based",
+      "basis",
+      "base"
+    ],
+    "answer": 2,
+    "explanation": "'연간 단위로'는 on an annual basis. 명사 basis가 필요한 관용표현. base(명사/동사), based(분사), basics(명사 복수)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0928",
+    "part": 5,
+    "type": "RC",
+    "question": "The director's _______ to detail ensured the event ran smoothly.",
+    "options": [
+      "attentive",
+      "attentively",
+      "attention",
+      "attend"
+    ],
+    "answer": 2,
+    "explanation": "'세부 사항에 대한 주의'는 attention to detail. 명사 attention이 필요한 관용표현. attentive(형용사), attend(동사), attentively(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0929",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales were disappointing this quarter; _______, the company plans to revise its strategy.",
+    "options": [
+      "accordingly",
+      "conversely",
+      "otherwise",
+      "however"
+    ],
+    "answer": 0,
+    "explanation": "'실망스러웠으므로 그에 따라 전략을 수정한다'는 결과를 잇는 접속부사 accordingly(따라서/그에 맞춰)가 정답. however/conversely(역접), otherwise(그렇지 않으면)는 부적합.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0930",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager asked the team to be more _______ in identifying potential problems.",
+    "options": [
+      "reactive",
+      "inactive",
+      "proactive",
+      "interactive"
+    ],
+    "answer": 2,
+    "explanation": "'선제적인'은 proactive. proactive는 '능동적/선제적', reactive는 '반응적', inactive는 '비활동적', interactive는 '상호작용하는'으로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0931",
+    "part": 5,
+    "type": "RC",
+    "question": "The shipment arrived _______ damaged due to poor packaging.",
+    "options": [
+      "partiality",
+      "partially",
+      "partial",
+      "part"
+    ],
+    "answer": 1,
+    "explanation": "형용사 damaged를 수식하는 부사 partially(부분적으로)가 정답. partial(형용사), part(명사), partiality(명사)는 형용사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0932",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy was met with _______ resistance from employees.",
+    "options": [
+      "considerable",
+      "consideration",
+      "considerate",
+      "considering"
+    ],
+    "answer": 0,
+    "explanation": "혼동 형용사. considerable은 '상당한', considerate는 '사려 깊은'. 저항이 '상당했다'는 의미이므로 considerable resistance가 정답. consideration(명사), considering(분사/전치사)은 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0933",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm prides itself on its _______ commitment to customer satisfaction.",
+    "options": [
+      "unwilling",
+      "unaware",
+      "unwavering",
+      "unusual"
+    ],
+    "answer": 2,
+    "explanation": "'확고한 헌신'은 unwavering commitment. unwavering은 '흔들림 없는/확고한', unaware는 '인식하지 못하는', unusual은 '흔치 않은', unwilling은 '꺼리는'으로 다르다.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0934",
+    "part": 5,
+    "type": "RC",
+    "question": "The technician resolved the issue _______, minimizing downtime for the team.",
+    "options": [
+      "promptly",
+      "prompting",
+      "prompt",
+      "promptness"
+    ],
+    "answer": 0,
+    "explanation": "동사 resolved를 수식하는 부사 promptly(신속히)가 정답. prompt(형용사/동사), promptness(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0935",
+    "part": 5,
+    "type": "RC",
+    "question": "The company offers _______ rates to customers who sign long-term contracts.",
+    "options": [
+      "preferential",
+      "preferably",
+      "preferable",
+      "preference"
+    ],
+    "answer": 0,
+    "explanation": "명사 rates를 수식하는 형용사 preferential(우대의)이 정답이며 'preferential rates'는 빈출 collocation. preferable는 '더 나은', preference(명사), preferably(부사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0936",
+    "part": 5,
+    "type": "RC",
+    "question": "The two proposals are similar; _______, the second offers better value.",
+    "options": [
+      "however",
+      "consequently",
+      "moreover",
+      "therefore"
+    ],
+    "answer": 0,
+    "explanation": "'비슷하지만 두 번째가 더 낫다'라는 역접을 잇는 접속부사 however(그러나)가 정답. therefore/consequently(결과), moreover(추가)는 부적합.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0937",
+    "part": 5,
+    "type": "RC",
+    "question": "The company achieved record profits despite the _______ economic conditions.",
+    "options": [
+      "challenging",
+      "challengingly",
+      "challenged",
+      "challenge"
+    ],
+    "answer": 0,
+    "explanation": "명사 conditions를 수식하는 형용사 challenging(힘든/어려운)이 정답. challenge(명사/동사), challenged(분사)는 의미·형태상 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0938",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager delegated the task to a _______ team member.",
+    "options": [
+      "capability",
+      "capably",
+      "capable",
+      "capacity"
+    ],
+    "answer": 2,
+    "explanation": "명사 team member를 수식하는 형용사 capable(유능한)이 정답. capability/capacity(명사), capably(부사)는 명사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0939",
+    "part": 5,
+    "type": "RC",
+    "question": "The new software offers _______ features that competitors lack.",
+    "options": [
+      "innovation",
+      "innovatively",
+      "innovate",
+      "innovative"
+    ],
+    "answer": 3,
+    "explanation": "명사 features를 수식하는 형용사 innovative(혁신적인)가 정답이며 'innovative features'는 빈출 collocation. innovate(동사), innovation(명사), innovatively(부사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0940",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal must be submitted _______ to be considered for funding.",
+    "options": [
+      "prompt",
+      "promptly",
+      "promptness",
+      "prompts"
+    ],
+    "answer": 1,
+    "explanation": "동사 be submitted를 수식하는 부사 promptly(즉시)가 정답. prompt(형용사/동사), promptness(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0941",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's policies are _______ reviewed to ensure compliance with regulations.",
+    "options": [
+      "period",
+      "periodic",
+      "periodically",
+      "periodical"
+    ],
+    "answer": 2,
+    "explanation": "동사 are reviewed를 수식하는 부사 periodically(주기적으로)가 정답. periodic/periodical(형용사), period(명사)는 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0942",
+    "part": 5,
+    "type": "RC",
+    "question": "The agreement remains _______ until either party decides to terminate it.",
+    "options": [
+      "valid",
+      "validly",
+      "validate",
+      "validity"
+    ],
+    "answer": 0,
+    "explanation": "remain 뒤 보어로 형용사 valid(유효한)가 정답. validate(동사), validity(명사), validly(부사)는 보어 자리 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0943",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor's _______ explanation helped clear up the confusion.",
+    "options": [
+      "thorough",
+      "through",
+      "thoroughly",
+      "thoroughness"
+    ],
+    "answer": 0,
+    "explanation": "명사 explanation을 수식하는 형용사 thorough(철저한)가 정답. thoroughly(부사), thoroughness(명사), through(전치사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0944",
+    "part": 5,
+    "type": "RC",
+    "question": "You should back up your files regularly; _______, you risk losing important data.",
+    "options": [
+      "therefore",
+      "otherwise",
+      "besides",
+      "moreover"
+    ],
+    "answer": 1,
+    "explanation": "'그렇게 하지 않으면 데이터를 잃을 위험이 있다'는 조건적 결과를 잇는 접속부사 otherwise(그렇지 않으면)가 정답. therefore/moreover/besides는 부적합.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0945",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference attracted a _______ number of international participants.",
+    "options": [
+      "substance",
+      "substantially",
+      "substantial",
+      "substantive"
+    ],
+    "answer": 2,
+    "explanation": "명사 number를 수식하는 형용사 substantial(상당한)이 정답이며 'a substantial number'는 빈출 collocation. substantive는 '실질적인', substance(명사), substantially(부사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0946",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager has a _______ approach to solving problems.",
+    "options": [
+      "system",
+      "systematic",
+      "systematize",
+      "systematically"
+    ],
+    "answer": 1,
+    "explanation": "명사 approach를 수식하는 형용사 systematic(체계적인)이 정답이며 'systematic approach'는 빈출 collocation. systematize(동사), system(명사), systematically(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0947",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer expressed _______ satisfaction with the quality of the service.",
+    "options": [
+      "completion",
+      "completed",
+      "complete",
+      "completely"
+    ],
+    "answer": 2,
+    "explanation": "명사 satisfaction을 수식하는 형용사 complete(완전한)가 정답이며 'complete satisfaction'은 자연스러운 collocation. completely(부사), completion(명사)은 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0948",
+    "part": 5,
+    "type": "RC",
+    "question": "The project was completed _______ ahead of the original schedule.",
+    "options": [
+      "best",
+      "better",
+      "good",
+      "well"
+    ],
+    "answer": 3,
+    "explanation": "전치사구 ahead of를 강조 수식하는 부사 well(훨씬)이 정답으로 'well ahead of schedule'은 빈출 collocation. good(형용사), best/better는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0949",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulation imposes _______ penalties on companies that violate safety codes.",
+    "options": [
+      "severely",
+      "severe",
+      "severance",
+      "several"
+    ],
+    "answer": 1,
+    "explanation": "명사 penalties를 수식하는 형용사 severe(엄중한)가 정답이며 'severe penalties'는 빈출 collocation. several(몇몇의), severance(명사), severely(부사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0950",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing campaign was a _______ success, exceeding all sales targets.",
+    "options": [
+      "resonant",
+      "resound",
+      "resounded",
+      "resounding"
+    ],
+    "answer": 3,
+    "explanation": "'대성공'은 a resounding success. resounding은 '대단한/완전한', resonant는 '울림이 있는', resound(동사)는 부적절. 'resounding success'는 빈출 collocation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0951",
+    "part": 5,
+    "type": "RC",
+    "question": "The employees were _______ informed of the changes to the schedule.",
+    "options": [
+      "promptly",
+      "promptness",
+      "prompting",
+      "prompt"
+    ],
+    "answer": 0,
+    "explanation": "동사 were informed를 수식하는 부사 promptly(즉시)가 정답. prompt(형용사/동사), promptness(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0952",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO outlined an _______ plan to expand into overseas markets.",
+    "options": [
+      "ambitiously",
+      "ambient",
+      "ambitious",
+      "ambition"
+    ],
+    "answer": 2,
+    "explanation": "명사 plan을 수식하는 형용사 ambitious(야심 찬)가 정답이며 'ambitious plan'은 빈출 collocation. ambition(명사), ambitiously(부사), ambient(형용사, 주변의)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0953",
+    "part": 5,
+    "type": "RC",
+    "question": "The report highlights the company's _______ growth over the past decade.",
+    "options": [
+      "impress",
+      "impressively",
+      "impressive",
+      "impression"
+    ],
+    "answer": 2,
+    "explanation": "명사 growth를 수식하는 형용사 impressive(인상적인)가 정답이며 'impressive growth'는 빈출 collocation. impress(동사), impression(명사), impressively(부사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0954",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory must comply _______ all environmental regulations.",
+    "options": [
+      "with",
+      "for",
+      "to",
+      "by"
+    ],
+    "answer": 0,
+    "explanation": "'~을 준수하다'는 comply with. comply는 전치사 with와 결합하는 빈출 collocation. to/by/for는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0955",
+    "part": 5,
+    "type": "RC",
+    "question": "The two managers have _______ different approaches to leadership.",
+    "options": [
+      "vastly",
+      "vast",
+      "vastness",
+      "vaster"
+    ],
+    "answer": 0,
+    "explanation": "형용사 different를 수식하는 부사 vastly(엄청나게)가 정답이며 'vastly different'는 빈출 collocation. vast(형용사), vastness(명사)는 형용사 수식 불가.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0956",
+    "part": 5,
+    "type": "RC",
+    "question": "The company is known for its _______ to ethical business practices.",
+    "options": [
+      "adherent",
+      "adherence",
+      "adhesive",
+      "adhere"
+    ],
+    "answer": 1,
+    "explanation": "전치사 to 앞 명사 adherence(고수/준수)가 정답이며 'adherence to'는 빈출 collocation. adhere(동사), adherent(추종자), adhesive(접착제)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0957",
+    "part": 5,
+    "type": "RC",
+    "question": "The new design is both functional and _______ pleasing.",
+    "options": [
+      "aesthetic",
+      "aesthete",
+      "aesthetically",
+      "aesthetics"
+    ],
+    "answer": 2,
+    "explanation": "형용사 pleasing을 수식하는 부사 aesthetically(미적으로)가 정답이며 'aesthetically pleasing'은 빈출 collocation. aesthetic(형용사), aesthetics(명사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0958",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier guaranteed _______ delivery of all ordered items.",
+    "options": [
+      "timed",
+      "timely",
+      "time",
+      "timing"
+    ],
+    "answer": 1,
+    "explanation": "명사 delivery를 수식하는 형용사 timely(시기적절한)가 정답이며 'timely delivery'는 빈출 collocation. time/timing(명사), timed(분사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0959",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee carefully _______ each application before making a decision.",
+    "options": [
+      "evaluation",
+      "evaluative",
+      "evaluating",
+      "evaluated"
+    ],
+    "answer": 3,
+    "explanation": "문장의 동사 자리이므로 과거동사 evaluated(평가했다)가 정답. evaluation(명사), evaluative(형용사), evaluating(분사)은 본동사 자리 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0960",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions were _______ written, leaving no room for misunderstanding.",
+    "options": [
+      "clearness",
+      "clearly",
+      "clarity",
+      "clear"
+    ],
+    "answer": 1,
+    "explanation": "동사 were written을 수식하는 부사 clearly(명확하게)가 정답. clear(형용사), clearness/clarity(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0961",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm provides services that are _______ to the needs of each client.",
+    "options": [
+      "tailoring",
+      "tailor",
+      "tailors",
+      "tailored"
+    ],
+    "answer": 3,
+    "explanation": "be 동사 뒤 보어로 분사형 형용사 tailored(맞춤화된)가 정답이며 'tailored to the needs'는 빈출 collocation. tailor(명사/동사), tailoring/tailors는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0962",
+    "part": 5,
+    "type": "RC",
+    "question": "The board members reached a _______ on the merger after extensive debate.",
+    "options": [
+      "consent",
+      "consensus",
+      "consensual",
+      "consensually"
+    ],
+    "answer": 1,
+    "explanation": "'합의에 이르다'는 reach a consensus. 명사 consensus가 필요한 collocation. consent(동의), consensual(형용사), consensually(부사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0963",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation project was completed _______ within the allocated budget.",
+    "options": [
+      "comfortable",
+      "comforting",
+      "comfort",
+      "comfortably"
+    ],
+    "answer": 3,
+    "explanation": "전치사구 within the budget을 수식하는 부사 comfortably(여유 있게)가 정답이며 'comfortably within budget'은 자연스러운 collocation. comfortable(형용사), comfort(명사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0964",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager emphasized the need for _______ communication among departments.",
+    "options": [
+      "effect",
+      "effectively",
+      "effective",
+      "effectiveness"
+    ],
+    "answer": 2,
+    "explanation": "명사 communication을 수식하는 형용사 effective(효과적인)가 정답이며 'effective communication'은 빈출 collocation. effect(명사), effectively(부사), effectiveness(명사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0965",
+    "part": 5,
+    "type": "RC",
+    "question": "The customer requested a _______ refund for the defective item.",
+    "options": [
+      "fullness",
+      "full",
+      "fully",
+      "fill"
+    ],
+    "answer": 1,
+    "explanation": "명사 refund를 수식하는 형용사 full(전액의)이 정답이며 'full refund'는 빈출 collocation. fully(부사), fullness(명사), fill(동사)은 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0966",
+    "part": 5,
+    "type": "RC",
+    "question": "The negotiations were _______ suspended due to disagreements over pricing.",
+    "options": [
+      "temporary",
+      "temporariness",
+      "temporal",
+      "temporarily"
+    ],
+    "answer": 3,
+    "explanation": "동사 were suspended를 수식하는 부사 temporarily(일시적으로)가 정답. temporary/temporal(형용사), temporariness(명사)는 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0967",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy applies _______ to all employees regardless of position.",
+    "options": [
+      "equal",
+      "equalize",
+      "equality",
+      "equally"
+    ],
+    "answer": 3,
+    "explanation": "동사 applies를 수식하는 부사 equally(동등하게)가 정답. equal(형용사), equality(명사), equalize(동사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0968",
+    "part": 5,
+    "type": "RC",
+    "question": "The company's profits remained _______ despite the economic downturn.",
+    "options": [
+      "stabilize",
+      "stable",
+      "stably",
+      "stability"
+    ],
+    "answer": 1,
+    "explanation": "remain 뒤 보어로 형용사 stable(안정적인)이 정답. stably(부사), stability(명사), stabilize(동사)는 보어 자리 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0969",
+    "part": 5,
+    "type": "RC",
+    "question": "The supplier offers a wide _______ of products at competitive prices.",
+    "options": [
+      "selectively",
+      "selective",
+      "select",
+      "selection"
+    ],
+    "answer": 3,
+    "explanation": "형용사 wide 뒤 명사 selection(선택의 폭)이 정답이며 'a wide selection of'는 빈출 collocation. select(동사/형용사), selective(형용사), selectively(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0970",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar covered a _______ range of topics related to digital marketing.",
+    "options": [
+      "broadly",
+      "breadth",
+      "broad",
+      "broaden"
+    ],
+    "answer": 2,
+    "explanation": "명사 range를 수식하는 형용사 broad(넓은)가 정답이며 'a broad range of'는 빈출 collocation. broadly(부사), broaden(동사), breadth(명사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0971",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager was _______ received by the staff during her first week.",
+    "options": [
+      "warm",
+      "warmth",
+      "warmly",
+      "warming"
+    ],
+    "answer": 2,
+    "explanation": "동사 was received를 수식하는 부사 warmly(따뜻하게)가 정답이며 'warmly received'는 빈출 collocation. warm(형용사), warmth(명사)는 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0972",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees should report any safety concerns to their supervisor _______.",
+    "options": [
+      "immediacy",
+      "immediate",
+      "immediately",
+      "immediateness"
+    ],
+    "answer": 2,
+    "explanation": "동사 report를 수식하는 부사 immediately(즉시)가 정답. immediate(형용사), immediacy(명사)는 동사 수식 불가.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0973",
+    "part": 5,
+    "type": "RC",
+    "question": "The contract was signed _______ representatives from both companies.",
+    "options": [
+      "to",
+      "with",
+      "from",
+      "by"
+    ],
+    "answer": 3,
+    "explanation": "수동태에서 행위자를 나타내는 전치사 by(~에 의해)가 정답. with/from/to는 행위자 표시에 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0974",
+    "part": 5,
+    "type": "RC",
+    "question": "The training session was _______ to accommodate the schedules of all participants.",
+    "options": [
+      "scheduler",
+      "rescheduled",
+      "scheduling",
+      "reschedule"
+    ],
+    "answer": 1,
+    "explanation": "be 동사 뒤 수동태 분사 rescheduled(일정이 변경된)가 정답. reschedule(동사원형), scheduling(분사), scheduler(명사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0975",
+    "part": 5,
+    "type": "RC",
+    "question": "The new device is _______ to use, even for those unfamiliar with technology.",
+    "options": [
+      "intuit",
+      "intuitively",
+      "intuitive",
+      "intuition"
+    ],
+    "answer": 2,
+    "explanation": "be 동사 뒤 보어로 형용사 intuitive(직관적인)가 정답이며 'intuitive to use'는 자연스러운 표현. intuition(명사), intuitively(부사), intuit(동사)는 부적절.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0976",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager's decision proved to be _______ for the company's long-term growth.",
+    "options": [
+      "benefit",
+      "beneficially",
+      "beneficial",
+      "beneficiary"
+    ],
+    "answer": 2,
+    "explanation": "prove to be 뒤 보어로 형용사 beneficial(유익한)이 정답. benefit(명사/동사), beneficially(부사), beneficiary(명사)는 보어 자리 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0977",
+    "part": 5,
+    "type": "RC",
+    "question": "The company strives to maintain the highest _______ of quality in its products.",
+    "options": [
+      "standardize",
+      "standards",
+      "standardized",
+      "standard"
+    ],
+    "answer": 1,
+    "explanation": "'최고 수준의 품질 기준'은 the highest standards of quality. 명사 standards가 정답. standardize(동사), standardized(분사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0978",
+    "part": 5,
+    "type": "RC",
+    "question": "The new app received _______ feedback from users worldwide.",
+    "options": [
+      "positive",
+      "positively",
+      "position",
+      "positivity"
+    ],
+    "answer": 0,
+    "explanation": "명사 feedback을 수식하는 형용사 positive(긍정적인)가 정답이며 'positive feedback'은 빈출 collocation. position(명사), positively(부사), positivity(명사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0979",
+    "part": 5,
+    "type": "RC",
+    "question": "The contract clearly _______ the terms of the partnership.",
+    "options": [
+      "specification",
+      "specifically",
+      "specifies",
+      "specific"
+    ],
+    "answer": 2,
+    "explanation": "문장의 동사 자리이므로 specifies(명시하다)가 정답. specific(형용사), specifically(부사), specification(명사)은 본동사 자리 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0980",
+    "part": 5,
+    "type": "RC",
+    "question": "The hotel offers a _______ of amenities to ensure a pleasant stay.",
+    "options": [
+      "various",
+      "variously",
+      "vary",
+      "variety"
+    ],
+    "answer": 3,
+    "explanation": "'다양한'은 a variety of. 명사 variety가 필요한 빈출 collocation. various(형용사), variously(부사), vary(동사)는 부적절.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0981",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager handled the crisis _______, earning the respect of her colleagues.",
+    "options": [
+      "skilled",
+      "skill",
+      "skillfully",
+      "skillful"
+    ],
+    "answer": 2,
+    "explanation": "동사 handled를 수식하는 부사 skillfully(능숙하게)가 정답. skillful/skilled(형용사), skill(명사)은 동사 수식 불가.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0982",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations are designed to promote _______ business practices.",
+    "options": [
+      "sustain",
+      "sustainable",
+      "sustainability",
+      "sustainably"
+    ],
+    "answer": 1,
+    "explanation": "명사 practices를 수식하는 형용사 sustainable(지속 가능한)이 정답이며 'sustainable business practices'는 빈출 collocation. sustain(동사), sustainability(명사), sustainably(부사)는 부적절.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0983",
+    "part": 5,
+    "type": "RC",
+    "question": "The new assembly line is _______ efficient than the one it replaced last year.",
+    "options": [
+      "much more",
+      "very more",
+      "so more",
+      "too more"
+    ],
+    "answer": 0,
+    "explanation": "비교급 more efficient를 강조할 때는 much, far, even, a lot, still 등을 쓰며 very, so, too는 비교급을 강조하지 못합니다. 따라서 much more가 정답입니다. [문법 포인트: 비교급 강조 - much/far/even + 비교급]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0984",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales in the second quarter were significantly _______ than those in the first quarter.",
+    "options": [
+      "high",
+      "highest",
+      "higher",
+      "highly"
+    ],
+    "answer": 2,
+    "explanation": "뒤에 than이 있으므로 비교급 higher가 정답입니다. high는 원급, highly는 부사(매우), highest는 최상급으로 than과 함께 쓸 수 없습니다. [문법 포인트: 비교급 - than 앞 비교급 형태]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0985",
+    "part": 5,
+    "type": "RC",
+    "question": "The downtown branch is the _______ profitable of all our retail locations.",
+    "options": [
+      "more",
+      "very",
+      "much",
+      "most"
+    ],
+    "answer": 3,
+    "explanation": "the와 함께 셋 이상 중 최고를 나타내며 of all our locations가 범위를 한정하므로 최상급 most가 정답입니다. more는 비교급, much/very는 최상급을 만들지 못합니다. [문법 포인트: 최상급 - the most + 형용사 + of/in]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0986",
+    "part": 5,
+    "type": "RC",
+    "question": "This year's annual report is nearly twice _______ long as last year's edition.",
+    "options": [
+      "as",
+      "than",
+      "more",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "as ~ as 동등비교 구문으로 twice as long as(두 배만큼 긴)가 됩니다. 배수 표현(twice, three times)은 as ~ as 앞에 옵니다. [문법 포인트: 원급 비교 - 배수사 + as + 원급 + as]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0987",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee chose the proposal that required the _______ amount of additional funding.",
+    "options": [
+      "lesser",
+      "least",
+      "fewer",
+      "less"
+    ],
+    "answer": 1,
+    "explanation": "the와 함께 '가장 적은'을 의미하는 최상급 least가 정답입니다. amount는 불가산 개념이므로 fewer는 부적절하고, less는 비교급, lesser는 한정적 용법으로 문맥에 맞지 않습니다. [문법 포인트: 최상급 - the least + 명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0988",
+    "part": 5,
+    "type": "RC",
+    "question": "The more customers we attract, _______ revenue our online store generates.",
+    "options": [
+      "the more",
+      "the most",
+      "more the",
+      "most the"
+    ],
+    "answer": 0,
+    "explanation": "the 비교급 ~, the 비교급 ~ 구문(~할수록 더 ~하다)으로 the more가 정답입니다. revenue를 수식하므로 the more revenue가 됩니다. [문법 포인트: the 비교급, the 비교급 상관 구문]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0989",
+    "part": 5,
+    "type": "RC",
+    "question": "Our updated logistics system delivers packages far _______ than the previous one.",
+    "options": [
+      "fastest",
+      "fast",
+      "fastly",
+      "faster"
+    ],
+    "answer": 3,
+    "explanation": "than이 있으므로 비교급이 필요하고, 강조 부사 far의 수식을 받습니다. 따라서 faster가 정답입니다. fast는 원급, fastest는 최상급, fastly는 존재하지 않는 형태입니다. [문법 포인트: 비교급 - far + 비교급 + than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0990",
+    "part": 5,
+    "type": "RC",
+    "question": "Of the three candidates, Ms. Reyes has the _______ experience in international marketing.",
+    "options": [
+      "most",
+      "much",
+      "more",
+      "many"
+    ],
+    "answer": 0,
+    "explanation": "Of the three candidates로 셋 이상의 범위가 주어졌고 the가 있으므로 최상급 most가 정답입니다. experience(불가산)를 한정하며 the most experience(가장 많은 경험)가 됩니다. [문법 포인트: 최상급 - the most + 불가산명사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0991",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovated lobby is _______ more spacious than visitors had expected.",
+    "options": [
+      "quite",
+      "too",
+      "even",
+      "very"
+    ],
+    "answer": 2,
+    "explanation": "비교급 more spacious를 강조하는 부사가 필요하므로 even이 정답입니다. very, too, quite는 원급은 강조할 수 있으나 비교급은 강조하지 못합니다. [문법 포인트: 비교급 강조 - even + 비교급]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0992",
+    "part": 5,
+    "type": "RC",
+    "question": "The second proposal was no less _______ than the first, so the board debated for hours.",
+    "options": [
+      "convincingly",
+      "convince",
+      "convinced",
+      "convincing"
+    ],
+    "answer": 3,
+    "explanation": "no less ~ than(~ 못지않게)의 원급 비교 구문이며 be동사 보어 자리이므로 형용사 역할을 하는 현재분사 convincing(설득력 있는)이 정답입니다. 제안서가 설득하는 주체이므로 -ing형이 적절합니다. [문법 포인트: 원급 비교 no less ~ than + 감정 분사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0993",
+    "part": 5,
+    "type": "RC",
+    "question": "Productivity at the Houston plant is higher than _______ at any other facility.",
+    "options": [
+      "that",
+      "those",
+      "this",
+      "it"
+    ],
+    "answer": 0,
+    "explanation": "앞에 나온 단수 불가산명사 productivity의 반복을 피하는 대명사로 that이 정답입니다. 복수면 those를 쓰지만 productivity는 단수 개념이므로 that이 적절합니다. [문법 포인트: 비교 구문에서 명사 반복을 피하는 that/those]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-0994",
+    "part": 5,
+    "type": "RC",
+    "question": "This is by far the _______ comprehensive training program the company has ever offered.",
+    "options": [
+      "most",
+      "much",
+      "very",
+      "more"
+    ],
+    "answer": 0,
+    "explanation": "by far는 최상급을 강조하는 표현이며 the ~ ever와 함께 쓰이므로 최상급 most가 정답입니다. comprehensive 같은 긴 형용사는 most를 붙여 최상급을 만듭니다. [문법 포인트: 최상급 강조 - by far the most]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0995",
+    "part": 5,
+    "type": "RC",
+    "question": "The earlier you submit your application, _______ your chances of being selected.",
+    "options": [
+      "the good",
+      "the better",
+      "better the",
+      "the best"
+    ],
+    "answer": 1,
+    "explanation": "the 비교급, the 비교급 구문으로 the better가 정답입니다. 앞 절 the earlier에 호응하며 your chances를 묘사합니다. [문법 포인트: the 비교급, the 비교급 - the better]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0996",
+    "part": 5,
+    "type": "RC",
+    "question": "The new tablet model is lighter and _______ than the version released two years ago.",
+    "options": [
+      "thinnest",
+      "thinner",
+      "thin",
+      "thinly"
+    ],
+    "answer": 1,
+    "explanation": "and로 연결된 lighter와 병렬을 이루는 비교급이 필요하고 than이 있으므로 thinner가 정답입니다. 1음절 형용사 thin은 -er로 비교급을 만듭니다. [문법 포인트: 비교급 병렬 - lighter and thinner than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-0997",
+    "part": 5,
+    "type": "RC",
+    "question": "No other supplier in the region offers prices as _______ as those of Greenfield Wholesale.",
+    "options": [
+      "competitively",
+      "more competitive",
+      "competitive",
+      "most competitive"
+    ],
+    "answer": 2,
+    "explanation": "as ~ as 동등비교 구문 사이에는 원급이 들어가므로 형용사 원급 competitive가 정답입니다. prices를 설명하는 보어 역할입니다. [문법 포인트: 원급 비교 - as + 원급 + as]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0998",
+    "part": 5,
+    "type": "RC",
+    "question": "The latest model consumes _______ energy than its predecessor while delivering the same output.",
+    "options": [
+      "less",
+      "few",
+      "least",
+      "fewer"
+    ],
+    "answer": 0,
+    "explanation": "energy는 불가산명사이므로 비교급 less가 정답입니다. few/fewer는 가산명사에, least는 최상급이라 than과 함께 쓸 수 없습니다. [문법 포인트: 비교급 - 불가산명사 + less + than]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-0999",
+    "part": 5,
+    "type": "RC",
+    "question": "Among all the applicants, she was _______ qualified for the senior analyst role.",
+    "options": [
+      "the best",
+      "better",
+      "best",
+      "the better"
+    ],
+    "answer": 0,
+    "explanation": "Among all the applicants로 셋 이상의 범위가 주어졌으므로 the best(가장 적합한)가 정답입니다. better는 둘 사이 비교에 쓰입니다. [문법 포인트: 최상급 - among + 복수, the best]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1000",
+    "part": 5,
+    "type": "RC",
+    "question": "The conference attracted three times _______ visitors as the previous year's event.",
+    "options": [
+      "more many",
+      "as many",
+      "so many",
+      "as much"
+    ],
+    "answer": 1,
+    "explanation": "visitors는 가산 복수명사이므로 as many ~ as를 쓰며 배수사 three times가 앞에 옵니다. as much는 불가산명사에 쓰입니다. [문법 포인트: 배수 비교 - three times as many + 가산명사 + as]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1001",
+    "part": 5,
+    "type": "RC",
+    "question": "The revised contract terms are more favorable to clients than _______ in the original draft.",
+    "options": [
+      "this",
+      "those",
+      "that",
+      "they"
+    ],
+    "answer": 1,
+    "explanation": "앞의 복수명사 terms의 반복을 피하므로 복수 대명사 those가 정답입니다. those in the original draft(원래 초안의 조건들)가 됩니다. [문법 포인트: 비교 구문 - those로 복수명사 대체]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1002",
+    "part": 5,
+    "type": "RC",
+    "question": "Our customer satisfaction scores this quarter are the _______ they have been in five years.",
+    "options": [
+      "higher",
+      "highest",
+      "more high",
+      "high"
+    ],
+    "answer": 1,
+    "explanation": "the와 they have been in five years(현재완료로 기간을 한정)가 최상급 문맥을 만들므로 highest가 정답입니다. [문법 포인트: 최상급 - the highest + 기간 한정절]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1003",
+    "part": 5,
+    "type": "RC",
+    "question": "The training session was less _______ than the participants had anticipated.",
+    "options": [
+      "interest",
+      "interested",
+      "interestingly",
+      "interesting"
+    ],
+    "answer": 3,
+    "explanation": "less ~ than 비교 구문이며 보어 자리에 감정 유발 주체(session)를 묘사하므로 현재분사 interesting이 정답입니다. interested는 사람의 감정에 씁니다. [문법 포인트: less ~ than + 감정 분사(-ing)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1004",
+    "part": 5,
+    "type": "RC",
+    "question": "The merger made the firm one of the _______ companies in the technology sector.",
+    "options": [
+      "largely",
+      "largest",
+      "large",
+      "larger"
+    ],
+    "answer": 1,
+    "explanation": "one of the + 최상급 + 복수명사(가장 ~한 것들 중 하나) 구문이므로 largest가 정답입니다. [문법 포인트: 최상급 - one of the + 최상급 + 복수명사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1005",
+    "part": 5,
+    "type": "RC",
+    "question": "The newer software handles large datasets _______ more smoothly than the older version.",
+    "options": [
+      "very",
+      "a lot",
+      "so",
+      "too"
+    ],
+    "answer": 1,
+    "explanation": "비교급 more smoothly를 강조하는 부사가 필요하므로 a lot이 정답입니다. very, so, too는 비교급을 강조하지 못합니다. [문법 포인트: 비교급 강조 - a lot + 비교급]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1006",
+    "part": 5,
+    "type": "RC",
+    "question": "Profit margins remained _______ steady throughout the year, varying by less than one percent.",
+    "options": [
+      "relative",
+      "relate",
+      "relativity",
+      "relatively"
+    ],
+    "answer": 3,
+    "explanation": "형용사 steady를 수식하는 부사가 필요하므로 relatively(비교적)가 정답입니다. 비교 개념을 담은 부사로 원급을 수식합니다. [문법 포인트: 부사 - relatively + 형용사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1007",
+    "part": 5,
+    "type": "RC",
+    "question": "The longer the warranty period, _______ confident customers feel about their purchase.",
+    "options": [
+      "much more",
+      "more the",
+      "the most",
+      "the more"
+    ],
+    "answer": 3,
+    "explanation": "the 비교급, the 비교급 구문으로 the more가 정답이며 confident를 수식합니다. [문법 포인트: the 비교급, the 비교급 - the more confident]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1008",
+    "part": 5,
+    "type": "RC",
+    "question": "Mr. Tanaka completed the audit _______ than any of his colleagues.",
+    "options": [
+      "quick",
+      "more quickly",
+      "quickest",
+      "most quickly"
+    ],
+    "answer": 1,
+    "explanation": "동사 completed를 수식하는 부사의 비교급이 필요하고 than이 있으므로 more quickly가 정답입니다. 부사 quickly는 more를 붙여 비교급을 만듭니다. [문법 포인트: 부사 비교급 - more quickly than]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1009",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposed budget is _______ realistic than the one rejected last month.",
+    "options": [
+      "far more",
+      "far most",
+      "very more",
+      "by far"
+    ],
+    "answer": 0,
+    "explanation": "than이 있어 비교급이 필요하고 강조 부사 far가 비교급 more realistic을 강조하므로 far more가 정답입니다. [문법 포인트: 비교급 강조 - far more + 형용사 + than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1010",
+    "part": 5,
+    "type": "RC",
+    "question": "Of all the marketing strategies tested, social media advertising proved _______ effective.",
+    "options": [
+      "more",
+      "the most",
+      "as",
+      "much"
+    ],
+    "answer": 1,
+    "explanation": "Of all로 전체 범위가 주어졌으므로 최상급 the most가 정답입니다. proved 뒤 보어로 the most effective(가장 효과적인)가 됩니다. [문법 포인트: 최상급 - of all + the most]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1011",
+    "part": 5,
+    "type": "RC",
+    "question": "This printer is not _______ reliable as the model our IT department recommended.",
+    "options": [
+      "so",
+      "much",
+      "more",
+      "very"
+    ],
+    "answer": 0,
+    "explanation": "not so ~ as는 not as ~ as와 동일한 동등비교 부정 구문(~만큼 ~하지 않다)이므로 so가 정답이며 뒤의 as와 짝을 이룹니다. [문법 포인트: 원급 비교 부정 - not so/as ~ as]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1012",
+    "part": 5,
+    "type": "RC",
+    "question": "The redesigned interface is much _______ to navigate than the previous one.",
+    "options": [
+      "easily",
+      "easiest",
+      "easy",
+      "easier"
+    ],
+    "answer": 3,
+    "explanation": "than이 있어 비교급이 필요하고 much의 강조를 받으므로 easier가 정답입니다. easy는 -er로 비교급을 만듭니다. [문법 포인트: 비교급 - much easier than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1013",
+    "part": 5,
+    "type": "RC",
+    "question": "The keynote speaker was as _______ as the organizers had promised.",
+    "options": [
+      "engagement",
+      "engage",
+      "engaged",
+      "engaging"
+    ],
+    "answer": 3,
+    "explanation": "as ~ as 사이에 형용사 원급이 필요하고, 청중을 사로잡는 주체(speaker)를 묘사하므로 현재분사 engaging(매력적인)이 정답입니다. [문법 포인트: 원급 비교 + 감정 분사 -ing]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1014",
+    "part": 5,
+    "type": "RC",
+    "question": "Sales representatives who travel frequently incur _______ expenses than office-based staff.",
+    "options": [
+      "high",
+      "higher",
+      "highly",
+      "highest"
+    ],
+    "answer": 1,
+    "explanation": "than이 있으므로 명사 expenses를 수식하는 비교급 higher가 정답입니다. [문법 포인트: 비교급 - higher + 명사 + than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1015",
+    "part": 5,
+    "type": "RC",
+    "question": "The longer we delay the upgrade, _______ it will cost to implement later.",
+    "options": [
+      "much the",
+      "more the",
+      "the more",
+      "the most"
+    ],
+    "answer": 2,
+    "explanation": "the 비교급, the 비교급 구문으로 the more가 정답이며 비용이 더 들 것이라는 의미를 완성합니다. [문법 포인트: the 비교급, the 비교급 - the more it will cost]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1016",
+    "part": 5,
+    "type": "RC",
+    "question": "Among the four shortlisted designs, the committee found the third one _______ appealing.",
+    "options": [
+      "most",
+      "more",
+      "much",
+      "the most"
+    ],
+    "answer": 3,
+    "explanation": "Among the four로 셋 이상 범위가 주어졌으므로 최상급 the most가 정답입니다. [문법 포인트: 최상급 - among + 복수, the most]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1017",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy is _______ stricter than employees had anticipated.",
+    "options": [
+      "considerably",
+      "considerable",
+      "consider",
+      "consideration"
+    ],
+    "answer": 0,
+    "explanation": "비교급 stricter를 수식하는 강조 부사가 필요하므로 considerably(상당히)가 정답입니다. considerable은 형용사라 비교급을 수식할 수 없습니다. [문법 포인트: 비교급 강조 - considerably + 비교급]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1018",
+    "part": 5,
+    "type": "RC",
+    "question": "Few investments offer returns _______ attractive as those provided by municipal bonds.",
+    "options": [
+      "as",
+      "than",
+      "so",
+      "more"
+    ],
+    "answer": 0,
+    "explanation": "뒤에 as가 있으므로 as ~ as 동등비교 구문이 되어 앞쪽도 as가 정답입니다. returns as attractive as(~만큼 매력적인 수익)가 됩니다. [문법 포인트: 원급 비교 - as + 형용사 + as]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1019",
+    "part": 5,
+    "type": "RC",
+    "question": "The board selected the candidate with _______ leadership credentials.",
+    "options": [
+      "the strongest",
+      "stronger",
+      "strongly",
+      "strong"
+    ],
+    "answer": 0,
+    "explanation": "여러 후보 중 가장 강력한 자격을 가진 사람을 선택했다는 최상급 문맥이므로 the strongest가 정답입니다. [문법 포인트: 최상급 - the strongest + 명사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1020",
+    "part": 5,
+    "type": "RC",
+    "question": "Online orders have grown _______ rapidly than in-store purchases over the past year.",
+    "options": [
+      "as",
+      "most",
+      "more",
+      "much"
+    ],
+    "answer": 2,
+    "explanation": "than이 있으므로 부사 rapidly의 비교급을 만드는 more가 정답입니다. more rapidly than(~보다 더 빠르게)이 됩니다. [문법 포인트: 부사 비교급 - more rapidly than]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1021",
+    "part": 5,
+    "type": "RC",
+    "question": "The second factory produces _______ output as the first while using less energy.",
+    "options": [
+      "so much",
+      "as much",
+      "more much",
+      "as many"
+    ],
+    "answer": 1,
+    "explanation": "output은 불가산명사이고 뒤에 as가 있으므로 as much ~ as 동등비교가 됩니다. 가산명사라면 as many를 씁니다. [문법 포인트: 원급 비교 - as much + 불가산명사 + as]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1022",
+    "part": 5,
+    "type": "RC",
+    "question": "This is the _______ time the company has exceeded its quarterly sales target.",
+    "options": [
+      "most",
+      "three",
+      "more",
+      "third"
+    ],
+    "answer": 3,
+    "explanation": "the와 함께 순서를 나타내는 서수 third가 정답입니다. 'the + 서수' 구조로 the third time(세 번째)이 됩니다. [문법 포인트: 서수 - the + 서수 + 명사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1023",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee was tasked with reviewing the budget, interviewing vendors, and _______ a final supplier.",
+    "options": [
+      "selecting",
+      "select",
+      "to select",
+      "selects"
+    ],
+    "answer": 0,
+    "explanation": "reviewing, interviewing과 병렬을 이루는 동명사가 필요하므로 selecting이 정답입니다. 등위접속사 and로 연결된 항목은 같은 형태를 유지해야 합니다. [문법 포인트: 병렬구조 - 동명사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1024",
+    "part": 5,
+    "type": "RC",
+    "question": "The new hire is responsible for answering calls, scheduling appointments, and _______ records.",
+    "options": [
+      "maintains",
+      "maintain",
+      "to maintain",
+      "maintaining"
+    ],
+    "answer": 3,
+    "explanation": "answering, scheduling과 병렬을 이루므로 동명사 maintaining이 정답입니다. [문법 포인트: 병렬구조 - 동명사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1025",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar will cover effective communication, time management, and _______ skills.",
+    "options": [
+      "leadership",
+      "leading",
+      "leads",
+      "lead"
+    ],
+    "answer": 0,
+    "explanation": "communication, management와 병렬을 이루는 명사가 skills를 수식해야 하므로 명사 leadership이 정답입니다. 명사+명사 복합 구조의 병렬입니다. [문법 포인트: 병렬구조 - 명사 병렬(복합명사)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1026",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees may either submit their reports online _______ deliver them to the front desk.",
+    "options": [
+      "or",
+      "but",
+      "nor",
+      "and"
+    ],
+    "answer": 0,
+    "explanation": "either ~ or 상관접속사 구문이므로 or가 정답입니다. either와 짝을 이뤄 두 선택지를 연결합니다. [문법 포인트: 상관접속사 병렬 - either A or B]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1027",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal was both innovative _______ cost-effective, impressing the entire board.",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "nor"
+    ],
+    "answer": 0,
+    "explanation": "both ~ and 상관접속사로 두 형용사 innovative와 cost-effective를 연결하므로 and가 정답입니다. [문법 포인트: 상관접속사 병렬 - both A and B]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1028",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation will improve not only the appearance of the lobby _______ also its functionality.",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "not only ~ but also 상관접속사 구문이므로 but이 정답입니다. [문법 포인트: 상관접속사 병렬 - not only A but also B]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1029",
+    "part": 5,
+    "type": "RC",
+    "question": "The training aims to make staff more confident and _______ in handling customer complaints.",
+    "options": [
+      "competently",
+      "competing",
+      "competent",
+      "competence"
+    ],
+    "answer": 2,
+    "explanation": "and로 연결된 형용사 confident와 병렬을 이루므로 형용사 competent(유능한)가 정답입니다. make의 목적격 보어로 형용사가 병렬됩니다. [문법 포인트: 병렬구조 - 형용사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1030",
+    "part": 5,
+    "type": "RC",
+    "question": "The consultant recommended reducing overhead costs _______ expanding the sales team.",
+    "options": [
+      "instead",
+      "rather then",
+      "rather than",
+      "than rather"
+    ],
+    "answer": 2,
+    "explanation": "rather than(~보다는, ~ 대신)으로 reducing과 expanding 두 동명사를 비교·병렬합니다. then은 '그 다음에'라는 뜻으로 부적절합니다. [문법 포인트: 병렬구조 - rather than 동명사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1031",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager praised the team for working diligently and _______.",
+    "options": [
+      "collaborative",
+      "collaboratively",
+      "collaboration",
+      "collaborate"
+    ],
+    "answer": 1,
+    "explanation": "and로 연결된 부사 diligently와 병렬을 이루므로 부사 collaboratively(협력적으로)가 정답입니다. [문법 포인트: 병렬구조 - 부사 병렬]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1032",
+    "part": 5,
+    "type": "RC",
+    "question": "Neither the marketing department _______ the sales department met its monthly target.",
+    "options": [
+      "but",
+      "and",
+      "or",
+      "nor"
+    ],
+    "answer": 3,
+    "explanation": "neither ~ nor 상관접속사 구문이므로 nor가 정답입니다. [문법 포인트: 상관접속사 병렬 - neither A nor B]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1033",
+    "part": 5,
+    "type": "RC",
+    "question": "The new system is designed to be fast, reliable, and _______ to maintain.",
+    "options": [
+      "ease",
+      "easing",
+      "easy",
+      "easily"
+    ],
+    "answer": 2,
+    "explanation": "fast, reliable과 병렬을 이루는 형용사가 필요하므로 easy가 정답입니다. easy to maintain(유지하기 쉬운)으로 형용사가 병렬됩니다. [문법 포인트: 병렬구조 - 형용사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1034",
+    "part": 5,
+    "type": "RC",
+    "question": "Applicants must provide a resume, two references, _______ a cover letter.",
+    "options": [
+      "also",
+      "as",
+      "plus and",
+      "and"
+    ],
+    "answer": 3,
+    "explanation": "세 항목을 나열하는 등위접속사 and가 정답입니다. A, B, and C 형태로 명사가 병렬됩니다. [문법 포인트: 병렬구조 - 명사 나열 and]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1035",
+    "part": 5,
+    "type": "RC",
+    "question": "The director's plan was to streamline operations, cut unnecessary spending, and _______ profitability.",
+    "options": [
+      "to boosting",
+      "boosts",
+      "boost",
+      "boosting"
+    ],
+    "answer": 2,
+    "explanation": "to streamline의 to가 생략된 형태로 streamline, cut과 병렬을 이루는 동사원형 boost가 정답입니다. to + 동사원형 병렬에서 to는 한 번만 쓰고 동사원형을 반복합니다. [문법 포인트: 병렬구조 - to부정사 동사원형 병렬]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1036",
+    "part": 5,
+    "type": "RC",
+    "question": "The company values employees who are punctual, dependable, _______ adaptable.",
+    "options": [
+      "but",
+      "and also",
+      "or but",
+      "and"
+    ],
+    "answer": 3,
+    "explanation": "세 형용사를 나열하는 마지막 연결에 and가 정답입니다. punctual, dependable, and adaptable로 병렬됩니다. [문법 포인트: 병렬구조 - 형용사 나열 and]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1037",
+    "part": 5,
+    "type": "RC",
+    "question": "The workshop will focus on how to set goals, manage time, and _______ stress.",
+    "options": [
+      "reducing",
+      "reduce",
+      "reduced",
+      "reduces"
+    ],
+    "answer": 1,
+    "explanation": "how to set, (to) manage와 병렬을 이루므로 동사원형 reduce가 정답입니다. to부정사 병렬에서 동사원형을 반복합니다. [문법 포인트: 병렬구조 - to부정사 동사원형 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1038",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers appreciate the store's wide selection _______ its competitive prices.",
+    "options": [
+      "so well as",
+      "as well as",
+      "well as",
+      "as well"
+    ],
+    "answer": 1,
+    "explanation": "as well as(~뿐만 아니라)로 selection과 prices 두 명사를 병렬 연결하므로 정답입니다. [문법 포인트: 병렬구조 - A as well as B]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1039",
+    "part": 5,
+    "type": "RC",
+    "question": "The new policy requires that all reports be accurate, concise, and _______ formatted.",
+    "options": [
+      "properly",
+      "property",
+      "propriety",
+      "proper"
+    ],
+    "answer": 0,
+    "explanation": "accurate, concise(형용사)와 병렬이지만 빈칸은 과거분사 formatted를 수식하므로 부사 properly가 정답입니다. properly formatted(적절히 서식이 갖춰진)가 됩니다. [문법 포인트: 병렬구조 내 분사 수식 부사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1040",
+    "part": 5,
+    "type": "RC",
+    "question": "The intern was eager not only to learn _______ to contribute meaningfully to the team.",
+    "options": [
+      "so",
+      "and",
+      "but also",
+      "or"
+    ],
+    "answer": 2,
+    "explanation": "not only ~ but also 구문이며 to learn과 to contribute를 병렬합니다. but also가 정답입니다. [문법 포인트: 상관접속사 병렬 - not only A but also B]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1041",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory was upgraded to improve efficiency, reduce waste, and _______ worker safety.",
+    "options": [
+      "enhance",
+      "enhancing",
+      "enhanced",
+      "enhances"
+    ],
+    "answer": 0,
+    "explanation": "to improve, (to) reduce와 병렬되므로 동사원형 enhance가 정답입니다. [문법 포인트: 병렬구조 - to부정사 동사원형 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1042",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation was clear, well-organized, _______ informative.",
+    "options": [
+      "or but",
+      "nor",
+      "but or",
+      "and"
+    ],
+    "answer": 3,
+    "explanation": "세 형용사 나열의 마지막 연결로 and가 정답입니다. [문법 포인트: 병렬구조 - 형용사 나열 and]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1043",
+    "part": 5,
+    "type": "RC",
+    "question": "Whether you pay by credit card _______ by bank transfer, the processing time is the same.",
+    "options": [
+      "but",
+      "nor",
+      "or",
+      "and"
+    ],
+    "answer": 2,
+    "explanation": "whether ~ or 상관접속사 구문이므로 or가 정답입니다. [문법 포인트: 상관접속사 병렬 - whether A or B]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1044",
+    "part": 5,
+    "type": "RC",
+    "question": "The job involves analyzing data, preparing reports, and _______ with clients regularly.",
+    "options": [
+      "communicate",
+      "communicates",
+      "communicated",
+      "communicating"
+    ],
+    "answer": 3,
+    "explanation": "analyzing, preparing과 병렬을 이루는 동명사 communicating이 정답입니다. [문법 포인트: 병렬구조 - 동명사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1045",
+    "part": 5,
+    "type": "RC",
+    "question": "Not until the final inspection _______ the defect in the wiring discovered.",
+    "options": [
+      "were",
+      "was",
+      "did",
+      "had"
+    ],
+    "answer": 1,
+    "explanation": "Not until이 문두에 와서 도치가 일어나고, 뒤따르는 주어 the defect는 단수이며 수동태이므로 was가 정답입니다. was the defect discovered 어순이 됩니다. [문법 포인트: 도치 - 부정어 not until 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1046",
+    "part": 5,
+    "type": "RC",
+    "question": "Hardly _______ the manager entered the room when everyone fell silent.",
+    "options": [
+      "did",
+      "does",
+      "had",
+      "has"
+    ],
+    "answer": 2,
+    "explanation": "Hardly ~ when 구문이며 주절은 과거완료, when절은 과거를 씁니다. Hardly had + 주어 + p.p. 도치이므로 had가 정답입니다. [문법 포인트: 도치 - Hardly had + 주어 + p.p. ~ when]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1047",
+    "part": 5,
+    "type": "RC",
+    "question": "Only after the budget was approved _______ the project officially begin.",
+    "options": [
+      "does the team",
+      "the team",
+      "did the team",
+      "the team did"
+    ],
+    "answer": 2,
+    "explanation": "Only + 부사절이 문두에 오면 주절이 도치되어 did + 주어 + 동사원형 어순이 됩니다. 따라서 did the team이 정답입니다. [문법 포인트: 도치 - Only + 부사구/절 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1048",
+    "part": 5,
+    "type": "RC",
+    "question": "Rarely _______ a candidate with such an impressive portfolio applied for the position.",
+    "options": [
+      "have",
+      "do",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": "부정어 Rarely가 문두에 오면 도치가 일어나고, 주어 a candidate가 단수이며 현재완료이므로 has가 정답입니다. has a candidate applied 어순이 됩니다. [문법 포인트: 도치 - 부정어 rarely 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1049",
+    "part": 5,
+    "type": "RC",
+    "question": "Enclosed _______ the documents you requested during our phone conversation.",
+    "options": [
+      "be",
+      "are",
+      "being",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "보어 Enclosed가 문두로 도치되면 동사+주어 어순이 되고, 주어 the documents가 복수이므로 are가 정답입니다. [문법 포인트: 도치 - 보어 도치(Enclosed are ~)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1050",
+    "part": 5,
+    "type": "RC",
+    "question": "Should you _______ any questions about the contract, please contact our legal team.",
+    "options": [
+      "had",
+      "to have",
+      "have",
+      "having"
+    ],
+    "answer": 2,
+    "explanation": "If you should have가 도치되어 If가 생략되고 Should가 문두로 나온 가정법 도치 구문이므로 동사원형 have가 정답입니다. [문법 포인트: 도치 - if 생략 가정법(Should you have ~)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1051",
+    "part": 5,
+    "type": "RC",
+    "question": "Not only _______ the new model faster, but it is also more affordable.",
+    "options": [
+      "is",
+      "be",
+      "being",
+      "to be"
+    ],
+    "answer": 0,
+    "explanation": "Not only가 문두에 와서 도치가 일어나므로 be동사 is가 주어 the new model 앞으로 나옵니다. Not only is the new model 어순이 정답입니다. [문법 포인트: 도치 - Not only 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1052",
+    "part": 5,
+    "type": "RC",
+    "question": "Seldom _______ such a generous benefits package offered to entry-level employees.",
+    "options": [
+      "is",
+      "do",
+      "has",
+      "does"
+    ],
+    "answer": 0,
+    "explanation": "부정어 Seldom 문두 도치이며 주어 a package가 단수, 수동태이므로 is가 정답입니다. is such a package offered 어순입니다. [문법 포인트: 도치 - 부정어 seldom 문두 도치(수동)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1053",
+    "part": 5,
+    "type": "RC",
+    "question": "Were the company _______ to relocate, most employees would need to commute farther.",
+    "options": [
+      "deciding",
+      "decided",
+      "decide",
+      "to decide"
+    ],
+    "answer": 3,
+    "explanation": "If the company were to decide가 도치되어 If 생략 후 Were가 문두로 온 가정법 구문이므로 to decide가 정답입니다. [문법 포인트: 도치 - if 생략 가정법(Were S to do)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1054",
+    "part": 5,
+    "type": "RC",
+    "question": "So _______ was the demand that the store sold out within hours.",
+    "options": [
+      "higher",
+      "highly",
+      "highest",
+      "high"
+    ],
+    "answer": 3,
+    "explanation": "So + 형용사 + 동사 + 주어 ~ that 도치 구문(너무 ~해서 ~하다)이므로 보어 형용사 원급 high가 정답입니다. So high was the demand 어순입니다. [문법 포인트: 도치 - So + 형용사 + 동사 + 주어 ~ that]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1055",
+    "part": 5,
+    "type": "RC",
+    "question": "Under no circumstances _______ employees share confidential client information.",
+    "options": [
+      "may",
+      "they may",
+      "may not",
+      "cannot"
+    ],
+    "answer": 0,
+    "explanation": "부정어구 Under no circumstances가 문두에 와서 조동사+주어 도치가 일어나므로 may가 정답입니다. may employees share 어순이며, 부정어구 자체에 부정 의미가 있어 may not은 이중부정이 됩니다. [문법 포인트: 도치 - 부정어구 문두 + 조동사 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1056",
+    "part": 5,
+    "type": "RC",
+    "question": "Among the finalists _______ two engineers from our Tokyo office.",
+    "options": [
+      "is being",
+      "has been",
+      "were",
+      "was"
+    ],
+    "answer": 2,
+    "explanation": "장소·범위 부사구 Among the finalists가 문두로 도치되어 동사+주어 어순이 되고, 주어 two engineers가 복수이므로 were가 정답입니다. [문법 포인트: 도치 - 부사구 문두 도치(장소/범위)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1057",
+    "part": 5,
+    "type": "RC",
+    "question": "Only by working together _______ the deadline.",
+    "options": [
+      "the team met",
+      "met the team",
+      "did the team meet",
+      "the team did meet"
+    ],
+    "answer": 2,
+    "explanation": "Only + 전치사구가 문두에 오면 주절이 도치되어 did + 주어 + 동사원형이 되므로 did the team meet이 정답입니다. [문법 포인트: 도치 - Only + 전치사구 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1058",
+    "part": 5,
+    "type": "RC",
+    "question": "Never before _______ the firm reported such strong quarterly earnings.",
+    "options": [
+      "have",
+      "does",
+      "has",
+      "did"
+    ],
+    "answer": 2,
+    "explanation": "Never before 문두 도치이며 주어 the firm이 단수, 현재완료이므로 has가 정답입니다. has the firm reported 어순입니다. [문법 포인트: 도치 - Never before 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1059",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager decided _______ the new policy after reviewing employee feedback.",
+    "options": [
+      "to implement",
+      "implemented",
+      "implementing",
+      "implement"
+    ],
+    "answer": 0,
+    "explanation": "decide는 to부정사를 목적어로 취하는 동사이므로 to implement가 정답입니다. [문법 포인트: 준동사 - decide + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1060",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee recommended _______ the launch date by two weeks.",
+    "options": [
+      "to postpone",
+      "postponed",
+      "postponing",
+      "postpone"
+    ],
+    "answer": 2,
+    "explanation": "recommend는 동명사를 목적어로 취하는 동사이므로 postponing이 정답입니다. [문법 포인트: 준동사 - recommend + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1061",
+    "part": 5,
+    "type": "RC",
+    "question": "All staff members must avoid _______ confidential documents on shared drives.",
+    "options": [
+      "storing",
+      "store",
+      "to store",
+      "stored"
+    ],
+    "answer": 0,
+    "explanation": "avoid는 동명사를 목적어로 취하므로 storing이 정답입니다. [문법 포인트: 준동사 - avoid + 동명사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1062",
+    "part": 5,
+    "type": "RC",
+    "question": "The new manager hopes _______ team morale within the first quarter.",
+    "options": [
+      "improving",
+      "improved",
+      "to improve",
+      "improve"
+    ],
+    "answer": 2,
+    "explanation": "hope는 to부정사를 목적어로 취하므로 to improve가 정답입니다. [문법 포인트: 준동사 - hope + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1063",
+    "part": 5,
+    "type": "RC",
+    "question": "The board postponed _______ a decision until more data became available.",
+    "options": [
+      "to make",
+      "made",
+      "making",
+      "make"
+    ],
+    "answer": 2,
+    "explanation": "postpone은 동명사를 목적어로 취하므로 making이 정답입니다. [문법 포인트: 준동사 - postpone + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1064",
+    "part": 5,
+    "type": "RC",
+    "question": "Management agreed _______ the proposal at the next quarterly meeting.",
+    "options": [
+      "discussed",
+      "discuss",
+      "discussing",
+      "to discuss"
+    ],
+    "answer": 3,
+    "explanation": "agree는 to부정사를 목적어로 취하므로 to discuss가 정답입니다. [문법 포인트: 준동사 - agree + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1065",
+    "part": 5,
+    "type": "RC",
+    "question": "The technicians finished _______ the equipment ahead of the scheduled deadline.",
+    "options": [
+      "installed",
+      "installing",
+      "install",
+      "to install"
+    ],
+    "answer": 1,
+    "explanation": "finish는 동명사를 목적어로 취하므로 installing이 정답입니다. [문법 포인트: 준동사 - finish + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1066",
+    "part": 5,
+    "type": "RC",
+    "question": "The client refused _______ the contract until the terms were revised.",
+    "options": [
+      "signing",
+      "signed",
+      "sign",
+      "to sign"
+    ],
+    "answer": 3,
+    "explanation": "refuse는 to부정사를 목적어로 취하므로 to sign이 정답입니다. [문법 포인트: 준동사 - refuse + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1067",
+    "part": 5,
+    "type": "RC",
+    "question": "The company considered _______ its headquarters to a more central location.",
+    "options": [
+      "relocating",
+      "relocate",
+      "to relocate",
+      "relocated"
+    ],
+    "answer": 0,
+    "explanation": "consider는 동명사를 목적어로 취하므로 relocating이 정답입니다. [문법 포인트: 준동사 - consider + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1068",
+    "part": 5,
+    "type": "RC",
+    "question": "All applicants are expected _______ a portfolio along with their resume.",
+    "options": [
+      "submit",
+      "submitted",
+      "submitting",
+      "to submit"
+    ],
+    "answer": 3,
+    "explanation": "be expected to + 동사원형(~할 것으로 기대되다) 구문이므로 to submit이 정답입니다. [문법 포인트: 준동사 - be expected + to부정사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1069",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor suggested _______ the workflow to eliminate redundant steps.",
+    "options": [
+      "to redesign",
+      "redesigned",
+      "redesigning",
+      "redesign"
+    ],
+    "answer": 2,
+    "explanation": "suggest는 동명사를 목적어로 취하므로 redesigning이 정답입니다. [문법 포인트: 준동사 - suggest + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1070",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm plans _______ three new branches in the coming fiscal year.",
+    "options": [
+      "opened",
+      "opening",
+      "to open",
+      "open"
+    ],
+    "answer": 2,
+    "explanation": "plan은 to부정사를 목적어로 취하므로 to open이 정답입니다. [문법 포인트: 준동사 - plan + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1071",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees should not delay _______ their travel reimbursement requests.",
+    "options": [
+      "submitted",
+      "submit",
+      "to submit",
+      "submitting"
+    ],
+    "answer": 3,
+    "explanation": "delay는 동명사를 목적어로 취하므로 submitting이 정답입니다. [문법 포인트: 준동사 - delay + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1072",
+    "part": 5,
+    "type": "RC",
+    "question": "The CEO promised _______ transparency in all future financial disclosures.",
+    "options": [
+      "ensured",
+      "ensure",
+      "ensuring",
+      "to ensure"
+    ],
+    "answer": 3,
+    "explanation": "promise는 to부정사를 목적어로 취하므로 to ensure가 정답입니다. [문법 포인트: 준동사 - promise + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1073",
+    "part": 5,
+    "type": "RC",
+    "question": "The department head encouraged the staff _______ for the leadership training program.",
+    "options": [
+      "apply",
+      "applied",
+      "applying",
+      "to apply"
+    ],
+    "answer": 3,
+    "explanation": "encourage는 'encourage + 목적어 + to부정사' 형태를 취하므로 to apply가 정답입니다. [문법 포인트: 준동사 - encourage + 목적어 + to부정사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1074",
+    "part": 5,
+    "type": "RC",
+    "question": "The team kept _______ on the project despite the tight deadline.",
+    "options": [
+      "to work",
+      "work",
+      "working",
+      "worked"
+    ],
+    "answer": 2,
+    "explanation": "keep은 동명사를 목적어로 취하여 '계속 ~하다'를 의미하므로 working이 정답입니다. [문법 포인트: 준동사 - keep + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1075",
+    "part": 5,
+    "type": "RC",
+    "question": "Visitors are not permitted _______ photographs inside the research laboratory.",
+    "options": [
+      "taking",
+      "take",
+      "taken",
+      "to take"
+    ],
+    "answer": 3,
+    "explanation": "be permitted to + 동사원형(~하도록 허용되다) 구문이므로 to take가 정답입니다. [문법 포인트: 준동사 - be permitted + to부정사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1076",
+    "part": 5,
+    "type": "RC",
+    "question": "The marketing director proposed _______ the advertising budget for the next campaign.",
+    "options": [
+      "to increase",
+      "increase",
+      "increasing",
+      "increased"
+    ],
+    "answer": 2,
+    "explanation": "propose는 동명사를 목적어로 취하므로 increasing이 정답입니다. [문법 포인트: 준동사 - propose + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1077",
+    "part": 5,
+    "type": "RC",
+    "question": "Senior staff are required _______ a brief orientation session for new employees.",
+    "options": [
+      "leading",
+      "led",
+      "to lead",
+      "lead"
+    ],
+    "answer": 2,
+    "explanation": "be required to + 동사원형(~하도록 요구되다) 구문이므로 to lead가 정답입니다. [문법 포인트: 준동사 - be required + to부정사]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1078",
+    "part": 5,
+    "type": "RC",
+    "question": "The auditor recommended that the firm consider _______ its accounting software.",
+    "options": [
+      "upgrade",
+      "upgrading",
+      "upgraded",
+      "to upgrade"
+    ],
+    "answer": 1,
+    "explanation": "consider는 동명사를 목적어로 취하므로 upgrading이 정답입니다. [문법 포인트: 준동사 - consider + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1079",
+    "part": 5,
+    "type": "RC",
+    "question": "The new regulations require companies _______ detailed emissions reports annually.",
+    "options": [
+      "filed",
+      "filing",
+      "to file",
+      "file"
+    ],
+    "answer": 2,
+    "explanation": "require는 'require + 목적어 + to부정사' 형태를 취하므로 to file이 정답입니다. [문법 포인트: 준동사 - require + 목적어 + to부정사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1080",
+    "part": 5,
+    "type": "RC",
+    "question": "The applicant denied _______ any confidential information to competitors.",
+    "options": [
+      "sharing",
+      "to share",
+      "share",
+      "shared"
+    ],
+    "answer": 0,
+    "explanation": "deny는 동명사를 목적어로 취하므로 sharing이 정답입니다. [문법 포인트: 준동사 - deny + 동명사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1081",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager remembered _______ the report before leaving for the conference.",
+    "options": [
+      "submitting",
+      "submitted",
+      "to submitting",
+      "submit"
+    ],
+    "answer": 0,
+    "explanation": "remember + 동명사는 '(과거에) ~한 것을 기억하다'를 의미합니다. 문맥상 이미 제출한 것을 기억한다는 뜻이므로 submitting이 정답입니다. remember to do는 '~할 것을 기억하다(미래)'입니다. [문법 포인트: 준동사 - remember + 동명사(과거 행위)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1082",
+    "part": 5,
+    "type": "RC",
+    "question": "Please remember _______ the office lights before you leave each evening.",
+    "options": [
+      "turn off",
+      "turning off",
+      "to turn off",
+      "turned off"
+    ],
+    "answer": 2,
+    "explanation": "remember to do는 '(앞으로) ~할 것을 기억하다'를 의미합니다. 퇴근 전 불을 끄라는 미래 행위이므로 to turn off가 정답입니다. [문법 포인트: 준동사 - remember + to부정사(미래 행위)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1083",
+    "part": 5,
+    "type": "RC",
+    "question": "The factory stopped _______ that component after the supplier raised its prices.",
+    "options": [
+      "produce",
+      "produced",
+      "to produce",
+      "producing"
+    ],
+    "answer": 3,
+    "explanation": "stop + 동명사는 '~하는 것을 멈추다'를 의미합니다. 부품 생산을 중단했다는 뜻이므로 producing이 정답입니다. stop to do는 '~하기 위해 멈추다'입니다. [문법 포인트: 준동사 - stop + 동명사(중단)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1084",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the quarterly figures, the analyst noticed an unusual spike in returns.",
+    "options": [
+      "Reviewed",
+      "Review",
+      "To review",
+      "Reviewing"
+    ],
+    "answer": 3,
+    "explanation": "분사구문 자리이며 의미상 주어(the analyst)가 검토하는 능동 관계이므로 현재분사 Reviewing이 정답입니다. [문법 포인트: 준동사 - 분사구문(능동 현재분사)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1085",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ in 1998, the company has grown into a global leader in renewable energy.",
+    "options": [
+      "To found",
+      "Founded",
+      "Found",
+      "Founding"
+    ],
+    "answer": 1,
+    "explanation": "분사구문 자리이며 회사가 '설립된' 수동 관계이므로 과거분사 Founded가 정답입니다. [문법 포인트: 준동사 - 분사구문(수동 과거분사)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1086",
+    "part": 5,
+    "type": "RC",
+    "question": "The report _______ by the finance team highlighted several cost-saving opportunities.",
+    "options": [
+      "prepares",
+      "prepared",
+      "prepare",
+      "preparing"
+    ],
+    "answer": 1,
+    "explanation": "명사 The report를 뒤에서 수식하는 분사 자리이며 보고서가 '작성된' 수동 관계이므로 과거분사 prepared가 정답입니다. [문법 포인트: 준동사 - 후치 수식 과거분사(수동)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1087",
+    "part": 5,
+    "type": "RC",
+    "question": "The candidate _______ for the position has over ten years of relevant experience.",
+    "options": [
+      "select",
+      "selects",
+      "selected",
+      "selecting"
+    ],
+    "answer": 2,
+    "explanation": "명사 candidate를 수식하며 후보가 '선발된' 수동 관계이므로 과거분사 selected가 정답입니다. [문법 포인트: 준동사 - 후치 수식 과거분사(수동)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1088",
+    "part": 5,
+    "type": "RC",
+    "question": "Employees _______ in the wellness program receive a discount on gym memberships.",
+    "options": [
+      "participation",
+      "participate",
+      "participating",
+      "participated"
+    ],
+    "answer": 2,
+    "explanation": "명사 Employees를 수식하며 직원이 '참여하는' 능동 관계이므로 현재분사 participating이 정답입니다. participate는 자동사라 수동형으로 명사를 수식할 수 없습니다. [문법 포인트: 준동사 - 후치 수식 현재분사(능동/자동사)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1089",
+    "part": 5,
+    "type": "RC",
+    "question": "The instructions _______ in the manual were difficult for new users to follow.",
+    "options": [
+      "providing",
+      "provided",
+      "provides",
+      "provide"
+    ],
+    "answer": 1,
+    "explanation": "명사 instructions를 수식하며 지침이 '제공된' 수동 관계이므로 과거분사 provided가 정답입니다. [문법 포인트: 준동사 - 후치 수식 과거분사(수동)]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1090",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ from the runway, the city's skyline appeared remarkably compact.",
+    "options": [
+      "Views",
+      "Viewing",
+      "View",
+      "Viewed"
+    ],
+    "answer": 3,
+    "explanation": "분사구문이며 스카이라인이 '보여진' 수동 관계이므로 과거분사 Viewed가 정답입니다. [문법 포인트: 준동사 - 분사구문(수동 과거분사)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1091",
+    "part": 5,
+    "type": "RC",
+    "question": "The manager spent the entire afternoon _______ the new database.",
+    "options": [
+      "configuring",
+      "to configure",
+      "configured",
+      "configure"
+    ],
+    "answer": 0,
+    "explanation": "spend + 시간 + 동명사(~하는 데 시간을 쓰다) 구문이므로 configuring이 정답입니다. [문법 포인트: 준동사 - spend + 시간 + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1092",
+    "part": 5,
+    "type": "RC",
+    "question": "The team had difficulty _______ a consensus during the lengthy negotiation.",
+    "options": [
+      "reached",
+      "reach",
+      "to reach",
+      "reaching"
+    ],
+    "answer": 3,
+    "explanation": "have difficulty (in) -ing(~하는 데 어려움을 겪다) 구문이므로 동명사 reaching이 정답입니다. [문법 포인트: 준동사 - have difficulty + 동명사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1093",
+    "part": 5,
+    "type": "RC",
+    "question": "It is worth _______ the alternative supplier before committing to a long-term contract.",
+    "options": [
+      "considered",
+      "consider",
+      "to consider",
+      "considering"
+    ],
+    "answer": 3,
+    "explanation": "be worth + 동명사(~할 가치가 있다) 구문이므로 considering이 정답입니다. [문법 포인트: 준동사 - worth + 동명사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1094",
+    "part": 5,
+    "type": "RC",
+    "question": "The consultant looks forward to _______ with your team next month.",
+    "options": [
+      "worked",
+      "working",
+      "to work",
+      "work"
+    ],
+    "answer": 1,
+    "explanation": "look forward to에서 to는 전치사이므로 뒤에 동명사 working이 옵니다. [문법 포인트: 준동사 - look forward to + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1095",
+    "part": 5,
+    "type": "RC",
+    "question": "All vendors are committed to _______ the highest quality standards.",
+    "options": [
+      "maintained",
+      "maintain",
+      "maintaining",
+      "to maintain"
+    ],
+    "answer": 2,
+    "explanation": "be committed to에서 to는 전치사이므로 동명사 maintaining이 정답입니다. [문법 포인트: 준동사 - be committed to + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1096",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee insisted on _______ all proposals before the final vote.",
+    "options": [
+      "reviewing",
+      "review",
+      "reviewed",
+      "to review"
+    ],
+    "answer": 0,
+    "explanation": "insist on에서 on은 전치사이므로 동명사 reviewing이 정답입니다. [문법 포인트: 준동사 - insist on + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1097",
+    "part": 5,
+    "type": "RC",
+    "question": "The presentation was _______ enough to keep the audience engaged for two hours.",
+    "options": [
+      "compels",
+      "compel",
+      "compelling",
+      "compelled"
+    ],
+    "answer": 2,
+    "explanation": "be동사 보어 자리이며 발표가 흥미를 유발하는 주체이므로 현재분사형 형용사 compelling이 정답입니다. [문법 포인트: 준동사/분사 - 감정 분사 -ing]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1098",
+    "part": 5,
+    "type": "RC",
+    "question": "Customers prefer the new packaging _______ the old design by a wide margin.",
+    "options": [
+      "than",
+      "over than",
+      "to",
+      "more than"
+    ],
+    "answer": 2,
+    "explanation": "prefer A to B(B보다 A를 선호하다) 구문이므로 to가 정답입니다. prefer는 than이 아니라 to를 씁니다. [문법 포인트: 비교 - prefer A to B]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1099",
+    "part": 5,
+    "type": "RC",
+    "question": "The latest figures are far more encouraging than _______ released last quarter.",
+    "options": [
+      "it",
+      "this",
+      "that",
+      "those"
+    ],
+    "answer": 3,
+    "explanation": "앞의 복수명사 figures의 반복을 피하므로 those가 정답입니다. those released last quarter가 됩니다. [문법 포인트: 비교 구문 - those + 분사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1100",
+    "part": 5,
+    "type": "RC",
+    "question": "The new branch generated _______ revenue in its first year than the headquarters did.",
+    "options": [
+      "much",
+      "most",
+      "many",
+      "more"
+    ],
+    "answer": 3,
+    "explanation": "than이 있고 불가산명사 revenue를 수식하므로 비교급 more가 정답입니다. [문법 포인트: 비교급 - more + 불가산명사 + than]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1101",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ the report been submitted on time, the deadline would not have been extended.",
+    "options": [
+      "Had",
+      "Having",
+      "Has",
+      "Have"
+    ],
+    "answer": 0,
+    "explanation": "If the report had been submitted가 도치되어 If 생략 후 Had가 문두로 온 가정법 과거완료 구문이므로 Had가 정답입니다. [문법 포인트: 도치 - if 생략 가정법 과거완료(Had + S + p.p.)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1102",
+    "part": 5,
+    "type": "RC",
+    "question": "The proposal aims at _______ operational costs without reducing service quality.",
+    "options": [
+      "lower",
+      "to lower",
+      "lowered",
+      "lowering"
+    ],
+    "answer": 3,
+    "explanation": "aim at에서 at은 전치사이므로 동명사 lowering이 정답입니다. [문법 포인트: 준동사 - aim at + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1103",
+    "part": 5,
+    "type": "RC",
+    "question": "The seminar was designed to be both informative _______ engaging for attendees.",
+    "options": [
+      "or",
+      "but",
+      "and",
+      "than"
+    ],
+    "answer": 2,
+    "explanation": "both ~ and 상관접속사로 informative와 engaging을 병렬하므로 and가 정답입니다. [문법 포인트: 상관접속사 병렬 - both A and B]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1104",
+    "part": 5,
+    "type": "RC",
+    "question": "This quarter's results were not as strong as _______ we achieved last year.",
+    "options": [
+      "those",
+      "they",
+      "that",
+      "this"
+    ],
+    "answer": 0,
+    "explanation": "as ~ as 비교에서 앞의 복수명사 results를 받으므로 those가 정답입니다. those (which) we achieved last year가 됩니다. [문법 포인트: 원급 비교 - those로 명사 대체]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1105",
+    "part": 5,
+    "type": "RC",
+    "question": "The longer the project runs, the _______ the budget overrun becomes.",
+    "options": [
+      "largely",
+      "large",
+      "larger",
+      "largest"
+    ],
+    "answer": 2,
+    "explanation": "the 비교급, the 비교급 구문으로 the larger가 정답입니다. [문법 포인트: the 비교급, the 비교급 - the larger]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1106",
+    "part": 5,
+    "type": "RC",
+    "question": "Not only did the firm exceed its targets, _______ it also opened two new offices.",
+    "options": [
+      "or",
+      "but",
+      "so",
+      "and"
+    ],
+    "answer": 1,
+    "explanation": "not only ~ but also 구문이며 첫 절이 도치된 후 두 번째 절을 but이 연결하므로 but이 정답입니다. [문법 포인트: 상관접속사 병렬 - not only ~ but also(도치)]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1107",
+    "part": 5,
+    "type": "RC",
+    "question": "The candidate was praised for being thorough, organized, and _______.",
+    "options": [
+      "reliability",
+      "rely",
+      "reliable",
+      "reliably"
+    ],
+    "answer": 2,
+    "explanation": "thorough, organized(형용사)와 병렬을 이루므로 형용사 reliable이 정답입니다. [문법 포인트: 병렬구조 - 형용사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1108",
+    "part": 5,
+    "type": "RC",
+    "question": "The cheaper option is not necessarily _______ economical in the long run.",
+    "options": [
+      "the more",
+      "most",
+      "more",
+      "much"
+    ],
+    "answer": 2,
+    "explanation": "문맥상 '반드시 더 경제적인 것은 아니다'라는 비교급 의미이므로 more economical이 되어 more가 정답입니다. [문법 포인트: 비교급 - more + 형용사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1109",
+    "part": 5,
+    "type": "RC",
+    "question": "The renovation took _______ longer than the contractor had originally estimated.",
+    "options": [
+      "too",
+      "very",
+      "so",
+      "much"
+    ],
+    "answer": 3,
+    "explanation": "비교급 longer를 강조하는 부사가 필요하므로 much가 정답입니다. very/so/too는 비교급을 강조하지 못합니다. [문법 포인트: 비교급 강조 - much + 비교급]",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p5-1110",
+    "part": 5,
+    "type": "RC",
+    "question": "The new hires were responsible for greeting clients and _______ them to the appropriate department.",
+    "options": [
+      "direct",
+      "to direct",
+      "directs",
+      "directing"
+    ],
+    "answer": 3,
+    "explanation": "greeting과 병렬을 이루는 동명사 directing이 정답입니다. [문법 포인트: 병렬구조 - 동명사 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1111",
+    "part": 5,
+    "type": "RC",
+    "question": "Of the two proposals, the board found the second _______ persuasive.",
+    "options": [
+      "the most",
+      "more",
+      "most",
+      "much"
+    ],
+    "answer": 1,
+    "explanation": "Of the two로 둘 사이의 비교이므로 비교급 more가 정답입니다. 둘 중에서는 최상급이 아니라 비교급을 씁니다. [문법 포인트: 비교급 - of the two + 비교급]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1112",
+    "part": 5,
+    "type": "RC",
+    "question": "_______ does the company tolerate any form of workplace harassment.",
+    "options": [
+      "In no way",
+      "No way",
+      "Any way",
+      "By way"
+    ],
+    "answer": 0,
+    "explanation": "부정어구 In no way가 문두에 와서 does + 주어 + 동사원형 도치가 일어나므로 In no way가 정답입니다. [문법 포인트: 도치 - 부정어구 문두 도치]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1113",
+    "part": 5,
+    "type": "RC",
+    "question": "The updated guidelines are clearer, more concise, and _______ to interpret than before.",
+    "options": [
+      "easy",
+      "easiest",
+      "more easy",
+      "easier"
+    ],
+    "answer": 3,
+    "explanation": "clearer, more concise(비교급)와 병렬을 이루고 than이 있으므로 비교급 easier가 정답입니다. [문법 포인트: 병렬구조 - 비교급 병렬]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1114",
+    "part": 5,
+    "type": "RC",
+    "question": "The firm is dedicated to _______ exceptional service to every client.",
+    "options": [
+      "provided",
+      "provide",
+      "to provide",
+      "providing"
+    ],
+    "answer": 3,
+    "explanation": "be dedicated to에서 to는 전치사이므로 동명사 providing이 정답입니다. [문법 포인트: 준동사 - be dedicated to + 동명사]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1115",
+    "part": 5,
+    "type": "RC",
+    "question": "The more thoroughly the data is analyzed, _______ reliable the conclusions will be.",
+    "options": [
+      "the most",
+      "the more",
+      "much more",
+      "more"
+    ],
+    "answer": 1,
+    "explanation": "the 비교급, the 비교급 구문으로 the more가 정답이며 reliable을 수식합니다. [문법 포인트: the 비교급, the 비교급 - the more reliable]",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p5-1116",
+    "part": 5,
+    "type": "RC",
+    "question": "The supervisor objected to _______ the schedule without consulting the team.",
+    "options": [
+      "changing",
+      "to change",
+      "change",
+      "changed"
+    ],
+    "answer": 0,
+    "explanation": "object to에서 to는 전치사이므로 동명사 changing이 정답입니다. [문법 포인트: 준동사 - object to + 동명사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1117",
+    "part": 5,
+    "type": "RC",
+    "question": "The new device performs _______ as well as models costing twice the price.",
+    "options": [
+      "just",
+      "more",
+      "most",
+      "very"
+    ],
+    "answer": 0,
+    "explanation": "as ~ as 동등비교를 강조하는 just(꼭, 딱)가 정답입니다. just as well as(~만큼이나 잘)가 됩니다. [문법 포인트: 원급 비교 강조 - just as ~ as]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1118",
+    "part": 5,
+    "type": "RC",
+    "question": "Rarely has a product launch been _______ successful as this one.",
+    "options": [
+      "so",
+      "much",
+      "very",
+      "too"
+    ],
+    "answer": 0,
+    "explanation": "뒤에 as가 있어 동등비교 구문이 되므로 so가 정답입니다. so ~ as는 부정·제한 문맥(Rarely 등)에서 강조 비교로 쓰입니다. [문법 포인트: 원급 비교 - so ~ as]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1119",
+    "part": 5,
+    "type": "RC",
+    "question": "The committee will evaluate proposals based on cost, feasibility, and _______ impact.",
+    "options": [
+      "environments",
+      "environmental",
+      "environmentally",
+      "environment"
+    ],
+    "answer": 1,
+    "explanation": "명사 impact를 수식하는 형용사가 필요하며 cost, feasibility(명사)와 병렬되는 'environmental impact'를 만들므로 형용사 environmental이 정답입니다. [문법 포인트: 병렬구조 내 명사구 - 형용사+명사]",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p5-1120",
+    "part": 5,
+    "type": "RC",
+    "question": "The store offers a wider selection of products than _______ of its competitors.",
+    "options": [
+      "that",
+      "them",
+      "this",
+      "those"
+    ],
+    "answer": 0,
+    "explanation": "앞에 나온 단수명사 selection의 반복을 피하는 대명사로 that이 정답입니다. a wider selection ... than that of its competitors(경쟁사의 선택권보다 더 넓은 선택권)가 되며, selection이 단수이므로 those가 아니라 that을 씁니다. [문법 포인트: 비교 구문 - 단수명사 대체 that]",
+    "difficulty": "hard"
   }
 ];
