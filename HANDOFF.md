@@ -76,14 +76,14 @@ CodeRabbit 리뷰 전 회차 대응 완료 (반영 9건 + 사유 명시 스킵: 
 
 - PNG 29개 전부 손상이었음 → 런처 아이콘(전 밀도 사각/원형/adaptive foreground)과 Capacitor 스플래시 전체를 **파란 배경 + 흰색 "T" 임시 디자인으로 재생성 완료** (Pillow 사용). 미사용 손상 이미지 3장은 삭제.
 - 디버그 빌드는 PNG crunch를 건너뛰어 그동안 통과했고, 릴리스 빌드에서 처음 발각된 것.
-- **`android/gradle/wrapper/gradle-wrapper.jar`는 여전히 손상 상태로 커밋되어 있음.** 두 CI 워크플로 모두 "Gradle 8.14.3 직접 설치 → `gradle wrapper` 재생성" 단계로 우회 중. (개선 과제 G-5 참조)
+- ~~`android/gradle/wrapper/gradle-wrapper.jar` 손상~~ → **정상화 완료** (PR #11): gradle v8.14.3 공식 wrapper jar로 교체, `gradlew`에 실행권한(100755) 부여. 두 CI 워크플로의 "Gradle 직접 설치 → wrapper 재생성" 우회 단계는 제거됨. 이제 커밋된 wrapper로 바로 빌드.
 - `android/gradlew`는 실행 권한 없이(100644) 커밋됨 → CI에서 `chmod +x` 필수.
 
 ### 2-4. CI 워크플로 현황
 
 | 워크플로 | 트리거 | 비고 |
 |---|---|---|
-| `android-build.yml` | main push/PR + 수동 | 디버그 APK. gradle 직접설치+wrapper 재생성, gradlew chmod, google-services.json **패키지 불일치 시 경고 후 제외** 가드 |
+| `android-build.yml` | main push/PR + 수동 | 디버그 APK. 커밋된 정상 wrapper 사용(gradlew chmod), google-services.json **패키지 불일치 시 경고 후 제외** 가드 |
 | `android-release.yml` | 수동(workflow_dispatch) | 서명된 AAB+APK. 동일한 wrapper/chmod/google-services 가드. `VITE_GEMINI_PROXY_URL` Secret 있으면 키 미포함 빌드 |
 
 ### 2-5. GitHub Secrets 등록 현황
@@ -144,7 +144,7 @@ firebase deploy --only functions
 2. **아이콘 교체**: 현재 임시 "T" 디자인. 원본 로고 확보 시 전 밀도 재생성 (PR #3 커밋의 Pillow 스크립트 방식 참조)
 3. **코드 스플리팅**: 메인 청크 5.2MB (문제 은행 데이터 포함) — 경고만 있고 동작엔 문제 없음. dynamic import 검토
 4. **minify**: 릴리스 `minifyEnabled false` 상태 — proguard 규칙 정비 후 활성화 검토
-5. **wrapper jar 정상화**: 로컬에서 정상 `gradle-wrapper.jar`를 바이너리 그대로 커밋하면 CI의 재생성 단계 제거 가능
+5. ~~**wrapper jar 정상화**~~ → 완료(PR #11): 정상 wrapper jar 커밋 + CI 우회 단계 제거됨.
 
 ---
 
